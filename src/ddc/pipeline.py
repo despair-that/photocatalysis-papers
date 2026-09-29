@@ -10,16 +10,17 @@ run and the historical backfill (see :mod:`ddc.backfill`).
 from __future__ import annotations
 
 import datetime as dt
+import json
 import logging
 from dataclasses import dataclass, field
 from typing import Dict, List
 
-from .classify import classify
+from .classify import Classification, classify, classify_related
 from .collectors import enabled_collectors
 from .models import (Paper, RawRecord, dedupe_keys, make_paper_id,
                      normalize_author, normalize_doi)
-from .settings import Settings
-from .store import PaperStore
+from .settings import PROJECT_ROOT, Settings
+from .store import RELATED_PAPERS_DIR, RELATED_SEEN_FILE, PaperStore
 
 log = logging.getLogger(__name__)
 
@@ -30,6 +31,7 @@ class PipelineResult:
     duplicates: int = 0
     rejected: int = 0
     added: int = 0
+    related: int = 0
     per_source: Dict[str, int] = field(default_factory=dict)
 
     def merge(self, other: "PipelineResult") -> None:
@@ -37,14 +39,18 @@ class PipelineResult:
         self.duplicates += other.duplicates
         self.rejected += other.rejected
         self.added += other.added
+        self.related += other.related
         for k, v in other.per_source.items():
             self.per_source[k] = self.per_source.get(k, 0) + v
 
     def summary(self) -> str:
         per_source = ", ".join(f"{k}: {v}" for k, v in sorted(self.per_source.items()))
-        return (f"collected {self.collected} ({per_source}); "
+        text = (f"collected {self.collected} ({per_source}); "
                 f"{self.duplicates} duplicates, {self.rejected} off-topic, "
                 f"{self.added} added to index")
+        if self.related:
+            text += f", {self.related} related"
+        return text
 
 
 def _sane_date(published: str, today: str) -> str:
@@ -60,6 +66,86 @@ def _sane_date(published: str, today: str) -> str:
     if not published or not (1900 <= year <= int(today[:4]) + 1):
         return today
     return published
+
+
+_PIONEER_NAMES = None
+_RELATED_STORE = None
+_RELATED_SEEN = None
+
+
+def _pioneer_names() -> set:
+    """Lowercased author names from config/pioneers.json (loaded once)."""
+    global _PIONEER_NAMES
+    if _PIONEER_NAMES is None:
+        try:
+            data = json.loads((PROJECT_ROOT / "config" / "pioneers.json")
+                              .read_text(encoding="utf-8"))
+            _PIONEER_NAMES = {a.strip().lower()
+                              for a in data.get("authors", []) if a.strip()}
+        except (OSError, ValueError):
+            _PIONEER_NAMES = set()
+    return _PIONEER_NAMES
+
+
+def _related_target():
+    """Lazily opened related store plus its own seen-key state."""
+    global _RELATED_STORE, _RELATED_SEEN
+    if _RELATED_STORE is None:
+        _RELATED_STORE = PaperStore(papers_dir=RELATED_PAPERS_DIR,
+                                    seen_file=RELATED_SEEN_FILE)
+        _RELATED_SEEN = _RELATED_STORE.load_seen()
+    return _RELATED_STORE, _RELATED_SEEN
+
+
+def _build_paper(record: RawRecord, verdict: Classification,
+                 today: str) -> Paper:
+    published = _sane_date(record.published, today)
+    # Normalize here rather than per collector: this is the one path both
+    # the daily run and the backfill go through, so all 8 sources are
+    # covered. Author names never feed paper ids or dedupe keys (those
+    # derive from DOI/title), so this cannot disturb identity or the
+    # seen-set.
+    authors = []
+    for raw_author in record.authors[:30]:
+        cleaned = normalize_author(raw_author)
+        if cleaned and cleaned not in authors:
+            authors.append(cleaned)
+    return Paper(
+        id=make_paper_id(record.doi, record.title),
+        title=record.title,
+        authors=authors,
+        journal=record.journal,
+        issn=record.issn,
+        publisher=record.publisher,
+        published=published,
+        year=int(published[:4]),
+        doi=normalize_doi(record.doi),
+        url=record.url,
+        source=record.source,
+        categories=verdict.categories,
+        tags=sorted(set(verdict.tags + record.extra_tags)),
+        relevance_score=verdict.score,
+        affiliations=record.affiliations,
+        added=today,
+    )
+
+
+def _add_related(record: RawRecord, verdict: Classification,
+                 today: str) -> bool:
+    """Store a gate-rejected record in the related index; True when stored."""
+    related_verdict = classify_related(record, verdict, _pioneer_names())
+    if related_verdict is None:
+        return False
+    store, seen = _related_target()
+    keys = dedupe_keys(record.doi, record.title)
+    if not keys or any(k in seen for k in keys):
+        return False
+    paper = _build_paper(record, related_verdict, today)
+    store.add([paper])
+    for key in keys:
+        seen[key] = paper.id
+    store.save_seen(seen)
+    return True
 
 
 def collect_records(settings: Settings, since: dt.date) -> List[RawRecord]:
@@ -100,41 +186,18 @@ def process_records(
 
         verdict = classify(record)
         if not verdict.accepted or verdict.score < settings.min_relevance_score:
+            # Second tier: a gate-rejected record can still land in the
+            # related index (pioneer green light / core-material radar).
+            if not verdict.accepted and _add_related(record, verdict, today):
+                result.related += 1
             result.rejected += 1
             continue
 
-        published = _sane_date(record.published, today)
-        # Normalize here rather than per collector: this is the one path both
-        # the daily run and the backfill go through, so all 8 sources are
-        # covered. Author names never feed paper ids or dedupe keys (those
-        # derive from DOI/title), so this cannot disturb identity or the
-        # seen-set.
-        authors = []
-        for raw_author in record.authors[:30]:
-            cleaned = normalize_author(raw_author)
-            if cleaned and cleaned not in authors:
-                authors.append(cleaned)
-        paper = Paper(
-            id=make_paper_id(record.doi, record.title),
-            title=record.title,
-            authors=authors,
-            journal=record.journal,
-            publisher=record.publisher,
-            published=published,
-            year=int(published[:4]),
-            doi=normalize_doi(record.doi),
-            url=record.url,
-            source=record.source,
-            categories=verdict.categories,
-            tags=sorted(set(verdict.tags + record.extra_tags)),
-            relevance_score=verdict.score,
-            affiliations=record.affiliations,
-            added=today,
-            issn=record.issn,
-        )
+        paper = _build_paper(record, verdict, today)
         for key in keys:
             seen[key] = paper.id
         accepted.append(paper)
+
         result.per_source[record.source] = result.per_source.get(record.source, 0) + 1
 
     result.added = store.add(accepted)

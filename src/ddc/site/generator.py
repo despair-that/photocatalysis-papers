@@ -29,7 +29,7 @@ from typing import Dict, List
 
 from ..models import Paper
 from ..settings import ASSETS_SRC_DIR, SITE_DIR, Settings
-from ..store import PaperStore
+from ..store import RELATED_PAPERS_DIR, PaperStore
 from ..journals import resolve as resolve_journal
 from .html import esc, month_name, page, paper_card, _pretty_date
 
@@ -56,6 +56,8 @@ def generate_site(settings: Settings, out_dir: Path = SITE_DIR) -> None:
            _js_page("Journals", "journals", ctx, depth=0))
     _write(out_dir / "about.html", _about_page(papers, settings, ctx))
     _write(out_dir / "daily.html", _daily_page(papers, ctx))
+    _write(out_dir / "related.html",
+           _related_page(PaperStore(RELATED_PAPERS_DIR).load_all(), ctx))
     _write(out_dir / "categories" / "index.html", _categories_page(papers, ctx))
     _write_archive(papers, out_dir, ctx)
     log.info("Site generation complete")
@@ -210,10 +212,36 @@ def _daily_page(papers: List[Paper], ctx: dict) -> str:
 <h1>Daily additions</h1>
 <p>Each section is one pipeline harvest — the day papers <em>entered this
 index</em>, which can differ from their publication date. Showing the
-{len(sections)} most recent harvest days.</p>
+{len(sections)} most recent harvest days. Non-photocatalysis papers worth
+learning from live in the <a href="related.html">Related radar</a>.</p>
 {''.join(sections) or '<p class="empty">Nothing indexed yet.</p>'}"""
     return page(title=f"Daily additions · {ctx['site_title']}", content=content,
                 depth=0, active="daily.html", **ctx)
+
+
+def _related_page(related: List[Paper], ctx: dict) -> str:
+    """Second tier: non-photocatalysis papers still worth learning from.
+
+    Kept physically separate from the main index (own store, own page) so
+    the Latest page stays pure photocatalysis.
+    """
+    related.sort(key=lambda p: (p.added or "", p.relevance_score), reverse=True)
+    shown = related[:200]
+    cards = "\n".join(paper_card(p, jmeta=resolve_journal(p.journal, p.issn))
+                      for p in shown)
+    intro = (f"<h1>Related radar</h1>\n"
+             f"<p>Non-photocatalysis papers that still matter here — written "
+             f"by a pioneer author, or hitting the core-material vocabulary "
+             f"(CdS, LDH, NiCo, dual/single-atom, lactic acid, sacrificial "
+             f"systems, HER, electrochemical characterization) — kept separate "
+             f"from the main index. Showing the {len(shown):,} most recently "
+             f"indexed of {len(related):,}; each card carries the tags that "
+             f"qualified it.</p>\n")
+    empty = ('<p class="empty">Nothing here yet — the related index fills as '
+             'new papers arrive.</p>')
+    return page(title=f"Related · {ctx['site_title']}",
+                content=f"{intro}{cards or empty}",
+                depth=0, active="related.html", **ctx)
 
 
 def _js_page(title: str, page_kind: str, ctx: dict, depth: int) -> str:

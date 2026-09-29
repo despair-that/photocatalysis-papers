@@ -16,6 +16,7 @@ from ..models import Paper
 NAV_ITEMS = (
     ("index.html", "Latest"),
     ("daily.html", "Daily"),
+    ("related.html", "Related"),
     ("search.html", "Search"),
     ("archive/index.html", "Archive"),
     ("authors.html", "Authors"),

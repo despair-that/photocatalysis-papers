@@ -260,3 +260,41 @@ CHEM_VENUE_HINTS = (
     "photo", "catal", "sol", "energy", "environ", "chem", "mater",
     "surf", "nano", "carbon", "water",
 )
+
+# ---------------------------------------------------------------------------
+# Related radar — the user's core materials and methods OUTSIDE photocatalysis.
+# A paper the photocatalysis gate rejected still enters the separate related
+# index when one of these hits (and no off-domain negative fired), or when a
+# pioneer from config/pioneers.json authored it with any supporting evidence.
+# ---------------------------------------------------------------------------
+RELATED_TERMS: Dict[str, Tuple[int, str, str]] = {
+    "CdS": (4, "CdS", "Semiconductor Materials"),
+    "cadmium sulfide": (4, "CdS", "Semiconductor Materials"),
+    "layered double hydroxide": (4, "LDH", "Layered Double Hydroxides"),
+    "nico": (3, "NiCo", "Layered Double Hydroxides"),
+    "dual-atom": (4, "Dual-Atom Catalysts", "Co-catalysts & Surface"),
+    "single-atom": (4, "Single-Atom Catalysts", "Co-catalysts & Surface"),
+    "hydrogen evolution": (4, "Hydrogen Evolution", "Hydrogen Evolution"),
+    "h2 evolution": (4, "Hydrogen Evolution", "Hydrogen Evolution"),
+    "overall water splitting": (4, "Water Splitting", "Water Splitting"),
+    "lactic acid": (3, "Lactic Acid", "Sacrificial Reagents"),
+    "lactate": (2, "Lactic Acid", "Sacrificial Reagents"),
+    "triethanolamine": (3, "TEOA", "Sacrificial Reagents"),
+    "teoa": (3, "TEOA", "Sacrificial Reagents"),
+    "sacrificial agent": (3, "Sacrificial Reagents", "Sacrificial Reagents"),
+    "sacrificial donor": (3, "Sacrificial Reagents", "Sacrificial Reagents"),
+    "sacrificial reagent": (3, "Sacrificial Reagents", "Sacrificial Reagents"),
+    "sulfur vacancy": (3, "Sulfur Vacancies", "Co-catalysts & Surface"),
+    "oxygen vacanc": (3, "Oxygen Vacancies", "Co-catalysts & Surface"),
+    "tafel": (3, "Tafel", "Electrochemical Characterization"),
+    "mott-schottky": (3, "Mott-Schottky", "Electrochemical Characterization"),
+    "electrochemical impedance": (3, "EIS", "Electrochemical Characterization"),
+    "transient photocurrent": (3, "Transient Photocurrent",
+                               "Electrochemical Characterization"),
+    "mos2": (3, "MoS2", "Co-catalysts & Surface"),
+    "ni2p": (3, "Ni2P", "Co-catalysts & Surface"),
+    "cocatalyst": (3, "Co-catalysts", "Co-catalysts & Surface"),
+    "co-catalyst": (3, "Co-catalysts", "Co-catalysts & Surface"),
+    "g-c3n4": (3, "g-C3N4", "g-C3N4 & Carbon Materials"),
+    "carbon nitride": (2, "Carbon Nitride", "g-C3N4 & Carbon Materials"),
+}

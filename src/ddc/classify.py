@@ -13,9 +13,10 @@ from __future__ import annotations
 
 import re
 from dataclasses import dataclass, field
-from typing import Dict, List, Tuple
+from typing import Dict, List, Optional, Tuple
 
-from .keywords import CHEM_VENUE_HINTS, NEGATIVE_TERMS, PRIMARY_TERMS, SUPPORT_TERMS
+from .keywords import (CHEM_VENUE_HINTS, NEGATIVE_TERMS, PRIMARY_TERMS,
+                       RELATED_TERMS, SUPPORT_TERMS)
 from .models import RawRecord
 
 # Scoring shape: base + 4*primary + 3*support, capped at 100.  The caps keep
@@ -51,6 +52,7 @@ def _compile(vocab: Dict[str, object]) -> List[Tuple[re.Pattern, str]]:
 _PRIMARY_PATTERNS = _compile(PRIMARY_TERMS)
 _SUPPORT_PATTERNS = _compile(SUPPORT_TERMS)
 _NEG_PATTERNS = _compile(NEGATIVE_TERMS)
+_RELATED_PATTERNS = _compile(RELATED_TERMS)
 
 
 @dataclass
@@ -87,6 +89,18 @@ def _match_side(
     return sum(tag_points.values()), tag_points, category_points
 
 
+def _penalty(title: str, text: str) -> int:
+    """Total off-domain (PV/LED/therapy) penalty; title hits count double."""
+    penalty = 0
+    for pattern, phrase in _NEG_PATTERNS:
+        if pattern.search(text):
+            p = NEGATIVE_TERMS[phrase]
+            if pattern.search(title):
+                p *= 2  # off-domain signal in the title is strong evidence
+            penalty += p
+    return penalty
+
+
 def classify(record: RawRecord) -> Classification:
     """Score a raw record and derive its categories and tags."""
     title = record.title or ""
@@ -105,13 +119,7 @@ def classify(record: RawRecord) -> Classification:
     journal_lower = (record.journal or "").lower()
     venue_is_relevant = any(h in journal_lower for h in CHEM_VENUE_HINTS)
 
-    penalty = 0
-    for pattern, phrase in _NEG_PATTERNS:
-        if pattern.search(text):
-            p = NEGATIVE_TERMS[phrase]
-            if pattern.search(title):
-                p *= 2  # off-domain signal in the title is strong evidence
-            penalty += p
+    penalty = _penalty(title, text)
 
     score = (_BASE + 4 * min(prim_pts, _PRIMARY_CAP)
              + 3 * min(sup_pts, _SUPPORT_CAP))
@@ -141,3 +149,61 @@ def classify(record: RawRecord) -> Classification:
 
 def _ranked(points: Dict[str, int]) -> List[str]:
     return [k for k, _ in sorted(points.items(), key=lambda kv: (-kv[1], kv[0]))]
+
+
+def classify_related(
+    record: RawRecord,
+    verdict: Classification,
+    pioneer_names: tuple = (),
+) -> Optional[Classification]:
+    """Second tier for gate-rejected records: pioneer green light + material
+    radar.
+
+    A paper the photocatalysis gate rejected still enters the separate
+    related index when a listed pioneer authored it (with any supporting
+    evidence) or when the user's core-material vocabulary (RELATED_TERMS)
+    hits — provided no off-domain signal (photovoltaics, LEDs, therapy)
+    fired, which rejects it outright.  Returns ``None`` when the record
+    belongs in neither tier.
+    """
+    if verdict.accepted or not record.title.strip():
+        return None
+    title = record.title
+    text = f"{title}\n{record.abstract or ''}"
+    if _penalty(title, text) > 0:
+        return None
+
+    matched = [phrase for pattern, phrase in _RELATED_PATTERNS
+               if pattern.search(text)]
+    pioneer_hit = bool(pioneer_names) and any(
+        author.strip().lower() in pioneer_names for author in record.authors)
+    sup_pts, sup_tags, _ = _match_side(
+        _SUPPORT_PATTERNS, SUPPORT_TERMS, title, text)
+    if not matched and not (pioneer_hit and sup_pts > 0):
+        return None
+
+    rel_points: Dict[str, int] = {}
+    rel_categories: List[str] = []
+    for phrase in matched:
+        weight, tag, category = RELATED_TERMS[phrase]
+        if weight > rel_points.get(tag, 0):
+            rel_points[tag] = weight
+        if category not in rel_categories:
+            rel_categories.append(category)
+    material_score = _BASE + sum(rel_points.values())
+    pioneer_score = (_BASE + 3 * min(sup_pts, _SUPPORT_CAP)) if pioneer_hit else 0
+    score = max(material_score, pioneer_score)
+
+    tags: List[str] = list(rel_points) + list(sup_tags)
+    if pioneer_hit:
+        tags.append("Pioneer")
+    tags.append("Related")
+    seen_tags: set = set()
+    ordered = [t for t in tags if not (t in seen_tags or seen_tags.add(t))]
+
+    return Classification(
+        accepted=True,
+        score=max(0, min(100, score)),
+        categories=["Related"],
+        tags=ordered[:12],
+    )

@@ -15,15 +15,13 @@ from pathlib import Path
 from typing import Dict, Iterable, List
 
 from .models import Paper, dedupe_keys
-from .settings import PAPERS_DIR, STATE_DIR
+from .settings import DATA_DIR, PAPERS_DIR, STATE_DIR
 
 log = logging.getLogger(__name__)
 
 SEEN_FILE = STATE_DIR / "seen.json"
-
-
-def _month_file(year: int, month: int) -> Path:
-    return PAPERS_DIR / f"{year:04d}" / f"{month:02d}.json"
+RELATED_PAPERS_DIR = DATA_DIR / "related"
+RELATED_SEEN_FILE = STATE_DIR / "related_seen.json"
 
 
 def _write_json(path: Path, payload: object) -> None:
@@ -35,14 +33,26 @@ def _write_json(path: Path, payload: object) -> None:
 
 
 class PaperStore:
-    """Reads and writes the monthly paper shards and the seen-key state."""
+    """Reads and writes the monthly paper shards and the seen-key state.
+
+    Instantiate with custom directories for secondary stores — the related
+    index uses ``data/related`` with its own seen-file.
+    """
+
+    def __init__(self, papers_dir: Path = PAPERS_DIR,
+                 seen_file: Path = SEEN_FILE):
+        self.papers_dir = papers_dir
+        self.seen_file = seen_file
+
+    def _month_file(self, year: int, month: int) -> Path:
+        return self.papers_dir / f"{year:04d}" / f"{month:02d}.json"
 
     def load_all(self) -> List[Paper]:
         """Every stored paper, newest first."""
         papers: List[Paper] = []
-        if not PAPERS_DIR.exists():
+        if not self.papers_dir.exists():
             return papers
-        for shard in sorted(PAPERS_DIR.glob("*/*.json")):
+        for shard in sorted(self.papers_dir.glob("*/*.json")):
             try:
                 raw = json.loads(shard.read_text(encoding="utf-8"))
             except (OSError, ValueError) as exc:
@@ -57,7 +67,7 @@ class PaperStore:
         by_month: Dict[Path, List[Paper]] = defaultdict(list)
         for paper in new_papers:
             year, month = _parse_year_month(paper.published, paper.year)
-            by_month[_month_file(year, month)].append(paper)
+            by_month[self._month_file(year, month)].append(paper)
 
         added = 0
         for shard, papers in by_month.items():
@@ -81,16 +91,16 @@ class PaperStore:
     # -- seen-key state ------------------------------------------------------
 
     def load_seen(self) -> Dict[str, str]:
-        if not SEEN_FILE.exists():
+        if not self.seen_file.exists():
             return {}
         try:
-            return json.loads(SEEN_FILE.read_text(encoding="utf-8"))
+            return json.loads(self.seen_file.read_text(encoding="utf-8"))
         except (OSError, ValueError) as exc:
             log.error("seen.json unreadable (%s); rebuilding from shards", exc)
             return self.rebuild_seen()
 
     def save_seen(self, seen: Dict[str, str]) -> None:
-        _write_json(SEEN_FILE, seen)
+        _write_json(self.seen_file, seen)
 
     def rebuild_seen(self) -> Dict[str, str]:
         """Reconstruct the seen-set from stored papers (recovery path)."""
