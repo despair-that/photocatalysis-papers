@@ -6,7 +6,6 @@ import pathlib
 import sys
 import tempfile
 import unittest
-from unittest import mock
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1] / "src"))
 
@@ -26,17 +25,11 @@ class TestPaperStore(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
         root = pathlib.Path(self.tmp.name)
-        self.patches = [
-            mock.patch.object(store_mod, "PAPERS_DIR", root / "papers"),
-            mock.patch.object(store_mod, "SEEN_FILE", root / "state" / "seen.json"),
-        ]
-        for p in self.patches:
-            p.start()
-        self.store = store_mod.PaperStore()
+        self.store = store_mod.PaperStore(
+            papers_dir=root / "papers",
+            seen_file=root / "state" / "seen.json")
 
     def tearDown(self):
-        for p in self.patches:
-            p.stop()
         self.tmp.cleanup()
 
     def test_add_and_load_roundtrip(self):
