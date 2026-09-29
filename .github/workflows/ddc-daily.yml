@@ -44,8 +44,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "GuruprakashMP"
-          git config user.email "guruprakash29011999@gmail.com"
+          git config user.name "despair-that"
+          git config user.email "79048876+despair-that@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
             echo "No new papers today."
