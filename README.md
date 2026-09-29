@@ -70,3 +70,14 @@ Nature, Elsevier, MDPI, ...).
 See [ARCHITECTURE.md](ARCHITECTURE.md) for design decisions,
 [PROJECT_STATUS.md](PROJECT_STATUS.md) for current state, and
 [CHANGELOG.md](CHANGELOG.md) for history.
+
+## Acknowledgements
+
+This deployment is based on the open-source
+[PhotocatalysisPapers](https://github.com/GuruprakashMP/photocatalysis-papers)
+project and its *ddc* architecture, created by
+[Guruprakash Muthu Pargunaperumal](https://github.com/GuruprakashMP)
+(original live site: <https://guruprakashmp.github.io/photocatalysis-papers/>).
+All credit for the pipeline design, relevance scoring and site framework
+belongs to the original author. This fork is customized (branding, contact
+details, keyword and pioneer tuning) for an independent research group.

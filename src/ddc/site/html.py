@@ -70,6 +70,10 @@ def page(
   <div class="wrap">
     <p>{esc(site_title)} indexes bibliographic metadata only and links to the
     original publisher for every paper. No article content is hosted here.</p>
+    <p>Built on the open-source <a
+    href="https://github.com/GuruprakashMP/photocatalysis-papers">PhotocatalysisPapers</a>
+    architecture by <a href="https://github.com/GuruprakashMP">Guruprakash Muthu
+    Pargunaperumal</a>.</p>
     <p>&copy; {year} · Generated automatically · Updated daily</p>
   </div>
 </footer>

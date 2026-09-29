@@ -215,6 +215,15 @@ alike.</p>
 <p>Every day an automated pipeline queries open scholarly metadata APIs,
 removes duplicates, classifies each paper with a chemistry-and-ML relevance
 model, assigns categories and a relevance score, and regenerates this site.</p>
+<h2>Acknowledgements</h2>
+<p>This site is a personal deployment of the open-source <em>ddc</em> architecture
+created by <a href="https://github.com/GuruprakashMP">Guruprakash Muthu
+Pargunaperumal</a> in the
+<a href="https://github.com/GuruprakashMP/photocatalysis-papers">PhotocatalysisPapers</a>
+project (<a href="https://guruprakashmp.github.io/photocatalysis-papers/">original
+live site</a>). All credit for the pipeline design, relevance scoring and site
+framework belongs to the original author; this instance is curated and tuned
+independently.</p>
 <h2>Sources</h2>
 <ul>{sources}</ul>
 <p>Papers from publishers such as ACS, RSC, Wiley, Springer Nature, Elsevier,
