@@ -74,6 +74,9 @@ PRIMARY_TERMS: Dict[str, Tuple[int, str, str]] = {
     "organo-photocataly": (4, "Organophotocatalysis", "Photoredox & Organic Synthesis"),
     "eosin y cataly": (4, "Organic Photocatalysts", "Photoredox & Organic Synthesis"),
     "eosin-y cataly": (4, "Organic Photocatalysts", "Photoredox & Organic Synthesis"),
+    # sacrificial photoreforming (biomass / lactic acid systems)
+    "photoreforming": (4, "Photoreforming", "Solar Fuels"),
+    "photo-reforming": (4, "Photoreforming", "Solar Fuels"),
 }
 
 # ---------------------------------------------------------------------------
@@ -122,8 +125,9 @@ SUPPORT_TERMS: Dict[str, Tuple[int, str, str]] = {
     "carbon dots": (3, "Carbon Dots", "g-C3N4 & Carbon Materials"),
     "zno": (2, "ZnO", "Semiconductor Materials"),
     "zinc oxide": (2, "ZnO", "Semiconductor Materials"),
-    "cds": (2, "CdS", "Semiconductor Materials"),
-    "cadmium sulfide": (2, "CdS", "Semiconductor Materials"),
+    # Case-sensitive on purpose: "CdS" must not match "CDs" (carbon dots).
+    "CdS": (4, "CdS", "Semiconductor Materials"),
+    "cadmium sulfide": (4, "CdS", "Semiconductor Materials"),
     "bivo4": (3, "BiVO4", "Semiconductor Materials"),
     "bismuth vanadate": (3, "BiVO4", "Semiconductor Materials"),
     "wo3": (2, "WO3", "Semiconductor Materials"),
@@ -189,6 +193,34 @@ SUPPORT_TERMS: Dict[str, Tuple[int, str, str]] = {
     "flow chemistry": (3, "Flow Chemistry", "Reactor Engineering & Scale-up"),
     "immobilized": (2, "Immobilization", "Reactor Engineering & Scale-up"),
     "recyclability": (2, "Recyclability", "Reactor Engineering & Scale-up"),
+    # user research focus: LDH/NiCo, dual-atom, sulfur vacancies, sacrificial
+    # photoreforming, electrochemical characterization, 2D morphology
+    "layered double hydroxide": (4, "LDH", "Layered Double Hydroxides"),
+    "nico": (3, "NiCo", "Layered Double Hydroxides"),
+    "overall water splitting": (4, "Water Splitting", "Water Splitting"),
+    "dual-atom": (3, "Dual-Atom Catalysts", "Co-catalysts & Surface"),
+    "sulfur vacancy": (3, "Sulfur Vacancies", "Co-catalysts & Surface"),
+    "s-vacancy": (3, "Sulfur Vacancies", "Co-catalysts & Surface"),
+    "mos2": (3, "MoS2", "Co-catalysts & Surface"),
+    "ni2p": (3, "Ni2P", "Co-catalysts & Surface"),
+    "zns": (2, "ZnS", "Semiconductor Materials"),
+    "zinc sulfide": (2, "ZnS", "Semiconductor Materials"),
+    "lactic acid": (3, "Lactic Acid", "Sacrificial Reagents"),
+    "lactate": (2, "Lactic Acid", "Sacrificial Reagents"),
+    "triethanolamine": (3, "TEOA", "Sacrificial Reagents"),
+    "teoa": (3, "TEOA", "Sacrificial Reagents"),
+    "sacrificial agent": (3, "Sacrificial Reagents", "Sacrificial Reagents"),
+    "sacrificial donor": (3, "Sacrificial Reagents", "Sacrificial Reagents"),
+    "sacrificial reagent": (3, "Sacrificial Reagents", "Sacrificial Reagents"),
+    "na2s": (2, "Na2S/Na2SO3", "Sacrificial Reagents"),
+    "tafel": (2, "Tafel", "Electrochemical Characterization"),
+    "electrochemical impedance": (2, "EIS", "Electrochemical Characterization"),
+    "mott-schottky": (3, "Mott-Schottky", "Electrochemical Characterization"),
+    "transient photocurrent": (3, "Transient Photocurrent", "Electrochemical Characterization"),
+    "apparent quantum yield": (3, "Quantum Efficiency", "Mechanism & Charge Dynamics"),
+    "aqy": (2, "Quantum Efficiency", "Mechanism & Charge Dynamics"),
+    "ultrathin": (2, "Ultrathin", "2D Materials"),
+    "nanosheet": (2, "Nanosheets", "2D Materials"),
     # named molecular photocatalysts (photoredox synthesis)
     "eosin": (2, "Organic Photocatalysts", "Photoredox & Organic Synthesis"),
     "rose bengal": (3, "Organic Photocatalysts", "Photoredox & Organic Synthesis"),

@@ -36,11 +36,14 @@ def _compile(vocab: Dict[str, object]) -> List[Tuple[re.Pattern, str]]:
     """Compile phrases to word-boundary patterns allowing suffixes.
 
     "photocatal" matches "photocatalysis" / "photocatalytic" /
-    "photocatalyst(s)".
+    "photocatalyst(s)".  Phrases containing uppercase letters (e.g. "CdS")
+    compile case-sensitively so acronyms with distinct casing stay distinct —
+    "CdS" must not match "CDs" (carbon dots).
     """
     compiled = []
     for phrase in vocab:
-        pattern = re.compile(r"\b" + re.escape(phrase) + r"\w*", re.IGNORECASE)
+        flags = 0 if any(c.isupper() for c in phrase) else re.IGNORECASE
+        pattern = re.compile(r"\b" + re.escape(phrase) + r"\w*", flags)
         compiled.append((pattern, phrase))
     return compiled
 
