@@ -15,6 +15,14 @@
   var PAGE_SIZE = 100;
   var INITIAL_YEARS = 3; // shards loaded before first render
 
+  // SCImago journal metadata (quartile/SJR) — an optional committed snapshot;
+  // cards render without badges until/if it loads.
+  var JMETA = null;
+  var jmetaReady = fetch(ROOT + "assets/data/journal_meta.json")
+    .then(function (r) { return r.ok ? r.json() : {}; })
+    .then(function (j) { JMETA = j || {}; })
+    .catch(function () { JMETA = {}; });
+
   // ---------------------------------------------------------------- utils
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
@@ -55,6 +63,21 @@
   function byDateDesc(a, b) {
     return (b.published || "").localeCompare(a.published || "");
   }
+  function normTitle(s) {
+    var n = String(s || "").toLowerCase().replace(/[^a-z0-9 ]+/g, " ");
+    n = n.replace(/\s+/g, " ").trim();
+    return n.replace(/^the /, "");
+  }
+  function resolveJournal(p) {
+    if (!JMETA) return null;
+    var codes = String(p.issn || "").split(/[;, ]+/);
+    for (var i = 0; i < codes.length; i++) {
+      var code = codes[i].replace(/-/g, "").toLowerCase();
+      if (code && JMETA.by_issn && JMETA.by_issn[code]) return JMETA.by_issn[code];
+    }
+    var key = normTitle(p.journal);
+    return (key && JMETA.by_title && JMETA.by_title[key]) || null;
+  }
 
   function renderCard(p) {
     var authors = p.authors.slice(0, 12).map(function (a) {
@@ -77,17 +100,24 @@
     var journal = p.journal
       ? '<a class="meta-journal" href="' + ROOT + 'journals.html?j=' +
         encodeURIComponent(p.journal) + '">' + esc(p.journal) + "</a> · " : "";
+    var jm = resolveJournal(p);
+    var q = (jm && jm.q) || "";
+    var qBadge = (q === "Q1" || q === "Q2" || q === "Q3" || q === "Q4")
+      ? '<span class="quartile q' + q.charAt(1) + '">' + esc(q) + "</span>" : "";
+    var sjrTxt = (jm && jm.s) ? '<span class="meta-sjr">SJR ' + esc(jm.s) + "</span>" : "";
+    var meta2 = [];
+    if (p.added) meta2.push('<span class="meta-added" title="Date this paper entered the index">indexed ' +
+      esc(prettyDate(p.added)) + "</span>");
+    if (p.source) meta2.push('<span class="meta-source">' + esc(p.source) + "</span>");
+    meta2.push('<span class="score ' + scoreClass(p.score) + '" title="Relevance score">' +
+      p.score + "</span>");
     return '<article class="card">' +
       '<h3 class="card-title"><a href="' + esc(p.url || ("https://doi.org/" + p.doi)) +
       '" target="_blank" rel="noopener">' + esc(p.title) + "</a></h3>" +
       '<p class="card-authors">' + authors + "</p>" +
       '<p class="card-meta">' + journal +
-      "<time>" + esc(prettyDate(p.published)) + "</time> · " +
-      '<span class="meta-source">' + esc(p.source) + "</span>" +
-      (p.added ? ' · <span class="meta-added" title="Date this paper entered the index">indexed ' +
-        esc(prettyDate(p.added)) + "</span>" : "") +
-      '<span class="score ' + scoreClass(p.score) + '" title="Relevance score">' +
-      p.score + "</span></p>" +
+      "<time>" + esc(prettyDate(p.published)) + "</time>" + qBadge + sjrTxt + "</p>" +
+      '<p class="card-meta2">' + meta2.join(" · ") + "</p>" +
       '<p class="card-chips">' + chips + "</p>" +
       '<p class="card-actions">' + orig + "</p></article>";
   }
@@ -372,7 +402,7 @@
   else if (PAGE === "journals") handler = directoryPage("journals");
   if (!handler) return;
 
-  loadProgressive(handler).catch(function (err) {
+  jmetaReady.then(function () { return loadProgressive(handler); }).catch(function (err) {
     app.innerHTML = '<p class="empty">Could not load the paper index (' +
       esc(err.message) + "). If you opened this page from the local filesystem, " +
       "serve it over HTTP instead (e.g. <code>python -m http.server</code>).</p>";

@@ -72,12 +72,14 @@ class CrossrefCollector(Collector):
             if name:
                 authors.append(name)
         containers = item.get("container-title") or []
+        issns = item.get("ISSN") or []
         doi = item.get("DOI") or ""
         return RawRecord(
             title=title,
             abstract=clean_text(item.get("abstract")),
             authors=authors,
             journal=clean_text(containers[0]) if containers else "",
+            issn=clean_text(issns[0]) if issns else "",
             publisher=clean_text(item.get("publisher")),
             doi=doi,
             url=item.get("URL") or (f"https://doi.org/{doi}" if doi else ""),

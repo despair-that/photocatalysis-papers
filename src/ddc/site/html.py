@@ -91,7 +91,8 @@ def score_class(score: int) -> str:
     return "score-low"
 
 
-def paper_card(paper: Paper, search_href: str = "search.html") -> str:
+def paper_card(paper: Paper, search_href: str = "search.html",
+               jmeta: Optional[dict] = None) -> str:
     """Server-side card markup — kept in sync with renderCard() in app.js."""
     authors = ", ".join(paper.authors[:12])
     if len(paper.authors) > 12:
@@ -110,17 +111,25 @@ def paper_card(paper: Paper, search_href: str = "search.html") -> str:
         f'<a class="btn btn-primary" href="{esc(link)}" target="_blank" '
         f'rel="noopener">Original paper ↗</a>' if link != "#" else "")
     journal = f'<span class="meta-journal">{esc(paper.journal)}</span> · ' if paper.journal else ""
-    added = (f' · <span class="meta-added" title="Date this paper entered the '
-             f'index">indexed {esc(_pretty_date(paper.added))}</span>'
-             if paper.added else "")
+    quartile = (jmeta or {}).get("q") or ""
+    q_badge = (f'<span class="quartile q{quartile[1]}">{esc(quartile)}</span>'
+               if quartile in ("Q1", "Q2", "Q3", "Q4") else "")
+    sjr = (jmeta or {}).get("s")
+    sjr_txt = f'<span class="meta-sjr">SJR {esc(sjr)}</span>' if sjr else ""
+    meta2: List[str] = []
+    if paper.added:
+        meta2.append(f'<span class="meta-added" title="Date this paper entered '
+                     f'the index">indexed {esc(_pretty_date(paper.added))}</span>')
+    if paper.source:
+        meta2.append(f'<span class="meta-source">{esc(paper.source)}</span>')
+    meta2.append(f'<span class="score {score_class(paper.relevance_score)}" '
+                 f'title="Relevance score">{paper.relevance_score}</span>')
     return f"""<article class="card">
 <h3 class="card-title"><a href="{esc(paper.url or _doi_url(paper))}"
  target="_blank" rel="noopener">{esc(paper.title)}</a></h3>
 <p class="card-authors">{esc(authors)}</p>
-<p class="card-meta">{journal}<time datetime="{esc(paper.published)}">{esc(_pretty_date(paper.published))}</time>
- · <span class="meta-source">{esc(paper.source)}</span>{added}
- <span class="score {score_class(paper.relevance_score)}"
- title="Relevance score">{paper.relevance_score}</span></p>
+<p class="card-meta">{journal}<time datetime="{esc(paper.published)}">{esc(_pretty_date(paper.published))}</time>{q_badge}{sjr_txt}</p>
+<p class="card-meta2">{' · '.join(meta2)}</p>
 <p class="card-chips">{''.join(chips)}</p>
 <p class="card-actions">{original}</p>
 </article>"""

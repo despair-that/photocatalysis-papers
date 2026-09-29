@@ -110,6 +110,16 @@ code { background: var(--bg-soft); padding: 1px 5px; border-radius: 4px; font-si
 .meta-journal { font-style: italic; }
 .meta-source { text-transform: uppercase; font-size: 0.75rem; letter-spacing: 0.04em; }
 .meta-added { color: var(--text-soft); font-size: 0.8rem; }
+.card-meta2 { margin: 0 0 6px; color: var(--text-soft); font-size: 0.85rem; }
+.quartile {
+  display: inline-block; border-radius: 999px; padding: 1px 8px; margin-left: 6px;
+  font-size: 0.72rem; font-weight: 700; color: #fff; vertical-align: 1px;
+}
+.quartile.q1 { background: var(--green); }
+.quartile.q2 { background: #2563eb; }
+.quartile.q3 { background: #d97706; }
+.quartile.q4 { background: #6b7280; }
+.meta-sjr { color: var(--text-soft); font-size: 0.8rem; margin-left: 6px; }
 .harvest-note { color: var(--text-soft); font-size: 0.92rem; margin: -4px 0 18px; }
 .harvest-day { margin: 28px 0; }
 .harvest-day h2 {

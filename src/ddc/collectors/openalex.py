@@ -87,6 +87,10 @@ def work_to_record(work: dict, source: str) -> RawRecord:
     source_info = location.get("source") or {}
     doi = (work.get("doi") or "").replace("https://doi.org/", "")
     journal = clean_text(source_info.get("display_name"))
+    issn = clean_text(source_info.get("issn_l") or "")
+    if not issn:
+        issn_list = source_info.get("issn") or []
+        issn = clean_text(issn_list[0]) if issn_list else ""
     if _PEER_REVIEW_DOI.search(doi):
         return None  # a peer-review report, not a paper
     # Corrupted OpenAlex merges: OSTI repository metadata fused with a
@@ -101,6 +105,7 @@ def work_to_record(work: dict, source: str) -> RawRecord:
         abstract=_reconstruct_abstract(work.get("abstract_inverted_index")),
         authors=authors,
         journal=journal,
+        issn=issn,
         publisher=clean_text(source_info.get("host_organization_name")),
         doi=doi,
         url=url,

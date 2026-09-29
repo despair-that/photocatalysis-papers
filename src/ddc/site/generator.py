@@ -30,6 +30,7 @@ from typing import Dict, List
 from ..models import Paper
 from ..settings import ASSETS_SRC_DIR, SITE_DIR, Settings
 from ..store import PaperStore
+from ..journals import resolve as resolve_journal
 from .html import esc, month_name, page, paper_card, _pretty_date
 
 log = logging.getLogger(__name__)
@@ -135,6 +136,7 @@ def _write_data_shards(papers: List[Paper], out_dir: Path) -> None:
             "categories": p.categories,
             "tags": p.tags,
             "score": p.relevance_score,
+            "issn": p.issn,
             "affiliations": p.affiliations,
         })
     years = []
@@ -159,7 +161,8 @@ def _write_data_shards(papers: List[Paper], out_dir: Path) -> None:
 
 def _homepage(papers: List[Paper], settings: Settings, ctx: dict) -> str:
     latest = papers[: settings.homepage_paper_count]
-    cards = "\n".join(paper_card(p) for p in latest)
+    cards = "\n".join(paper_card(p, jmeta=resolve_journal(p.journal, p.issn))
+                      for p in latest)
     added_days = [p.added for p in papers if p.added]
     if added_days:
         last_day = max(added_days)
@@ -196,7 +199,8 @@ def _daily_page(papers: List[Paper], ctx: dict) -> str:
         more_note = (
             f'<p class="day-more">…and {more:,} more from this harvest — use '
             f'<a href="search.html">search</a> to find them.</p>') if more else ""
-        cards = "\n".join(paper_card(p) for p in shown)
+        cards = "\n".join(paper_card(p, jmeta=resolve_journal(p.journal, p.issn))
+                          for p in shown)
         sections.append(
             f'<section class="harvest-day">\n'
             f'<h2>{esc(_pretty_date(day))}'
@@ -328,7 +332,8 @@ def _write_archive(papers: List[Paper], out_dir: Path, ctx: dict) -> None:
                     f'<section id="d{esc(day_label)}">'
                     f"<h2>{esc(day_label)} {esc(month_name(m))} {year} "
                     f'<span class="count">{len(day_papers)}</span></h2>'
-                    + "\n".join(paper_card(p, search_href="../../../search.html")
+                    + "\n".join(paper_card(p, search_href="../../../search.html",
+                                           jmeta=resolve_journal(p.journal, p.issn))
                                 for p in day_papers)
                     + "</section>")
             content = f"""

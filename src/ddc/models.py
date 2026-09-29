@@ -99,6 +99,7 @@ class RawRecord:
     published: str = ""  # ISO date YYYY-MM-DD (may be YYYY-MM or YYYY)
     affiliations: List[str] = field(default_factory=list)
     extra_tags: List[str] = field(default_factory=list)
+    issn: str = ""  # journal ISSN(s), ";"-joined when a source gives several
 
 
 @dataclass
@@ -120,6 +121,7 @@ class Paper:
     relevance_score: int
     affiliations: List[str] = field(default_factory=list)
     added: str = ""  # ISO date the record entered the index
+    issn: str = ""   # journal ISSN(s), ";"-joined when a source gives several
 
     def to_dict(self) -> Dict[str, Any]:
         return asdict(self)

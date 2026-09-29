@@ -130,6 +130,7 @@ def process_records(
             relevance_score=verdict.score,
             affiliations=record.affiliations,
             added=today,
+            issn=record.issn,
         )
         for key in keys:
             seen[key] = paper.id
