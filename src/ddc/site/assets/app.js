@@ -76,7 +76,20 @@
       if (code && JMETA.by_issn && JMETA.by_issn[code]) return JMETA.by_issn[code];
     }
     var key = normTitle(p.journal);
-    return (key && JMETA.by_title && JMETA.by_title[key]) || null;
+    var hit = (key && JMETA.by_title && JMETA.by_title[key]) || null;
+    if (!hit && key && JMETA.by_title) {
+      // renamed-journal fallback: unique first-3-word prefix
+      var words = key.split(" ");
+      if (words.length >= 3) {
+        var prefix = words.slice(0, 3).join(" ");
+        var count = 0, found = null;
+        for (var k in JMETA.by_title) {
+          if (k.indexOf(prefix) === 0) { count++; found = JMETA.by_title[k]; if (count > 1) break; }
+        }
+        if (count === 1) hit = found;
+      }
+    }
+    return hit || null;
   }
 
   function renderCard(p) {

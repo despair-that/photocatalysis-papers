@@ -20,6 +20,7 @@ JOURNAL_META_FILE = DATA_DIR / "journal_meta.json"
 
 _NON_ALNUM = re.compile(r"[^a-z0-9 ]+")
 _CACHE: Optional[Dict[str, dict]] = None
+_PREFIX3: Optional[Dict[str, Optional[dict]]] = None
 
 
 def normalize_title(name: str) -> str:
@@ -39,8 +40,28 @@ def load() -> Dict[str, dict]:
     return _CACHE
 
 
+def _build_prefix3(by_title: Dict[str, dict]) -> Dict[str, Optional[dict]]:
+    """First-3-word prefix -> entry, or None when the prefix is ambiguous.
+
+    Catches renamed journals: "Applied Catalysis B: Environment and Energy"
+    (OpenAlex/Crossref) vs "Applied Catalysis B: Environmental" (SCImago).
+    """
+    index: Dict[str, Optional[dict]] = {}
+    for key, entry in by_title.items():
+        words = key.split()
+        if len(words) < 3:
+            continue
+        prefix = " ".join(words[:3])
+        if prefix in index and index[prefix] is not entry:
+            index[prefix] = None
+        else:
+            index.setdefault(prefix, entry)
+    return index
+
+
 def resolve(journal: str, issn: str = "") -> Optional[Dict[str, object]]:
     """Best journal entry: ISSN first (robust to name variants), then title."""
+    global _PREFIX3
     meta = load()
     if not meta:
         return None
@@ -52,4 +73,12 @@ def resolve(journal: str, issn: str = "") -> Optional[Dict[str, object]]:
     key = normalize_title(journal)
     if not key:
         return None
-    return (meta.get("by_title") or {}).get(key) or None
+    hit = (meta.get("by_title") or {}).get(key)
+    if hit:
+        return hit
+    if _PREFIX3 is None:
+        _PREFIX3 = _build_prefix3(meta.get("by_title") or {})
+    words = key.split()
+    if len(words) >= 3:
+        return _PREFIX3.get(" ".join(words[:3])) or None
+    return None
