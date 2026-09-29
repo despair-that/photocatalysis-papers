@@ -15,6 +15,7 @@ from ..models import Paper
 
 NAV_ITEMS = (
     ("index.html", "Latest"),
+    ("daily.html", "Daily"),
     ("search.html", "Search"),
     ("archive/index.html", "Archive"),
     ("authors.html", "Authors"),
@@ -109,12 +110,15 @@ def paper_card(paper: Paper, search_href: str = "search.html") -> str:
         f'<a class="btn btn-primary" href="{esc(link)}" target="_blank" '
         f'rel="noopener">Original paper ↗</a>' if link != "#" else "")
     journal = f'<span class="meta-journal">{esc(paper.journal)}</span> · ' if paper.journal else ""
+    added = (f' · <span class="meta-added" title="Date this paper entered the '
+             f'index">indexed {esc(_pretty_date(paper.added))}</span>'
+             if paper.added else "")
     return f"""<article class="card">
 <h3 class="card-title"><a href="{esc(paper.url or _doi_url(paper))}"
  target="_blank" rel="noopener">{esc(paper.title)}</a></h3>
 <p class="card-authors">{esc(authors)}</p>
 <p class="card-meta">{journal}<time datetime="{esc(paper.published)}">{esc(_pretty_date(paper.published))}</time>
- · <span class="meta-source">{esc(paper.source)}</span>
+ · <span class="meta-source">{esc(paper.source)}</span>{added}
  <span class="score {score_class(paper.relevance_score)}"
  title="Relevance score">{paper.relevance_score}</span></p>
 <p class="card-chips">{''.join(chips)}</p>

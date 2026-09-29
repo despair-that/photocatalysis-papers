@@ -84,6 +84,8 @@
       '<p class="card-meta">' + journal +
       "<time>" + esc(prettyDate(p.published)) + "</time> · " +
       '<span class="meta-source">' + esc(p.source) + "</span>" +
+      (p.added ? ' · <span class="meta-added" title="Date this paper entered the index">indexed ' +
+        esc(prettyDate(p.added)) + "</span>" : "") +
       '<span class="score ' + scoreClass(p.score) + '" title="Relevance score">' +
       p.score + "</span></p>" +
       '<p class="card-chips">' + chips + "</p>" +

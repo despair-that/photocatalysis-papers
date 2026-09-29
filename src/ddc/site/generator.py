@@ -30,7 +30,7 @@ from typing import Dict, List
 from ..models import Paper
 from ..settings import ASSETS_SRC_DIR, SITE_DIR, Settings
 from ..store import PaperStore
-from .html import esc, month_name, page, paper_card
+from .html import esc, month_name, page, paper_card, _pretty_date
 
 log = logging.getLogger(__name__)
 
@@ -54,6 +54,7 @@ def generate_site(settings: Settings, out_dir: Path = SITE_DIR) -> None:
     _write(out_dir / "journals.html",
            _js_page("Journals", "journals", ctx, depth=0))
     _write(out_dir / "about.html", _about_page(papers, settings, ctx))
+    _write(out_dir / "daily.html", _daily_page(papers, ctx))
     _write(out_dir / "categories" / "index.html", _categories_page(papers, ctx))
     _write_archive(papers, out_dir, ctx)
     log.info("Site generation complete")
@@ -130,6 +131,7 @@ def _write_data_shards(papers: List[Paper], out_dir: Path) -> None:
             "doi": p.doi,
             "url": p.url,
             "source": p.source,
+            "added": p.added,
             "categories": p.categories,
             "tags": p.tags,
             "score": p.relevance_score,
@@ -158,14 +160,56 @@ def _write_data_shards(papers: List[Paper], out_dir: Path) -> None:
 def _homepage(papers: List[Paper], settings: Settings, ctx: dict) -> str:
     latest = papers[: settings.homepage_paper_count]
     cards = "\n".join(paper_card(p) for p in latest)
+    added_days = [p.added for p in papers if p.added]
+    if added_days:
+        last_day = max(added_days)
+        n_last = sum(1 for d in added_days if d == last_day)
+        harvest = (f'<p class="harvest-note">Last pipeline harvest: '
+                   f'<strong>{esc(_pretty_date(last_day))}</strong> — {n_last:,} '
+                   f'papers entered the index that day. Every card shows the day '
+                   f'it was harvested; see <a href="daily.html">Daily additions</a>.'
+                   f'</p>')
+    else:
+        harvest = ""
     content = f"""
 <section>
   <h1>Latest papers</h1>
+  {harvest}
   {cards if cards else '<p class="empty">No papers indexed yet — the first pipeline run will populate this page.</p>'}
   <p class="more"><a class="btn btn-primary" href="search.html">Browse &amp; search all {len(papers):,} papers →</a></p>
 </section>"""
     return page(title=ctx["site_title"], content=content, depth=0,
                 active="index.html", **ctx)
+
+
+def _daily_page(papers: List[Paper], ctx: dict) -> str:
+    """Papers grouped by the day the pipeline added them (harvest date)."""
+    by_day: Dict[str, List[Paper]] = defaultdict(list)
+    for p in papers:
+        if p.added:
+            by_day[p.added].append(p)
+    sections = []
+    for day in sorted(by_day, reverse=True)[:14]:
+        items = sorted(by_day[day], key=lambda p: -p.relevance_score)
+        shown = items[:100]
+        more = len(items) - len(shown)
+        more_note = (
+            f'<p class="day-more">…and {more:,} more from this harvest — use '
+            f'<a href="search.html">search</a> to find them.</p>') if more else ""
+        cards = "\n".join(paper_card(p) for p in shown)
+        sections.append(
+            f'<section class="harvest-day">\n'
+            f'<h2>{esc(_pretty_date(day))}'
+            f'<span class="count">{len(items):,} papers</span></h2>\n'
+            f'{cards}\n{more_note}</section>')
+    content = f"""
+<h1>Daily additions</h1>
+<p>Each section is one pipeline harvest — the day papers <em>entered this
+index</em>, which can differ from their publication date. Showing the
+{len(sections)} most recent harvest days.</p>
+{''.join(sections) or '<p class="empty">Nothing indexed yet.</p>'}"""
+    return page(title=f"Daily additions · {ctx['site_title']}", content=content,
+                depth=0, active="daily.html", **ctx)
 
 
 def _js_page(title: str, page_kind: str, ctx: dict, depth: int) -> str:
