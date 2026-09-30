@@ -139,7 +139,9 @@ def _write_data_shards(papers: List[Paper], out_dir: Path) -> None:
             "tags": p.tags,
             "score": p.relevance_score,
             "issn": p.issn,
-            "affiliations": p.affiliations,
+            # trimmed: affiliations dominate shard size; the client only uses
+            # them for the universities search haystack
+            "affiliations": p.affiliations[:2],
         })
     years = []
     for year, items in sorted(by_year.items(), reverse=True):
