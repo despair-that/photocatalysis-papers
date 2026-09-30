@@ -55,13 +55,15 @@ def page(
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(tagline)}">
+<link rel="icon" type="image/svg+xml" href="{prefix}assets/logo.svg">
 <link rel="stylesheet" href="{prefix}assets/style.css">
 {head_extra}
 </head>
 <body>
 <header class="site-header">
   <div class="wrap">
-    <a class="brand" href="{prefix}index.html">{esc(site_title)}</a>
+    <a class="brand" href="{prefix}index.html"><img class="brand-logo"
+ src="{prefix}assets/logo.svg" alt="" width="24" height="24">{esc(site_title)}</a>
     <nav class="site-nav">{nav}</nav>
   </div>
 </header>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Photocatalysis literature board logo: sunlight onto a semiconductor flake releasing hydrogen bubbles">
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a56db"/>
+      <stop offset="1" stop-color="#0e7c4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#tile)"/>
+  <!-- sunlight -->
+  <circle cx="16.5" cy="16.5" r="5.2" fill="#ffd166"/>
+  <g stroke="#ffd166" stroke-width="2.4" stroke-linecap="round">
+    <line x1="16.5" y1="5.5" x2="16.5" y2="8.2"/>
+    <line x1="5.5" y1="16.5" x2="8.2" y2="16.5"/>
+    <line x1="9" y1="9" x2="11" y2="11"/>
+  </g>
+  <!-- semiconductor flake (hexagon) -->
+  <path d="M28 25 L39.3 31.5 L39.3 44.5 L28 51 L16.7 44.5 L16.7 31.5 Z"
+        fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round"/>
+  <!-- hydrogen bubbles rising -->
+  <path d="M42 34 Q46 30 47.5 27.5" stroke="#ffffff" stroke-width="2.6"
+        fill="none" stroke-linecap="round"/>
+  <circle cx="48.5" cy="23" r="4.6" fill="#ffffff"/>
+  <circle cx="55.5" cy="14" r="3" fill="#ffffff" opacity="0.85"/>
+</svg>

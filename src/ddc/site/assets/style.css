@@ -61,7 +61,11 @@ code { background: var(--bg-soft); padding: 1px 5px; border-radius: 4px; font-si
   display: flex; align-items: center; gap: 18px;
   flex-wrap: wrap; padding-top: 10px; padding-bottom: 10px;
 }
-.brand { font-weight: 700; font-size: 1.05rem; color: var(--text); }
+.brand {
+  font-weight: 700; font-size: 1.05rem; color: var(--text);
+  display: inline-flex; align-items: center; gap: 8px;
+}
+.brand-logo { border-radius: 6px; display: block; }
 .brand:hover { text-decoration: none; color: var(--accent); }
 .site-nav { display: flex; gap: 4px; flex-wrap: wrap; }
 .site-nav a {
