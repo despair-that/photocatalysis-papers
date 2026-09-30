@@ -42180,30 +42180,6 @@
   "added": "2026-07-24"
  },
  {
-  "id": "p2",
-  "title": "A paper title long enough",
-  "authors": [
-   "Jane Doe"
-  ],
-  "journal": "J",
-  "publisher": "",
-  "published": "2026-06-01",
-  "year": 2026,
-  "doi": "10.1/p2",
-  "url": "https://example.org",
-  "source": "test",
-  "categories": [
-   "Catalysis"
-  ],
-  "tags": [
-   "DFT"
-  ],
-  "relevance_score": 80,
-  "affiliations": [],
-  "added": "2026-06-01",
-  "issn": ""
- },
- {
   "id": "ff79a64669dd3dda",
   "title": "Ultrafast electron transfer in 2D/2D g-C3N4/WO3 S-scheme heterojunctions for enhanced H2O2 production",
   "authors": [

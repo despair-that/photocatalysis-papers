@@ -16173,30 +16173,6 @@
   "added": "2026-07-24"
  },
  {
-  "id": "p1",
-  "title": "A paper title long enough",
-  "authors": [
-   "Jane Doe"
-  ],
-  "journal": "J",
-  "publisher": "",
-  "published": "2026-07-20",
-  "year": 2026,
-  "doi": "10.1/p1",
-  "url": "https://example.org",
-  "source": "test",
-  "categories": [
-   "Catalysis"
-  ],
-  "tags": [
-   "DFT"
-  ],
-  "relevance_score": 80,
-  "affiliations": [],
-  "added": "2026-07-20",
-  "issn": ""
- },
- {
   "id": "fd2df2923eef2b58",
   "title": "Concentration-dependent Transition in the Rate-determining Step of Hydrogen Evolution Driven by Pyridinium-tethered Mononuclear and Dinuclear Platinum Photocatalysts",
   "authors": [

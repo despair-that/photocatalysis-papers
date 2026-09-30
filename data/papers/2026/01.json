@@ -1,29 +1,5 @@
 [
  {
-  "id": "p1",
-  "title": "A paper title long enough",
-  "authors": [
-   "Jane Doe"
-  ],
-  "journal": "J",
-  "publisher": "",
-  "published": "garbage",
-  "year": 2026,
-  "doi": "10.1/p1",
-  "url": "https://example.org",
-  "source": "test",
-  "categories": [
-   "Catalysis"
-  ],
-  "tags": [
-   "DFT"
-  ],
-  "relevance_score": 80,
-  "affiliations": [],
-  "added": "2026-07-20",
-  "issn": ""
- },
- {
   "id": "ffbc5b30fa2168bc",
   "title": "Capture and fixation of nitrogen anions radical by photocatalyst",
   "authors": [
