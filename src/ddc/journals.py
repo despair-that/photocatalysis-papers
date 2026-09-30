@@ -20,7 +20,7 @@ JOURNAL_META_FILE = DATA_DIR / "journal_meta.json"
 
 _NON_ALNUM = re.compile(r"[^a-z0-9 ]+")
 _CACHE: Optional[Dict[str, dict]] = None
-_PREFIX3: Optional[Dict[str, Optional[dict]]] = None
+_PREFIX_CACHE: Dict[str, Dict[str, Optional[dict]]] = {}
 
 
 def normalize_title(name: str) -> str:
@@ -59,26 +59,50 @@ def _build_prefix3(by_title: Dict[str, dict]) -> Dict[str, Optional[dict]]:
     return index
 
 
+def _lookup(meta: Dict[str, dict], map_key: str, journal: str) -> Optional[dict]:
+    """Exact normalized-title lookup with the renamed-journal prefix fallback."""
+    table = meta.get(map_key) or {}
+    if not table:
+        return None
+    key = normalize_title(journal)
+    if not key:
+        return None
+    hit = table.get(key)
+    if hit is not None:
+        return hit
+    cache = _PREFIX_CACHE.get(map_key)
+    if cache is None:
+        cache = _PREFIX_CACHE[map_key] = _build_prefix3(table)
+    words = key.split()
+    if len(words) >= 3:
+        return cache.get(" ".join(words[:3])) or None
+    return None
+
+
 def resolve(journal: str, issn: str = "") -> Optional[Dict[str, object]]:
-    """Best journal entry: ISSN first (robust to name variants), then title."""
-    global _PREFIX3
+    """Merged journal entry: SJR (ISSN -> title -> prefix) plus CAS quartile
+    and impact factor looked up by title on top."""
     meta = load()
     if not meta:
         return None
+    entry: Optional[Dict[str, object]] = None
     by_issn = meta.get("by_issn") or {}
     for code in re.split(r"[;, ]+", str(issn or "")):
         hit = by_issn.get(code.strip().replace("-", "").lower())
         if hit:
-            return hit
-    key = normalize_title(journal)
-    if not key:
+            entry = dict(hit)
+            break
+    if entry is None:
+        entry = _lookup(meta, "by_title", journal)
+    if entry is None:
         return None
-    hit = (meta.get("by_title") or {}).get(key)
-    if hit:
-        return hit
-    if _PREFIX3 is None:
-        _PREFIX3 = _build_prefix3(meta.get("by_title") or {})
-    words = key.split()
-    if len(words) >= 3:
-        return _PREFIX3.get(" ".join(words[:3])) or None
-    return None
+    merged = dict(entry)
+    cas = _lookup(meta, "by_cas", journal)
+    if cas:
+        merged["cas"] = cas.get("cas")
+        merged["top"] = cas.get("top")
+    impact = _lookup(meta, "by_if", journal)
+    if impact:
+        merged["if"] = impact.get("if")
+        merged["if_year"] = impact.get("year")
+    return merged

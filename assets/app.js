@@ -71,25 +71,39 @@
   function resolveJournal(p) {
     if (!JMETA) return null;
     var codes = String(p.issn || "").split(/[;, ]+/);
+    var entry = null;
     for (var i = 0; i < codes.length; i++) {
       var code = codes[i].replace(/-/g, "").toLowerCase();
-      if (code && JMETA.by_issn && JMETA.by_issn[code]) return JMETA.by_issn[code];
-    }
-    var key = normTitle(p.journal);
-    var hit = (key && JMETA.by_title && JMETA.by_title[key]) || null;
-    if (!hit && key && JMETA.by_title) {
-      // renamed-journal fallback: unique first-3-word prefix
-      var words = key.split(" ");
-      if (words.length >= 3) {
-        var prefix = words.slice(0, 3).join(" ");
-        var count = 0, found = null;
-        for (var k in JMETA.by_title) {
-          if (k.indexOf(prefix) === 0) { count++; found = JMETA.by_title[k]; if (count > 1) break; }
-        }
-        if (count === 1) hit = found;
+      if (code && JMETA.by_issn && JMETA.by_issn[code]) {
+        entry = JMETA.by_issn[code];
+        break;
       }
     }
-    return hit || null;
+    if (!entry) entry = lookupMap("by_title", p.journal);
+    if (!entry) return null;
+    var merged = {};
+    for (var key in entry) merged[key] = entry[key];
+    var cas = lookupMap("by_cas", p.journal);
+    if (cas) { merged.cas = cas.cas; merged.top = cas.top; }
+    var impact = lookupMap("by_if", p.journal);
+    if (impact) { merged["if"] = impact["if"]; merged.if_year = impact.year; }
+    return merged;
+  }
+  function lookupMap(mapKey, journal) {
+    var table = JMETA[mapKey];
+    if (!table) return null;
+    var key = normTitle(journal);
+    if (!key) return null;
+    var hit = table[key];
+    if (hit) return hit;
+    var words = key.split(" ");
+    if (words.length < 3) return null;
+    var prefix = words.slice(0, 3).join(" ");
+    var count = 0, found = null;
+    for (var k in table) {
+      if (k.indexOf(prefix) === 0) { count++; found = table[k]; if (count > 1) break; }
+    }
+    return count === 1 ? found : null;
   }
 
   function renderCard(p) {
@@ -114,10 +128,19 @@
       ? '<a class="meta-journal" href="' + ROOT + 'journals.html?j=' +
         encodeURIComponent(p.journal) + '">' + esc(p.journal) + "</a> · " : "";
     var jm = resolveJournal(p);
+    var cas = (jm && jm.cas) || "";
     var q = (jm && jm.q) || "";
-    var qBadge = (q === "Q1" || q === "Q2" || q === "Q3" || q === "Q4")
-      ? '<span class="quartile q' + q.charAt(1) + '">' + esc(q) + "</span>" : "";
+    var qBadge;
+    if (cas) {
+      qBadge = '<span class="quartile cas">' + esc(cas) + "区" +
+        (jm.top ? "Top" : "") + "</span>";
+    } else if (q === "Q1" || q === "Q2" || q === "Q3" || q === "Q4") {
+      qBadge = '<span class="quartile q' + q.charAt(1) + '">' + esc(q) + "</span>";
+    } else {
+      qBadge = "";
+    }
     var sjrTxt = (jm && jm.s) ? '<span class="meta-sjr">SJR ' + esc(jm.s) + "</span>" : "";
+    var ifTxt = (jm && jm["if"]) ? '<span class="meta-if">IF ' + esc(jm["if"]) + "</span>" : "";
     var meta2 = [];
     if (p.added) meta2.push('<span class="meta-added" title="Date this paper entered the index">indexed ' +
       esc(prettyDate(p.added)) + "</span>");
@@ -129,7 +152,7 @@
       '" target="_blank" rel="noopener">' + esc(p.title) + "</a></h3>" +
       '<p class="card-authors">' + authors + "</p>" +
       '<p class="card-meta">' + journal +
-      "<time>" + esc(prettyDate(p.published)) + "</time>" + qBadge + sjrTxt + "</p>" +
+      "<time>" + esc(prettyDate(p.published)) + "</time>" + qBadge + sjrTxt + ifTxt + "</p>" +
       '<p class="card-meta2">' + meta2.join(" · ") + "</p>" +
       '<p class="card-chips">' + chips + "</p>" +
       '<p class="card-actions">' + orig + "</p></article>";

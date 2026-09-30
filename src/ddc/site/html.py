@@ -113,10 +113,18 @@ def paper_card(paper: Paper, search_href: str = "search.html",
         f'rel="noopener">Original paper ↗</a>' if link != "#" else "")
     journal = f'<span class="meta-journal">{esc(paper.journal)}</span> · ' if paper.journal else ""
     quartile = (jmeta or {}).get("q") or ""
-    q_badge = (f'<span class="quartile q{quartile[1]}">{esc(quartile)}</span>'
-               if quartile in ("Q1", "Q2", "Q3", "Q4") else "")
+    cas = (jmeta or {}).get("cas") or ""
+    if cas:
+        top = "Top" if (jmeta or {}).get("top") else ""
+        q_badge = f'<span class="quartile cas">{esc(cas)}区{top}</span>'
+    elif quartile in ("Q1", "Q2", "Q3", "Q4"):
+        q_badge = f'<span class="quartile q{quartile[1]}">{esc(quartile)}</span>'
+    else:
+        q_badge = ""
     sjr = (jmeta or {}).get("s")
     sjr_txt = f'<span class="meta-sjr">SJR {esc(sjr)}</span>' if sjr else ""
+    impact = (jmeta or {}).get("if")
+    if_txt = f'<span class="meta-if">IF {esc(impact)}</span>' if impact else ""
     meta2: List[str] = []
     if paper.added:
         meta2.append(f'<span class="meta-added" title="Date this paper entered '
@@ -129,7 +137,7 @@ def paper_card(paper: Paper, search_href: str = "search.html",
 <h3 class="card-title"><a href="{esc(paper.url or _doi_url(paper))}"
  target="_blank" rel="noopener">{esc(paper.title)}</a></h3>
 <p class="card-authors">{esc(authors)}</p>
-<p class="card-meta">{journal}<time datetime="{esc(paper.published)}">{esc(_pretty_date(paper.published))}</time>{q_badge}{sjr_txt}</p>
+<p class="card-meta">{journal}<time datetime="{esc(paper.published)}">{esc(_pretty_date(paper.published))}</time>{q_badge}{sjr_txt}{if_txt}</p>
 <p class="card-meta2">{' · '.join(meta2)}</p>
 <p class="card-chips">{''.join(chips)}</p>
 <p class="card-actions">{original}</p>

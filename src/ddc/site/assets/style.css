@@ -119,7 +119,9 @@ code { background: var(--bg-soft); padding: 1px 5px; border-radius: 4px; font-si
 .quartile.q2 { background: #2563eb; }
 .quartile.q3 { background: #d97706; }
 .quartile.q4 { background: #6b7280; }
+.quartile.cas { background: #6d28d9; }
 .meta-sjr { color: var(--text-soft); font-size: 0.8rem; margin-left: 6px; }
+.meta-if { color: var(--text-soft); font-size: 0.8rem; margin-left: 6px; }
 .harvest-note { color: var(--text-soft); font-size: 0.92rem; margin: -4px 0 18px; }
 .harvest-day { margin: 28px 0; }
 .harvest-day h2 {
