@@ -33184,6 +33184,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "5b9ab32de3853231",
+  "title": "Chemoselective Decarboxylative Protonation Enabled by Cooperative Earth‐Abundant Element Catalysis",
+  "authors": [
+   "Yen-Chu Lu",
+   "Julian G. West"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-12-08",
+  "year": 2022,
+  "doi": "10.1002/anie.202213055",
+  "url": "https://doi.org/10.1002/anie.202213055",
+  "source": "crossref",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-09-30",
+  "issn": ""
+ },
+ {
   "id": "527b6427eeffbe5e",
   "title": "Liquid-Metal-Induced Hydrogen Insertion in Photoelectrodes for Enhanced Photoelectrochemical Water Oxidation",
   "authors": [
