@@ -7,7 +7,7 @@ name: Photocatalysis daily paper update
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # every day at 05:00 UTC
+    - cron: "15 0 * * *"  # every day at 00:15 UTC = 08:15 Beijing (off-peak)
   workflow_dispatch: {}    # allow manual runs from the Actions tab
 
 permissions:
