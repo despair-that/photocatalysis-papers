@@ -28,7 +28,7 @@ from pathlib import Path
 from typing import Dict, List
 
 from ..models import Paper
-from ..settings import ASSETS_SRC_DIR, SITE_DIR, Settings
+from ..settings import ASSETS_SRC_DIR, DATA_DIR, SITE_DIR, Settings
 from ..store import RELATED_PAPERS_DIR, PaperStore
 from ..journals import resolve as resolve_journal
 from .html import esc, month_name, page, paper_card, _pretty_date
@@ -150,6 +150,10 @@ def _write_data_shards(papers: List[Paper], out_dir: Path) -> None:
             json.dumps(items, ensure_ascii=False, separators=(",", ":")),
             encoding="utf-8")
         years.append({"year": year, "count": len(items), "file": filename})
+    # publish the journal-metadata snapshot for the client-side resolver
+    meta_file = DATA_DIR / "journal_meta.json"
+    if meta_file.exists():
+        shutil.copy2(meta_file, data_dir / "journal_meta.json")
     manifest = {
         "generated": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "total": len(papers),
