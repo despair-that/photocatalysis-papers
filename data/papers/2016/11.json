@@ -681,6 +681,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "51df9ae888cb9092",
+  "title": "The Applications of Morphology Controlled ZnO in Catalysis",
+  "authors": [
+   "Yuhai Sun",
+   "Limin Chen",
+   "Yunfeng Bao",
+   "Yujun Zhang",
+   "Jing Wang",
+   "Mingli Fu",
+   "Junliang Wu",
+   "Daiqi Ye"
+  ],
+  "journal": "Catalysts",
+  "publisher": "MDPI AG",
+  "published": "2016-11-30",
+  "year": 2016,
+  "doi": "10.3390/catal6120188",
+  "url": "https://doi.org/10.3390/catal6120188",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photodegradation",
+   "Pollutants",
+   "ZnO"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-01",
+  "issn": ""
+ },
+ {
   "id": "4e9d1af55dab8331",
   "title": "Bifunctional Au@TiO2 core–shell nanoparticle films for clean water generation by photocatalysis and solar evaporation",
   "authors": [

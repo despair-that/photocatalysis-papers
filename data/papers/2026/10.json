@@ -91,6 +91,58 @@
   "added": "2026-09-28"
  },
  {
+  "id": "88186868ef2a2c05",
+  "title": "Boosting Photocatalytic Hydrogen Peroxide Production via Multiscale Engineering O-Doped g-C3N4/CuO Nanosheets.",
+  "authors": [
+   "Mingzhi Xu",
+   "Mengru Ji",
+   "Tianqiao He",
+   "Fei Ke",
+   "Yuqing Pang",
+   "Jie Mao",
+   "Xin Dong",
+   "Yulu Feng",
+   "Jiale Liang",
+   "Na Xu",
+   "Chunyan Zhang"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.1002/cssc.71107",
+  "url": "https://doi.org/10.1002/cssc.71107",
+  "source": "pubmed",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "2D Materials",
+   "Mechanism & Charge Dynamics",
+   "Sacrificial Reagents",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Charge Separation",
+   "Charge Transfer",
+   "Doping",
+   "Electron-Hole Pairs",
+   "H2O2 Production",
+   "Heterostructures",
+   "Light Irradiation",
+   "Nanosheets",
+   "Photocatalysis",
+   "Sacrificial Reagents",
+   "g-C3N4"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-01",
+  "issn": ""
+ },
+ {
   "id": "d791c5a5044919ca",
   "title": "High-throughput evaluation of potential commercial photocatalysts: Investigation of Sudan Black B",
   "authors": [
@@ -218,6 +270,39 @@
   "relevance_score": 78,
   "affiliations": [],
   "added": "2026-08-11"
+ },
+ {
+  "id": "e7d513f4413dace2",
+  "title": "MgFe₂O₄-based materials as versatile multifunctional platform for next-generation technologies: Recent progress and future prospects",
+  "authors": [
+   "Vidushi Karol",
+   "Avtar Singh",
+   "Yugesh Singh Thakur",
+   "Sakshi Sharma",
+   "Jacobus J. Terblans",
+   "Hendrik C. Swart",
+   "Jai Prakash"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.nxmate.2026.103635",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.103635",
+  "source": "doaj",
+  "categories": [
+   "Co-catalysts & Surface",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Defect Engineering",
+   "Graphene",
+   "Photocatalysis"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-10-01",
+  "issn": ""
  },
  {
   "id": "e4f25dde1082076a",

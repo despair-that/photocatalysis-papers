@@ -24625,6 +24625,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "224b48dee91b59a2",
+  "title": "Synthesis of V 2 O 5 -MgO/TiO 2 mixed oxide nanocomposites for photocatalytic treatment of CO in vehicle exhaust emissions",
+  "authors": [
+   "Van Tien Mai",
+   "Thi Oanh Doan",
+   "Binh Pham",
+   "Thi Trinh Le",
+   "Thi Thuy Duong",
+   "Viet Anh Pham Ba"
+  ],
+  "journal": "Advances in Natural Sciences: Nanoscience and Nanotechnology",
+  "publisher": "IOP Publishing",
+  "published": "2023-05-11",
+  "year": 2023,
+  "doi": "10.1088/2043-6262/acd23f",
+  "url": "https://doi.org/10.1088/2043-6262/acd23f",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "Visible Light",
+   "ZnO"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-10-01",
+  "issn": ""
+ },
+ {
   "id": "17ec4c0c4f3eb8fe",
   "title": "Coupling of formate dehydrogenase to inverse-opal ITO-PSI electrodes for photocatalytic CO2 reduction",
   "authors": [
