@@ -9377,6 +9377,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "73a94feb0dae28ad",
+  "title": "Hysteresis phenomena and rate fluctuations under conditions of glycerol photo-reforming reaction over CuO /TiO2 catalysts",
+  "authors": [
+   "Αθανασία Πεταλά",
+   "Evangelia T. Ioannidou",
+   "Aglaia Georgaka",
+   "Kyriakos Bourikas",
+   "Dimitris Ι. Kondarides"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2014-09-16",
+  "year": 2014,
+  "doi": "10.1016/j.apcatb.2014.09.021",
+  "url": "https://doi.org/10.1016/j.apcatb.2014.09.021",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Patras",
+   "Hellenic Open University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
   "id": "73081a71cc8053b0",
   "title": "Synergetic effect of adsorption on degradation of malachite green dye under blue LED irradiation using spiral‐shaped photocatalytic reactor",
   "authors": [
@@ -13427,6 +13460,41 @@
    "Nanjing University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "d12288b1b873acb7",
+  "title": "Copper modified-TiO2 catalysts for hydrogen generation through photoreforming of organics. A short review",
+  "authors": [
+   "Laura Clarizia",
+   "Danilo Spasiano",
+   "Ilaria Di Somma",
+   "Raffaele Marotta",
+   "Roberto Andreozzi",
+   "Dionysios D. Dionysiou"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2014-09-06",
+  "year": 2014,
+  "doi": "10.1016/j.ijhydene.2014.08.037",
+  "url": "https://doi.org/10.1016/j.ijhydene.2014.08.037",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Naples Federico II",
+   "Institute for Research on Combustion",
+   "University of Cincinnati"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
  },
  {
   "id": "cdb21fb9502dad94",

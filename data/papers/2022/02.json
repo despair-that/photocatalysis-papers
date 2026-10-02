@@ -8874,6 +8874,49 @@
   "added": "2026-07-24"
  },
  {
+  "id": "04cacea5bfc52dc7",
+  "title": "Boosting electron kinetics of anatase TiO2 with carbon nanosheet for efficient photo-reforming of xylose into biomass-derived organic acids",
+  "authors": [
+   "Kangning Liu",
+   "Jiliang Ma",
+   "Xiaopan Yang",
+   "Dongnv Jin",
+   "Yancong Li",
+   "Gaojie Jiao",
+   "Shuangquan Yao",
+   "Shaolong Sun",
+   "Run-Cang Sun"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2022-02-21",
+  "year": 2022,
+  "doi": "10.1016/j.jallcom.2022.164276",
+  "url": "https://doi.org/10.1016/j.jallcom.2022.164276",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "2D Materials"
+  ],
+  "tags": [
+   "Nanosheets",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Dalian Polytechnic University",
+   "Guangxi University",
+   "Qilu University of Technology",
+   "Shandong Academy of Sciences",
+   "Guangxi Key Laboratory of Clean Pulp and Papermaking and Pollution Control",
+   "South China Agricultural University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0925-8388"
+ },
+ {
   "id": "f92d75bde5e1b6bb",
   "title": "Construction of a novel p-n heterojunction CdS QDs/LaMnO3 composite for photodegradation of oxytetracycline",
   "authors": [

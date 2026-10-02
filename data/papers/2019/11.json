@@ -9258,6 +9258,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "54ebf8edd68093ed",
+  "title": "Hydrogen Production During Ethylene Glycol Photoreactions Over Ag-Pd/TiO2 at Different Partial Pressures of Oxygen",
+  "authors": [
+   "Ahmed Khaja Wahab",
+   "M. A. Nadeem",
+   "Hicham Idriss"
+  ],
+  "journal": "Frontiers in Chemistry",
+  "publisher": "Frontiers Media",
+  "published": "2019-11-22",
+  "year": 2019,
+  "doi": "10.3389/fchem.2019.00780",
+  "url": "https://doi.org/10.3389/fchem.2019.00780",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Saudi Arabia Basic Industries (Saudi Arabia)",
+   "King Abdullah University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2296-2646"
+ },
+ {
   "id": "4d300e20fca0d17f",
   "title": "Author Correction: Facet-dependent active sites of a single Cu2O particle photocatalyst for CO2 reduction to methanol",
   "authors": [

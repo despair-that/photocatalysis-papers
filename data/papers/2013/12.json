@@ -2563,6 +2563,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "544187560617db53",
+  "title": "Dye‐Sensitized Solar Cells with Vertically Aligned TiO2 Nanowire Arrays Grown on Carbon Fibers",
+  "authors": [
+   "Xin Le Cai",
+   "Hongwei Wu",
+   "Shaocong Hou",
+   "Ming Peng",
+   "Xiao Hua Yu",
+   "Dechun Zou"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2013-12-20",
+  "year": 2013,
+  "doi": "10.1002/cssc.201301020",
+  "url": "https://doi.org/10.1002/cssc.201301020",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Peking University",
+   "Beijing National Laboratory for Molecular Sciences"
+  ],
+  "added": "2026-10-02",
+  "issn": "1864-5631"
+ },
+ {
   "id": "4c769aca2677af38",
   "title": "Garden-like perovskite superstructures with enhanced photocatalytic activity",
   "authors": [
@@ -6562,6 +6597,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "6663bf49996745d3",
+  "title": "Novel Post-Treatment Process by La3+ Modification to TiO2 Photoanode with Enhanced Performance for DSSCs",
+  "authors": [
+   "Qian Gao",
+   "Song Wang Yang",
+   "Lei Lei"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-12-13",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amr.860-863.219",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.860-863.219",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "Shanghai Institute of Ceramics"
+  ],
+  "added": "2026-10-02",
+  "issn": "1022-6680"
+ },
+ {
   "id": "6604a27cbeecea12",
   "title": "Photocatalytic degradation of pesticides using TiO2 nanoparticles",
   "authors": [
@@ -8013,6 +8079,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "324186194dc11ca2",
+  "title": "Synthesis and characterization of catalysts for photo-oxidation of water",
+  "authors": [
+   "Sujitraj Sheth"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2013-12-11",
+  "year": 2013,
+  "doi": "",
+  "url": "https://theses.hal.science/tel-00981124",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Solar Fuels",
+   "Photoredox & Organic Synthesis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Artificial Photosynthesis",
+   "Metal Photocatalysts",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Radical Chemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "2504cb34995a4daf",
   "title": "Biogenic synthesis and photocatalytic activity of CdS nanoparticles",
   "authors": [
@@ -8260,6 +8358,35 @@
    "Tianjin University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b591279c9ccce4e0",
+  "title": "The solar thermal electrochemical production of energetic molecules: Step",
+  "authors": [
+   "Napoleon Enteria",
+   "Aliakbar Akbarzadeh"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2013-12-10",
+  "year": 2013,
+  "doi": "10.1201/b15507-11",
+  "url": "https://doi.org/10.1201/b15507-11",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "CO2 Reduction",
+   "Water Splitting"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Photoelectrochemistry",
+   "Water Splitting"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "9fae1bd012956bde",
@@ -8591,6 +8718,46 @@
    "Instituto de Tecnología Química"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "101337063fed3ad8",
+  "title": "Terahertz Depolarization Effects in Colloidal TiO2 Films Reveal Particle Morphology",
+  "authors": [
+   "Søren Alkærsig Jensen",
+   "Klaas-Jan Tielrooij",
+   "E. Hendry",
+   "Mischa Bonn",
+   "I. Rychetský",
+   "Hynek Němec"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2013-12-10",
+  "year": 2013,
+  "doi": "10.1021/jp406897y",
+  "url": "https://doi.org/10.1021/jp406897y",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 53,
+  "affiliations": [
+   "Institute for Atomic and Molecular Physics",
+   "Max Planck Institute for Polymer Research",
+   "Institute of Photonic Sciences",
+   "University of Exeter",
+   "Max Planck Society",
+   "Czech Academy of Sciences",
+   "FZU ‒ Institute of Physics of the Academy of Sciences of the Czech Republic"
+  ],
+  "added": "2026-10-02",
+  "issn": "1932-7447"
  },
  {
   "id": "09e41f5d0a3fc962",
@@ -11662,6 +11829,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b9b33e9d8484c8de",
+  "title": "Hydrogen Production via Water Splitting under the Action of Light",
+  "authors": [
+   "Alexander Gavrilyuk"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2013-12-04",
+  "year": 2013,
+  "doi": "10.1201/b15456-9",
+  "url": "https://doi.org/10.1201/b15456-9",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "BiVO4",
+   "Charge Separation",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Semiconductors",
+   "Visible Light",
+   "WO3",
+   "Water Splitting"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "452e28e80d893f6a",
   "title": "Core–Shell Structured Nanocomposites for Photocatalytic Selective Organic Transformations",
   "authors": [
@@ -11740,6 +11943,38 @@
    "Korea Institute of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "429ca036007f75a3",
+  "title": "The renaissance of organic radical chemistry – deja vu all over again",
+  "authors": [
+   "Corey R. J. Stephenson",
+   "Armido Studer",
+   "Dennis P. Curran"
+  ],
+  "journal": "Beilstein Journal of Organic Chemistry",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2013-12-04",
+  "year": 2013,
+  "doi": "10.3762/bjoc.9.312",
+  "url": "https://doi.org/10.3762/bjoc.9.312",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Organic Synthesis",
+   "Photoredox",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "University of Michigan",
+   "University of Münster",
+   "University of Pittsburgh"
+  ],
+  "added": "2026-10-02",
+  "issn": "1860-5397"
  },
  {
   "id": "347490b51edac8cf",
@@ -13316,6 +13551,71 @@
   "added": "2026-07-24"
  },
  {
+  "id": "305c7f3f9c80aeef",
+  "title": "Insights into mechanical compression and the enhancement in performance by Mg(OH)2 coating in flexible dye sensitized solar cells",
+  "authors": [
+   "T. A. Nirmal Peiris",
+   "K. G. Upul Wijayantha",
+   "Jorge Garcı́a-Cañadas"
+  ],
+  "journal": "Physical Chemistry Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2013-12-02",
+  "year": 2013,
+  "doi": "10.1039/c3cp53260g",
+  "url": "https://doi.org/10.1039/c3cp53260g",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Electrochemical Characterization",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "EIS",
+   "Mott-Schottky",
+   "Photoanodes",
+   "TiO2"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Loughborough University",
+   "Cardiff University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1463-9076"
+ },
+ {
+  "id": "2f55f9e8f063b976",
+  "title": "Synergistic Photoelectrochemical Synthesis of Formate from CO2 on {121} Hierarchical Co3O4",
+  "authors": [
+   "Xiaofeng Huang",
+   "Tongcheng Cao",
+   "Meichuan Liu",
+   "Guohua Zhao"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2013-12-02",
+  "year": 2013,
+  "doi": "10.1021/jp408630s",
+  "url": "https://doi.org/10.1021/jp408630s",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Visible Light"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Tongji University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1932-7447"
+ },
+ {
   "id": "1fc8f1f89934d37d",
   "title": "Electrospun nanofibers of Er3+-doped TiO2 with photocatalytic activity beyond the absorption edge",
   "authors": [
@@ -14536,6 +14836,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a4976fc85c942768",
+  "title": "Application of Nano-SiO2 on Photoanode of Quantum Dots Sensitized Solar Cells",
+  "authors": [
+   "Ren Bao Wang",
+   "Ling Liu",
+   "Lei Wan",
+   "Jin Zhang Xu"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-12-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amr.850-851.169",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.850-851.169",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Quantum Dots",
+   "TiO2"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Hefei University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1022-6680"
+ },
+ {
   "id": "a25565cc47ae1168",
   "title": "Kinetic and mechanistic behavior of the ascorbate ion-glutathione mixture in the visible-light-mediated oxidation of tryptophan",
   "authors": [
@@ -14642,6 +14975,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "9ad792b251172505",
+  "title": "Preparation and Characterization of Photocatalytic TiO2 Coatings on Glass Substrates",
+  "authors": [
+   "E. Ramírez-Morales",
+   "G. Pérez Hernández",
+   "Joel Pantoja",
+   "Angélica Silvestre López Rodríguez",
+   "Pio Sifuentes-Gallardo",
+   "M. A. Hernández-Rivera",
+   "Ma. Guadalupe Garnica-Romo",
+   "C. Ricardez-Jiménez",
+   "L. L. Díaz-Flores"
+  ],
+  "journal": "Energy and Environment Focus",
+  "publisher": "American Scientific Publishers",
+  "published": "2013-12-01",
+  "year": 2013,
+  "doi": "10.1166/eef.2013.1069",
+  "url": "https://doi.org/10.1166/eef.2013.1069",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "2326-3040"
+ },
+ {
   "id": "98e26f0f9b2e5c90",
   "title": "Titania/carbon nanotube composite (TiO2/CNT) and its application for removal of organic pollutants",
   "authors": [
@@ -14702,6 +15068,44 @@
    "Xuzhou University of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "92877ba620b0d958",
+  "title": "Deposition of SnO2 on the Anatase TiO2 {105} Facets with High Photocatalytic Performance",
+  "authors": [
+   "Haibo Jiang",
+   "Jun Xing",
+   "Chongwu Wang",
+   "Hua Gui Yang"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2013-12-01",
+  "year": 2013,
+  "doi": "10.1002/cjoc.201300709",
+  "url": "https://doi.org/10.1002/cjoc.201300709",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Water Splitting",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Air Purification",
+   "Charge Separation",
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2",
+   "Water Splitting"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "East China University of Science and Technology",
+   "Griffith University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1001-604X"
  },
  {
   "id": "913b008c955d9b64",
@@ -14882,6 +15286,41 @@
    "Hebei University of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "8040bd9f75df2f81",
+  "title": "Synthesis and Characterization of Graphene-ZnO Nanocomposite and its Application in Photovoltaic Cells",
+  "authors": [
+   "Farzaneh Sadat Ghoreishi",
+   "Vahid Ahmadi",
+   "Mahmoud Samadpour"
+  ],
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "publisher": "",
+  "published": "2013-12-01",
+  "year": 2013,
+  "doi": "10.7508/jns.2013.04.010",
+  "url": "https://doi.org/10.7508/jns.2013.04.010",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Graphene",
+   "Photoanodes",
+   "Quantum Dots",
+   "ZnO"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tarbiat Modares University",
+   "K. N. Toosi University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "8035d26725d812d2",

@@ -348,6 +348,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7944cc8e1a4d7604",
+  "title": "Photoreforming of Glycerol Catalyzed by CuO/TiO2 Supported on Hydroxyapatite",
+  "authors": [
+   "Damrong Adam Damrong Adam",
+   "Netnapid Ongsuwan",
+   "Saowapa Chotisuwan"
+  ],
+  "journal": "Sains Malaysiana",
+  "publisher": "Penerbit Universiti Kebangsaan Malaysia",
+  "published": "2023-09-30",
+  "year": 2023,
+  "doi": "10.17576/jsm-2023-5209-19",
+  "url": "https://doi.org/10.17576/jsm-2023-5209-19",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Prince of Songkla University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0126-6039"
+ },
+ {
   "id": "693b20a914d24ff3",
   "title": "Physiological Functions of Carbon Dots and Their Applications in Agriculture: A Review",
   "authors": [
@@ -411,6 +442,37 @@
   "relevance_score": 73,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "5f6de77687a999bc",
+  "title": "High-efficient sunlight-driven hydrogen production from methanol steam reforming on a novel photo-thermo-catalysis and thermo-catalysis dual-bed reactor",
+  "authors": [
+   "Donghui Li",
+   "Jie Sun",
+   "Zhenwen Zhang",
+   "Rong Ma",
+   "Jinjia Wei"
+  ],
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "published": "2023-09-30",
+  "year": 2023,
+  "doi": "10.1016/j.fuel.2023.129895",
+  "url": "https://doi.org/10.1016/j.fuel.2023.129895",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Sunlight-Driven"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0016-2361"
  },
  {
   "id": "5912e329067670f4",
@@ -6806,6 +6868,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2639c5938d43e25a",
+  "title": "Spatial charge separation enable Ni2P/Zn0.3Cd0.7S performance of cellulose photoreforming",
+  "authors": [
+   "Fuyan Kang",
+   "Heng Zhao",
+   "Yuqi Liu",
+   "Chengfang Wang",
+   "Zhanhua Huang",
+   "Jinguang Hu"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2023-09-26",
+  "year": 2023,
+  "doi": "10.1016/j.cej.2023.146296",
+  "url": "https://doi.org/10.1016/j.cej.2023.146296",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Ni2P",
+   "Photoreforming"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Northeast Forestry University",
+   "University of Calgary"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "181af30398636586",
   "title": "Near‐Infrared Light‐Induced Reversible Deactivation Radical Polymerization: Expanding Frontiers in Photopolymerization",
   "authors": [
@@ -10020,6 +10118,38 @@
    "Huainan Normal University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "c43115dc22965eb2",
+  "title": "H2 Production from Real Wastes of Polyethylene Terephthalate and Polylactic Acid using CNx/Ni2P Nanocatalyst",
+  "authors": [
+   "Deli̇a Teresa Sponza"
+  ],
+  "journal": "International Journal of Clinical Case Reports and Reviews",
+  "publisher": "Auctores Publishing LLC",
+  "published": "2023-09-22",
+  "year": 2023,
+  "doi": "10.31579/2690-4861/332",
+  "url": "https://doi.org/10.31579/2690-4861/332",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Reactor Engineering & Scale-up",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Ni2P",
+   "Photoreactors",
+   "Photoreforming"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Dokuz Eylül University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2690-4861"
  },
  {
   "id": "b8b08793929fb012",
@@ -14922,6 +15052,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7113c5c04d3bf484",
+  "title": "Facile H2PdCl4-induced photoreforming of insoluble PET waste for C1-C3 compound production",
+  "authors": [
+   "Dani Tong Li",
+   "He Yu",
+   "Ying Huang"
+  ],
+  "journal": "Frontiers in Chemistry",
+  "publisher": "Frontiers Media",
+  "published": "2023-09-19",
+  "year": 2023,
+  "doi": "10.3389/fchem.2023.1265556",
+  "url": "https://doi.org/10.3389/fchem.2023.1265556",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "Sacrificial Reagents"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Université Paris Sciences et Lettres",
+   "Sorbonne Université",
+   "Laboratoire de Physique et d’Étude des Matériaux",
+   "ESPCI Paris",
+   "Ministry of Industry and Information Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2296-2646"
+ },
+ {
   "id": "671583cb90ceca68",
   "title": "Oxygen vacancy and Z-scheme heterojunction cooperate to promote visible light nitrogen photofixation",
   "authors": [
@@ -15931,6 +16097,42 @@
    "University of Illinois Urbana-Champaign"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "83b9dd8d1484c445",
+  "title": "The mechanism of photothermal catalytic reforming of biomass tar: An exploratory study based on density functional theory",
+  "authors": [
+   "Beibei Yan",
+   "Tianxiao Yu",
+   "Jian Li",
+   "Xiaopeng Jia",
+   "Zhiyu Li",
+   "Yuechi Che",
+   "Guanyi Chen",
+   "Juan Zhao"
+  ],
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "published": "2023-09-18",
+  "year": 2023,
+  "doi": "10.1016/j.fuel.2023.129838",
+  "url": "https://doi.org/10.1016/j.fuel.2023.129838",
+  "source": "openalex",
+  "categories": [
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Photothermal Catalysis"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Tianjin University",
+   "Tianjin University of Commerce",
+   "Lanzhou Jiaotong University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0016-2361"
  },
  {
   "id": "74971c32a7ff77e1",

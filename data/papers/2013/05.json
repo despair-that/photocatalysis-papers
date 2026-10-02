@@ -363,6 +363,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2e36f47888fdfe29",
+  "title": "Soft-chemical method for fabrication of SnO–TiO2 nanocomposites with enhanced photocatalytic activity",
+  "authors": [
+   "Qiwen Yan",
+   "Jingyu Wang",
+   "Xijiang Han",
+   "Zhihong Liu"
+  ],
+  "journal": "Journal of materials research/Pratt's guide to venture capital sources",
+  "publisher": "Springer Nature",
+  "published": "2013-05-31",
+  "year": 2013,
+  "doi": "10.1557/jmr.2013.135",
+  "url": "https://doi.org/10.1557/jmr.2013.135",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Harbin Institute of Technology",
+   "Wuhan University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0884-1616"
+ },
+ {
   "id": "27001bb0351f6b78",
   "title": "Visible light photocatalytic degradation of methyl orange in aqueous suspension by using nanocrystalline TiO2 impregnated with metal-free phthalocyanine pigment",
   "authors": [
@@ -4107,6 +4138,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2ad4e05e259f2a92",
+  "title": "ChemInform Abstract: Organic Molecules as Mediators and Catalysts for Photocatalytic and Electrocatalytic CO2 Reduction",
+  "authors": [
+   "Yeonji Oh",
+   "Xile Hu"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2013-05-23",
+  "year": 2013,
+  "doi": "10.1002/chin.201324223",
+  "url": "https://doi.org/10.1002/chin.201324223",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Photocatalysis"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-10-02",
+  "issn": "0009-2975"
+ },
+ {
   "id": "281c0c7807bb8453",
   "title": "ChemInform Abstract: Long‐Lived Charge Separated States in Nanostructured Semiconductor Photoelectrodes for the Production of Solar Fuels",
   "authors": [
@@ -6875,6 +6934,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "344a0bc906f2f1e0",
+  "title": "Spinodal Decomposition in the TiO2–VO2 System",
+  "authors": [
+   "Zenji Hiroi",
+   "Hiroaki Hayamizu",
+   "Toru Yoshida",
+   "Yuji Muraoka",
+   "Yoshihiko Okamoto",
+   "Jun-ichi Yamaura",
+   "Yutaka Ueda"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society",
+  "published": "2013-05-16",
+  "year": 2013,
+  "doi": "10.1021/cm400236p",
+  "url": "https://doi.org/10.1021/cm400236p",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "The University of Tokyo"
+  ],
+  "added": "2026-10-02",
+  "issn": "0897-4756"
+ },
+ {
   "id": "1080ee66eaeec309",
   "title": "Hybrid metal oxides quantum dots/TiO2 block composites: Facile synthesis and photocatalysis application",
   "authors": [
@@ -8854,6 +8946,32 @@
    "Showa Corporation"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "8cc7c990902e64b3",
+  "title": "α‐Alkylation of Carbonyl Compounds",
+  "authors": [
+   "Marek Remeš",
+   "Ján Veselý"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2013-05-10",
+  "year": 2013,
+  "doi": "10.1002/9781118604755.ch08",
+  "url": "https://doi.org/10.1002/9781118604755.ch08",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Organic Synthesis",
+   "Photoredox"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "8b63b8f4316d9608",
@@ -11632,6 +11750,47 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ddd531ede4d3070d",
+  "title": "Ethanol Photoreaction on RuOx/Ru-Modified TiO2(110)",
+  "authors": [
+   "Shankhamala Kundu",
+   "Alba Beatriz Vidal",
+   "M. A. Nadeem",
+   "Sanjaya D. Senanayake",
+   "Hicham Idriss",
+   "Peixuan Liu",
+   "José A. Rodríguez",
+   "Darío J. Stacchiola"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2013-05-02",
+  "year": 2013,
+  "doi": "10.1021/jp4015367",
+  "url": "https://doi.org/10.1021/jp4015367",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Computational & DFT",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "DFT",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Brookhaven National Laboratory",
+   "Instituto Venezolano de Investigaciones Científicas",
+   "University of Aberdeen",
+   "Robert Gordon University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1932-7447"
+ },
+ {
   "id": "d276502a73b9ceca",
   "title": "ChemInform Abstract: Semiconductor Photocatalysis—Mechanistic and Synthetic Aspects",
   "authors": [
@@ -11656,6 +11815,35 @@
    "Friedrich-Alexander-Universität Erlangen-Nürnberg"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "cca8eaa7be5a3db4",
+  "title": "Influence of Hydroxylamine Concentration on Structural and Electrical Properties of Titanium Oxide Films",
+  "authors": [
+   "Hiroki Ishizaki",
+   "Seishiro Ito"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2013-05-02",
+  "year": 2013,
+  "doi": "10.1149/05302.0211ecst",
+  "url": "https://doi.org/10.1149/05302.0211ecst",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Tokyo University of Science",
+   "Kindai University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1938-5862"
  },
  {
   "id": "b9fe16b411125ccd",
@@ -12490,6 +12678,37 @@
    "Friedrich-Alexander-Universität Erlangen-Nürnberg"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a5b03ff3c9dcf87e",
+  "title": "Nanostructured materials for solar energy conversion",
+  "authors": [
+   "Son Hoang"
+  ],
+  "journal": "Texas ScholarWorks (Texas Digital Library)",
+  "publisher": "Texas Digital Library",
+  "published": "2013-05-01",
+  "year": 2013,
+  "doi": "",
+  "url": "http://hdl.handle.net/2152/22105",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photoelectrochemistry",
+   "Semiconductors",
+   "Solar Fuels",
+   "TiO2"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "a26998e00e06858b",
@@ -13380,6 +13599,36 @@
    "Université de Lorraine"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "09816fa597787c9e",
+  "title": "Catalysis of the Photodecomposition of Chloroform by a Polystyrene Anion Exchange Resin",
+  "authors": [
+   "Laura A. Peña",
+   "Alissa M. Chan",
+   "Larissa R. Cohen",
+   "Karen Hou",
+   "Brent M. Harvey",
+   "Patrick E. Hoggard"
+  ],
+  "journal": "Current Catalysis",
+  "publisher": "",
+  "published": "2013-05-01",
+  "year": 2013,
+  "doi": "10.2174/2211544711302020001",
+  "url": "https://doi.org/10.2174/2211544711302020001",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "2211-5447"
  },
  {
   "id": "04d0c541cc188f22",

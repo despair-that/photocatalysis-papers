@@ -1,0 +1,113 @@
+[
+ {
+  "id": "0f0498b0d35bd680",
+  "title": "Influence of g-C3N4Nanosheets on Thermal Stability and Mechanical Properties of Biopolymer Electrolyte Nanocomposite Films: A Novel Investigation",
+  "authors": [
+   "Yongqian Shi",
+   "Saihua Jiang",
+   "Keqing Zhou",
+   "Chenlu Bao",
+   "Bin Yu",
+   "Xiaodong Qian",
+   "Bibo Wang",
+   "Ningning Hong",
+   "Panyue Wen",
+   "Zhou Gui",
+   "Yuan Z. Hu",
+   "Richard K.K. Yuen"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society",
+  "published": "2013-12-06",
+  "year": 2013,
+  "doi": "10.1021/am4044932",
+  "url": "https://doi.org/10.1021/am4044932",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Nanosheets",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 25,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "State Key Laboratory of Fire Science",
+   "National University of Singapore",
+   "City University of Hong Kong"
+  ],
+  "added": "2026-10-02",
+  "issn": "1944-8244"
+ },
+ {
+  "id": "263bb59c084498e8",
+  "title": "CdS/TiO2 composite films for methylene blue photodecomposition under visible light irradiation and non-photocorrosion of cadmium sulfide",
+  "authors": [
+   "M.E. Hernández-Torres",
+   "María Ojeda-Carrera",
+   "Manuel Sánchez-Cantú",
+   "Rutilo Silva-González",
+   "J. M. Gracia-Jiménez"
+  ],
+  "journal": "Chemical Papers",
+  "publisher": "Springer Science+Business Media",
+  "published": "2013-12-05",
+  "year": 2013,
+  "doi": "10.2478/s11696-013-0514-6",
+  "url": "https://doi.org/10.2478/s11696-013-0514-6",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Dye Degradation",
+   "Light Irradiation",
+   "Related",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Benemérita Universidad Autónoma de Puebla"
+  ],
+  "added": "2026-10-02",
+  "issn": "0366-6352"
+ },
+ {
+  "id": "fd733cee47171981",
+  "title": "Synthesis and photoactivity of nanostructured CdS–TiO2 composite catalysts",
+  "authors": [
+   "Xin Yuan Li",
+   "Ting Xia",
+   "Changhui Xu",
+   "James B. Murowchick",
+   "Xiaobo Chen"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2013-12-03",
+  "year": 2013,
+  "doi": "10.1016/j.cattod.2013.10.086",
+  "url": "https://doi.org/10.1016/j.cattod.2013.10.086",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Related",
+   "TiO2"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "South China Agricultural University",
+   "University of Missouri–Kansas City"
+  ],
+  "added": "2026-10-02",
+  "issn": "0920-5861"
+ }
+]

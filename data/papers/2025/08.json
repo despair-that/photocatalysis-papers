@@ -7655,6 +7655,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "9f121826d6ffe6d4",
+  "title": "Eco-Friendly Solar-Powered H2 Generation from Plastic Waste Using Earth-Abundant Cu-Doped ZnS Catalysts",
+  "authors": [
+   "Zhen Li",
+   "Ye Wang",
+   "Kwang-Leong Choy"
+  ],
+  "journal": "Nanomaterials",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2025-08-26",
+  "year": 2025,
+  "doi": "10.3390/nano15171311",
+  "url": "https://doi.org/10.3390/nano15171311",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Doping",
+   "Photocatalysis",
+   "Photoreforming",
+   "Visible Light",
+   "ZnS"
+  ],
+  "relevance_score": 85,
+  "affiliations": [
+   "Duke Kunshan University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2079-4991"
+ },
+ {
   "id": "9cf45e2af384119e",
   "title": "Decatungstate-based photocatalysts for organic transformations",
   "authors": [
@@ -12587,6 +12623,39 @@
   "added": "2026-07-26"
  },
  {
+  "id": "08f4f2bc923f1bdf",
+  "title": "Visible-light-driven methanol photo-reforming over cobalt oxides nanofibers: Insights into synthesis, bandgap engineering, and catalytic efficiency",
+  "authors": [
+   "Nasser A.M. Barakat",
+   "Aghareed M. Tayeb",
+   "Rahma Hamad",
+   "Rasha A. Hefny"
+  ],
+  "journal": "JCIS Open",
+  "publisher": "Elsevier BV",
+  "published": "2025-08-23",
+  "year": 2025,
+  "doi": "10.1016/j.jciso.2025.100148",
+  "url": "https://doi.org/10.1016/j.jciso.2025.100148",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Visible Light"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Minia University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2666-934X"
+ },
+ {
   "id": "07004521d276555e",
   "title": "Rational design of high visible light-harvesting photoelectrode for simultaneous detection of enrofloxacin residue markers with a dual-channel cathodic photoelectrochemical aptasensing approach",
   "authors": [
@@ -14638,6 +14707,56 @@
    "University of Oulu"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "1617305aae9273c4",
+  "title": "Recent advances in photocatalytic plastic waste conversion: a review on renewable energy pathways",
+  "authors": [
+   "Damian Christopher Selvam",
+   "Yuvarajan Devarajan",
+   "Prakash Ranjan Behera",
+   "Honganur Raju Manjunath",
+   "Krunal H. Ajmeri",
+   "Neeraj Das",
+   "Chamarajanagar Gopal Ramachandra"
+  ],
+  "journal": "Reviews in Inorganic Chemistry",
+  "publisher": "De Gruyter",
+  "published": "2025-08-22",
+  "year": 2025,
+  "doi": "10.1515/revic-2025-0061",
+  "url": "https://doi.org/10.1515/revic-2025-0061",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Charge Carriers",
+   "Charge Transfer",
+   "Defect Engineering",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoreforming",
+   "Radical Chemistry",
+   "Selective Oxidation",
+   "TiO2"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Saveetha University",
+   "Siksha O Anusandhan University",
+   "Jain University",
+   "Parul University",
+   "Presidency University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0193-4929"
  },
  {
   "id": "1133900482f4b9c3",
@@ -30964,6 +31083,60 @@
   "added": "2026-07-26"
  },
  {
+  "id": "9d3b923464894f30",
+  "title": "Enhancing Hydrogen Production from Bioenergy Crops via Photoreforming",
+  "authors": [
+   "Meshal Aljohani",
+   "Lan Lan",
+   "Helen Daly",
+   "Pedro Verdía",
+   "Min Hu",
+   "Suhaib Nisar",
+   "Shengzhe Ding",
+   "Jason Patrick Hallett",
+   "Neil Watkins",
+   "William J. Macalpine",
+   "Rebecca L. Rowe",
+   "Agnieszka Brandt-Talbot",
+   "Gregg R. Sanford",
+   "John Ralph",
+   "Shawn D. Mansfield",
+   "Carmine D’Agostino",
+   "Xiaolei Fan",
+   "Christopher Hardacre"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2025-08-08",
+  "year": 2025,
+  "doi": "10.1021/jacs.5c01871",
+  "url": "https://doi.org/10.1021/jacs.5c01871",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "King Abdulaziz City for Science and Technology",
+   "University of Manchester",
+   "Imperial College London",
+   "Rothamsted Research",
+   "UK Centre for Ecology & Hydrology",
+   "University of Wisconsin–Madison",
+   "University of Wisconsin System",
+   "Great Lakes Bioenergy Research Center",
+   "University of British Columbia",
+   "University of Bologna"
+  ],
+  "added": "2026-10-02",
+  "issn": "0002-7863"
+ },
+ {
   "id": "9cd52b99856e3f0f",
   "title": "Quasi-homogeneous catalytic platform of efficient enantioselective dual photocatalysis: Brush-supported Ir complexes/chiral phosphoric acids for the economic synthesis of optically active molecules",
   "authors": [
@@ -35287,6 +35460,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "05642bd3a9d0cb5e",
+  "title": "Enhancing Oxidative Dehydrogenation of Alcohols for Clean Hydrogen Production from Exhaustive TiO 2 -Decorated Photocatalysts under LED Irradiation",
+  "authors": [
+   "Oriane Delaunay",
+   "Audrey Denicourt-Nowicki",
+   "Alain Roucoux"
+  ],
+  "journal": "ACS Omega",
+  "publisher": "American Chemical Society",
+  "published": "2025-08-06",
+  "year": 2025,
+  "doi": "10.1021/acsomega.5c03794",
+  "url": "https://doi.org/10.1021/acsomega.5c03794",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Quantum Efficiency",
+   "Quantum Yield",
+   "Scale-up"
+  ],
+  "relevance_score": 92,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut des Sciences Chimiques de Rennes",
+   "École Nationale Supérieure de Chimie de Rennes",
+   "Université de Rennes"
+  ],
+  "added": "2026-10-02",
+  "issn": "2470-1343"
+ },
+ {
   "id": "fbcb8b1e6c5487eb",
   "title": "Boosting photocatalytic CO2 methanation through TiO2/CdS S-scheme heterojunction and fs-TAS mechanism study",
   "authors": [
@@ -38659,6 +38871,50 @@
    "Hubei University of Arts and Science"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "42429d502e3e9d8a",
+  "title": "Emulsion Droplet Microreactors for Efficient Heterogeneous Photoreforming Hydrogen Evolution",
+  "authors": [
+   "Yanning Qu",
+   "Beibei Lou",
+   "Gang Kevin Li",
+   "Xinyang Zhang",
+   "Dongfeng Sun",
+   "Lin Liao",
+   "Yuan Yu",
+   "Shihu Lei",
+   "Ru Yan"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2025-08-04",
+  "year": 2025,
+  "doi": "10.1002/adfm.202513558",
+  "url": "https://doi.org/10.1002/adfm.202513558",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoreforming",
+   "Quantum Efficiency",
+   "Quantum Yield"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Shaanxi University of Science and Technology",
+   "The University of Melbourne",
+   "Taiyuan University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1616-301X"
  },
  {
   "id": "3616987452f14ed1",

@@ -14749,6 +14749,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b28ee5883609e91b",
+  "title": "Floating Carbon Nitride Composites for Practical Solar Reforming of Pre-treated Wastes to Hydrogen Gas",
+  "authors": [
+   "Stuart Linley",
+   "Erwin Reisner"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2022-10-19",
+  "year": 2022,
+  "doi": "10.26434/chemrxiv-2022-t0jzc",
+  "url": "https://doi.org/10.26434/chemrxiv-2022-t0jzc",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Hydrogen Production",
+   "Ni2P",
+   "Photocatalysis",
+   "Photoreforming",
+   "Recyclability"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "University of Cambridge"
+  ],
+  "added": "2026-10-02",
+  "issn": "2573-2293"
+ },
+ {
   "id": "b28aa2a66f3265ee",
   "title": "Facet‐specific Active Surface Regulation of Bi x MO y (M=Mo, V, W) Nanosheets for Boosted Photocatalytic CO 2 reduction",
   "authors": [
@@ -19980,6 +20016,38 @@
    "University of Strathclyde"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "329d7552ade2d7fe",
+  "title": "Characterization and application of a bismuth titanate Bi2Ti2O7 synthetized through a solvothermal route for glycerol photooxidation and photoreforming",
+  "authors": [
+   "Mauricio Musso",
+   "Santiago Veiga",
+   "Andrea De León",
+   "Angie Quevedo",
+   "Juan Bussi"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "2022-10-17",
+  "year": 2022,
+  "doi": "10.1016/j.matlet.2022.133346",
+  "url": "https://doi.org/10.1016/j.matlet.2022.133346",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photooxidation",
+   "Photoreforming"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Universidad de la República de Uruguay"
+  ],
+  "added": "2026-10-02",
+  "issn": "0167-577X"
  },
  {
   "id": "30b2adc4d4ca3f7b",

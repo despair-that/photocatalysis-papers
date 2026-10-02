@@ -10899,6 +10899,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "1d7ed6a530b77391",
+  "title": "Engineering Au-Pt atomic alloy cocatalysts for enhanced H2 production from photo-reforming of lignocellulosic biomass wastes",
+  "authors": [
+   "Fangjie Ding",
+   "Hongbo Yu",
+   "Renyong Tu",
+   "Sha Li",
+   "Lin Chen",
+   "Bing Li",
+   "Jianzhong Guo",
+   "Chunzheng Wu"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2024-07-24",
+  "year": 2024,
+  "doi": "10.1016/j.cej.2024.154260",
+  "url": "https://doi.org/10.1016/j.cej.2024.154260",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Photoreforming"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Zhejiang A & F University",
+   "Ningbo University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "1c16606285553ae3",
   "title": "Mechanistic study on photocatalysis properties of Cu3N/TiO2 heterojunction nanorods",
   "authors": [

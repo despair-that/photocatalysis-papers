@@ -3019,6 +3019,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "81dc31697c4c0150",
+  "title": "Solar‐Driven Biomass Reforming for Hydrogen Generation: Principles, Advances, and Challenges",
+  "authors": [
+   "Pan Hu",
+   "Jinglin Li",
+   "Yangang Wang",
+   "Qineng Xia",
+   "Liang Qiu",
+   "Baowen Zhou"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2024-05-30",
+  "year": 2024,
+  "doi": "10.1002/advs.202402651",
+  "url": "https://doi.org/10.1002/advs.202402651",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Photocatalysis",
+   "Photoreforming",
+   "Semiconductors"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Shanghai Jiao Tong University",
+   "Jiaxing University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2198-3844"
+ },
+ {
   "id": "7ea85ed03790be2c",
   "title": "Construction of Fe(III) Active Sites on Phenanthroline-Grafted g-C 3 N 4 : Reduced Work Function and Enhanced Intramolecular Charge Transfer for Efficient N 2 Photofixation",
   "authors": [
@@ -5494,6 +5531,44 @@
    "Pandit Ravishankar Shukla University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "e2ff56841c3cbbb5",
+  "title": "Experimental investigation of solar hydrogen production via photo-thermal driven steam methane reforming",
+  "authors": [
+   "Hao Dong",
+   "Juan Fang",
+   "Xiangyu Yan",
+   "Buchu Lu",
+   "Qibin Liu",
+   "Xunliang Liu"
+  ],
+  "journal": "Applied Energy",
+  "publisher": "Elsevier BV",
+  "published": "2024-05-28",
+  "year": 2024,
+  "doi": "10.1016/j.apenergy.2024.123532",
+  "url": "https://doi.org/10.1016/j.apenergy.2024.123532",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Solar Hydrogen"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Science and Technology Beijing",
+   "Chinese Academy of Sciences",
+   "Institute of Engineering Thermophysics",
+   "State Key Laboratory of Multiphase Flow in Power Engineering",
+   "Xi'an Jiaotong University",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-10-02",
+  "issn": "0306-2619"
  },
  {
   "id": "dc0c8346456b210f",
@@ -22323,6 +22398,42 @@
   "added": "2026-07-26"
  },
  {
+  "id": "3ff36488ca068283",
+  "title": "From Plastic Waste to Green Hydrogen and Valuable Chemicals Using Sunlight and Water",
+  "authors": [
+   "Thi Kim Anh Nguyen",
+   "Thành Trần-Phú",
+   "Rahman Daiyan",
+   "Xuan Minh Chau Ta",
+   "Rose Amal",
+   "Antonio Tricoli"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2024-05-16",
+  "year": 2024,
+  "doi": "10.1002/anie.202401746",
+  "url": "https://doi.org/10.1002/anie.202401746",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "The University of Sydney",
+   "National Laboratory of the Rockies",
+   "UNSW Sydney"
+  ],
+  "added": "2026-10-02",
+  "issn": "1433-7851"
+ },
+ {
   "id": "3cf3bb27da0a8c2a",
   "title": "Symmetry‐breaking of Dibenzo[b,d]thiophene Sulfone Enhancing Polaron Generation for Boosted Photocatalytic Hydrogen Evolution",
   "authors": [
@@ -23745,6 +23856,42 @@
    "Jain University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a1391e37ea92fecd",
+  "title": "Understanding the Fundamentals and Classifications of Scalable Solar Hydrogen Production",
+  "authors": [
+   "Bishal Das",
+   "Meghali Devi",
+   "Siddhartha Sankar Dhar"
+  ],
+  "journal": "ACS symposium series",
+  "publisher": "American Chemical Society",
+  "published": "2024-05-15",
+  "year": 2024,
+  "doi": "10.1021/bk-2024-1467.ch005",
+  "url": "https://doi.org/10.1021/bk-2024-1467.ch005",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Photoelectrochemistry",
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Photoreforming",
+   "Solar Hydrogen"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "National Institute Of Technology Silchar"
+  ],
+  "added": "2026-10-02",
+  "issn": "0097-6156"
  },
  {
   "id": "9b27a8e01bdd9f97",
@@ -37376,6 +37523,42 @@
    "Peking University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "bfea4ce177574f92",
+  "title": "Photoreforming lignocellulose to hydrogen over noble-metal-free Ni(OH)2/Cd0.5Zn0.5S nanotwins",
+  "authors": [
+   "Zhongyuan Li",
+   "Feng Liu",
+   "Xueli Yan",
+   "Yi Wang",
+   "Kejian Lu",
+   "Jie Liu",
+   "Yupeng Qiao",
+   "Maochang Liu"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2024-05-07",
+  "year": 2024,
+  "doi": "10.1016/j.ijhydene.2024.05.016",
+  "url": "https://doi.org/10.1016/j.ijhydene.2024.05.016",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "State Key Laboratory of Multiphase Flow in Power Engineering",
+   "Xi'an Jiaotong University",
+   "Gree (China)",
+   "Liaoning Shihua University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
  },
  {
   "id": "bf177cfd4c08498a",

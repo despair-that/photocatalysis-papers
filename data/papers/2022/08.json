@@ -31445,6 +31445,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7022a524a095e3ed",
+  "title": "Green hydrogen production via photo-reforming of bio-renewable resources",
+  "authors": [
+   "Debarun Banerjee",
+   "Nidhi Kushwaha",
+   "Nagaraj P. Shetti",
+   "Tejraj Malleshappa Aminabhavi",
+   "Ejaz Ahmạd"
+  ],
+  "journal": "Renewable and Sustainable Energy Reviews",
+  "publisher": "Elsevier BV",
+  "published": "2022-08-06",
+  "year": 2022,
+  "doi": "10.1016/j.rser.2022.112827",
+  "url": "https://doi.org/10.1016/j.rser.2022.112827",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Indian Institute of Technology Dhanbad",
+   "KLE Technological University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1364-0321"
+ },
+ {
   "id": "661598bb7350c093",
   "title": "Bromo- and iodo-bridged building units in metal-organic frameworks for enhanced carrier transport and CO2 photoreduction by water vapor",
   "authors": [
@@ -34117,6 +34150,77 @@
    "Henan Polytechnic University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "776e8980546fddea",
+  "title": "High selective conversion of fructose to lactic acid by photocatalytic reforming of BiOBr/Znx@SnO2-n in alkaline condition",
+  "authors": [
+   "Yuhang Zhang",
+   "Shaocong Yang",
+   "Zhen Wang",
+   "Hongjuan Qin",
+   "Gaojin Lyu",
+   "Jiachuan Chen",
+   "Guihua Yang"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2022-08-04",
+  "year": 2022,
+  "doi": "10.1016/j.jcat.2022.07.042",
+  "url": "https://doi.org/10.1016/j.jcat.2022.07.042",
+  "source": "openalex",
+  "categories": [
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Qilu University of Technology",
+   "Shandong Academy of Sciences"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9517"
+ },
+ {
+  "id": "6ba43f1fd642b06d",
+  "title": "Selective superoxide radical generation for glucose photoreforming into arabinose",
+  "authors": [
+   "Jiu Wang",
+   "Heng Zhao",
+   "Peng Liu",
+   "Nael G. Yasri",
+   "Na Zhong",
+   "Md Golam Kibria",
+   "Jinguang Hu"
+  ],
+  "journal": "Journal of Energy Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2022-08-04",
+  "year": 2022,
+  "doi": "10.1016/j.jechem.2022.07.028",
+  "url": "https://doi.org/10.1016/j.jechem.2022.07.028",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoreforming",
+   "ROS",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Calgary",
+   "Kunming University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2095-4956"
  },
  {
   "id": "60645141b99fbba5",

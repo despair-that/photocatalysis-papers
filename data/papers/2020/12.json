@@ -10172,6 +10172,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "fbaf421ab3fd0dcd",
+  "title": "Braiding Uniform Magnetic Field Inside a Cylindrical Reactor for Photocatalytic Reforming of Petrochemical Wastewater",
+  "authors": [
+   "Zulkifly Ab Aziz",
+   "Mohd Mawardi Saari",
+   "Chin Sim Yee",
+   "Mohd Aufa Hadi Putera Zaini",
+   "Nurul A’in Nadzri"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2020-12-21",
+  "year": 2020,
+  "doi": "10.1109/etcce51779.2020.9350888",
+  "url": "https://doi.org/10.1109/etcce51779.2020.9350888",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "Wastewater"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "Universiti Malaysia Pahang Al-Sultan Abdullah"
+  ],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "fa756d12f55b8425",
   "title": "Covalent Organic Frameworks for Sunlight-driven Hydrogen Evolution",
   "authors": [
@@ -31055,6 +31088,38 @@
    "Universiti Tunku Abdul Rahman"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "65670aa6fb62ccda",
+  "title": "Plastic and mixed waste as feedstocks for solar-driven H₂ production",
+  "authors": [
+   "Taylor Uekert"
+  ],
+  "journal": "Apollo (University of Cambridge)",
+  "publisher": "University of Cambridge",
+  "published": "2020-12-01",
+  "year": 2020,
+  "doi": "10.17863/cam.66216",
+  "url": "https://doi.org/10.17863/cam.66216",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "g-C3N4 & Carbon Materials",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Co-catalysts",
+   "Photocatalysis",
+   "Photoreforming",
+   "Quantum Dots",
+   "Visible Light"
+  ],
+  "relevance_score": 87,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "62f4fec3de1a62d1",

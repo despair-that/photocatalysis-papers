@@ -1,0 +1,228 @@
+[
+ {
+  "id": "5b2417d4e1f11dc4",
+  "title": "Enhanced photosensitized degradation of rhodamine B on CdS/TiO2 nanocomposites under visible light irradiation",
+  "authors": [
+   "Wenjuan Li",
+   "Xiaoli Cui",
+   "Peixian Wang",
+   "Yu Cheng Shao",
+   "Danzhen Li",
+   "Fei Teng"
+  ],
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "2013-04-30",
+  "year": 2013,
+  "doi": "10.1016/j.materresbull.2013.04.057",
+  "url": "https://doi.org/10.1016/j.materresbull.2013.04.057",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Dye Degradation",
+   "Light Irradiation",
+   "Related",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Qufu Normal University",
+   "Fuzhou University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0025-5408"
+ },
+ {
+  "id": "f1835336162212fe",
+  "title": "Raman spectroscopy of melamine at high pressures up to 60 GPa",
+  "authors": [
+   "Shoko Odake",
+   "Pavel V. Zinin",
+   "L. C. Ming"
+  ],
+  "journal": "High Pressure Research",
+  "publisher": "Taylor & Francis",
+  "published": "2013-04-24",
+  "year": 2013,
+  "doi": "10.1080/08957959.2013.788696",
+  "url": "https://doi.org/10.1080/08957959.2013.788696",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "University of Hawaiʻi at Mānoa",
+   "University of Hawaii System"
+  ],
+  "added": "2026-10-02",
+  "issn": "0895-7959"
+ },
+ {
+  "id": "c68908e7d82607bb",
+  "title": "Metal‐Free Catalysis of Ammonia–Borane Dehydrogenation/Regeneration for a Highly Efficient and Facilely Recyclable Hydrogen‐Storage Material",
+  "authors": [
+   "Ziwei Tang",
+   "Xiaowei Chen",
+   "Hao Chen",
+   "Limin Wu",
+   "Xuebin Yu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2013-04-22",
+  "year": 2013,
+  "doi": "10.1002/anie.201301049",
+  "url": "https://doi.org/10.1002/anie.201301049",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 25,
+  "affiliations": [
+   "Fudan University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1433-7851"
+ },
+ {
+  "id": "d65505ee22168cd8",
+  "title": "Ferromagnetism and antiferromagnetism in hydrogenated g-C3N4: A first-principles study",
+  "authors": [
+   "Huanhuan Qiu",
+   "Zhijun Wang",
+   "Xian-Lei Sheng"
+  ],
+  "journal": "Physica B Condensed Matter",
+  "publisher": "Elsevier BV",
+  "published": "2013-04-18",
+  "year": 2013,
+  "doi": "10.1016/j.physb.2013.03.047",
+  "url": "https://doi.org/10.1016/j.physb.2013.03.047",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "First-Principles",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Institute of Physics"
+  ],
+  "added": "2026-10-02",
+  "issn": "0921-4526"
+ },
+ {
+  "id": "109a6b71191e7b75",
+  "title": "Experimental and theoretical investigation into the elimination of organic pollutants from solution by layered double hydroxides",
+  "authors": [
+   "Xin Liu",
+   "Xiaofei Zhao",
+   "Yue Zhu",
+   "Fazhi Zhang"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2013-04-16",
+  "year": 2013,
+  "doi": "10.1016/j.apcatb.2013.04.008",
+  "url": "https://doi.org/10.1016/j.apcatb.2013.04.008",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Pollutants",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "State Key Laboratory of Chemical Resource Engineering",
+   "Beijing University of Chemical Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
+  "id": "bee7621e7091a908",
+  "title": "Construction of efficient CdS–TiO2 heterojunction for enhanced photocurrent, photostability, and photoelectron lifetimes",
+  "authors": [
+   "Shankara Sharanappa Kalanur",
+   "Yun Jeong Hwang",
+   "Oh-Shim Joo"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2013-04-08",
+  "year": 2013,
+  "doi": "10.1016/j.jcis.2013.03.049",
+  "url": "https://doi.org/10.1016/j.jcis.2013.03.049",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Heterojunctions",
+   "Related",
+   "TiO2"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Korea Institute of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9797"
+ },
+ {
+  "id": "0984d3fa01339cc2",
+  "title": "H2 evolution under visible light irradiation on La and Cr co-doped NaTaO3 prepared by spray pyrolysis from polymeric precursor",
+  "authors": [
+   "Hyun Woo Kang",
+   "Sung Nam Lim",
+   "Seung Bin Park",
+   "Ah-Hyung Alissa Park"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2013-04-06",
+  "year": 2013,
+  "doi": "10.1016/j.ijhydene.2013.03.048",
+  "url": "https://doi.org/10.1016/j.ijhydene.2013.03.048",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Light Irradiation",
+   "Related",
+   "Visible Light"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Columbia University",
+   "Korea Advanced Institute of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ }
+]

@@ -241,6 +241,49 @@
   "added": "2026-07-24"
  },
  {
+  "id": "61f8a75220f4a482",
+  "title": "High Pressure Photoreduction of CO2: Effect of Catalyst Formulation, Hole Scavenger Addition and Operating Conditions",
+  "authors": [
+   "Elnaz Bahadori",
+   "Antonio Tripodi",
+   "Alberto Villa",
+   "Carlo Pirola",
+   "Laura Prati",
+   "Gianguido Ramis",
+   "Ilenia Rossetti"
+  ],
+  "journal": "Catalysts",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2018-09-30",
+  "year": 2018,
+  "doi": "10.3390/catal8100430",
+  "url": "https://doi.org/10.3390/catal8100430",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Solar Fuels",
+   "Reactor Engineering & Scale-up",
+   "Semiconductor Materials",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Na2S/Na2SO3",
+   "Photoreactors",
+   "Photoreduction",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "University of Milan",
+   "Institute of Molecular Science and Technologies",
+   "National Interuniversity Consortium of Materials Science and Technology",
+   "University of Genoa"
+  ],
+  "added": "2026-10-02",
+  "issn": "2073-4344"
+ },
+ {
   "id": "faa5c567e9cf9ede",
   "title": "Photocatalytic Removal of 17α-Ethinyl Estradiol Using the Bi2O3/Bi2O4 Photocatalyst",
   "authors": [
@@ -15764,6 +15807,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "74bcdf204ce0e0a1",
+  "title": "Assembling Carbon into Anatase TiO 2 as Interstitial Atoms towards Photocatalytic Activity",
+  "authors": [
+   "Teng Wang",
+   "Shuang Song",
+   "Qiang Liu",
+   "Wei Chu",
+   "Luming Li",
+   "Qingsong Huang",
+   "Chengfa Jiang"
+  ],
+  "journal": "European Journal of Inorganic Chemistry",
+  "publisher": "Wiley",
+  "published": "2018-09-13",
+  "year": 2018,
+  "doi": "10.1002/ejic.201800557",
+  "url": "https://doi.org/10.1002/ejic.201800557",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Sichuan University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1099-0682"
+ },
+ {
   "id": "614ce248b08cf689",
   "title": "pH-Mediated Collective and Selective Solar Photocatalysis by a Series of Layered Aurivillius Perovskites",
   "authors": [
@@ -22007,6 +22083,42 @@
    "University of Minho"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "644267d2d8b7b0b7",
+  "title": "Enhanced photoreforming hydrogen production: Pickering interfacial catalysis from a bio-derived biphasic system",
+  "authors": [
+   "Chao Wang",
+   "Enqi Bu",
+   "Ying Chen",
+   "Zhengdong Cheng",
+   "Jingtao Zhang",
+   "Riyang Shu",
+   "Qingbin Song"
+  ],
+  "journal": "Renewable Energy",
+  "publisher": "Elsevier BV",
+  "published": "2018-09-06",
+  "year": 2018,
+  "doi": "10.1016/j.renene.2018.09.001",
+  "url": "https://doi.org/10.1016/j.renene.2018.09.001",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Guangdong University of Technology",
+   "Texas A&M University",
+   "Macau University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0960-1481"
  },
  {
   "id": "61d01f2b2121e7e3",

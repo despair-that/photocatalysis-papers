@@ -9,6 +9,7 @@ sources.
 from __future__ import annotations
 
 import gzip
+import http.client
 import json
 import logging
 import time
@@ -77,7 +78,11 @@ def get_bytes(
                     wait = min(float(retry_after), 120.0)
             log.warning("HTTP %s from %s; retry %d/%d in %.0fs",
                         exc.code, full_url, attempt, retries, wait)
-        except (urllib.error.URLError, TimeoutError, OSError) as exc:
+        except (urllib.error.URLError, TimeoutError, OSError,
+                http.client.HTTPException) as exc:
+            # HTTPException covers IncompleteRead: chunked responses cut off
+            # mid-read by flaky links are worth retrying like any other
+            # transient network error.
             last_error = exc
             wait = 2.0 ** attempt
             log.warning("Network error for %s (%s); retry %d/%d in %.0fs",

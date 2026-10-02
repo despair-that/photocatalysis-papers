@@ -10861,6 +10861,50 @@
   "added": "2026-07-24"
  },
  {
+  "id": "eb073e03d4a68b57",
+  "title": "Electron Microscopy of Photocatalyst TiO2/ZnTiO3 with Cu and Co Additions.",
+  "authors": [
+   "H.A. Calderón",
+   "David Ramírez-Ortega",
+   "Diana Guerrero Arenque",
+   "R. Gómez",
+   "Rodolfo Zanella"
+  ],
+  "journal": "Microscopy and Microanalysis",
+  "publisher": "Oxford University Press",
+  "published": "2023-07-22",
+  "year": 2023,
+  "doi": "10.1093/micmic/ozad067.688",
+  "url": "https://doi.org/10.1093/micmic/ozad067.688",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Perovskites",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Electron-Hole Pairs",
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Perovskites",
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Instituto Politécnico Nacional",
+   "Universidad Autónoma Metropolitana",
+   "Secretaría de Ciencia, Humanidades, Tecnología e Innovación",
+   "Universidad Nacional Autónoma de México"
+  ],
+  "added": "2026-10-02",
+  "issn": "1431-9276"
+ },
+ {
   "id": "d9c5dc096ce8ae68",
   "title": "Effect of biomass waste Limonia acidissima biochar on eco-friendly photocatalysis leachate water treatment system: an experimental investigation",
   "authors": [
@@ -14016,6 +14060,42 @@
    "Universiti Teknologi MARA"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "9f3488d3be46e20d",
+  "title": "Temperature-entropy and energy utilization diagrams for energy, exergy, and energy level analysis in solar water splitting reactions",
+  "authors": [
+   "Buchu Lu",
+   "Fan Jiao",
+   "Chen Chen",
+   "Xiangyu Yan",
+   "Qibin Liu"
+  ],
+  "journal": "Energy",
+  "publisher": "Elsevier BV",
+  "published": "2023-07-20",
+  "year": 2023,
+  "doi": "10.1016/j.energy.2023.128502",
+  "url": "https://doi.org/10.1016/j.energy.2023.128502",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Splitting"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Institute of Engineering Thermophysics",
+   "China Huadian Corporation (China)",
+   "University of Chinese Academy of Sciences",
+   "Zhejiang University of Technology",
+   "State Key Laboratory of Multiphase Flow in Power Engineering",
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-5442"
  },
  {
   "id": "9b22540db335e058",
@@ -20956,6 +21036,39 @@
   "added": "2026-07-26"
  },
  {
+  "id": "0d5f20dc3ef1a97e",
+  "title": "Photoreforming for Lignin Upgrading: A Critical Review",
+  "authors": [
+   "Xi Cheng",
+   "Bruna Palma",
+   "Heng Zhao",
+   "Hongguang Zhang",
+   "Jiu Wang",
+   "Zhangxin Chen",
+   "Jinguang Hu"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2023-07-16",
+  "year": 2023,
+  "doi": "10.1002/cssc.202300675",
+  "url": "https://doi.org/10.1002/cssc.202300675",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "University of Calgary"
+  ],
+  "added": "2026-10-02",
+  "issn": "1864-5631"
+ },
+ {
   "id": "fe518b6b1985b44a",
   "title": "Photoelectrochemical Hydrogen Production from Aqueous Alcohol Solutions Using TiO2 Film Photoanodes",
   "authors": [
@@ -23038,6 +23151,38 @@
    "Nagoya University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "dddac8ac62aa72d1",
+  "title": "Constructing 3D hierarchical TiO2 microspheres with enhanced mass diffusion for efficient glucose photoreforming under modulated reaction conditions",
+  "authors": [
+   "Cai Jun Shi",
+   "Malin Eqi",
+   "Junming Shi",
+   "Zhanhua Huang",
+   "Houjuan Qi"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2023-07-13",
+  "year": 2023,
+  "doi": "10.1016/j.jcis.2023.07.081",
+  "url": "https://doi.org/10.1016/j.jcis.2023.07.081",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Northeast Forestry University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9797"
  },
  {
   "id": "d8f60c8049107dec",
@@ -31084,6 +31229,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "c21b96aa988dd720",
+  "title": "Increasing Profitability of Ethanol Photoreforming by Simultaneous Production of H2 and Acetal",
+  "authors": [
+   "Aleksandr Savateev",
+   "Vitaliy V. Shvalagin",
+   "Junwang Tang"
+  ],
+  "journal": "Global Challenges",
+  "publisher": "Wiley",
+  "published": "2023-07-06",
+  "year": 2023,
+  "doi": "10.1002/gch2.202300078",
+  "url": "https://doi.org/10.1002/gch2.202300078",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Sacrificial Reagents",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "Sacrificial Reagents",
+   "Semiconductors"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "Max Planck Institute of Colloids and Interfaces",
+   "L.V. Pisarzhevskii Institute of Physical Chemistry",
+   "University College London",
+   "Tsinghua University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2056-6646"
+ },
+ {
   "id": "acfe3cc69d2b480d",
   "title": "Nitrogen‐doped Carbon Dots as Biobased Catalysts for Visible Light Driven 1,2‐Functionalization of Olefins through an Atom Transfer Radical Addition Process",
   "authors": [
@@ -34455,6 +34636,44 @@
    "Chongqing Technology and Business University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "ee60e3d21988465f",
+  "title": "Experiment Study of Solar Hydrogen Production by Photo-thermal Driven Steam Methane Reforming with Co/Al2O3 Catalyst",
+  "authors": [
+   "Juan Fang",
+   "Hao Dong",
+   "Qibin Liu",
+   "Xiangyu Yan",
+   "Buchu Lu",
+   "Xunliang Liu"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2023-07-03",
+  "year": 2023,
+  "doi": "10.46855/energy-proceedings-10512",
+  "url": "https://doi.org/10.46855/energy-proceedings-10512",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Solar Hydrogen"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Science and Technology Beijing",
+   "Chinese Academy of Sciences",
+   "Institute of Engineering Thermophysics",
+   "University of Chinese Academy of Sciences",
+   "State Key Laboratory of Multiphase Flow in Power Engineering",
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "d8a4a9d4cfb12a94",

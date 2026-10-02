@@ -440,6 +440,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "073036008312cc5f",
+  "title": "Photoreforming driven by indium hydroxide/oxide nano-objects",
+  "authors": [
+   "Graciane Marin",
+   "Muhammad Irfan Qadir",
+   "Jesum Alves Fernandes",
+   "Marcus V. Castegnaro",
+   "Jonder Morais",
+   "Daniel L. Baptista",
+   "Jaı̈rton Dupont"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2019-08-31",
+  "year": 2019,
+  "doi": "10.1016/j.ijhydene.2019.08.060",
+  "url": "https://doi.org/10.1016/j.ijhydene.2019.08.060",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidade Federal do Rio Grande do Sul",
+   "University of Nottingham"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ },
+ {
   "id": "036b5c67fdd7668f",
   "title": "TiO2 photocatalysis under natural solar radiation for the degradation of the carbapenem antibiotics imipenem and meropenem in aqueous solutions at pilot plant scale",
   "authors": [
@@ -1806,6 +1839,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2166cb0e5b7a67d4",
+  "title": "Hydrogen Photo-Production from Glycerol Using Nickel-Doped TiO2 Catalysts: Effect of Catalyst Pre-Treatment",
+  "authors": [
+   "Jesús Hidalgo-Carrillo",
+   "Juan Martín-Gómez",
+   "Julia Morales",
+   "Juan Carlos Espejo",
+   "Francisco José Urbano",
+   "Alberto Marinas"
+  ],
+  "journal": "Energies",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2019-08-30",
+  "year": 2019,
+  "doi": "10.3390/en12173351",
+  "url": "https://doi.org/10.3390/en12173351",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "University of Córdoba"
+  ],
+  "added": "2026-10-02",
+  "issn": "1996-1073"
+ },
+ {
   "id": "20999245da242cae",
   "title": "A novel magnetic photocatalyst Bi3O4Cl/SrFe12O19: Fabrication, characterization and its photocatalytic activity",
   "authors": [
@@ -2591,6 +2659,43 @@
    "Indian Institute of Technology Kharagpur"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "54b02727aa44bd22",
+  "title": "Photoreforming of Nonrecyclable Plastic Waste over a Carbon Nitride/Nickel Phosphide Catalyst",
+  "authors": [
+   "Taylor Uekert",
+   "Hatice Kasap",
+   "Erwin Reisner"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2019-08-29",
+  "year": 2019,
+  "doi": "10.1021/jacs.9b06872",
+  "url": "https://doi.org/10.1021/jacs.9b06872",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Charge Separation",
+   "Lactic Acid",
+   "Ni2P",
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "University of Cambridge"
+  ],
+  "added": "2026-10-02",
+  "issn": "0002-7863"
  },
  {
   "id": "4faec1ea098deb0c",
@@ -23753,6 +23858,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "584c59563f535685",
+  "title": "Hydrogen and Propane Production From Butyric Acid Photoreforming Over Pt-TiO2",
+  "authors": [
+   "Gabriele Scandura",
+   "Jorge Rodríguez",
+   "Giovanni Palmisano"
+  ],
+  "journal": "Frontiers in Chemistry",
+  "publisher": "Frontiers Media",
+  "published": "2019-08-07",
+  "year": 2019,
+  "doi": "10.3389/fchem.2019.00563",
+  "url": "https://doi.org/10.3389/fchem.2019.00563",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Electron-Hole Pairs",
+   "Photocatalysis",
+   "Photoluminescence",
+   "Photoreforming",
+   "Solar Light",
+   "TiO2",
+   "Wastewater"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Khalifa University of Science and Technology",
+   "Masdar Institute of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2296-2646"
+ },
+ {
   "id": "4f2ac310a0e9559d",
   "title": "Enantioselective benzylic C–H arylation via photoredox and nickel dual catalysis",
   "authors": [
@@ -30274,6 +30417,41 @@
   "relevance_score": 67,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "33dd6cfd47bc3570",
+  "title": "Photo-induced Dry Reforming of Methane Using Metal Nanoparticles/ Metal Oxide Photocatalysts",
+  "authors": [
+   "雅浩 宮内",
+   "Masahiro Miyauchi",
+   "州作 庄司",
+   "Shusaku Shoji",
+   "張葉平",
+   "Yohei Cho",
+   "晃 山口",
+   "Akira Yamaguchi",
+   "武志 藤田",
+   "Takeshi Fujita",
+   "英樹 阿部",
+   "Hideki Abe"
+  ],
+  "journal": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "published": "2019-08-01",
+  "year": 2019,
+  "doi": "",
+  "url": "http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100794770",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "3357b8e20623ec31",

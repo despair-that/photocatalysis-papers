@@ -1939,6 +1939,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "54436a9f02b3acaf",
+  "title": "Óxidos de ferro dopados com vanádio ou nióbio como catalisadores em reações de oxidação",
+  "authors": [
+   "Henrique S. Oliveira"
+  ],
+  "journal": "Americanae (AECID Library)",
+  "publisher": "",
+  "published": "2013-02-25",
+  "year": 2013,
+  "doi": "",
+  "url": "http://hdl.handle.net/1843/SFSA-9ATR8X",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Dye Degradation",
+   "Photocatalysis",
+   "Pollutants"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "392d08cfd97a09f1",
   "title": "SODIUM TANTALATE SPHERES PREPARED VIA AN ELECTROCHEMICAL PROCESS AND THEIR PHOTOELECTROCHEMICAL BEHAVIOR",
   "authors": [
@@ -3210,6 +3238,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "fe44ca6cb693bf8f",
+  "title": "Effect of Ultrathin Al2O3Layer on TiO2Surface in CdS/CdSe Co-Sensitized Quantum Dot Solar Cells",
+  "authors": [
+   "Sang Do Sung",
+   "Iseul Lim",
+   "Myung Soo Kim",
+   "Wan In Lee"
+  ],
+  "journal": "Bulletin of the Korean Chemical Society",
+  "publisher": "Wiley",
+  "published": "2013-02-20",
+  "year": 2013,
+  "doi": "10.5012/bkcs.2013.34.2.411",
+  "url": "https://doi.org/10.5012/bkcs.2013.34.2.411",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "2D Materials",
+   "Electrochemical Characterization"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Quantum Dots",
+   "TiO2",
+   "Transient Photocurrent",
+   "Ultrathin"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Inha University",
+   "Seoul National University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0253-2964"
+ },
+ {
   "id": "d24a8119fdc027b6",
   "title": "Production of visible activity and UV performance enhancement of ZnO photocatalyst via vacuum deoxidation",
   "authors": [
@@ -4359,6 +4425,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "861849584fa2d8d9",
+  "title": "Bioinspired Patterning with Extreme Wettability Contrast on TiO2 Nanotube Array Surface: A Versatile Platform for Biomedical Applications",
+  "authors": [
+   "Yuekun Lai",
+   "Longxiang Lin",
+   "Fei Pan",
+   "Jianying Huang",
+   "Ran Song",
+   "Yongxia Huang",
+   "Changjian Lin",
+   "Harald Fuchs",
+   "Lifeng Chi"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2013-02-18",
+  "year": 2013,
+  "doi": "10.1002/smll.201300187",
+  "url": "https://doi.org/10.1002/smll.201300187",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Münster",
+   "Soochow University",
+   "CeNTech",
+   "Xiamen University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1613-6810"
+ },
+ {
   "id": "8403e18fa979851e",
   "title": "Visible‐Light‐Active Elemental Photocatalysts",
   "authors": [
@@ -5170,6 +5274,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "380637c5347e9b07",
+  "title": "Nature of Interactions at the Interface of Two Water-Saturated Commercial TiO2 Polymorphs",
+  "authors": [
+   "Pellegrino Conte",
+   "Vittorio Loddo",
+   "Claudio DE PASQUALE",
+   "Valentina Marsala",
+   "Giuseppe Alonzo",
+   "Leonardo Palmisano"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2013-02-15",
+  "year": 2013,
+  "doi": "10.1021/jp400298m",
+  "url": "https://doi.org/10.1021/jp400298m",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Consorzio Interuniversitario Nazionale La Chimica Per L'Ambiente",
+   "University of Palermo"
+  ],
+  "added": "2026-10-02",
+  "issn": "1932-7447"
+ },
+ {
   "id": "35a700369634da3f",
   "title": "A Study on Low Concentrations of Organic Pollutants Removal using TiO 2",
   "authors": [
@@ -5556,6 +5695,36 @@
    "Tokyo University of Science"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "cdb79667a5fcbbff",
+  "title": "Defect Chemistry of Rutile TiO2 from First Principles Calculations",
+  "authors": [
+   "Tor Svendsen Bjørheim",
+   "Akihide Kuwabara",
+   "Truls Norby"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2013-02-13",
+  "year": 2013,
+  "doi": "10.1021/jp304146e",
+  "url": "https://doi.org/10.1021/jp304146e",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Oslo",
+   "Japan Fine Ceramics Center"
+  ],
+  "added": "2026-10-02",
+  "issn": "1932-7447"
  },
  {
   "id": "cc372c5639b04175",
@@ -8728,6 +8897,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "fa1b5f9698fe53a2",
+  "title": "Characteristics and Photocatalytic Activity of TiO2 Films Immobilized on Ceramic, Glass and Stainless Steel",
+  "authors": [
+   "Zai Feng Shi",
+   "Su Min Zhang",
+   "Su Guo"
+  ],
+  "journal": "Applied Mechanics and Materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-02-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amm.295-298.413",
+  "url": "https://doi.org/10.4028/www.scientific.net/amm.295-298.413",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Pollutant Degradation",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Immobilization",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Hainan Normal University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1660-9336"
+ },
+ {
   "id": "f739f4748ba2effc",
   "title": "The reduction of graphene oxide by zinc powder to produce a zinc oxide-reduced graphene oxide hybrid and its superior photocatalytic activity",
   "authors": [
@@ -9076,6 +9278,32 @@
    "Kyushu University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "ac1678caaa3b8c0a",
+  "title": "Photo-reduction of Carbon Dioxide Using Zns Supported Kaolin in a Photo Catalytic Batch Reactor System",
+  "authors": [
+   "Tengku Mohd Nurul Naim",
+   "Tengku Jaapar"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2013-02-01",
+  "year": 2013,
+  "doi": "",
+  "url": "http://umpir.ump.edu.my/id/eprint/7082/",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "ZnS"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "abb8df91c3245ebc",
@@ -9603,6 +9831,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "80734fe36d0057ac",
+  "title": "Large Pore Size and High Porosity of TiO2 Photoanode for Excellent Photovoltaic Performance of CdS Quantum Dot Sensitized Solar Cell",
+  "authors": [
+   "Heping Shen",
+   "Hong Lin",
+   "Lin Zhao",
+   "Yizhu Liu",
+   "Dan Oron"
+  ],
+  "journal": "Journal of Nanoscience and Nanotechnology",
+  "publisher": "American Scientific Publishers",
+  "published": "2013-02-01",
+  "year": 2013,
+  "doi": "10.1166/jnn.2013.5974",
+  "url": "https://doi.org/10.1166/jnn.2013.5974",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Quantum Dots",
+   "TiO2"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Tsinghua University",
+   "Weizmann Institute of Science"
+  ],
+  "added": "2026-10-02",
+  "issn": "1533-4880"
+ },
+ {
   "id": "7e76125832ad11dc",
   "title": "Study of MoSe 2 Crystal as a Photoelectrochemical Solar Cell",
   "authors": [
@@ -9820,6 +10083,37 @@
   "relevance_score": 64,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "5a38d1df05116c87",
+  "title": "Photocatalytic Activity of Mixed Phase TiO2 from Microwave-Assisted Synthesis",
+  "authors": [
+   "Nuchanaporn Pijarn",
+   "Sirithan Jeimsirilers",
+   "Supatra Jinawath"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-02-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amr.664.661",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.664.661",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Chulalongkorn University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1022-6680"
  },
  {
   "id": "57e451cf4df4dcbe",

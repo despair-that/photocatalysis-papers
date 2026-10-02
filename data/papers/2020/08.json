@@ -14208,6 +14208,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e03f24b13b8e4399",
+  "title": "Hydrogen production through photoreforming processes over Cu2O/TiO2 composite materials: A mini-review",
+  "authors": [
+   "Marica Muscetta",
+   "Roberto Andreozzi",
+   "Laura Clarizia",
+   "Ilaria Di Somma",
+   "Raffaele Marotta"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2020-08-17",
+  "year": 2020,
+  "doi": "10.1016/j.ijhydene.2020.07.225",
+  "url": "https://doi.org/10.1016/j.ijhydene.2020.07.225",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Naples Federico II",
+   "Institute for Research on Combustion"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ },
+ {
   "id": "bc082b09085936b5",
   "title": "Depositing Ag2S quantum dots as electron mediators in SnS2/g-C3N4 nanosheet composites for constructing Z-scheme heterojunction with enhanced photocatalytic performance",
   "authors": [
@@ -23145,6 +23180,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e301ac7337319a21",
+  "title": "Photoassisted Selective Steam and Dry Reforming of Methane to Syngas Catalyzed by Rhodium–Vanadium Bimetallic Oxide Cluster Anions at Room Temperature",
+  "authors": [
+   "Yan-Xia Zhao",
+   "Bin Yang",
+   "Haifang Li",
+   "Yan Zhang",
+   "Yuan Yang",
+   "Qing-Yu Liu",
+   "Hong-Guang Xu",
+   "Wei-Jun Zheng",
+   "Sheng-Gui He"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2020-08-07",
+  "year": 2020,
+  "doi": "10.1002/anie.202010026",
+  "url": "https://doi.org/10.1002/anie.202010026",
+  "source": "openalex",
+  "categories": [
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Excited States",
+   "Photocatalysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Beijing National Laboratory for Molecular Sciences",
+   "Institute of Chemistry",
+   "State Key Laboratory for Structural Chemistry of Unstable and Stable Species",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-10-02",
+  "issn": "1433-7851"
+ },
+ {
   "id": "e25f858c8668fd7d",
   "title": "Synthesis of N and S Co-doped TiO2 Nanotubes for Advanced Photocatalytic Degradation of Volatile Organic Compounds (VOCs) in Gas Phase",
   "authors": [
@@ -29419,6 +29493,39 @@
    "Xi'an Jiaotong University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b85f93df67ee6963",
+  "title": "Simulation of Triple Helmholtz Coils for Wireless Power Transfer in Photocatalytic Wastewater Photoreforming",
+  "authors": [
+   "Zulkifly Ab Aziz",
+   "Mohd Mawardi Saari",
+   "Chin Sim Yee",
+   "Mohd Aufa Hadi Putera Zaini",
+   "Nurul A’in Nadzri"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2020-08-01",
+  "year": 2020,
+  "doi": "10.1109/icsgrc49013.2020.9232548",
+  "url": "https://doi.org/10.1109/icsgrc49013.2020.9232548",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "Wastewater"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Universiti Malaysia Pahang Al-Sultan Abdullah"
+  ],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "b6aa29bc9c3d2edf",

@@ -3618,6 +3618,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8827da7a30cc3461",
+  "title": "Sustainable hydrogen and chemical production via photo-electrochemical reforming of biomass-derived alcohols",
+  "authors": [
+   "Liping Zhang",
+   "Rong Chen",
+   "Jianqiang Luo",
+   "Jianwei Miao",
+   "Jiajian Gao",
+   "Bin Liu"
+  ],
+  "journal": "Nano Research",
+  "publisher": "Springer Science+Business Media",
+  "published": "2016-08-25",
+  "year": 2016,
+  "doi": "10.1007/s12274-016-1216-5",
+  "url": "https://doi.org/10.1007/s12274-016-1216-5",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Nanyang Technological University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1998-0000"
+ },
+ {
   "id": "791a332629cf0b0c",
   "title": "Facet-controlled anatase TiO 2 nanoparticles through various fluorine sources for superior photocatalytic activity",
   "authors": [
@@ -18198,6 +18231,53 @@
    "Friedrich-Alexander-Universität Erlangen-Nürnberg"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "f1f51176b95976c8",
+  "title": "Hydrogen Production: Iron–Titanium Oxide Nanocomposites Functionalized with Gold Particles: From Design to Solar Hydrogen Production (Adv. Mater. Interfaces 16/2016)",
+  "authors": [
+   "Davide Barreca",
+   "Giorgio Carraro",
+   "Alberto Gasparotto",
+   "Chiara Maccato",
+   "Michael E. A. Warwick",
+   "Elisa Toniato",
+   "Valentina Gombac",
+   "C. Sada",
+   "Stuart Turner",
+   "Gustaaf Van Tendeloo",
+   "Paolo Fornasiero"
+  ],
+  "journal": "Advanced Materials Interfaces",
+  "publisher": "Wiley",
+  "published": "2016-08-01",
+  "year": 2016,
+  "doi": "10.1002/admi.201670075",
+  "url": "https://doi.org/10.1002/admi.201670075",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Solar Hydrogen",
+   "TiO2"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "University of Padua",
+   "Institute of Condensed Matter Chemistry and Technologies for Energy",
+   "National Interuniversity Consortium of Materials Science and Technology",
+   "University of Trieste",
+   "University of Antwerp"
+  ],
+  "added": "2026-10-02",
+  "issn": "2196-7350"
  },
  {
   "id": "ecb0bd9248d8ce9b",

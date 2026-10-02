@@ -23655,6 +23655,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "58036bbad9c16c8d",
+  "title": "Nanomaterials For Hydrogen Generation: A Review",
+  "authors": [
+   "C Vidya"
+  ],
+  "journal": "Journal of University of Shanghai for Science and Technology",
+  "publisher": "",
+  "published": "2022-03-10",
+  "year": 2022,
+  "doi": "10.51201/jusst/22/0263",
+  "url": "https://doi.org/10.51201/jusst/22/0263",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Semiconductors",
+   "Solar Hydrogen",
+   "Water Splitting"
+  ],
+  "relevance_score": 90,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "1007-6735"
+ },
+ {
   "id": "414826970c913429",
   "title": "Evolution of photocatalytic activity of CeO2–Bi2O3 composite material for wastewater degradation under visible-light irradiation",
   "authors": [
@@ -31162,6 +31192,42 @@
   "relevance_score": 49,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "5ac4fbe66626a81f",
+  "title": "Boosting H2 yield from photoreforming of lignocellulose by thermo-alkaline hydrolysis with selective generation of a key intermediate product: Tartaric acid",
+  "authors": [
+   "Wei Wang",
+   "Binhai Cheng",
+   "Ming Mei Zhao",
+   "Edward John Anthony",
+   "Rafael Luque",
+   "Dionysios D. Dionysiou"
+  ],
+  "journal": "Energy Conversion and Management",
+  "publisher": "Elsevier BV",
+  "published": "2022-03-03",
+  "year": 2022,
+  "doi": "10.1016/j.enconman.2022.115444",
+  "url": "https://doi.org/10.1016/j.enconman.2022.115444",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tsinghua University",
+   "Suzhou Research Institute",
+   "University of Ottawa",
+   "Peoples' Friendship University of Russia",
+   "University of Córdoba",
+   "University of Cincinnati"
+  ],
+  "added": "2026-10-02",
+  "issn": "0196-8904"
  },
  {
   "id": "42cfa408cf6027aa",

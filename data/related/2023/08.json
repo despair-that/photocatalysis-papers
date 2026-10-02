@@ -1,0 +1,81 @@
+[
+ {
+  "id": "087e99296dcb5111",
+  "title": "Solar-driven reforming of waste polyester plastics into hydrogen over CdS/NiS catalyst",
+  "authors": [
+   "Chenxi Zhu",
+   "Jun Long Wang",
+   "Jiabao Lv",
+   "Youqi Zhu",
+   "Qunxing Huang",
+   "Chen Sun"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2023-08-26",
+  "year": 2023,
+  "doi": "10.1016/j.ijhydene.2023.08.064",
+  "url": "https://doi.org/10.1016/j.ijhydene.2023.08.064",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "State Key Laboratory of Clean Energy Utilization",
+   "Zhejiang University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ },
+ {
+  "id": "869a3f90cd6cd8c3",
+  "title": "Photoinducing Different Mechanisms on a Co-Ni Bimetallic Alloy in Catalytic Dry Reforming of Methane",
+  "authors": [
+   "Jinqiang Zhang",
+   "Kun Xie",
+   "Yichen Jiang",
+   "Meng Li",
+   "Xiaojie Tan",
+   "Ye Yang",
+   "Xiaoli Zhao",
+   "Liang Wang",
+   "Yinfeng Wang",
+   "Xiaoyuan Wang",
+   "Yuezhao Zhu",
+   "Haijun Chen",
+   "Mingbo Wu",
+   "Hongqi Sun",
+   "Shaobin Wang"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2023-08-02",
+  "year": 2023,
+  "doi": "10.1021/acscatal.3c02525",
+  "url": "https://doi.org/10.1021/acscatal.3c02525",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Nanjing Tech University",
+   "The University of Adelaide",
+   "China University of Petroleum, East China",
+   "State Key Laboratory of Heavy Oil",
+   "Edith Cowan University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2155-5435"
+ }
+]

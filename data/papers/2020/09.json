@@ -8341,6 +8341,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "80f8bb15e5fc92bd",
+  "title": "Hydrogen production through photoreforming of methanol by Cu(s)/TiO2 nanocatalyst: Optimization and simulation",
+  "authors": [
+   "Zahra Shams Ghamsari",
+   "Hadis Bashiri"
+  ],
+  "journal": "Surfaces and Interfaces",
+  "publisher": "Elsevier BV",
+  "published": "2020-09-23",
+  "year": 2020,
+  "doi": "10.1016/j.surfin.2020.100709",
+  "url": "https://doi.org/10.1016/j.surfin.2020.100709",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Kashan"
+  ],
+  "added": "2026-10-02",
+  "issn": "2468-0230"
+ },
+ {
   "id": "7dec19a3e025e6d1",
   "title": "Synthesis of anti‐Markovnikov Alcohols via Epoxidation and Hydrogenation of Styrenes using Photocatalytically Generated Redox Equivalents",
   "authors": [
@@ -12616,6 +12647,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2aa4e53dda4e4c8d",
+  "title": "Physicochemical and electrochemical characterization of CdO/g-C3N4 nanocomposite for the photoreforming of petrochemical wastewater",
+  "authors": [
+   "Thurga Devi Munusamy",
+   "Sim Yee Chin",
+   "Md. Maksudur Rahman Khan"
+  ],
+  "journal": "Materials Today Proceedings",
+  "publisher": "Elsevier BV",
+  "published": "2020-09-18",
+  "year": 2020,
+  "doi": "10.1016/j.matpr.2020.08.340",
+  "url": "https://doi.org/10.1016/j.matpr.2020.08.340",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Wastewater",
+   "g-C3N4"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Universiti Malaysia Pahang Al-Sultan Abdullah"
+  ],
+  "added": "2026-10-02",
+  "issn": "2214-7853"
+ },
+ {
   "id": "2564e04179b1d582",
   "title": "Controlled hydrothermal synthesis and solar light photocatalysis properties of branched Bi2S3/TiO2 nano-heterostructure",
   "authors": [
@@ -14482,6 +14545,51 @@
    "Shanghai Institute of Technology"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "bd0a5113443a3c2e",
+  "title": "Synthesis of CdS/MoS2 Nanooctahedrons Heterostructure with a Tight Interface for Enhanced Photocatalytic H2 Evolution and Biomass Upgrading",
+  "authors": [
+   "Lili Zhao",
+   "Tianjiao Dong",
+   "Jialei Du",
+   "Hui Liu",
+   "Haifeng Yuan",
+   "Yijie Wang",
+   "Jin Feng Jia",
+   "Hong Liu",
+   "Weijia Zhou"
+  ],
+  "journal": "Solar RRL",
+  "publisher": "Wiley",
+  "published": "2020-09-16",
+  "year": 2020,
+  "doi": "10.1002/solr.202000415",
+  "url": "https://doi.org/10.1002/solr.202000415",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "CdS",
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "Light Irradiation",
+   "MoS2",
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "University of Jinan",
+   "Shandong University",
+   "State Key Laboratory of Crystal Materials"
+  ],
+  "added": "2026-10-02",
+  "issn": "2367-198X"
  },
  {
   "id": "b5e92d6ff7b8ecd9",

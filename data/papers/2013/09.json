@@ -1368,6 +1368,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2612693f28f9bcd3",
+  "title": "Evidence for Ti Interstitial Induced Extended Visible Absorption and Near Infrared Photoluminescence from Undoped TiO2 Nanoribbons: An In Situ Photoluminescence Study",
+  "authors": [
+   "Batakrushna Santara",
+   "Pratibha Kiran Giri",
+   "Kenji Imakita",
+   "Minoru Fujii"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2013-09-27",
+  "year": 2013,
+  "doi": "10.1021/jp408249q",
+  "url": "https://doi.org/10.1021/jp408249q",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Photoluminescence",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Indian Institute of Technology Guwahati",
+   "Kobe University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1932-7447"
+ },
+ {
   "id": "1e4b9f1718e56928",
   "title": "Sol–gel synthesized vanadium doped TiO2 photocatalyst: physicochemical properties and visible light photocatalytic studies",
   "authors": [
@@ -3177,6 +3214,40 @@
    "Wuhan University of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "d92db1c074d79d92",
+  "title": "Charge Transport in 1-D Nanostructured CdS Dye Sensitized Solar Cell",
+  "authors": [
+   "M. Ragam",
+   "N. Sankar",
+   "Krishnamoorthy Ramachandran"
+  ],
+  "journal": "Journal of Nanoscience",
+  "publisher": "Hindawi Publishing Corporation",
+  "published": "2013-09-23",
+  "year": 2013,
+  "doi": "10.1155/2013/167517",
+  "url": "https://doi.org/10.1155/2013/167517",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "CdS",
+   "Organic Photocatalysts",
+   "Photoanodes",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Fatima College (Autonomous)",
+   "Madurai Kamaraj University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2314-6931"
  },
  {
   "id": "d61b0c68058983c1",
@@ -5478,6 +5549,39 @@
    "Griffith University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "de523732cebad6ff",
+  "title": "Solar Cells: One‐Dimensional Hierarchical Nanostructures of TiO2 Nanosheets on SnO2 Nanotubes for High Efficiency Solid‐State Dye‐Sensitized Solar Cells (Adv. Mater. 35/2013)",
+  "authors": [
+   "Sung-Hoon Ahn",
+   "Dong Jun Kim",
+   "Won Seok Chi",
+   "Jong Hak Kim"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "",
+  "published": "2013-09-17",
+  "year": 2013,
+  "doi": "10.1002/adma.201370221",
+  "url": "https://doi.org/10.1002/adma.201370221",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "2D Materials"
+  ],
+  "tags": [
+   "Nanosheets",
+   "Photoanodes",
+   "TiO2"
+  ],
+  "relevance_score": 43,
+  "affiliations": [
+   "Yonsei University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0935-9648"
  },
  {
   "id": "c7f0c0607f236da8",
@@ -7854,6 +7958,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2c6ff96e8e895c80",
+  "title": "ChemInform Abstract: Photocatalytic Reduction of CO2 on TiO2 and Other Semiconductors",
+  "authors": [
+   "Severin N. Habisreutinger",
+   "Lukas Schmidt-Mende",
+   "Jacek K. Stolarczyk"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2013-09-12",
+  "year": 2013,
+  "doi": "10.1002/chin.201340238",
+  "url": "https://doi.org/10.1002/chin.201340238",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Ludwig-Maximilians-Universität München"
+  ],
+  "added": "2026-10-02",
+  "issn": "0009-2975"
+ },
+ {
   "id": "2be9ce105816c4e1",
   "title": "ChemInform Abstract: Organocatalytic Visible Light Mediated Synthesis of Aryl Sulfides.",
   "authors": [
@@ -8740,6 +8874,35 @@
    "KU Leuven"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6dd8ed379b47c21a",
+  "title": "Effect of Calcinations Temperature on Structural Properties, Phase Transformation and Photocatalytic Activity of Electrospun TiO2 Nanofibers",
+  "authors": [
+   "Sineenart Suphankij",
+   "Wanichaya Mekprasart",
+   "Wisanu Pecharapa"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-09-10",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amr.802.247",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.802.247",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "King Mongkut's Institute of Technology Ladkrabang"
+  ],
+  "added": "2026-10-02",
+  "issn": "1022-6680"
  },
  {
   "id": "6a1deb7a5ef65e1e",
@@ -12203,6 +12366,31 @@
   "added": "2026-07-24"
  },
  {
+  "id": "742f77a7c896c059",
+  "title": "Understanding Anatase",
+  "authors": [
+   "MITCH JACOBY"
+  ],
+  "journal": "Chemical & Engineering News",
+  "publisher": "American Chemical Society",
+  "published": "2013-09-02",
+  "year": 2013,
+  "doi": "10.1021/cen-09135-notw1",
+  "url": "https://doi.org/10.1021/cen-09135-notw1",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "0009-2347"
+ },
+ {
   "id": "698824ad85f3a290",
   "title": "Inside Back Cover: A Co‐catalyst‐Loaded Ta 3 N 5 Photoanode with a High Solar Photocurrent for Water Splitting upon Facile Removal of the Surface Layer (Angew. Chem. Int. Ed. 42/2013)",
   "authors": [
@@ -13265,6 +13453,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a2d33b210d49df73",
+  "title": "Ionic Liquid-Assisted Synthesis of Anatase Nanostructured TiO2 Aerogel Doped with Fe3+ by a Low Temperature Sol-Gel Process and its Photocatalytic Performance",
+  "authors": [
+   "Ning Ning Wang",
+   "Chun Ling Yu",
+   "Hong Yi Dai",
+   "Ying Huan Fu",
+   "Guo Lin Shao",
+   "Xiao Dong"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-09-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amr.785-786.365",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.785-786.365",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Dalian Polytechnic University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1022-6680"
+ },
+ {
   "id": "a1e5724d64af2bd2",
   "title": "Assembling of Composite of Ag/TiO 2 /Eu-MCM with Enhanced Photocatalytic Activity",
   "authors": [
@@ -13375,6 +13596,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8b20dc6d1f089188",
+  "title": "Preparation and Enhanced Photocatalytic Activity of AgCl-TiO2 Composite under Simulated Solar Light",
+  "authors": [
+   "Wen Tao Yi",
+   "Chun Yan",
+   "Peng Yan",
+   "Shu Yin Liu"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-09-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amr.807-809.557",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.807-809.557",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Solar Light",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Zaozhuang University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1022-6680"
+ },
+ {
   "id": "89345e2e34dd7cf4",
   "title": "Preparation of Floating TiO 2 /EP by Hydrothermal Method",
   "authors": [
@@ -13405,6 +13657,39 @@
    "Institute of Engineering"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "8902e40716df3f9a",
+  "title": "Preparation and Photocatalytic Activity of TiO2/Tourmaline Composite Catalyst",
+  "authors": [
+   "Wei Chao Liu",
+   "Huan Yan Xu",
+   "Tian Nuo Shi",
+   "Wu Li",
+   "Ping Li"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-09-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amr.800.464",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.800.464",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Immobilization",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Harbin University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1022-6680"
  },
  {
   "id": "843915b0302258c4",
@@ -13548,6 +13833,42 @@
   "relevance_score": 69,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "754d4c15e63a4cb2",
+  "title": "Effect of TiO2 nanostructure's shape on the DSSCs performance",
+  "authors": [
+   "Siti Khatijah Md Saad",
+   "Akrajas Ali Umar",
+   "Suratun Nafisah",
+   "Muhamad Mat Salleh",
+   "Burhanuddin Yeop Majlis"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2013-09-01",
+  "year": 2013,
+  "doi": "10.1109/rsm.2013.6706576",
+  "url": "https://doi.org/10.1109/rsm.2013.6706576",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Electrochemical Characterization",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "EIS",
+   "Photoanodes",
+   "TiO2"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "National University of Malaysia"
+  ],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "732be9eda611efcd",
@@ -14041,6 +14362,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4aca651332eca7e4",
+  "title": "Parameters Effect on Photocatalytic Reduction Kinetics of Bromate in Aqueous Dispersion of TiO2",
+  "authors": [
+   "Rong Shu Zhu",
+   "Fei Tian",
+   "Ling Ling Zhang",
+   "Ling Min Yu"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-09-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amr.779-780.1658",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.779-780.1658",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Harbin Institute of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1022-6680"
+ },
+ {
   "id": "4746eb6cee26acf3",
   "title": "Lanthanum and boron co-doped BiVO4 with enhanced visible light photocatalytic activity for degradation of methyl orange",
   "authors": [
@@ -14295,6 +14646,45 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2ea0e3417fe97f6c",
+  "title": "Novel Catalysts for Water Splitting and Green Chemistry Applications",
+  "authors": [
+   "Christopher J. Rhodes"
+  ],
+  "journal": "Science Progress",
+  "publisher": "SAGE Publishing",
+  "published": "2013-09-01",
+  "year": 2013,
+  "doi": "10.3184/003685013x13742175329073",
+  "url": "https://doi.org/10.3184/003685013x13742175329073",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Water Splitting",
+   "Co-catalysts & Surface",
+   "Electrochemical Characterization",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Artificial Photosynthesis",
+   "Band Gap",
+   "Band Structure",
+   "Charge Carriers",
+   "Co-catalysts",
+   "Mott-Schottky",
+   "Photocatalysis",
+   "Semiconductors",
+   "Solar Fuels",
+   "TiO2",
+   "Water Splitting"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "0036-8504"
  },
  {
   "id": "2bc081594911d5a3",

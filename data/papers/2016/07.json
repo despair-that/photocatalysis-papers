@@ -6778,6 +6778,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ca3520b07d79752c",
+  "title": "CO2 photoreduction at high pressure to both gas and liquid products over titanium dioxide",
+  "authors": [
+   "Federico Galli",
+   "Matteo Compagnoni",
+   "Davide Vitali",
+   "Carlo Pirola",
+   "Claudia Letizia Bianchi",
+   "Alberto Villa",
+   "Laura Prati",
+   "Ilenia Rossetti"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2016-07-21",
+  "year": 2016,
+  "doi": "10.1016/j.apcatb.2016.07.038",
+  "url": "https://doi.org/10.1016/j.apcatb.2016.07.038",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreduction",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Milan",
+   "Institute of Molecular Science and Technologies",
+   "National Interuniversity Consortium of Materials Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
   "id": "c41e546886588202",
   "title": "Morphology-dependent defect structures and photocatalytic performance of hydrogenated anatase TiO2 nanocrystals",
   "authors": [

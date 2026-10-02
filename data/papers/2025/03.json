@@ -8105,6 +8105,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "02328fb79deff0ed",
+  "title": "Role of synthetically modulated polymers for efficient photoreforming hydrogen fuel",
+  "authors": [
+   "Nagamalleswara Rao Indla",
+   "Sandip Prabhakar Shelake",
+   "Ashok Singh",
+   "Dattatray Namdev Sutar",
+   "Switi Dattatraya Kshirsagar",
+   "Bhavya Jaksani",
+   "Naga Malleswara Rao Nakka",
+   "Annadanam V. Sesha Sainath",
+   "Srimanta Pakhira",
+   "Ujjwal Pal"
+  ],
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "published": "2025-03-26",
+  "year": 2025,
+  "doi": "10.1016/j.fuel.2025.135173",
+  "url": "https://doi.org/10.1016/j.fuel.2025.135173",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Indian Institute of Chemical Technology",
+   "Academy of Scientific and Innovative Research",
+   "Indian Institute of Technology Indore",
+   "Mayo Clinic",
+   "Mayo Clinic in Florida"
+  ],
+  "added": "2026-10-02",
+  "issn": "0016-2361"
+ },
+ {
   "id": "f6a9729116cfc262",
   "title": "In situ construction of heterojunctions to regulate the biodegradation behavior of copper carriers for tumor-specific cuproptosis-enhanced sono-immunotherapy",
   "authors": [
@@ -8472,6 +8511,40 @@
    "National Research Centre"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "c4c42a1ce7cacd0e",
+  "title": "2,2′:5′,2″:5″,2 ‴ ‐Quaterthiophene Nanoparticles and Single‐Walled CNT Composite: An Organic Nanohybrid for Solar H 2 Production and Simultaneous Photoreformation of Plastic Wastes",
+  "authors": [
+   "Ramesh Mandal",
+   "Jyoti Ranjan Biswal",
+   "Bramhaiah Kommula",
+   "Santanu Bhattacharyya"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2025-03-25",
+  "year": 2025,
+  "doi": "10.1002/cctc.202500307",
+  "url": "https://doi.org/10.1002/cctc.202500307",
+  "source": "openalex",
+  "categories": [
+   "Electrochemical Characterization",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "EIS",
+   "Photocatalysis",
+   "Transient Photocurrent"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Indian Institute of Science Education and Research Berhampur",
+   "St Joseph's University, Bengaluru, India"
+  ],
+  "added": "2026-10-02",
+  "issn": "1867-3880"
  },
  {
   "id": "bbf68226cd3cdd37",
@@ -9876,6 +9949,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e15afc1cb42956e4",
+  "title": "Pilot‐Scale Photoreforming of Hydrolyzed Polylactic Acid Waste to High‐Value Chemicals and H 2 via Atomic Ru Integration",
+  "authors": [
+   "Feng Liu",
+   "Chun-yang Zhang",
+   "Kejian Lu",
+   "Xueli Yan",
+   "Yi Wang",
+   "Dengwei Jing",
+   "Liejin Guo",
+   "Maochang Liu"
+  ],
+  "journal": "Advanced Energy Materials",
+  "publisher": "Wiley",
+  "published": "2025-03-24",
+  "year": 2025,
+  "doi": "10.1002/aenm.202500015",
+  "url": "https://doi.org/10.1002/aenm.202500015",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "Quantum Efficiency"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "State Key Laboratory of Multiphase Flow in Power Engineering",
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1614-6832"
+ },
+ {
   "id": "e1443222e17be68a",
   "title": "Sol-gel synthesis of efficient p-type Ca2+@Bi-ferrites for gas sensing and photocatalytic applications",
   "authors": [
@@ -10776,6 +10886,44 @@
    "Huizhou University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "57d3cf484ba86df9",
+  "title": "CdS quantum dots with sulfur defects for photoreforming plastics into valuable chemicals coupled with hydrogen production",
+  "authors": [
+   "Jiaxin Song",
+   "Cheng Rao",
+   "Zeshu Zhang",
+   "Xiangguang Yang",
+   "Yibo Zhang"
+  ],
+  "journal": "Molecular Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2025-03-24",
+  "year": 2025,
+  "doi": "10.1016/j.mcat.2025.115049",
+  "url": "https://doi.org/10.1016/j.mcat.2025.115049",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Production",
+   "Photoreforming",
+   "Quantum Dots"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Chinese Academy of Sciences",
+   "Changchun Institute of Applied Chemistry",
+   "State Key Laboratory of Rare Earth Resources Utilization"
+  ],
+  "added": "2026-10-02",
+  "issn": "2468-8231"
  },
  {
   "id": "4fdef7ad0ed5b3bd",
@@ -20442,6 +20590,46 @@
   "added": "2026-07-24"
  },
  {
+  "id": "afa92602b779f494",
+  "title": "Photoreforming polylactic acid plastics into pyruvate over CdS/Bi4Ti3O12 S-scheme heterojunction: Successive removal of hydrogen from α-C",
+  "authors": [
+   "Xinxin Liang",
+   "Yongqian Cui",
+   "Qingyun Tian",
+   "Tingting Jia",
+   "Qibing Dong",
+   "Ximing Li",
+   "Ting Gao",
+   "Chao Ma",
+   "Chuanyi Wang"
+  ],
+  "journal": "Chinese Chemical Letters",
+  "publisher": "Elsevier BV",
+  "published": "2025-03-17",
+  "year": 2025,
+  "doi": "10.1016/j.cclet.2025.111097",
+  "url": "https://doi.org/10.1016/j.cclet.2025.111097",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Z-Scheme & Heterojunctions",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Heterojunctions",
+   "Photoreforming",
+   "S-Scheme"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "Shaanxi University of Science and Technology",
+   "Jiangxi Science and Technology Normal University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1001-8417"
+ },
+ {
   "id": "aa0b6645761c0b01",
   "title": "Efficient visible-light-driven photocatalytic overall water-splitting on CuZnGaS/BiVO4 S-scheme heterojunctions",
   "authors": [
@@ -22595,6 +22783,46 @@
    "University of Tehran"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a3c54ae10aa895fb",
+  "title": "Demonstration of hydrogen production from food industry wastewaters by solar photoreforming: From the laboratory to outdoors operation in panel reactors",
+  "authors": [
+   "Laura Carolina Valencia-Valero",
+   "Kevin A. Simbaña",
+   "Jonas E. Eleraky",
+   "Monika Hapońska",
+   "Alberto V. Puga"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2025-03-15",
+  "year": 2025,
+  "doi": "10.1016/j.cej.2025.161636",
+  "url": "https://doi.org/10.1016/j.cej.2025.161636",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Simulated Sunlight",
+   "TiO2",
+   "Wastewater"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Universitat Rovira i Virgili"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
  },
  {
   "id": "9d1f861d798dc6ef",
@@ -37158,6 +37386,39 @@
   "added": "2026-07-26"
  },
  {
+  "id": "3c170af317f929bf",
+  "title": "Photo-depositing ruthenium species on defect-rich strontium titanate enhances photothermal catalytic dry reforming of methane through light-induced charge transfer and oxygen migration",
+  "authors": [
+   "Zhiyong Tu",
+   "Chunxia Mu",
+   "Xiangchao Meng",
+   "Zhangfa Tong",
+   "Kelei Huang"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2025-03-06",
+  "year": 2025,
+  "doi": "10.1016/j.cej.2025.161311",
+  "url": "https://doi.org/10.1016/j.cej.2025.161311",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Photothermal Catalysis",
+   "SrTiO3"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Guangxi University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "33ac61b22e1bddc0",
   "title": "NdFeO3 Anchored on Co-MOF as nano-photocatalyst for Efficient photo-degradation of TC drug from Water",
   "authors": [
@@ -39608,6 +39869,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e3e75d2dc90049f0",
+  "title": "Enhancing oxidative dehydrogenation of alcohols for clean hydrogen production fromTiO2-doped photocatalysts under LED irradiation",
+  "authors": [
+   "Oriane Delaunay",
+   "Audrey Denicourt-Nowicki",
+   "Alain Roucoux"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2025-03-04",
+  "year": 2025,
+  "doi": "10.26434/chemrxiv-2025-8nzcj",
+  "url": "https://doi.org/10.26434/chemrxiv-2025-8nzcj",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Reactor Engineering & Scale-up",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Quantum Efficiency",
+   "Quantum Yield",
+   "Scale-up",
+   "TiO2"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Institut des Sciences Chimiques de Rennes"
+  ],
+  "added": "2026-10-02",
+  "issn": "2573-2293"
+ },
+ {
   "id": "e02caca307a6990b",
   "title": "Regulating Asymmetric Charge Distribution in Cu 2 MoS 4 Nanosheets for Enhanced Photocatalytic CO 2 Reduction",
   "authors": [
@@ -39727,6 +40026,86 @@
    "Lingnan Normal University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "dbe63e69b1a361e1",
+  "title": "Unlocking the potential of quinoline-based glycopolymers for photoreforming hydrogen production",
+  "authors": [
+   "Sandip Prabhakar Shelake",
+   "Asif Iqbal",
+   "Nagamalleswara Rao Indla",
+   "Dattatray Namdev Sutar",
+   "Sukanya Saha",
+   "Kakarla Raghava Reddy",
+   "Ranjit Thapa",
+   "Tejraj Malleshappa Aminabhavi",
+   "Annadanam V. Sesha Sainath",
+   "Ujjwal Pal"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2025-03-04",
+  "year": 2025,
+  "doi": "10.1016/j.apcatb.2025.125225",
+  "url": "https://doi.org/10.1016/j.apcatb.2025.125225",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Indian Institute of Chemical Technology",
+   "Academy of Scientific and Innovative Research",
+   "SRM University, Andhra Pradesh",
+   "The University of Sydney",
+   "Korea University",
+   "KLE Technological University",
+   "University of Petroleum and Energy Studies"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
+  "id": "da1424b0cc119fc3",
+  "title": "Efficient photoreforming of organic solvents into CH4 over 2D donor-π-acceptor conjugated polymers with tunable symmetry",
+  "authors": [
+   "Guoen Tang",
+   "Xiangjing Xie",
+   "Guanhui Liu",
+   "Ting Song",
+   "Xiayi Eric Hu",
+   "Bei Long",
+   "Guo-Jun Deng",
+   "Mahmoud Sayed"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2025-03-04",
+  "year": 2025,
+  "doi": "10.1016/j.cej.2025.161255",
+  "url": "https://doi.org/10.1016/j.cej.2025.161255",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Xiangtan University",
+   "Hunan Institute of Engineering",
+   "Henan Normal University",
+   "China University of Geosciences",
+   "Fayoum University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
  },
  {
   "id": "cc76a3c5124e25fc",
@@ -44845,6 +45224,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8daa7e9a7c2a8c03",
+  "title": "Symmetric bimetallic active sites Prussian blue catalysts for photo-reforming biomass to formic acid",
+  "authors": [
+   "Junming Shi",
+   "Can Jin",
+   "Shuai Chen",
+   "Yulong An",
+   "Guoyang Gao",
+   "Zhanhua Huang",
+   "Guanjie He"
+  ],
+  "journal": "Advanced Composites and Hybrid Materials",
+  "publisher": "Springer Science+Business Media",
+  "published": "2025-03-01",
+  "year": 2025,
+  "doi": "10.1007/s42114-025-01282-5",
+  "url": "https://doi.org/10.1007/s42114-025-01282-5",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "University College London",
+   "Northeast Forestry University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2522-0128"
+ },
+ {
   "id": "8a20aead189d069b",
   "title": "1D-based nanostructures in photocatalytic CO2 reduction",
   "authors": [
@@ -46055,6 +46468,43 @@
    "University of Chinese Academy of Sciences"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "4902c4fb2694847f",
+  "title": "Enhanced hydrogen and 5-hydroxymethylfurfural (5-HMF) production via photoreforming of cotton cellulose: role of cellulose allomorphs in Pt–g-C3N4–Bi3TiNbO9 catalysis",
+  "authors": [
+   "Xiangtao Xuan",
+   "Hui Zhang",
+   "Jia-Le Yao",
+   "Yaping Miao",
+   "Wei Fan",
+   "Xiang-Zhi Dong",
+   "Chen-Min Dai",
+   "Jiao-Jiao Miao"
+  ],
+  "journal": "Cellulose",
+  "publisher": "Springer Science+Business Media",
+  "published": "2025-03-01",
+  "year": 2025,
+  "doi": "10.1007/s10570-025-06475-1",
+  "url": "https://doi.org/10.1007/s10570-025-06475-1",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "g-C3N4"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Xi'an Polytechnic University",
+   "Suzhou University of Science and Technology",
+   "Northwestern Polytechnical University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0969-0239"
  },
  {
   "id": "46d532c4bca76b88",

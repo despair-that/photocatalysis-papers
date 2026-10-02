@@ -1680,6 +1680,38 @@
   "added": "2026-07-27"
  },
  {
+  "id": "efe66583f1717368",
+  "title": "Photoreforming hydrogen production by carbon doped exfoliated g-C3N4: Optimization using design expert®software",
+  "authors": [
+   "Thurga Devi Munusamy",
+   "Sim Yee Chin",
+   "Md. Maksudur Rahman Khan"
+  ],
+  "journal": "Materials Today Proceedings",
+  "publisher": "Elsevier BV",
+  "published": "2021-10-29",
+  "year": 2021,
+  "doi": "10.1016/j.matpr.2021.10.106",
+  "url": "https://doi.org/10.1016/j.matpr.2021.10.106",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "g-C3N4"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Universiti Malaysia Pahang Al-Sultan Abdullah"
+  ],
+  "added": "2026-10-02",
+  "issn": "2214-7853"
+ },
+ {
   "id": "ee184a58ecead409",
   "title": "Precise Spatial‐Designed Metal‐Organic‐Framework Nanosheets for Efficient Energy Transfer and Photocatalysis",
   "authors": [
@@ -5900,6 +5932,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f6325bd19b6ace7a",
+  "title": "Reforming of Soluble Biomass and Plastic Derived Waste Using a Bias‐Free Cu 30 Pd 70 |Perovskite|Pt Photoelectrochemical Device",
+  "authors": [
+   "Subhajit Bhattacharjee",
+   "Virgil Andrei",
+   "Chanon Pornrungroj",
+   "Motiar Rahaman",
+   "Christian M. Pichler",
+   "Erwin Reisner"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2021-10-27",
+  "year": 2021,
+  "doi": "10.1002/adfm.202109313",
+  "url": "https://doi.org/10.1002/adfm.202109313",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Solar Fuels",
+   "Perovskites"
+  ],
+  "tags": [
+   "Perovskites",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Photoreforming",
+   "Solar Light"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "University of Cambridge"
+  ],
+  "added": "2026-10-02",
+  "issn": "1616-301X"
+ },
+ {
   "id": "f4a1e505c12b6675",
   "title": "Synthesis of recyclable GO/Cu3(BTC)2/Fe3O4 hybrid nanocomposites with enhanced photocatalytic degradation of aflatoxin B1",
   "authors": [
@@ -7616,6 +7685,36 @@
    "China Building Materials Academy"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2f776003d1f55f71",
+  "title": "Optimization of process parameters for photoreforming of hydrogen evolution via response surface methodology (RSM): A study using Carbon@exfoliated g–C3N4",
+  "authors": [
+   "Thurga Devi Munusamy",
+   "Sim Yee Chin",
+   "Md. Maksudur Rahman Khan"
+  ],
+  "journal": "Process Safety and Environmental Protection",
+  "publisher": "Elsevier BV",
+  "published": "2021-10-26",
+  "year": 2021,
+  "doi": "10.1016/j.cherd.2021.10.028",
+  "url": "https://doi.org/10.1016/j.cherd.2021.10.028",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photoreforming"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Universiti Malaysia Pahang Al-Sultan Abdullah"
+  ],
+  "added": "2026-10-02",
+  "issn": "0263-8762"
  },
  {
   "id": "2da0fdd275c78a93",
@@ -27633,6 +27732,41 @@
    "University of Hafr Al-Batin"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "357e2bbccf9bd476",
+  "title": "Advances in the Development and morphological arrangement of Bismuth-Based Nanoparticles for Photoelectrocatalytic water splitting. BiVO4 : Synthesis, structural features and photoelectrocatalytic water splitting applications",
+  "authors": [
+   "C. Vidya"
+  ],
+  "journal": "SPAST Abstracts",
+  "publisher": "",
+  "published": "2021-10-08",
+  "year": 2021,
+  "doi": "",
+  "url": "https://spast.org/techrep/article/view/1666",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Semiconductor Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "BiVO4",
+   "CdS",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Pollutants",
+   "Semiconductors",
+   "TiO2",
+   "Water Splitting",
+   "ZnO"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "295b5d9807231a30",

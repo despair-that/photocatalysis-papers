@@ -8179,6 +8179,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b69f1bf6908a4e33",
+  "title": "Mechanistic Considerations on the H2 Production by Methanol Thermal‐assisted Photocatalytic Reforming over Cu/TiO2 Catalyst",
+  "authors": [
+   "F.J. Manso Platero",
+   "Ángeles López-Martín",
+   "Alfonso Caballero",
+   "G. Colón"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2021-06-23",
+  "year": 2021,
+  "doi": "10.1002/cctc.202100680",
+  "url": "https://doi.org/10.1002/cctc.202100680",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Consejo Superior de Investigaciones Científicas",
+   "Instituto de Ciencia de Materiales de Sevilla",
+   "Universidad de Sevilla"
+  ],
+  "added": "2026-10-02",
+  "issn": "1867-3880"
+ },
+ {
   "id": "9344fbd31927b03d",
   "title": "Er3+ doped titania photoanode for enhanced performance of photo-electrochemical water splitting devices",
   "authors": [

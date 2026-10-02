@@ -37,6 +37,49 @@
   "added": "2026-08-02"
  },
  {
+  "id": "fd4e86e863ab326e",
+  "title": "Photoreforming of Waste Plastics into H2 Using Zn x Cd1- x S Nanoplates Synthesized via Cation Exchange Reactions",
+  "authors": [
+   "Yingjie Liu",
+   "Song Chen",
+   "Bingqian Zu",
+   "Liping Bao",
+   "Tian Liu",
+   "Jian Chi",
+   "Jilong Chen",
+   "Jingtao Zhou",
+   "Liang Wu"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society",
+  "published": "2026-07-31",
+  "year": 2026,
+  "doi": "10.1021/acsami.6c08574",
+  "url": "https://doi.org/10.1021/acsami.6c08574",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoreforming",
+   "Visible Light",
+   "ZnS"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Anhui Normal University",
+   "Inner Mongolia University",
+   "Institute of Energy, Hefei Comprehensive National Science Center"
+  ],
+  "added": "2026-10-02",
+  "issn": "1944-8244"
+ },
+ {
   "id": "f4c652ef44cbeabb",
   "title": "Photocatalytic Reductive Elimination From A Main Group Centre",
   "authors": [
@@ -4300,6 +4343,44 @@
    "University of Latvia"
   ],
   "added": "2026-07-31"
+ },
+ {
+  "id": "5a55654fabc5f84d",
+  "title": "Surface sulfur passivation for unprecedented stability of CdS in photoreforming of lactic acid",
+  "authors": [
+   "Bokun Zhu",
+   "Weiwei Xu",
+   "Zhen Zhang",
+   "Haiyan Zou",
+   "袁忠勇",
+   "Meng Danny Gu",
+   "Zhangxin Chen",
+   "Heng Zhao"
+  ],
+  "journal": "Journal of Material Science and Technology",
+  "publisher": "Elsevier BV",
+  "published": "2026-07-29",
+  "year": 2026,
+  "doi": "10.1016/j.jmst.2026.07.058",
+  "url": "https://doi.org/10.1016/j.jmst.2026.07.058",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "CdS",
+   "Lactic Acid",
+   "Photoreforming"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Eastern Institute of Technology, Ningbo",
+   "Nankai University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1005-0302"
  },
  {
   "id": "57b2fcff60aa5d41",
@@ -10471,6 +10552,57 @@
    "Medi-Caps University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "bc07e5b6ec6c9f03",
+  "title": "Solar-Driven Synergistic Photoreforming of PET and H2 Evolution over a ZnIn2S4–MoS2 Heterostructure",
+  "authors": [
+   "Jilong Chen",
+   "Song Chen",
+   "Bingqian Zu",
+   "Yingjie Liu",
+   "Jin Zhou",
+   "Yuhong Cao",
+   "Liping Bao",
+   "Jian Chi",
+   "Shuwei Shi",
+   "Liang Wu"
+  ],
+  "journal": "ACS Materials Letters",
+  "publisher": "American Chemical Society",
+  "published": "2026-07-24",
+  "year": 2026,
+  "doi": "10.1021/acsmaterialslett.6c00555",
+  "url": "https://doi.org/10.1021/acsmaterialslett.6c00555",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Z-Scheme & Heterojunctions",
+   "Hydrogen Evolution",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Charge Transfer",
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "MoS2",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreforming",
+   "Visible Light",
+   "Z-Scheme",
+   "ZnIn2S4"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Anhui Normal University",
+   "Institute of Energy, Hefei Comprehensive National Science Center"
+  ],
+  "added": "2026-10-02",
+  "issn": "2639-4979"
  },
  {
   "id": "a4aff8b60733fec9",
@@ -30902,6 +31034,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "9121ce4c2dfd991e",
+  "title": "Photoreforming of waste plastics over g-C3N4/TiO2 microspheres",
+  "authors": [
+   "Yunan Teng",
+   "Meiling Li",
+   "Zhenhuan Wei",
+   "Haoxiang Wang",
+   "Song Yi",
+   "R X Zhang",
+   "Jianling Zhang"
+  ],
+  "journal": "Applied Catalysis A General",
+  "publisher": "Elsevier BV",
+  "published": "2026-07-09",
+  "year": 2026,
+  "doi": "10.1016/j.apcata.2026.121131",
+  "url": "https://doi.org/10.1016/j.apcata.2026.121131",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2",
+   "g-C3N4"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Beijing National Laboratory for Molecular Sciences",
+   "Institute of Chemistry",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-860X"
+ },
+ {
   "id": "8d3449a28ae8f14c",
   "title": "Enhanced solar-driven photocatalytic hydrogen evolution from simulated seawater over α-Fe2O3–SiO2–TiO2 core–shell composites",
   "authors": [
@@ -31068,6 +31239,47 @@
    "Indian Institute of Technology Kharagpur"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "84621c69b228cca0",
+  "title": "Photoreforming of Polylactic Acid over g-C3N4-Based Catalysts Derived from Sustainable Precursors",
+  "authors": [
+   "Daniela Casamayor-Roberto",
+   "Alejandro Ariza-Pérez",
+   "David Ortega-Domínguez",
+   "Vicente Montes",
+   "Rafael C. Estévez",
+   "Francisco José Urbano",
+   "Alberto Marinas",
+   "Francisco Javier López-Tenllado"
+  ],
+  "journal": "Clean Technologies",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-07-09",
+  "year": 2026,
+  "doi": "10.3390/cleantechnol8040104",
+  "url": "https://doi.org/10.3390/cleantechnol8040104",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Hydrogen Evolution",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Hydrogen Production",
+   "Lactic Acid",
+   "Photoreforming",
+   "Sacrificial Reagents",
+   "g-C3N4"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "University of Córdoba"
+  ],
+  "added": "2026-10-02",
+  "issn": "2571-8797"
  },
  {
   "id": "8387004aeb96e061",
@@ -32790,6 +33002,57 @@
    "Hubei University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "7186a9c4ab15331f",
+  "title": "Sunlight‐Driven Concurrent Synthesis of Jet Fuel Precursors and Hydrogen From Biomass‐Derived Furfuryl Alcohol Over Oxygen‐Doped Zn 2 In 2 S 5",
+  "authors": [
+   "R L Wang",
+   "Li Shi",
+   "Shu Jin",
+   "Xiaowei Tao",
+   "Jingjing Su",
+   "Zhihan He",
+   "Ronghua Li",
+   "Guoan Lin",
+   "Jialin Li",
+   "Guijun Ma",
+   "Tengfeng Xie",
+   "Yanbo Li",
+   "Xiaoxiang Xu"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "",
+  "published": "2026-07-08",
+  "year": 2026,
+  "doi": "10.1002/adma.73985",
+  "url": "https://doi.org/10.1002/adma.73985",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Photocatalysis",
+   "Photoreforming",
+   "Quantum Efficiency",
+   "Quantum Yield",
+   "Simulated Sunlight"
+  ],
+  "relevance_score": 85,
+  "affiliations": [
+   "Tongji University",
+   "Nanjing University of Posts and Telecommunications",
+   "ShanghaiTech University",
+   "Chinese Academy of Sciences",
+   "Xi'an Institute of Optics and Precision Mechanics",
+   "Jilin University",
+   "University of Electronic Science and Technology of China"
+  ],
+  "added": "2026-10-02",
+  "issn": "0935-9648"
  },
  {
   "id": "6586d3cd256360f0",
@@ -48995,6 +49258,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "6caf463aa3b50655",
+  "title": "Unveiling the Combined Role of Heat and Light in the Photothermo‐catalytic Methanol Steam Reforming Over TiO 2 and Pt/TiO 2 Through Catalytic and In Situ DRIFTS Study",
+  "authors": [
+   "Simone Livolsi",
+   "Filippo Bossola",
+   "Vladimiro Dal Santo",
+   "Gian Luca Chiarello"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2026-07-01",
+  "year": 2026,
+  "doi": "10.1002/cctc.70945",
+  "url": "https://doi.org/10.1002/cctc.70945",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Milan",
+   "Istituto di Scienze e Tecnologie Chimiche \"Giulio Natta\""
+  ],
+  "added": "2026-10-02",
+  "issn": "1867-3880"
+ },
+ {
   "id": "6c8bac630a87f684",
   "title": "Engineering CoCuP/Ti3C2 interfaces via molten-salt-assisted strategy for efficient photocatalytic hydrogen generation from ammonia borane hydrolysis",
   "authors": [
@@ -49213,6 +49507,51 @@
    "Suzhou Research Institute"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "682594f6e3db09ac",
+  "title": "Enhancing plastic photoreforming by modulating active radicals via lattice-matched heterointerfaces for frustrated Lewis pair formation",
+  "authors": [
+   "Jing Wang",
+   "Hongming Zhou",
+   "Sha Chen",
+   "Jingwen Liu",
+   "Hongru Wu",
+   "Longhui Nie",
+   "Yang Li",
+   "Xinghui Liu"
+  ],
+  "journal": "eScience",
+  "publisher": "Elsevier BV",
+  "published": "2026-07-01",
+  "year": 2026,
+  "doi": "10.1016/j.esci.2026.100627",
+  "url": "https://doi.org/10.1016/j.esci.2026.100627",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Heterojunctions",
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreforming",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 92,
+  "affiliations": [
+   "Hubei Provincial Key Laboratory of Green Materials for Light Industry",
+   "Hubei University of Technology",
+   "Shanghai Jiao Tong University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2667-1417"
  },
  {
   "id": "66f0e609ad78a27f",

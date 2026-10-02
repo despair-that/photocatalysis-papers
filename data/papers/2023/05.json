@@ -10842,6 +10842,46 @@
   "added": "2026-07-26"
  },
  {
+  "id": "fd2a35507df46839",
+  "title": "p-n heterojunction of nickel oxide on titanium dioxide nanosheets for hydrogen and value-added chemicals coproduction from glycerol photoreforming",
+  "authors": [
+   "Mehdi Eisapour",
+   "Heng Zhao",
+   "Jun Zhao",
+   "Tayebeh Roostaei",
+   "Zheng Li",
+   "Ali Omidkar",
+   "Jinguang Hu",
+   "Zhangxin Chen"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2023-05-22",
+  "year": 2023,
+  "doi": "10.1016/j.jcis.2023.05.138",
+  "url": "https://doi.org/10.1016/j.jcis.2023.05.138",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions",
+   "2D Materials"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Nanosheets",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Calgary",
+   "Peking University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9797"
+ },
+ {
   "id": "eb8c2148a5d27ae5",
   "title": "Synergistic Photoredox and Iron(II) Catalyzed Carbophosphorothiolation of Vinyl Arenes",
   "authors": [
@@ -14854,6 +14894,55 @@
    "Qingdao University of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2693b023c858205a",
+  "title": "Effect of the TiO2-carbon interface on charge transfer and ethanol photo-reforming",
+  "authors": [
+   "Enqi Bu",
+   "Xiaowei Chen",
+   "C. López-Cartés",
+   "F. Cazaña",
+   "Antonio Monzón",
+   "Javier Martínez-López",
+   "Juan Jose Delgado"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2023-05-19",
+  "year": 2023,
+  "doi": "10.1016/j.cattod.2023.114220",
+  "url": "https://doi.org/10.1016/j.cattod.2023.114220",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "2D Materials"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Charge Transfer",
+   "Electron-Hole Pairs",
+   "Hydrogen Production",
+   "Nanosheets",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoluminescence",
+   "Photoreforming",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Universidad de Cádiz",
+   "Universidad de Sevilla",
+   "Universidad de Zaragoza",
+   "Instituto de Nanociencia y Materiales de Aragón"
+  ],
+  "added": "2026-10-02",
+  "issn": "0920-5861"
  },
  {
   "id": "2454f43b94667c6d",
@@ -23672,6 +23761,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e1785da9758633c9",
+  "title": "Photoelectrochemical Reactive Oxygen Species Generation for Organic Conversion",
+  "authors": [
+   "Jiaming Miao",
+   "Hu Guo",
+   "Kan Zhang"
+  ],
+  "journal": "ChemPhotoChem",
+  "publisher": "Wiley",
+  "published": "2023-05-11",
+  "year": 2023,
+  "doi": "10.1002/cptc.202300046",
+  "url": "https://doi.org/10.1002/cptc.202300046",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "ROS"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Nanjing University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2367-0932"
+ },
+ {
   "id": "ce652831f72c067a",
   "title": "Designing of graphene oxide–induced p-NiO/n-MoO3 heterostructures for improved photocatalytic activity through plasmon-enhanced S-scheme mechanism and its biological and electrochemical performance",
   "authors": [
@@ -25486,6 +25605,54 @@
    "Division of Materials Science and Engineering"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "7d0a91f4bba53c25",
+  "title": "Nearly 100% selective and visible-light-driven methane conversion to formaldehyde via. single-atom Cu and Wδ+",
+  "authors": [
+   "Lei Luo",
+   "Xiaoyu Han",
+   "Keran Wang",
+   "Youxun Xu",
+   "Lunqiao Xiong",
+   "Jiani Ma",
+   "Zhengxiao Guo",
+   "Junwang Tang"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2023-05-10",
+  "year": 2023,
+  "doi": "10.1038/s41467-023-38334-7",
+  "url": "https://doi.org/10.1038/s41467-023-38334-7",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Methane Conversion",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "Single-Atom Catalysts",
+   "Visible Light"
+  ],
+  "relevance_score": 92,
+  "affiliations": [
+   "Dalian Institute of Chemical Physics",
+   "Chinese Academy of Sciences",
+   "Northwest University",
+   "Dalian National Laboratory for Clean Energy",
+   "State Key Laboratory of Catalysis",
+   "University of Manchester",
+   "University College London",
+   "University of Hong Kong"
+  ],
+  "added": "2026-10-02",
+  "issn": "2041-1723"
  },
  {
   "id": "799a89a163827d8e",

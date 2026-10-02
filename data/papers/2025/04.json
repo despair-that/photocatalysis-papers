@@ -42073,6 +42073,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "c18679a69a7dc1a5",
+  "title": "Recyclability and regeneration of Au/TiO2 nanocomposite and Pt/TiO2 atom-nano composite catalysts in photo-reforming plastics for hydrogen production",
+  "authors": [
+   "E.M.N. Thiloka Edirisooriya",
+   "Punhasa S. Senanayake",
+   "Pei Xu",
+   "Huiyao Wang"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2025-04-03",
+  "year": 2025,
+  "doi": "10.1016/j.jece.2025.116467",
+  "url": "https://doi.org/10.1016/j.jece.2025.116467",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "Recyclability",
+   "TiO2"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "New Mexico State University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2213-2929"
+ },
+ {
   "id": "b4c2f582092ccd3b",
   "title": "Bio-inspired Fe/Ti-MOF photocatalysts for efficient nitrogen fixation under mild conditions",
   "authors": [

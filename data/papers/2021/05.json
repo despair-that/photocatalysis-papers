@@ -2347,6 +2347,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4274816e5c1489dc",
+  "title": "Selective biomass photoreforming for valuable chemicals and fuels: A critical review",
+  "authors": [
+   "Ugochukwu Nwosu",
+   "Aiguo Wang",
+   "Bruna Palma",
+   "Heng Zhao",
+   "Mohd Adnan Khan",
+   "Md Golam Kibria",
+   "Jinguang Hu"
+  ],
+  "journal": "Renewable and Sustainable Energy Reviews",
+  "publisher": "Elsevier BV",
+  "published": "2021-05-29",
+  "year": 2021,
+  "doi": "10.1016/j.rser.2021.111266",
+  "url": "https://doi.org/10.1016/j.rser.2021.111266",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Calgary"
+  ],
+  "added": "2026-10-02",
+  "issn": "1364-0321"
+ },
+ {
   "id": "3cf460fa60822f61",
   "title": "Green synthesis of nanostructured calcium ferrite particles and its application to photocatalytic degradation of Evans blue dye",
   "authors": [
@@ -13848,6 +13880,45 @@
    "The University of Tokyo"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "da6e00c92b8dc932",
+  "title": "Metal-insulator-semiconductor (MIS) photoelectrodes: distance improves performance",
+  "authors": [
+   "Joshua Jack",
+   "Zhiyong Jason Ren"
+  ],
+  "journal": "National Science Review",
+  "publisher": "Oxford University Press",
+  "published": "2021-05-19",
+  "year": 2021,
+  "doi": "10.1093/nsr/nwab089",
+  "url": "https://doi.org/10.1093/nsr/nwab089",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "BiVO4",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Oxygen Evolution",
+   "Photoanodes",
+   "Photocatalysis",
+   "Photocathodes",
+   "Photoelectrochemistry",
+   "Semiconductors",
+   "Solar Hydrogen"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "Princeton University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2053-714X"
  },
  {
   "id": "d9b7d5ba7566c252",
@@ -30521,6 +30592,48 @@
    "St Petersburg University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "10d036daafc7d2fc",
+  "title": "Carbon quantum dots modified TiO2 composites for hydrogen production and selective glucose photoreforming",
+  "authors": [
+   "Heng Zhao",
+   "Xinti Yu",
+   "Chaofan Li",
+   "Wen-Bei Yu",
+   "Aiguo Wang",
+   "Zhi-Yi Hu",
+   "Steve Larter",
+   "Yu Li",
+   "Md Golam Kibria",
+   "Jinguang Hu"
+  ],
+  "journal": "Journal of Energy Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2021-05-03",
+  "year": 2021,
+  "doi": "10.1016/j.jechem.2021.04.033",
+  "url": "https://doi.org/10.1016/j.jechem.2021.04.033",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "Quantum Dots",
+   "TiO2"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "University of Calgary",
+   "Wuhan University of Technology",
+   "State Key Laboratory of Advanced Technology For Materials Synthesis and Processing"
+  ],
+  "added": "2026-10-02",
+  "issn": "2095-4956"
  },
  {
   "id": "105e36751cada6ce",

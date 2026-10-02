@@ -766,6 +766,43 @@
   "added": "2026-07-26"
  },
  {
+  "id": "d45b09ff93b7413a",
+  "title": "Structure‐Enhanced Photocatalytic Removal of CrVI by a TiO2 Superstructure with Ultrathin Rutile Nanorods and Abundant {110} Faces",
+  "authors": [
+   "Sichao Xu",
+   "Yunxia Zhang",
+   "Shuanjin Wang",
+   "Junmin Xu",
+   "Hualin Ding",
+   "Guanghai Li"
+  ],
+  "journal": "European Journal of Inorganic Chemistry",
+  "publisher": "Wiley",
+  "published": "2013-03-28",
+  "year": 2013,
+  "doi": "10.1002/ejic.201201475",
+  "url": "https://doi.org/10.1002/ejic.201201475",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "2D Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "Ultrathin",
+   "Wastewater"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Institute of Solid State Physics"
+  ],
+  "added": "2026-10-02",
+  "issn": "1099-0682"
+ },
+ {
   "id": "bcfe91f09c648f2c",
   "title": "Photocatalytic degradation of tetracycline in aqueous solution by nanosized TiO2",
   "authors": [
@@ -1239,6 +1276,40 @@
    "Swiss Federal Laboratories for Materials Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a0c825aa64bde2a0",
+  "title": "Honeycomb‐Like Organized TiO 2 Photoanodes with Dual Pores for Solid‐State Dye‐Sensitized Solar Cells",
+  "authors": [
+   "Sung-Hoon Ahn",
+   "Won Seok Chi",
+   "Dong Jun Kim",
+   "Sung Yeon Heo",
+   "Jong Hak Kim"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2013-03-27",
+  "year": 2013,
+  "doi": "10.1002/adfm.201203851",
+  "url": "https://doi.org/10.1002/adfm.201203851",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Electrochemical Characterization"
+  ],
+  "tags": [
+   "EIS",
+   "Photoanodes",
+   "TiO2"
+  ],
+  "relevance_score": 41,
+  "affiliations": [
+   "Yonsei University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1616-301X"
  },
  {
   "id": "9e3ffd804d76d4da",
@@ -3256,6 +3327,40 @@
   "relevance_score": 52,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b92305cff66e4990",
+  "title": "Propriedades eletrônicas e estruturais de nanoestruturas de dióxido de titânio por primeiros princípios",
+  "authors": [
+   "André A. Lino"
+  ],
+  "journal": "Americanae (AECID Library)",
+  "publisher": "",
+  "published": "2013-03-22",
+  "year": 2013,
+  "doi": "",
+  "url": "http://hdl.handle.net/1843/BUOS-AR6FA6",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Computational & DFT",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "Doping",
+   "Electron-Hole Pairs",
+   "Graphene",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "6dc0385e00c56b0f",
@@ -10564,6 +10669,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "5a7790af10d12c94",
+  "title": "Surface Structure and Reactivity of Anatase TiO2 Crystals with Dominant {001} Facets",
+  "authors": [
+   "Sencer Selçuk",
+   "Annabella Selloni"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2013-03-06",
+  "year": 2013,
+  "doi": "10.1021/jp402100v",
+  "url": "https://doi.org/10.1021/jp402100v",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Molecular Dynamics",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Princeton University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1932-7447"
+ },
+ {
   "id": "562106f34bd1b943",
   "title": "Effect of preparation parameters on the morphologically induced photocatalytic activities of hierarchical zinc oxide nanostructures",
   "authors": [
@@ -11384,6 +11520,34 @@
    "Beijing Forestry University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "488de52021bcb8f4",
+  "title": "Polyacrylonitrile-TiO2 Fibers for Control of Gaseous Aromatic Compounds",
+  "authors": [
+   "Wan-Kuen Jo",
+   "Hyun-Jung Kang"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2013-03-05",
+  "year": 2013,
+  "doi": "10.1021/ie303178u",
+  "url": "https://doi.org/10.1021/ie303178u",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Kyungpook National University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0888-5885"
  },
  {
   "id": "3f63a1987dcc3d19",
@@ -12468,6 +12632,49 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ea8529e6025f0eca",
+  "title": "Optical and photocatalytic properties of TiO2 films modified with oxides and gold",
+  "authors": [
+   "T. O. Busko",
+   "Oksana Petrivna Dmytrenko",
+   "Mykola P. Kulish",
+   "Yu. І. Prylutskyy",
+   "Sviatoslav Shokhovets",
+   "Gerhard Gobsch",
+   "N. V. Vityuk",
+   "Anna M. Eremenko",
+   "В. Н. Ткач"
+  ],
+  "journal": "Materialwissenschaft und Werkstofftechnik",
+  "publisher": "Wiley",
+  "published": "2013-03-01",
+  "year": 2013,
+  "doi": "10.1002/mawe.201300104",
+  "url": "https://doi.org/10.1002/mawe.201300104",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Dye Degradation",
+   "Photocatalysis",
+   "Photodegradation",
+   "TiO2"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "Taras Shevchenko National University of Kyiv",
+   "Technische Universität Ilmenau",
+   "Chuiko Institute of Surface Chemistry",
+   "V. Bakul Institute for Superhard Materials"
+  ],
+  "added": "2026-10-02",
+  "issn": "0933-5137"
+ },
+ {
   "id": "e5998be1c8fd24e1",
   "title": "Modified track-etched membranes using photocatalytic semiconductors for advanced oxidation water treatment processes",
   "authors": [
@@ -12822,6 +13029,35 @@
    "University of Miyazaki"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "afe2c94c41e53337",
+  "title": "Preparation, Characterisation and Photocatalytic Activity of Nb2O5/TiO2 Coupled Semiconductor Oxides",
+  "authors": [
+   "SudhirS. Arbuj",
+   "Ranjit R. Hawaldar",
+   "Uttam P. Mulik",
+   "Dinesh Amalnerkar"
+  ],
+  "journal": "Journal of Nanoengineering and Nanomanufacturing",
+  "publisher": "American Scientific Publishers",
+  "published": "2013-03-01",
+  "year": 2013,
+  "doi": "10.1166/jnan.2013.1113",
+  "url": "https://doi.org/10.1166/jnan.2013.1113",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "2157-9326"
  },
  {
   "id": "abb1e560d12a4600",
@@ -13660,6 +13896,35 @@
    "Savitribai Phule Pune University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "5334b47002ada618",
+  "title": "Dependence of Photocatalytic Reaction Yields on Catalyst Mass in Solid-Liquid Suspensions",
+  "authors": [
+   "Patrick E. Hoggard",
+   "Larissa R. Cohen",
+   "Laura A. Peña",
+   "Brent M. Harvey",
+   "Alissa M. Chan"
+  ],
+  "journal": "Current Catalysis",
+  "publisher": "",
+  "published": "2013-03-01",
+  "year": 2013,
+  "doi": "10.2174/2211544711302010002",
+  "url": "https://doi.org/10.2174/2211544711302010002",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "2211-5447"
  },
  {
   "id": "516493c909197397",

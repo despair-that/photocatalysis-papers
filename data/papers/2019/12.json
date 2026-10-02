@@ -17691,6 +17691,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2c4e7b7df8966b0d",
+  "title": "Edge functionalization of terminal amino group in carbon nitride by in-situ C–N coupling for photoreforming of biomass into H2",
+  "authors": [
+   "Qiong Liu",
+   "Liling Wei",
+   "Qiaoyue Xi",
+   "Yongqian Lei",
+   "Fuxian Wang"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2019-12-14",
+  "year": 2019,
+  "doi": "10.1016/j.cej.2019.123792",
+  "url": "https://doi.org/10.1016/j.cej.2019.123792",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Photoreforming"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "State Key Laboratory of Pulp and Paper Engineering",
+   "South China University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "28cd4438dc81ca53",
   "title": "Construction of a nanocavity structure with a carrier-selective layer for enhancement of photocatalytic hydrogen production performance",
   "authors": [

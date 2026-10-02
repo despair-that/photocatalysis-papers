@@ -31255,6 +31255,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "700fcc6b9d861974",
+  "title": "(Invited) Biomass-Derivative Molecules for the Sustainable Synthesis of Carbon-Doped High-Performance Nanostructured Materials",
+  "authors": [
+   "Juan Matos",
+   "Po S. Poon"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2019-05-01",
+  "year": 2019,
+  "doi": "10.1149/ma2019-01/10/755",
+  "url": "https://doi.org/10.1149/ma2019-01/10/755",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "DFT",
+   "Doping",
+   "Dye Degradation",
+   "Photocatalysis",
+   "Photodegradation",
+   "Semiconductors",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "1091-8213"
+ },
+ {
   "id": "6fcf74280675bfc2",
   "title": "(Invited) Nanohybrids for Manipulating Solar Energy",
   "authors": [

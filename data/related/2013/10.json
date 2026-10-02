@@ -1,0 +1,116 @@
+[
+ {
+  "id": "9eb48fb6d0cf5932",
+  "title": "Facile preparation of ZnS/g-C 3 N 4 nanohybrids for enhanced optical properties",
+  "authors": [
+   "Yongqian Shi",
+   "Saihua Jiang",
+   "Keqing Zhou",
+   "Bibo Wang",
+   "Biao Wang",
+   "Zhou Gui",
+   "Yuan Z. Hu",
+   "Richard K.K. Yuen"
+  ],
+  "journal": "RSC Advances",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2013-10-24",
+  "year": 2013,
+  "doi": "10.1039/c3ra44256j",
+  "url": "https://doi.org/10.1039/c3ra44256j",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Nanosheets",
+   "Photoluminescence",
+   "Quantum Yield",
+   "Related",
+   "ZnS",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "State Key Laboratory of Fire Science",
+   "City University of Hong Kong"
+  ],
+  "added": "2026-10-02",
+  "issn": "2046-2069"
+ },
+ {
+  "id": "8ea78d358d1739eb",
+  "title": "Ti3+ self-doped TiO2−x anatase nanoparticles via oxidation of TiH2 in H2O2",
+  "authors": [
+   "Xin Liu",
+   "Hui Fang Xu",
+   "Lauren R. Grabstanowicz",
+   "Shanmin Gao",
+   "Zaizhu Lou",
+   "Wenjun Wang",
+   "Baibiao Huang",
+   "Ying Dai",
+   "Tao Xu"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2013-10-22",
+  "year": 2013,
+  "doi": "10.1016/j.cattod.2013.08.025",
+  "url": "https://doi.org/10.1016/j.cattod.2013.08.025",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Pioneer",
+   "Related",
+   "TiO2"
+  ],
+  "relevance_score": 32,
+  "affiliations": [
+   "Ludong University",
+   "Northern Illinois University",
+   "Shandong University",
+   "State Key Laboratory of Crystal Materials"
+  ],
+  "added": "2026-10-02",
+  "issn": "0920-5861"
+ },
+ {
+  "id": "8be63a528d3037b9",
+  "title": "New insights into the photo-enhanced electrocatalytic reduction of carbon dioxide on MoS2-rods/TiO2 NTs with unmatched energy band",
+  "authors": [
+   "Peiqiang Li",
+   "Haitao Hu",
+   "Jinfeng Xu",
+   "Jing Yu Hua",
+   "Hui Peng",
+   "Jing Lu",
+   "Chenxiao Wu",
+   "Shiyun Ai"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2013-10-15",
+  "year": 2013,
+  "doi": "10.1016/j.apcatb.2013.10.010",
+  "url": "https://doi.org/10.1016/j.apcatb.2013.10.010",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related",
+   "TiO2"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Shandong Agricultural University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ }
+]

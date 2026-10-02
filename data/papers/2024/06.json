@@ -3778,6 +3778,47 @@
   "added": "2026-07-24"
  },
  {
+  "id": "fd64931193fa9a6d",
+  "title": "Construction of an interface interaction in a g-C3N4/CdS/NiS for photoreforming of plastic and clean hydrogen regeneration",
+  "authors": [
+   "Zhe Yin",
+   "Huanyu Chen",
+   "Qiuyu Wang",
+   "Ziwen Wang",
+   "Guoping Yu",
+   "Binglin Tang",
+   "Man Zhang",
+   "Kangzheng Li",
+   "Zhichao Zhang",
+   "Qingcheng Luo",
+   "Tianding Hu",
+   "Bo Lv"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2024-06-27",
+  "year": 2024,
+  "doi": "10.1016/j.jcis.2024.06.214",
+  "url": "https://doi.org/10.1016/j.jcis.2024.06.214",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoreforming",
+   "g-C3N4"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Kunming University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9797"
+ },
+ {
   "id": "fcd05f1fc6c71523",
   "title": "CeO2 microspheres/Ni0.5Zn0.5Fe2O4/MWCNT ternary hybrid composites for ultrasonic-enhanced photocatalytic wastewater treatment",
   "authors": [
@@ -12250,6 +12291,47 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7d7c4df49721e60f",
+  "title": "Photoreforming of poly(ethylene-terephthalate) plastic into valuable chemicals and hydrogen over BiVO4/MoOx: Synergistic promotion of oxidation and reduction processes",
+  "authors": [
+   "Xinxin Liang",
+   "Ting Gao",
+   "Yongqian Cui",
+   "Qibing Dong",
+   "Ximing Li",
+   "Abdelkader Labidi",
+   "Eric Lichtfouse",
+   "Fei Li",
+   "Feng Yu",
+   "Chuanyi Wang"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2024-06-21",
+  "year": 2024,
+  "doi": "10.1016/j.apcatb.2024.124326",
+  "url": "https://doi.org/10.1016/j.apcatb.2024.124326",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "BiVO4",
+   "Photoreforming"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Shaanxi University of Science and Technology",
+   "State Key Laboratory of Multiphase Flow in Power Engineering",
+   "Xi'an Jiaotong University",
+   "Shihezi University",
+   "Jiangxi Science and Technology Normal University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
   "id": "736f040b7074b754",
   "title": "Radiant synergy: Illuminating methyl orange dye removal with g-C3N4/ZnO heterojunction photocatalyst",
   "authors": [
@@ -19872,6 +19954,45 @@
    "Chongqing University of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "70ffb0bf8ff28e64",
+  "title": "Visible‐Light Photoreforming of Biomass Derivatives through MBi 2 O 4 ‐P25 Heterostructures: Study of the Influence of Metals (M = Cu, Ni, Zn, Co)",
+  "authors": [
+   "Muhammad Umair",
+   "Ahmed Malek Djaballah",
+   "Marianna Bellardita",
+   "R. Bagtache",
+   "Leonardo Palmisano",
+   "Mohamed Trari"
+  ],
+  "journal": "Advanced Sustainable Systems",
+  "publisher": "Wiley",
+  "published": "2024-06-16",
+  "year": 2024,
+  "doi": "10.1002/adsu.202400298",
+  "url": "https://doi.org/10.1002/adsu.202400298",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photoreforming",
+   "Solar Light"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "University of Palermo",
+   "University of Sciences and Technology Houari Boumediene",
+   "Institute of Physical Chemistry",
+   "Polish Academy of Sciences"
+  ],
+  "added": "2026-10-02",
+  "issn": "2366-7486"
  },
  {
   "id": "6a874ee8fd595c85",
@@ -40323,6 +40444,35 @@
    "Central Metallurgical Research and Development Institute"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "463632036aada073",
+  "title": "Methods of hydrogen production",
+  "authors": [
+   "Sindhunil Barman Roy"
+  ],
+  "journal": "Hydrogen",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2024-06-01",
+  "year": 2024,
+  "doi": "10.1088/978-0-7503-5172-0ch11",
+  "url": "https://doi.org/10.1088/978-0-7503-5172-0ch11",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Ramakrishna Mission Vivekananda Educational and Research Institute",
+   "UGC DAE Consortium for Scientific Research"
+  ],
+  "added": "2026-10-02",
+  "issn": "2673-4141"
  },
  {
   "id": "45150eda2a120800",

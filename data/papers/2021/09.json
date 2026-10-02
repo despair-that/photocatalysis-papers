@@ -14670,6 +14670,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f538cfa5eec88927",
+  "title": "Enhanced photothermal catalytic performance of dry reforming of methane over Ni/mesoporous TiO2 composite catalyst",
+  "authors": [
+   "Tao Xie",
+   "Zhenyu Zhang",
+   "Hao-Ye Zheng",
+   "Kai-Di Xu",
+   "Zhun Hu",
+   "Yu Lei"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2021-09-17",
+  "year": 2021,
+  "doi": "10.1016/j.cej.2021.132507",
+  "url": "https://doi.org/10.1016/j.cej.2021.132507",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photothermal Catalysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Xi'an Jiaotong University",
+   "Nuclear Power Institute of China",
+   "Dongfang Electric Corporation (China)"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "f41127a14f6beba4",
   "title": "Visible-Light Photoredox-Catalytic Coupling of Aryl Chlorides via Radical Anions",
   "authors": [
@@ -18376,6 +18410,37 @@
    "Universitat Politècnica de Catalunya"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "9600a2784b33201e",
+  "title": "Cover Feature: Scalable Photocatalyst Panels for Photoreforming of Plastic, Biomass and Mixed Waste in Flow (ChemSusChem 19/2021)",
+  "authors": [
+   "Taylor Uekert",
+   "Mark A. Bajada",
+   "Teresa Schubert",
+   "Christian M. Pichler",
+   "Erwin Reisner"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2021-09-15",
+  "year": 2021,
+  "doi": "10.1002/cssc.202101829",
+  "url": "https://doi.org/10.1002/cssc.202101829",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Cambridge"
+  ],
+  "added": "2026-10-02",
+  "issn": "1864-5631"
  },
  {
   "id": "876c17312b215b96",

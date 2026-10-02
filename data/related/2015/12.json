@@ -1,0 +1,52 @@
+[
+ {
+  "id": "f5a3a1386da5d84c",
+  "title": "Yesterday, Today, and Tomorrow",
+  "authors": [
+   "David A. Andelman"
+  ],
+  "journal": "World Policy Journal",
+  "publisher": "SAGE Publishing",
+  "published": "2015-12-01",
+  "year": 2015,
+  "doi": "10.1177/0740277515623757",
+  "url": "https://doi.org/10.1177/0740277515623757",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "0740-2775"
+ },
+ {
+  "id": "ae6abc0dbaa1c9e1",
+  "title": "The Changing Face of Cuba",
+  "authors": [
+   "Amanda Mattingly"
+  ],
+  "journal": "World Policy Journal",
+  "publisher": "SAGE Publishing",
+  "published": "2015-12-01",
+  "year": 2015,
+  "doi": "10.1177/0740277515623745",
+  "url": "https://doi.org/10.1177/0740277515623745",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "0740-2775"
+ }
+]

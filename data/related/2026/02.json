@@ -1,0 +1,44 @@
+[
+ {
+  "id": "2541a440d837a9a4",
+  "title": "Unraveling photon-phonon coupling for light-driven dry reforming of methane on Ru supported ZnO catalysts",
+  "authors": [
+   "Xueliang Lu",
+   "Zhenghao Jia",
+   "Qiao Zhang",
+   "Shijun Liu",
+   "Aiting Xu",
+   "Guangxing Yang",
+   "Zhiting Liu",
+   "Rengui Li",
+   "Feng Peng"
+  ],
+  "journal": "Chem Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2026-02-18",
+  "year": 2026,
+  "doi": "10.1016/j.checat.2025.101610",
+  "url": "https://doi.org/10.1016/j.checat.2025.101610",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Pioneer",
+   "Related",
+   "ZnO"
+  ],
+  "relevance_score": 29,
+  "affiliations": [
+   "Guangzhou University",
+   "Dalian Institute of Chemical Physics",
+   "Chinese Academy of Sciences",
+   "Dalian National Laboratory for Clean Energy",
+   "State Key Laboratory of Catalysis",
+   "Guangzhou Institute of Energy Conversion",
+   "Guangdong Provincial Key Laboratory of Renewable Energy"
+  ],
+  "added": "2026-10-02",
+  "issn": "2667-1093"
+ }
+]

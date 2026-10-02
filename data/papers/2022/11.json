@@ -14169,6 +14169,36 @@
   "added": "2026-07-27"
  },
  {
+  "id": "18493056afc57f98",
+  "title": "Solar-Driven Photothermocatalytic Dry Reforming of Methane for Syngas Production",
+  "authors": [
+   "Xuhui Feng",
+   "Ying Li"
+  ],
+  "journal": "ACS symposium series",
+  "publisher": "American Chemical Society",
+  "published": "2022-11-21",
+  "year": 2022,
+  "doi": "10.1021/bk-2022-1421.ch008",
+  "url": "https://doi.org/10.1021/bk-2022-1421.ch008",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "2D Materials"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Ultrathin"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Texas A&M University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0097-6156"
+ },
+ {
   "id": "14dd40ee2086af62",
   "title": "Significantly Enhanced Photocatalytic Performance of the g-C 3 N 4 /Sulfur-Vacancy-Containing Zn 3 In 2 S 6 Heterostructure for Photocatalytic H 2 and H 2 O 2 Generation by Coupling Defects with Heterojunction Engineering",
   "authors": [
@@ -28430,6 +28460,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "6916bf4759f95d2a",
+  "title": "Synergistic Effect of Redox Dual PdOx/MnOx Cocatalysts on the Enhanced H2 Production Potential of a SnS/α-Fe2O3 Heterojunction via Ethanol Photoreforming",
+  "authors": [
+   "Hossein Etemadi",
+   "Tayyebeh Soltani",
+   "Hisao Yoshida",
+   "Yiming Zhang",
+   "Shane G. Telfer",
+   "Jenna K. Buchanan",
+   "Paul G. Plieger"
+  ],
+  "journal": "ACS Omega",
+  "publisher": "American Chemical Society",
+  "published": "2022-11-10",
+  "year": 2022,
+  "doi": "10.1021/acsomega.2c05410",
+  "url": "https://doi.org/10.1021/acsomega.2c05410",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Heterojunctions",
+   "Photoreforming"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Massey University",
+   "Kyoto University",
+   "MacDiarmid Institute for Advanced Materials and Nanotechnology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2470-1343"
+ },
+ {
   "id": "68ac351bf7808b95",
   "title": "Rationally construct of CoSx/MoS2/g-C3N4 double heterojunction with promoting the separation of carriers for enhanced photocatalysis",
   "authors": [
@@ -30381,6 +30449,39 @@
    "Agricultural Research Center"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "37dd170a352d3059",
+  "title": "A facile way to synthesize noble metal free TiO2 based catalysts for glycerol photoreforming",
+  "authors": [
+   "Claudio Maria Pecoraro",
+   "Marianna Bellardita",
+   "Vittorio Loddo",
+   "Francesco Di Franco",
+   "Leonardo Palmisano",
+   "Monica Santamaria"
+  ],
+  "journal": "Journal of Industrial and Engineering Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2022-11-09",
+  "year": 2022,
+  "doi": "10.1016/j.jiec.2022.11.010",
+  "url": "https://doi.org/10.1016/j.jiec.2022.11.010",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Palermo"
+  ],
+  "added": "2026-10-02",
+  "issn": "1226-086X"
  },
  {
   "id": "365550bcee952af5",
@@ -39682,6 +39783,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4638c28db806e5c2",
+  "title": "Pt Preferential incorporation onto TiO2 IN TiO2-carbon composites for hydrogen production from glycerol photoreforming",
+  "authors": [
+   "Juan Carlos Escamilla-Mejía",
+   "Jesús Hidalgo-Carrillo",
+   "Juan Martín-Gómez",
+   "Francisco Javier López-Tenllado",
+   "Rafael C. Estévez",
+   "Alberto Marinas",
+   "Francisco José Urbano"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2022-11-02",
+  "year": 2022,
+  "doi": "10.1016/j.cattod.2022.11.004",
+  "url": "https://doi.org/10.1016/j.cattod.2022.11.004",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Córdoba"
+  ],
+  "added": "2026-10-02",
+  "issn": "0920-5861"
+ },
+ {
   "id": "3f5fd31e9574014e",
   "title": "Selective Photocatalytic Reduction of CO 2 ‐to‐CO in Water using a Polymeric Carbon Nitride Quantum Dot/Fe‐Porphyrin Hybrid Assembly",
   "authors": [
@@ -41943,6 +42080,48 @@
    "Nanjing University of Posts and Telecommunications"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "4d1bbdfedb75af75",
+  "title": "Production of hydrogen by photoreforming of formaldehyde containing wastewater over CdO–CuO@exfoliated g–C3N4 nanoheterojunction",
+  "authors": [
+   "Munusamy Thurga Devi"
+  ],
+  "journal": "UMP Institutional Repository (Universiti Malaysia Pahang)",
+  "publisher": "Universiti Malaysia Pahang Al-Sultan Abdullah",
+  "published": "2022-11-01",
+  "year": 2022,
+  "doi": "",
+  "url": "https://umpir.ump.edu.my/id/eprint/38157/1/Production%20of%20hydrogen%20by%20photoreforming%20of%20formaldehyde%20containing%20wastewater%20over%20CdO%E2%80%93CuO%40exfoliated%20g%E2%80%93C3N4%20nanoheterojunction.ir.pdf",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Z-Scheme & Heterojunctions",
+   "2D Materials",
+   "Electrochemical Characterization"
+  ],
+  "tags": [
+   "Band Structure",
+   "Carbon Nitride",
+   "Charge Separation",
+   "Charge Transfer",
+   "Heterojunctions",
+   "Hydrogen Production",
+   "Nanosheets",
+   "Photocatalysis",
+   "Photoreforming",
+   "Tafel",
+   "Wastewater",
+   "g-C3N4"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "48fdd726526bfc32",

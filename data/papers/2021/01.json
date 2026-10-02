@@ -8102,6 +8102,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b4a236bbf69642de",
+  "title": "Simultaneous wastewater treatment and generation of blended fuel methane and hydrogen using Au-Pt/TiO2 photo-reforming catalytic material",
+  "authors": [
+   "Girivyankatesh Hippargi",
+   "Swapna M. Anjankar",
+   "Reddithota J. Krupadam",
+   "Sadhana Suresh Rayalu"
+  ],
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "published": "2021-01-22",
+  "year": 2021,
+  "doi": "10.1016/j.fuel.2020.120113",
+  "url": "https://doi.org/10.1016/j.fuel.2020.120113",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2",
+   "Wastewater"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "National Environmental Engineering Research Institute"
+  ],
+  "added": "2026-10-02",
+  "issn": "0016-2361"
+ },
+ {
   "id": "ac7c53ba81e4fe3f",
   "title": "Ultrathin carbon-coated Zr3+-ZrO2 nanostructures for efficient visible light photocatalytic antibiotic elimination",
   "authors": [
@@ -13719,6 +13752,31 @@
    "Universidade Estadual de Campinas (UNICAMP)"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "992f569803d2d5ce",
+  "title": "Photoreforming of Lignocellulosic Biomass into Hydrogen Utilizing the Entire Visible Range of Light in the Presence of Composite Photocatalyst",
+  "authors": [
+   "Haruki Nagakawa"
+  ],
+  "journal": "The Chemical Society of Japan",
+  "publisher": "",
+  "published": "2021-01-18",
+  "year": 2021,
+  "doi": "",
+  "url": "https://confit.atlas.jp/guide/event/csj101st/subject/A11-2pm-02/detail",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "958218dba32975d9",
@@ -35637,6 +35695,35 @@
    "Zhengzhou University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "f04f384b3d472f8c",
+  "title": "Comprehending the application of 2D materials in biomass conversion catalysis",
+  "authors": [
+   "Shireen Quereshi",
+   "Ejaz Ahmạd",
+   "Kamal Kishore Pant"
+  ],
+  "journal": "Catalysis",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/9781839163128-00214",
+  "url": "https://doi.org/10.1039/9781839163128-00214",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Graphene",
+   "Photoreforming"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "0140-0568"
  },
  {
   "id": "f03df8786b28ce30",

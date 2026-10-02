@@ -2375,6 +2375,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a3de215a0c51b573",
+  "title": "PET as a support material for TiO2 in advanced oxidation processes",
+  "authors": [
+   "Allen Lopes de Barros",
+   "Antonio Anailton Queiroz Domingos",
+   "Pierre Basílio Almeida Fechine",
+   "Denis De Keukeleire",
+   "Ronaldo Ferreira do Nascimento"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2013-11-25",
+  "year": 2013,
+  "doi": "10.1002/app.40175",
+  "url": "https://doi.org/10.1002/app.40175",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Universidade Federal do Ceará",
+   "Ghent University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-8995"
+ },
+ {
   "id": "9b5edc0f06dbcfb5",
   "title": "Highly Efficient Photoelectrochemical Hydrogen Generation Using a Quantum Dot Coupled Hierarchical ZnO Nanowires Array",
   "authors": [
@@ -3733,6 +3765,36 @@
    "University of California, Riverside"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "43592243b5ca4140",
+  "title": "The Controlled Hydrothermal Synthesis and Photocatalytic Characterization of TiO2 Nanorods: Effects of Time and Temperature",
+  "authors": [
+   "Nguyen Viet Long",
+   "Pham Van Viet",
+   "Lê Văn Hiếu",
+   "Cao Minh Thi",
+   "Yang Yong",
+   "Masayuki Nogami"
+  ],
+  "journal": "Advanced Science Engineering and Medicine",
+  "publisher": "American Scientific Publishers",
+  "published": "2013-11-22",
+  "year": 2013,
+  "doi": "10.1166/asem.2014.1472",
+  "url": "https://doi.org/10.1166/asem.2014.1472",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "2164-6627"
  },
  {
   "id": "3bfb97df1dc8a4cb",
@@ -6093,6 +6155,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a0094c33c0858082",
+  "title": "Facile and Fast Deposition of Amorphous Ti O 2 Film under Atmospheric Pressure and at Room Temperature, and its High Photocatalytic Activity under UV ‐ C Light",
+  "authors": [
+   "Zhiguang Sun",
+   "Xiao-Song Li",
+   "Xiaobing Zhu",
+   "Xiaoqing Deng",
+   "Dalei Chang",
+   "Ai-Min Zhu"
+  ],
+  "journal": "Chemical Vapor Deposition",
+  "publisher": "Wiley",
+  "published": "2013-11-18",
+  "year": 2013,
+  "doi": "10.1002/cvde.201307088",
+  "url": "https://doi.org/10.1002/cvde.201307088",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Dalian University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0948-1907"
+ },
+ {
   "id": "9f0ae16164d600d8",
   "title": "XANES-EXAFS kinetic study on the photocatalytic deposition of platinum on TiO2 for hydrogen production",
   "authors": [
@@ -7780,6 +7876,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "5acc30f1ca0b05b6",
+  "title": "Facile Synthesis of Pt-Polypyrrole Modified Hollow TiO2 Composites and Their Photocatalytic Application",
+  "authors": [
+   "Bing Wang",
+   "Chuang Li",
+   "Wei Wang",
+   "Jin Zhang",
+   "Hao Cui",
+   "Jianping Zhai",
+   "Qin Li"
+  ],
+  "journal": "Science of Advanced Materials",
+  "publisher": "American Scientific Publishers",
+  "published": "2013-11-14",
+  "year": 2013,
+  "doi": "10.1166/sam.2013.1653",
+  "url": "https://doi.org/10.1166/sam.2013.1653",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Nanjing University",
+   "Nanjing Xiaozhuang University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1947-2935"
+ },
+ {
   "id": "52c7e46b7ac26494",
   "title": "Photoelectrochemistry, Electronic Structure, and Bandgap Sizes of Semiconducting Cu(I)-Niobates and Cu(I)-Tantalates",
   "authors": [
@@ -8618,6 +8748,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0fa83566eba177fa",
+  "title": "Photocatalytic and antimicrobial activities of functionalized silicate sol–gel embedded ZnO–TiO2 nanocomposite materials",
+  "authors": [
+   "Ramamoorthy Dhanalakshmi",
+   "Alagarsamy Pandikumar",
+   "Kabilan Sujatha",
+   "Paramaswamy Gunasekaran"
+  ],
+  "journal": "Materials Express",
+  "publisher": "American Scientific Publishers",
+  "published": "2013-11-13",
+  "year": 2013,
+  "doi": "10.1166/mex.2013.1133",
+  "url": "https://doi.org/10.1166/mex.2013.1133",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "2158-5849"
+ },
+ {
   "id": "fec9a687fe6f67aa",
   "title": "Preparation and characterization of NaBiO3 nanopowders by different methods for photocatalytic reduction of CO2",
   "authors": [
@@ -9228,6 +9387,46 @@
    "Sichuan University of Arts and Science"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "cb2225c0c99f1adf",
+  "title": "Enhanced H2 Generation of Au‐Loaded, Nitrogen‐Doped TiO2 Hierarchical Nanostructures under Visible Light",
+  "authors": [
+   "Brundabana Naik",
+   "Sun Mi Kim",
+   "Chan Ho Jung",
+   "Song Yi Moon",
+   "Sang Hoon Kim",
+   "Jeong Young Park"
+  ],
+  "journal": "Advanced Materials Interfaces",
+  "publisher": "Wiley",
+  "published": "2013-11-11",
+  "year": 2013,
+  "doi": "10.1002/admi.201300018",
+  "url": "https://doi.org/10.1002/admi.201300018",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Charge Transfer",
+   "Doping",
+   "Photocatalysis",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Korea Advanced Institute of Science and Technology",
+   "Institute for Basic Science",
+   "Korea Institute of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2196-7350"
  },
  {
   "id": "c6c9257bc1384248",
@@ -9933,6 +10132,35 @@
    "National University of General San Martín"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "9f9173658b55c16f",
+  "title": "Cover Image, Volume 113, Issue 24",
+  "authors": [],
+  "journal": "International Journal of Quantum Chemistry",
+  "publisher": "Wiley",
+  "published": "2013-11-09",
+  "year": 2013,
+  "doi": "10.1002/qua.24570",
+  "url": "https://doi.org/10.1002/qua.24570",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Semiconductor Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "TiO2",
+   "Water Splitting"
+  ],
+  "relevance_score": 65,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "0020-7608"
  },
  {
   "id": "5dbec60a4470a5d4",
@@ -11177,6 +11405,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d9409d77b7c08fcd",
+  "title": "Monolithic quantum dot sensitized solar cells",
+  "authors": [
+   "Mahmoud Samadpour",
+   "Z Ghane",
+   "Nahid Ghazyani",
+   "Fariba Tajabadi",
+   "Nima Taghavinia"
+  ],
+  "journal": "Journal of Physics D Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "2013-11-06",
+  "year": 2013,
+  "doi": "10.1088/0022-3727/46/48/485101",
+  "url": "https://doi.org/10.1088/0022-3727/46/48/485101",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Quantum Dots",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "K. N. Toosi University of Technology",
+   "Sharif University of Technology",
+   "Kharazmi University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0022-3727"
+ },
+ {
   "id": "b6243a14de0b8947",
   "title": "An N-doped anatase/rutile TiO 2 hybrid from low-temperature direct nitridization: enhanced photoactivity under UV-/visible-light",
   "authors": [
@@ -11531,6 +11796,42 @@
    "University of Chicago"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "317821f7c87aafe0",
+  "title": "Effect of Annealing Temperature on Microstructure and UV Light Photocatalytic Activity of Ti O 2 Films Grown by Atmospheric Pressure CVD",
+  "authors": [
+   "Chin Sheng Chua",
+   "Xiaoqin Fang",
+   "Xiaofeng Chen",
+   "Ooi Kiang Tan",
+   "Man Siu Tse",
+   "Andrew M. Soutar",
+   "Xing-zhao Ding"
+  ],
+  "journal": "Chemical Vapor Deposition",
+  "publisher": "Wiley",
+  "published": "2013-11-06",
+  "year": 2013,
+  "doi": "10.1002/cvde.201207015",
+  "url": "https://doi.org/10.1002/cvde.201207015",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "TiO2"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Nanyang Technological University",
+   "Singapore Institute of Manufacturing Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0948-1907"
  },
  {
   "id": "27e21f46975e3d95",
@@ -12990,6 +13291,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "82a90d8c87e83c31",
+  "title": "Emerging nanotechnology-based methods for water purification: a review",
+  "authors": [
+   "Toqeer Ahmed",
+   "Saba Imdad",
+   "Khwaja Yaldram",
+   "Noor Mohammad Butt",
+   "Arshad Pervez"
+  ],
+  "journal": "Desalination and Water Treatment",
+  "publisher": "Taylor & Francis",
+  "published": "2013-11-04",
+  "year": 2013,
+  "doi": "10.1080/19443994.2013.801789",
+  "url": "https://doi.org/10.1080/19443994.2013.801789",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Wastewater",
+   "Water Purification"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "COMSATS University Islamabad",
+   "Preston University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1944-3986"
+ },
+ {
   "id": "7ac0cd4f50fbe063",
   "title": "Au–ZnO hybrid nanoflowers, nanomultipods and nanopyramids: one-pot reaction synthesis and photocatalytic properties",
   "authors": [
@@ -13881,6 +14215,44 @@
    "King Abdullah University of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "d32b160563caba83",
+  "title": "Photocatalytic Properties of (Fe, N)-Codoped TiO2",
+  "authors": [
+   "Wan Xia Tang",
+   "Er Xin Ni",
+   "Jun Tang Yuan",
+   "Ji Kang Yan",
+   "Gang Yang",
+   "Zhe Shi",
+   "Guoyou Gan",
+   "Jing Hong Du",
+   "Jia Min Zhang",
+   "Yichun Liu",
+   "Jian Hong Yi"
+  ],
+  "journal": "Advanced materials research",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-11-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amr.833.84",
+  "url": "https://doi.org/10.4028/www.scientific.net/amr.833.84",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Kunming University of Science and Technology",
+   "Kunming Metallurgical Research Institute"
+  ],
+  "added": "2026-10-02",
+  "issn": "1022-6680"
  },
  {
   "id": "d2387ec537c244ae",

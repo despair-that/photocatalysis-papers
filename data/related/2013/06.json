@@ -1,0 +1,178 @@
+[
+ {
+  "id": "81952532af3f3e68",
+  "title": "Localized electronic states induced by oxygen vacancies on anatase TiO2 (101) surface",
+  "authors": [
+   "Nora S. Portillo-Vélez",
+   "Oscar Olvera-Neria",
+   "Isaías Hernández-Pérez",
+   "Alberto Rubio-Ponce"
+  ],
+  "journal": "Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2013-06-19",
+  "year": 2013,
+  "doi": "10.1016/j.susc.2013.06.006",
+  "url": "https://doi.org/10.1016/j.susc.2013.06.006",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Related",
+   "TiO2"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Universidad Autónoma Metropolitana"
+  ],
+  "added": "2026-10-02",
+  "issn": "0039-6028"
+ },
+ {
+  "id": "6c9396d85df0c231",
+  "title": "Effects of charge balance with Na+ on SrTiO3:Mo6+ prepared by spray pyrolysis for H2 evolution under visible light irradiation",
+  "authors": [
+   "Hyun Woo Kang",
+   "Seung Bin Park",
+   "Ah-Hyung Alissa Park"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2013-06-17",
+  "year": 2013,
+  "doi": "10.1016/j.ijhydene.2013.05.106",
+  "url": "https://doi.org/10.1016/j.ijhydene.2013.05.106",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Light Irradiation",
+   "Related",
+   "SrTiO3",
+   "Visible Light"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Columbia University",
+   "Korea Advanced Institute of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ },
+ {
+  "id": "5857a37791c3880e",
+  "title": "TiO2/CdS composite hollow spheres with controlled synthesis of platinum on the internal wall for the efficient hydrogen evolution",
+  "authors": [
+   "Xiaofeng Cui",
+   "Guiyuan Jiang",
+   "Ming Yuan Zhu",
+   "Zhen Zhao",
+   "Luchao Du",
+   "Yuxiang Weng",
+   "Chunming Xu",
+   "Dekai Zhang",
+   "Quanlai Zhang",
+   "Yuechang Wei",
+   "Aijun Duan",
+   "Jian Liu",
+   "Jinsen Gao"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2013-06-13",
+  "year": 2013,
+  "doi": "10.1016/j.ijhydene.2013.05.062",
+  "url": "https://doi.org/10.1016/j.ijhydene.2013.05.062",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Evolution",
+   "Related",
+   "TiO2"
+  ],
+  "relevance_score": 28,
+  "affiliations": [
+   "China University of Petroleum, Beijing",
+   "State Key Laboratory of Heavy Oil",
+   "Chinese Academy of Sciences",
+   "Institute of Physics"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ },
+ {
+  "id": "2e705c9dbc3c7cf9",
+  "title": "ZnO@CdS core–shell thin film: fabrication and enhancement of exciton life time by CdS nanoparticle",
+  "authors": [
+   "Mrinmoy Misra",
+   "Pawan Kapur",
+   "Cheeruvari Ghanshyam",
+   "Madan Lal Singla"
+  ],
+  "journal": "Journal of Materials Science Materials in Electronics",
+  "publisher": "Springer Science+Business Media",
+  "published": "2013-06-06",
+  "year": 2013,
+  "doi": "10.1007/s10854-013-1321-0",
+  "url": "https://doi.org/10.1007/s10854-013-1321-0",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Related",
+   "ZnO"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Central Scientific Instruments Organisation",
+   "Academy of Scientific and Innovative Research"
+  ],
+  "added": "2026-10-02",
+  "issn": "0957-4522"
+ },
+ {
+  "id": "e6fea4ce8c30a55a",
+  "title": "Synthesis and luminescence mechanism of multicolor-emitting g-C3N4 nanopowders by low temperature thermal condensation of melamine",
+  "authors": [
+   "Yuanhao Zhang",
+   "Qiwen Pan",
+   "Guanqi Chai",
+   "Minru Liang",
+   "Guoping Dong",
+   "Qinyuan Zhang",
+   "Jianrong Qiu"
+  ],
+  "journal": "Scientific Reports",
+  "publisher": "Nature Portfolio",
+  "published": "2013-06-05",
+  "year": 2013,
+  "doi": "10.1038/srep01943",
+  "url": "https://doi.org/10.1038/srep01943",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Photoluminescence",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 25,
+  "affiliations": [
+   "State Key Laboratory of Luminescent Materials and Devices",
+   "South China University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2045-2322"
+ }
+]

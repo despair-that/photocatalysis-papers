@@ -1,0 +1,175 @@
+[
+ {
+  "id": "6fe386bccd4f6d31",
+  "title": "Interfacial passivation of CdS layer to CdSe quantum dots-sensitized electrodeposited ZnO nanowire thin films",
+  "authors": [
+   "Jingbo Zhang",
+   "Chuanzhen Sun",
+   "Shouli Bai",
+   "Ruixian Luo",
+   "Aifan Chen",
+   "Lina Sun",
+   "Yuan Hua Lin"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2013-05-24",
+  "year": 2013,
+  "doi": "10.1016/j.electacta.2013.05.069",
+  "url": "https://doi.org/10.1016/j.electacta.2013.05.069",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Quantum Dots",
+   "Related",
+   "ZnO"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Tianjin Normal University",
+   "Chinese Academy of Sciences",
+   "Beijing National Laboratory for Molecular Sciences",
+   "Institute of Chemistry",
+   "State Key Laboratory of Chemical Resource Engineering",
+   "Beijing University of Chemical Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0013-4686"
+ },
+ {
+  "id": "f61625e71d0c6dc7",
+  "title": "A novel photofunctional g-C3N4/Ag3PO4 bulk heterojunction for decolorization of Rh.B",
+  "authors": [
+   "Fengjun Zhang",
+   "Fazhi Xie",
+   "Shaofeng Zhu",
+   "Jin Liu",
+   "Jun Zhang",
+   "Shengfu Mei",
+   "Wei Zhao"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2013-05-20",
+  "year": 2013,
+  "doi": "10.1016/j.cej.2013.05.027",
+  "url": "https://doi.org/10.1016/j.cej.2013.05.027",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Anhui Jianzhu University",
+   "Hanseo University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
+  "id": "9052738df9b8da21",
+  "title": "H2 evolution at Si-based metal–insulator–semiconductor photoelectrodes enhanced by inversion channel charge collection and H spillover",
+  "authors": [
+   "Daniel V. Esposito",
+   "Igor Levin",
+   "Thomas P. Moffat",
+   "Albert Alec Talin"
+  ],
+  "journal": "Nature Materials",
+  "publisher": "Nature Portfolio",
+  "published": "2013-05-03",
+  "year": 2013,
+  "doi": "10.1038/nmat3626",
+  "url": "https://doi.org/10.1038/nmat3626",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related",
+   "Semiconductors"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "National Institute of Standards and Technology",
+   "Material Measurement Laboratory",
+   "Sandia National Laboratories California",
+   "Center for Nanoscale Science and Technology",
+   "Sandia National Laboratories"
+  ],
+  "added": "2026-10-02",
+  "issn": "1476-1122"
+ },
+ {
+  "id": "8e3d76e85dbc4ea5",
+  "title": "Efficient visible-light-induced hydrogenation over composites of CdS and ruthenium carbonyl complexes",
+  "authors": [
+   "Xiaobin Liu",
+   "Dengrong Sun",
+   "Rusheng Yuan",
+   "Xianzhi Fu",
+   "Zhaohui Li"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2013-05-02",
+  "year": 2013,
+  "doi": "10.1016/j.jcat.2013.04.004",
+  "url": "https://doi.org/10.1016/j.jcat.2013.04.004",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Fuzhou University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9517"
+ },
+ {
+  "id": "c2d87d0f1fecc219",
+  "title": "Preparation and visible light catalytic activity of three-dimensional ordered macroporous CdS/TiO2 films",
+  "authors": [
+   "Xiaofang Chen",
+   "Jia Zhang",
+   "Yuning Huo",
+   "Hexing Li"
+  ],
+  "journal": "CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION)",
+  "publisher": "Elsevier BV",
+  "published": "2013-05-01",
+  "year": 2013,
+  "doi": "10.1016/s1872-2067(12)60560-9",
+  "url": "https://doi.org/10.1016/s1872-2067(12)60560-9",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Related",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Shanghai Normal University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0253-9837"
+ }
+]

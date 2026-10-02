@@ -888,6 +888,51 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4fd8d2bb8beaef00",
+  "title": "Plasmon enhanced glucose photoreforming for arabinose and gas fuel co-production over 3DOM TiO2-Au",
+  "authors": [
+   "Heng Zhao",
+   "Peng Liu",
+   "Xinxing Wu",
+   "Aiguo Wang",
+   "Dewen Zheng",
+   "Shanyu Wang",
+   "Zhangxin Chen",
+   "Steve Larter",
+   "Yu Li",
+   "Bao-Lian Su",
+   "Md Golam Kibria",
+   "Jinguang Hu"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2021-02-27",
+  "year": 2021,
+  "doi": "10.1016/j.apcatb.2021.120055",
+  "url": "https://doi.org/10.1016/j.apcatb.2021.120055",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Calgary",
+   "Kunming University of Science and Technology",
+   "Research Institute of Petroleum Exploration and Development",
+   "China National Petroleum Corporation (China)",
+   "Wuhan University of Technology",
+   "State Key Laboratory of Advanced Technology For Materials Synthesis and Processing",
+   "University of Namur"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
   "id": "4465ecf9aeb1f15c",
   "title": "Self-assembled carbon spheres prepared from abundant lignin and urea for photocatalytic and self-propelling applications",
   "authors": [
@@ -3093,6 +3138,52 @@
    "Shandong University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "7bb6b2b6505d6181",
+  "title": "Front Cover: Simultaneous H2 Production and Bleaching via Solar Photoreforming of Model Dye‐polluted Wastewaters on Metal/Titania (6/2021)",
+  "authors": [
+   "Alberto V. Puga",
+   "Noureddine Barka",
+   "Mikel Imízcoz"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2021-02-25",
+  "year": 2021,
+  "doi": "10.1002/cctc.202100212",
+  "url": "https://doi.org/10.1002/cctc.202100212",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Dye Degradation",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoreforming",
+   "Pollutants",
+   "Simulated Sunlight",
+   "TiO2",
+   "Wastewater"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Consejo Superior de Investigaciones Científicas",
+   "Instituto de Tecnología Química",
+   "Universitat Rovira i Virgili",
+   "Universitat Politècnica de València",
+   "Université Sultan Moulay Slimane",
+   "Universidad Pública de Navarra (UPNA)",
+   "Institute for Advanced Materials and Mathematics"
+  ],
+  "added": "2026-10-02",
+  "issn": "1867-3880"
  },
  {
   "id": "7a02ff79f334e1f4",
@@ -6066,6 +6157,34 @@
    "Zhengzhou University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "24ac8596846905c9",
+  "title": "Recent Developments in Natural Gas Flaring Reduction and Reformation to Energy-Efficient Fuels: A Review",
+  "authors": [
+   "Rehan Mansoor",
+   "Muhammad Tahir"
+  ],
+  "journal": "Energy & Fuels",
+  "publisher": "American Chemical Society",
+  "published": "2021-02-23",
+  "year": 2021,
+  "doi": "10.1021/acs.energyfuels.0c04269",
+  "url": "https://doi.org/10.1021/acs.energyfuels.0c04269",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Balochistan University of Information Technology, Engineering and Management Sciences",
+   "University of Technology Malaysia"
+  ],
+  "added": "2026-10-02",
+  "issn": "0887-0624"
  },
  {
   "id": "23f1429ad5157f7f",
@@ -10705,6 +10824,41 @@
    "Wuhan University of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3d5bd357a37b32aa",
+  "title": "Sustainable hydrogen production by CdO/exfoliated g-C3N4 via photoreforming of formaldehyde containing wastewater",
+  "authors": [
+   "Thurga Devi Munusamy",
+   "Sim Yee Chin",
+   "Mostafa Tarek",
+   "Md. Maksudur Rahman Khan"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2021-02-18",
+  "year": 2021,
+  "doi": "10.1016/j.ijhydene.2021.01.176",
+  "url": "https://doi.org/10.1016/j.ijhydene.2021.01.176",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Hydrogen Evolution",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "Wastewater",
+   "g-C3N4"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Universiti Malaysia Pahang Al-Sultan Abdullah"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
  },
  {
   "id": "3a9603a0491ad6e8",

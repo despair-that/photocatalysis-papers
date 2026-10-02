@@ -12500,6 +12500,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7b867c6aa984aeab",
+  "title": "Green Cu2O/TiO2 heterojunction for glycerol photoreforming",
+  "authors": [
+   "Miguel O. Segovia-Guzmán",
+   "Manuel Román-Aguirre",
+   "José Y. Verde-Gomez",
+   "Virginia Hidolina Collins-Martínez",
+   "Gerardo Zaragoza-Galán",
+   "Víctor H. Ramos-Sánchez"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2018-05-16",
+  "year": 2018,
+  "doi": "10.1016/j.cattod.2018.05.031",
+  "url": "https://doi.org/10.1016/j.cattod.2018.05.031",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Autonomous University of Chihuahua",
+   "Centro de Investigación en Materiales Avanzados",
+   "Instituto Tecnológico de Cancún"
+  ],
+  "added": "2026-10-02",
+  "issn": "0920-5861"
+ },
+ {
   "id": "7b3a31aa560e82cd",
   "title": "Construction of novel Sr0.4H1.2Nb2O6·H2O/g-C3N4 heterojunction with enhanced visible light photocatalytic activity for hydrogen evolution",
   "authors": [

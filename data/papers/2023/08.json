@@ -6890,6 +6890,58 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4de9b36105b45241",
+  "title": "Zero carbon footprint hydrogen generation by photoreforming of methanol over Cu/TiO2 nanocatalyst",
+  "authors": [
+   "Karol Ćwieka",
+   "Zuzanna Bojarska",
+   "Kamil Czelej",
+   "Dariusz Łomot",
+   "Przemysław Dzięgielewski",
+   "Alexey Maximenko",
+   "Kostiantyn Nikiforow",
+   "Leon Gradoń",
+   "Ming-Yu Qi",
+   "Yi-Jun Xu",
+   "Juan Carlos Colmenares"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2023-08-28",
+  "year": 2023,
+  "doi": "10.1016/j.cej.2023.145687",
+  "url": "https://doi.org/10.1016/j.cej.2023.145687",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Ab Initio",
+   "DFT",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreforming",
+   "Quantum Efficiency",
+   "TiO2"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Warsaw University of Technology",
+   "Institute of Physical Chemistry",
+   "Polish Academy of Sciences",
+   "Jagiellonian University",
+   "SOLARIS National Synchrotron Radiation Centre",
+   "Fuzhou University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "4a7697638a9506fe",
   "title": "Computational Modeling of Photo-Electrochemical Reduction of CO 2 Utilizing Concentrated Light",
   "authors": [
@@ -25750,6 +25802,39 @@
   "added": "2026-07-26"
  },
  {
+  "id": "64e189f5cd457e63",
+  "title": "Recent advances on solar-driven valorization of polyethylene terephthalate plastics into value-added chemicals",
+  "authors": [
+   "Sailei Kang",
+   "Wenfang Yuan",
+   "Wenxuan Chen",
+   "Mengmeng Du",
+   "Yu Zhang",
+   "Bocheng Qiu"
+  ],
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "published": "2023-08-11",
+  "year": 2023,
+  "doi": "10.1088/1361-6528/acef29",
+  "url": "https://doi.org/10.1088/1361-6528/acef29",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Nanjing Agricultural University",
+   "City University of Hong Kong"
+  ],
+  "added": "2026-10-02",
+  "issn": "0957-4484"
+ },
+ {
   "id": "62f175be85e71e13",
   "title": "Selectivity control of photocatalytic CO2 reduction over ZnS-based nanocrystals: A comparison study on the role of ionic cocatalysts",
   "authors": [
@@ -26839,6 +26924,37 @@
    "Sichuan University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "75919e9c0ae7cf74",
+  "title": "Enhanced hydrogen generation by alcohols photoreforming using soluble cobalt phthalocyanine and ascorbic acid under ultrasonic treatment",
+  "authors": [
+   "Oxana Vasilievna Kharissova",
+   "Luis F. Garay-Rodríguez",
+   "E. Luévano-Hipólito",
+   "Leticia Myriam Torres-Martínez",
+   "Boris Ildusovich Kharisov"
+  ],
+  "journal": "MRS Communications",
+  "publisher": "Springer Nature",
+  "published": "2023-08-10",
+  "year": 2023,
+  "doi": "10.1557/s43579-023-00424-4",
+  "url": "https://doi.org/10.1557/s43579-023-00424-4",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Universidad Autónoma de Nuevo León",
+   "Centro de Investigación en Materiales Avanzados"
+  ],
+  "added": "2026-10-02",
+  "issn": "2159-6859"
  },
  {
   "id": "742e9c1f1d90d3a2",
@@ -39781,6 +39897,37 @@
    "Al-Mustaqbal University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3386715a29e30754",
+  "title": "Development of nanoparticle/metal oxide supported metal organic framework composites for light induced photocatalytic organic coupling",
+  "authors": [
+   "Yashodha Panagodage"
+  ],
+  "journal": "StFX Scholar",
+  "publisher": "St. Francis Xavier University",
+  "published": "2023-08-01",
+  "year": 2023,
+  "doi": "",
+  "url": "https://hdl.handle.net/20.500.14648/3356",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "MOFs & COFs",
+   "Reactor Engineering & Scale-up",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "MOFs",
+   "Photocatalysis",
+   "Photoreforming",
+   "Recyclability",
+   "Semiconductors"
+  ],
+  "relevance_score": 80,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "2df1fd5b4068739b",

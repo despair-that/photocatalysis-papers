@@ -1,0 +1,75 @@
+[
+ {
+  "id": "203a60380438cbf2",
+  "title": "Experiments combined with theoretical research on the effect of hydrogen evolution by the nanosheet of NiS–CdS–CN catalyst",
+  "authors": [
+   "Yuzhen Fang",
+   "Rongzheng Liu",
+   "Shuangxin Dou",
+   "Qianqian Shang",
+   "Dongting Wang",
+   "Xiangjin Kong",
+   "Junhai Liu"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2022-01-07",
+  "year": 2022,
+  "doi": "10.1016/j.ijhydene.2021.12.098",
+  "url": "https://doi.org/10.1016/j.ijhydene.2021.12.098",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Evolution",
+   "Nanosheets",
+   "Related"
+  ],
+  "relevance_score": 28,
+  "affiliations": [
+   "Liaocheng University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ },
+ {
+  "id": "15d5c605197b966e",
+  "title": "Achieving Full-Spectrum-Driven Simultaneous Hydrogen Evolution and Organic Pollutants Degradation Through the Sensitization of Ag3po4 by Double Perovskite Quantum Dots",
+  "authors": [
+   "Zhuo Chen",
+   "Xiaoming Li",
+   "Fubing Yao",
+   "You Wu",
+   "Abing Duan",
+   "Dongbo Wang",
+   "Qi Yang",
+   "Yingchun Fan"
+  ],
+  "journal": "SSRN Electronic Journal",
+  "publisher": "RELX Group (Netherlands)",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.2139/ssrn.4093870",
+  "url": "https://doi.org/10.2139/ssrn.4093870",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Perovskites",
+   "Pollutants",
+   "Quantum Dots",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Hunan University",
+   "Hunan University of Technology and Business"
+  ],
+  "added": "2026-10-02",
+  "issn": "1556-5068"
+ }
+]

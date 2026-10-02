@@ -15857,6 +15857,46 @@
   "added": "2026-07-26"
  },
  {
+  "id": "6c9864f5a4c04064",
+  "title": "Recent Trends in Sustainable Solar Energy Conversion Technologies: Mechanisms, Prospects, and Challenges",
+  "authors": [
+   "Muhammad Ashraf",
+   "Muhammad Ayaz",
+   "Mujeeb Khan",
+   "Syed Farooq Adil",
+   "Wasif Farooq",
+   "Nisar Ullah",
+   "Muhammad Nawaz Tahir"
+  ],
+  "journal": "Energy & Fuels",
+  "publisher": "American Chemical Society",
+  "published": "2023-04-18",
+  "year": 2023,
+  "doi": "10.1021/acs.energyfuels.2c04077",
+  "url": "https://doi.org/10.1021/acs.energyfuels.2c04077",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Solar Fuels",
+   "Water Splitting",
+   "Perovskites"
+  ],
+  "tags": [
+   "Perovskites",
+   "Photoelectrochemistry",
+   "Photoreforming",
+   "Water Splitting"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "King Fahd University of Petroleum and Minerals",
+   "University of Swat",
+   "King Saud University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0887-0624"
+ },
+ {
   "id": "57a3887c7184ff2a",
   "title": "Photothermal effects and nonlinearity in photocatalysis",
   "authors": [
@@ -19587,6 +19627,38 @@
    "Mohamed-Cherif Messaadia University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "5406d0578e28247f",
+  "title": "Broad-spectrum solar conversion towards photothermal catalytic reforming hydrogen production with in-situ thermal regulation over core-shell nanocomposites",
+  "authors": [
+   "Chao Wang",
+   "Suqing Peng",
+   "Wei Liu",
+   "Zhipeng Tian",
+   "Riyang Shu",
+   "Ying Chen"
+  ],
+  "journal": "Solar Energy Materials and Solar Cells",
+  "publisher": "Elsevier BV",
+  "published": "2023-04-14",
+  "year": 2023,
+  "doi": "10.1016/j.solmat.2023.112323",
+  "url": "https://doi.org/10.1016/j.solmat.2023.112323",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photothermal Catalysis"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Guangdong University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0927-0248"
  },
  {
   "id": "4cebc8d6f45ea694",

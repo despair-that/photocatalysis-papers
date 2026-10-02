@@ -1391,6 +1391,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0c6bbebbc4c1275a",
+  "title": "Oxygen vacancy enhanced photothermal catalysis of dry reforming of methane over Ni/Ce1/4Zr3/4O2: A density functional theory study on mechanism and performance",
+  "authors": [
+   "Siqi Song",
+   "Yue Lyu",
+   "Zeyu Guo",
+   "Haiyu Liu",
+   "Yan Jin",
+   "Jingyu Ran",
+   "Juntian Niu"
+  ],
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "published": "2026-02-28",
+  "year": 2026,
+  "doi": "10.1016/j.fuel.2026.138954",
+  "url": "https://doi.org/10.1016/j.fuel.2026.138954",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Oxygen Vacancies",
+   "Photothermal Catalysis"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Taiyuan University of Technology",
+   "Chongqing University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0016-2361"
+ },
+ {
   "id": "09ff8cc13fe09955",
   "title": "Solvent effect on iodoargentates hybrids templated by organic cation: synthesis, structures, photoelectricity and photocatalysis",
   "authors": [
@@ -19454,6 +19490,57 @@
    "UGC DAE Consortium for Scientific Research"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "c75ae7c61ee736fd",
+  "title": "Investigating the photoactivity of CuO-TiO (Home Prepared) composites for H production by photoreforming under natural solar light in a pilot plant photoreactor",
+  "authors": [
+   "Muhammad Umair",
+   "Alba Ruiz-Aguirre",
+   "Ilaria Berruti",
+   "Leonardo Palmisano",
+   "Sixto Malato",
+   "Vittorio Loddo",
+   "Marianna Bellardita"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2026-02-17",
+  "year": 2026,
+  "doi": "10.1016/j.cattod.2026.115740",
+  "url": "https://doi.org/10.1016/j.cattod.2026.115740",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Photoelectrochemistry",
+   "Reactor Engineering & Scale-up",
+   "Sacrificial Reagents",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Heterojunctions",
+   "Heterostructures",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Photoluminescence",
+   "Photoreactors",
+   "Photoreforming",
+   "Sacrificial Reagents",
+   "Solar Light",
+   "TiO2"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "University of Palermo",
+   "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas"
+  ],
+  "added": "2026-10-02",
+  "issn": "0920-5861"
  },
  {
   "id": "c13cd761488f323f",
@@ -39453,6 +39540,38 @@
    "Universitat Politècnica de València"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "a507eb37b54e668e",
+  "title": "Hydrogen production from plastic waste processing: A review",
+  "authors": [
+   "Muhammad Salman",
+   "Gonzalo Moral",
+   "Daniel Gorri",
+   "Inmaculada Ortíz",
+   "Alfredo Ortiz"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-02-06",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.153763",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.153763",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Universidad de Cantabria"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
  },
  {
   "id": "9edfe7559a1c1fbd",

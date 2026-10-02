@@ -17779,6 +17779,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "afd16f96f3db7d9a",
+  "title": "Layered double hydroxides for H2 generation by the photoreforming of organic compounds",
+  "authors": [
+   "Sandra Yurani Toledo Camacho",
+   "Francisco Mediana Cabello",
+   "Sandra Contreras Iglesias",
+   "Philip R. Davies",
+   "David J. Morgan",
+   "Auttaphon Chachvalvutikul"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2024-12-19",
+  "year": 2024,
+  "doi": "10.1016/j.cattod.2024.115168",
+  "url": "https://doi.org/10.1016/j.cattod.2024.115168",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Layered Double Hydroxides"
+  ],
+  "tags": [
+   "LDH",
+   "Photoreforming"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Universitat Rovira i Virgili",
+   "Cardiff University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0920-5861"
+ },
+ {
   "id": "ae215209007689ca",
   "title": "Bifunctional perylene diimide supramolecular photocatalyst for antibiotic removal and heavy metal chromium (Cr) recovery",
   "authors": [
@@ -21844,6 +21878,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "6df167b7d17e1281",
+  "title": "Photoreforming of Plastic Waste to Sustainable Fuels and Chemicals: Waste to Energy",
+  "authors": [
+   "Shuai Yue",
+   "Zhiyong Zhao",
+   "Tao Zhang",
+   "Fei Li",
+   "Pengfei Wang",
+   "Sihui Zhan"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "2024-12-17",
+  "year": 2024,
+  "doi": "10.1021/acs.est.4c06688",
+  "url": "https://doi.org/10.1021/acs.est.4c06688",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Pollutants"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Nankai University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0013-936X"
+ },
+ {
   "id": "6c12d50068c26c47",
   "title": "Photoinduced electron transfer enables cytochrome P450 enzyme-catalyzed reaction cycling",
   "authors": [
@@ -24735,6 +24802,54 @@
    "Yangzhou University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "f7c0deb19d4dd7fe",
+  "title": "Zinc cadmium sulphide-based photoreforming of biomass-based monosaccharides to lactic acid and efficient hydrogen production",
+  "authors": [
+   "Ermiao Liang",
+   "Ke Cheng",
+   "Xue Liu",
+   "Mingcong Xu",
+   "Sha Luo",
+   "Chunhui Ma",
+   "Zhijun Chen",
+   "Yahui Zhang",
+   "Shouxin Liu",
+   "Wei Li"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2024-12-15",
+  "year": 2024,
+  "doi": "10.1016/j.jcis.2024.12.082",
+  "url": "https://doi.org/10.1016/j.jcis.2024.12.082",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Sacrificial Reagents",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Heterojunctions",
+   "Hydrogen Production",
+   "Lactic Acid",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreforming"
+  ],
+  "relevance_score": 92,
+  "affiliations": [
+   "Northeast Forestry University",
+   "Chinese Academy of Forestry",
+   "Research Institute of Wood Industry"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9797"
  },
  {
   "id": "df3affb023959ebb",
@@ -33440,6 +33555,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "71cc95ba6097b7e2",
+  "title": "Sulfur-vacancy-enriched ZnIn2S4 mediates efficient charge transfer for hydrogen evolution from lignocellulose photoreforming",
+  "authors": [
+   "Jiang He",
+   "Zhongqing Yang",
+   "Ziqi Wang",
+   "Linlin Gu",
+   "Jiaqi Qiu",
+   "Jingyu Ran"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2024-12-09",
+  "year": 2024,
+  "doi": "10.1016/j.cej.2024.158433",
+  "url": "https://doi.org/10.1016/j.cej.2024.158433",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Hydrogen Evolution",
+   "Photoreforming",
+   "ZnIn2S4"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Chongqing University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "716db37c24f3e6fa",
   "title": "Photocatalyzed Dehydration of 1‐Aryl‐1,2‐Ethanediols to Methyl Ketones Driven by Eosin Y Fragmentation Products",
   "authors": [
@@ -36240,6 +36392,34 @@
    "University of Manchester"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "f5fe281769e77505",
+  "title": "Insights into performance and mechanism of improving methanol photoreforming on the ternary catalysts with p-n junction",
+  "authors": [
+   "Mengyuan Ding",
+   "Ming-ze Jia",
+   "Juan Wang"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2024-12-06",
+  "year": 2024,
+  "doi": "10.1016/j.ijhydene.2024.12.054",
+  "url": "https://doi.org/10.1016/j.ijhydene.2024.12.054",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Beihang University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
  },
  {
   "id": "eab907014838eee7",
@@ -40837,6 +41017,47 @@
    "First Affiliated Hospital of Sichuan Medical University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "82500db54ca13951",
+  "title": "Interfacial engineering of Co(OH)2@CN composites: A study of p-n heterojunctions with enhanced xylose/xylan photoreforming and CO2 reduction performance",
+  "authors": [
+   "Weikang Ling",
+   "Jiliang Ma",
+   "Weikun Jiang",
+   "Huanqiu Wei",
+   "Yuchen Ren",
+   "Min Hong",
+   "Lingzhao Kong",
+   "Run-Cang Sun"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2024-12-04",
+  "year": 2024,
+  "doi": "10.1016/j.jcis.2024.12.004",
+  "url": "https://doi.org/10.1016/j.jcis.2024.12.004",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "CO2 Reduction",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Heterojunctions",
+   "Photoreforming"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Dalian Polytechnic University",
+   "Qilu University of Technology",
+   "Shandong Academy of Sciences",
+   "University of Southern Queensland",
+   "Suzhou University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9797"
  },
  {
   "id": "82079db667a163af",
@@ -47445,6 +47666,39 @@
    "North University of China"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "22c0baad0957de4e",
+  "title": "Impact of preparation methods on Pt/Layered Double Hydroxides (MgAl, NiAl, and NiMgAl) for enhancing ethanol photoreforming",
+  "authors": [
+   "Ángeles C. Sánchez-Lugo",
+   "Lina A. Calzada",
+   "José Ortíz-Landeros",
+   "Pamela Guerra-Blanco",
+   "Miguel Angel Valenzuela",
+   "Elim Albiter"
+  ],
+  "journal": "MRS Advances",
+  "publisher": "Springer Science+Business Media",
+  "published": "2024-12-01",
+  "year": 2024,
+  "doi": "10.1557/s43580-024-01015-8",
+  "url": "https://doi.org/10.1557/s43580-024-01015-8",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Layered Double Hydroxides"
+  ],
+  "tags": [
+   "LDH",
+   "Photoreforming"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Instituto Politécnico Nacional"
+  ],
+  "added": "2026-10-02",
+  "issn": "2059-8521"
  },
  {
   "id": "204af9dd557506aa",

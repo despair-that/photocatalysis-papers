@@ -2429,6 +2429,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4eb22f74a5ce05b1",
+  "title": "Building High-Efficiency CdS/CdSe-Sensitized Solar Cells with a Hierarchically Branched Double-Layer Architecture",
+  "authors": [
+   "Zonglong Zhu",
+   "Jianhang Qiu",
+   "Keyou Yan",
+   "Shihe Yang"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society",
+  "published": "2013-04-25",
+  "year": 2013,
+  "doi": "10.1021/am400235g",
+  "url": "https://doi.org/10.1021/am400235g",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "Hong Kong University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1944-8244"
+ },
+ {
   "id": "49abedaa34cda962",
   "title": "Graphene-assisted enhancement of photocatalytic activity of bismuth ferrite nanoparticles",
   "authors": [
@@ -4598,6 +4631,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "32a474752196f54e",
+  "title": "Strong Visible‐Light Absorption and Hot‐Carrier Injection in TiO2/SrRuO3 Heterostructures",
+  "authors": [
+   "Sungki Lee",
+   "Brent A. Apgar",
+   "Lane W. Martin"
+  ],
+  "journal": "Advanced Energy Materials",
+  "publisher": "Wiley",
+  "published": "2013-04-19",
+  "year": 2013,
+  "doi": "10.1002/aenm.201201116",
+  "url": "https://doi.org/10.1002/aenm.201201116",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Heterostructures",
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Illinois Urbana-Champaign"
+  ],
+  "added": "2026-10-02",
+  "issn": "1614-6832"
+ },
+ {
   "id": "12cca6cccf074fee",
   "title": "Graphene Quantum Dots as a Green Sensitizer to Functionalize ZnO Nanowire Arrays on F‐Doped SnO 2 Glass for Enhanced Photoelectrochemical Water Splitting",
   "authors": [
@@ -4764,6 +4832,40 @@
    "Sun Yat-sen University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "e039d3743a28e336",
+  "title": "ChemInform Abstract: Photocatalytic CO2 Reduction by TiO2 and Related Titanium Containing Solids",
+  "authors": [
+   "Amarajothi Dhakshinamoorthy",
+   "Sergio Navalón",
+   "Avelino Corma",
+   "Hermenegildo Garcı́a"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2013-04-18",
+  "year": 2013,
+  "doi": "10.1002/chin.201319222",
+  "url": "https://doi.org/10.1002/chin.201319222",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Universitat Politècnica de València",
+   "Consejo Superior de Investigaciones Científicas",
+   "Instituto de Tecnología Química"
+  ],
+  "added": "2026-10-02",
+  "issn": "0009-2975"
  },
  {
   "id": "c2661545115c0c39",
@@ -5523,6 +5625,40 @@
    "Universidad Rey Juan Carlos"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b2f10fc1f0a10ab0",
+  "title": "Photocatalytic Performance of TiO2 Nanofibers as a Function of Fiber Diameter Using TiCl2 as a Precursor",
+  "authors": [
+   "Ali Akbar Ashkarran",
+   "Sima Eshghi",
+   "Mohammad Reza Nourani"
+  ],
+  "journal": "Journal of Materials",
+  "publisher": "Hindawi Publishing Corporation",
+  "published": "2013-04-17",
+  "year": 2013,
+  "doi": "10.1155/2013/515846",
+  "url": "https://doi.org/10.1155/2013/515846",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Light Irradiation",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Mazandaran",
+   "Islamic Azad University, Tehran",
+   "Islamic Azad University, Science and Research Branch"
+  ],
+  "added": "2026-10-02",
+  "issn": "2314-4866"
  },
  {
   "id": "b1f3a1c74770b48e",
@@ -7742,6 +7878,50 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0f9fb24cf84b1072",
+  "title": "Characterization of graphene oxide reduced through chemical and biological processes",
+  "authors": [
+   "Mohamed Boutchich",
+   "Alexandre Jaffré",
+   "David Alamarguy",
+   "José Alvarez",
+   "Alexandre Barras",
+   "Yuji Tanizawa",
+   "Ryugo Tero",
+   "Hiroshi Okada",
+   "Tran Viet Thu",
+   "Jean-Paul Kleider",
+   "Adarsh Sandhu"
+  ],
+  "journal": "Journal of Physics Conference Series",
+  "publisher": "IOP Publishing",
+  "published": "2013-04-12",
+  "year": 2013,
+  "doi": "10.1088/1742-6596/433/1/012001",
+  "url": "https://doi.org/10.1088/1742-6596/433/1/012001",
+  "source": "openalex",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Graphene",
+   "Heterojunctions",
+   "Photocatalysis"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "Supélec",
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Génie Électrique et Électronique de Paris",
+   "Université Pierre-et-Marie-Curie",
+   "Université Lille 1",
+   "Toyohashi University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1742-6588"
+ },
+ {
   "id": "f9725bff8fe8207c",
   "title": "Ferromagnetic and photocatalytic behaviors observed in Ca-doped BiFeO3 nanofibres",
   "authors": [
@@ -8108,6 +8288,34 @@
    "Institució Catalana de Recerca i Estudis Avançats"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "c7bcb09b0e58de5b",
+  "title": "Influence of TiO2 on Selfclean Bio Coating",
+  "authors": [
+   "Nurulsaidatulsyida Sulong",
+   "Anika Zafiah M. Rus"
+  ],
+  "journal": "Applied Mechanics and Materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-04-10",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amm.315.399",
+  "url": "https://doi.org/10.4028/www.scientific.net/amm.315.399",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Tun Hussein Onn University of Malaysia"
+  ],
+  "added": "2026-10-02",
+  "issn": "1660-9336"
  },
  {
   "id": "bcf01e158aab17df",
@@ -8584,6 +8792,39 @@
    "Jilin University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "630f5bc6b8714042",
+  "title": "Synthesis, Characterization and Photocatalytic Activity of KAl0.33W1.67O6 and Sn0.5Al0.33W1.67O6xH2O",
+  "authors": [
+   "Gundeboina Ravi",
+   "Naveen Kumar Veldurthi",
+   "Suresh Palla",
+   "Radha Velchuri",
+   "Someshwar Pola",
+   "Jitta Raju Reddy",
+   "M. Vithal"
+  ],
+  "journal": "Photochemistry and Photobiology",
+  "publisher": "Wiley",
+  "published": "2013-04-09",
+  "year": 2013,
+  "doi": "10.1111/php.12079",
+  "url": "https://doi.org/10.1111/php.12079",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Osmania University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0031-8655"
  },
  {
   "id": "481a8c7e79c0a10a",
@@ -12520,6 +12761,35 @@
   "added": "2026-07-26"
  },
  {
+  "id": "2855e647d3d594fe",
+  "title": "The development of nanoporous metal membranes for analytical separations",
+  "authors": [
+   "Michael Bromley",
+   "Colin Boxall"
+  ],
+  "journal": "Lancaster EPrints (Lancaster University)",
+  "publisher": "Lancaster University",
+  "published": "2013-04-01",
+  "year": 2013,
+  "doi": "",
+  "url": "https://eprints.lancs.ac.uk/id/eprint/69531/1/The_Development_of_Nanoporous_Metal_Membranes_for_Analytical_Separations.pdf",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "2854b95d63516166",
   "title": "Phenol Degradation by Photocatalysis on Synthesized Nano-TiO 2 : Evolution of Intermediates, Organic Acids, End-Products, and Toxicity",
   "authors": [
@@ -12605,6 +12875,41 @@
    "Guangdong Testing Institute for Product Quality Supervision"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1df121fe393e7948",
+  "title": "Degrading two endocrine-disrupting chemicals from water by UV irradiation with the presence of nanophotocatalysts",
+  "authors": [
+   "Jin-Chung Sin",
+   "Sze-Mun Lam",
+   "Keat Teong Lee",
+   "Abdul Rahman Mohamed"
+  ],
+  "journal": "Desalination and Water Treatment",
+  "publisher": "Taylor & Francis",
+  "published": "2013-04-01",
+  "year": 2013,
+  "doi": "10.1080/19443994.2012.749379",
+  "url": "https://doi.org/10.1080/19443994.2012.749379",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Universiti Sains Malaysia"
+  ],
+  "added": "2026-10-02",
+  "issn": "1944-3986"
  },
  {
   "id": "16a39f45dcfafa42",

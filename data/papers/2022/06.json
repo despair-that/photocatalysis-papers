@@ -29566,6 +29566,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b749607424f512ec",
+  "title": "Evidencing active-site transfer in the hetero-structure photo-catalytic processes via NMR molecular probes",
+  "authors": [
+   "Danni Shao",
+   "Yi-Ning Yang",
+   "Ran Zhang",
+   "Yuxiao Li",
+   "Xue Lu Wang",
+   "Ye-Feng Yao"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-04",
+  "year": 2022,
+  "doi": "10.1016/j.jcat.2022.06.005",
+  "url": "https://doi.org/10.1016/j.jcat.2022.06.005",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "East China Normal University",
+   "Second Military Medical University",
+   "Changhai Hospital"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9517"
+ },
+ {
   "id": "b38f9d154d66b6ae",
   "title": "Chromophore‐Inspired Design of Pyridinium‐Based Metal–Organic Polymers for Dual Photoredox Catalysis",
   "authors": [
@@ -34073,6 +34106,40 @@
    "Xinjiang University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "7598ac9b36804579",
+  "title": "Generation of quantum dots at the semiconductor surface for photoreforming of biomass to CO",
+  "authors": [
+   "Vitaly V. Ordomsky"
+  ],
+  "journal": "Chem Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2022-06-01",
+  "year": 2022,
+  "doi": "10.1016/j.checat.2022.05.007",
+  "url": "https://doi.org/10.1016/j.checat.2022.05.007",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Quantum Dots",
+   "Semiconductors"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "École Nationale Supérieure de Chimie de Lille",
+   "Université de Lille",
+   "Unité de Catalyse et Chimie du Solide",
+   "Université d'Artois",
+   "Centrale Lille Institut"
+  ],
+  "added": "2026-10-02",
+  "issn": "2667-1093"
  },
  {
   "id": "74f076c8dce63396",

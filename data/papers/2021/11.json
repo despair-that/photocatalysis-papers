@@ -1868,6 +1868,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "cf4a0673db791ae1",
+  "title": "Photoreforming of Biomass - Producing Hydrogen from Sugar",
+  "authors": [
+   "Julian Venzlaff",
+   "Claudia Bohrmann-Linde"
+  ],
+  "journal": "World journal of chemical education",
+  "publisher": "",
+  "published": "2021-11-29",
+  "year": 2021,
+  "doi": "10.12691/wjce-9-4-5",
+  "url": "https://doi.org/10.12691/wjce-9-4-5",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 71,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "2375-1657"
+ },
+ {
   "id": "cc3c5a5ad629b75e",
   "title": "Rhodamine B Photodegradation in Aqueous Solutions Containing Nitrogen Doped TiO2 and Carbon Nanotubes Composites",
   "authors": [
@@ -35274,6 +35302,32 @@
    "Isra University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "d36a0ff9b43fd782",
+  "title": "H2 Production from Catalytic Photoreforming of Cellulose Using TiO2-based Catalyst",
+  "authors": [
+   "Lan Lan"
+  ],
+  "journal": "Research Explorer (The University of Manchester)",
+  "publisher": "University of Manchester",
+  "published": "2021-11-01",
+  "year": 2021,
+  "doi": "",
+  "url": "https://research.manchester.ac.uk/en/studentTheses/15f55555-fb17-4583-8b7d-02795c60a2d6",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "cb21de062c2cde7f",

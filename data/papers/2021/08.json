@@ -18130,6 +18130,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "48f9e903f629d7e5",
+  "title": "Synergistic poly(lactic acid) photoreforming and H2 generation over ternary NixCo1-xP/reduced graphene oxide/g-C3N4 composite",
+  "authors": [
+   "Jun-Qiu Yan",
+   "Dewen Sun",
+   "Jianhua Huang"
+  ],
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "published": "2021-08-16",
+  "year": 2021,
+  "doi": "10.1016/j.chemosphere.2021.131905",
+  "url": "https://doi.org/10.1016/j.chemosphere.2021.131905",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Graphene",
+   "Lactic Acid",
+   "Photoreforming",
+   "g-C3N4"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Zhejiang Sci-Tech University",
+   "Zhejiang University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0045-6535"
+ },
+ {
   "id": "46ce7ab6b8f8880a",
   "title": "Enhanced visible-light-driven photocatalytic activity of Ce doped WO3 nanorods for Rhodamine B dye degradation",
   "authors": [
@@ -36096,6 +36130,38 @@
    "University of Milan"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "5e5dae9b11776d91",
+  "title": "On the selectivity of butyric acid photoreforming over Au/TiO2 and Pt/TiO2 by UV and visible radiation: A combined experimental and theoretical study",
+  "authors": [
+   "Gabriele Scandura",
+   "Muhammad Sajjad",
+   "Nirpendra Singh",
+   "Giovanni Palmisano",
+   "Jorge Rodríguez"
+  ],
+  "journal": "Applied Catalysis A General",
+  "publisher": "Elsevier BV",
+  "published": "2021-08-01",
+  "year": 2021,
+  "doi": "10.1016/j.apcata.2021.118321",
+  "url": "https://doi.org/10.1016/j.apcata.2021.118321",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Khalifa University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-860X"
  },
  {
   "id": "5986a604edb9f9d3",

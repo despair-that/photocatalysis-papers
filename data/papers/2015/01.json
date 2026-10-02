@@ -37005,6 +37005,51 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ad240ddcd522fa74",
+  "title": "Surface modification of rhodium-doped strontium titanate by adsorption of cobalt clathrochelates for water photodissociation",
+  "authors": [
+   "Angel Villagrá",
+   "Alireza Ranjbari",
+   "Akihiko Kudo",
+   "Pierre Millet"
+  ],
+  "journal": "UpSpace Institutional Repository (University of Pretoria)",
+  "publisher": "University of Pretoria",
+  "published": "2015-01-01",
+  "year": 2015,
+  "doi": "",
+  "url": "http://hdl.handle.net/2263/49542",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Water Splitting",
+   "Sacrificial Reagents",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Structure",
+   "Charge Transfer",
+   "Co-catalysts",
+   "Doping",
+   "Hydrogen Evolution",
+   "Light Irradiation",
+   "Perovskites",
+   "Photodegradation",
+   "Photoreforming",
+   "Sacrificial Reagents",
+   "SrTiO3",
+   "Water Splitting"
+  ],
+  "relevance_score": 88,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "ad151479386e9b68",
   "title": "Bismuth oxychloride/carbon nanofiber heterostructures for the degradation of 4-nitrophenol",
   "authors": [

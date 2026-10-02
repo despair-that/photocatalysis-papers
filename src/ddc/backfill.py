@@ -75,6 +75,10 @@ TOPIC_QUERIES = (
     "photocatalyst",
     "organophotocatalyst",
     '"eosin y"',
+    # photoreforming vocabulary: these papers often say "photoreforming" and
+    # never "photocatal…" (e.g. PLA/lactic-acid plastic reforming studies)
+    "photoreforming",
+    "photo-reforming",
 )
 
 

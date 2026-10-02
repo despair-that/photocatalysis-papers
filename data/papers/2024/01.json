@@ -8215,6 +8215,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7d7d24abab7e7826",
+  "title": "Atomically engineering the metal-support interaction of single-atom Cu/TiO2 for efficient polyethylene terephthalate plastic photoreforming",
+  "authors": [
+   "Zhida Li",
+   "Yang Yang",
+   "Chunyue Zhang",
+   "Wenqi Fan",
+   "Guifeng Li",
+   "Fang Jin",
+   "Lu Lü"
+  ],
+  "journal": "Chem Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2024-01-25",
+  "year": 2024,
+  "doi": "10.1016/j.checat.2024.100902",
+  "url": "https://doi.org/10.1016/j.checat.2024.100902",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Single-Atom Catalysts",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Harbin Institute of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2667-1093"
+ },
+ {
   "id": "739f0968492d4807",
   "title": "All-solid-state Z-scheme AgBr/Bi2CrO6 heterostructure with metallic Ag as a charge transfer bridge for boosted charge transfer and photocatalytic performances",
   "authors": [
@@ -8629,6 +8665,40 @@
    "Zhejiang University of Science and Technology"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "f4b7d8f4bc754fa8",
+  "title": "Photoreforming of fermentation byproducts by TiO2 and Pt/TiO2 to enhance hydrogen production: Insight into a real perspective",
+  "authors": [
+   "Marina M. Atilano-Camino",
+   "Alcione García-González",
+   "Daniel Simón Olivo-Alanís",
+   "Refugio Bernardo Garcia-Reyes"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2024-01-24",
+  "year": 2024,
+  "doi": "10.1016/j.jece.2024.112017",
+  "url": "https://doi.org/10.1016/j.jece.2024.112017",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Universidad Autónoma de Nuevo León",
+   "Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco"
+  ],
+  "added": "2026-10-02",
+  "issn": "2213-2929"
  },
  {
   "id": "f34e15a0a4745080",
@@ -45824,6 +45894,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e786a4d6c6c7ad40",
+  "title": "Photoreforming of Poly(Ethylene-Terephthalate) Plastics into Valuable Chemicals and Hydrogen Over Bivo4/Moox: Synergistic Promotion of Oxidation and Reduction Processes",
+  "authors": [
+   "Chuanyi Wang",
+   "Xinxin Liang",
+   "Ting Gao",
+   "Yongqian Cui",
+   "Qibing Dong",
+   "Ximing Li",
+   "Abelkader Labidi",
+   "Éric Lichtfouse",
+   "Fei Li",
+   "Feng Yu"
+  ],
+  "journal": "SSRN Electronic Journal",
+  "publisher": "RELX Group (Netherlands)",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.2139/ssrn.4814168",
+  "url": "https://doi.org/10.2139/ssrn.4814168",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "BiVO4",
+   "Photoreforming"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Shaanxi University of Science and Technology",
+   "Aix-Marseille Université",
+   "Shihezi University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1556-5068"
+ },
+ {
   "id": "e7693981d942d0e3",
   "title": "The Role of Water in Carbon Dioxide Adsorption in Porphyrinic Metal-Organic Frameworks",
   "authors": [],
@@ -71916,6 +72025,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7bb35e79c40ed631",
+  "title": "Brown TiO2 structured catalyst supported on SiC for ethanol photo-reforming under visible light",
+  "authors": [
+   "Ana Lucia de Souza Niero"
+  ],
+  "journal": "DSpace (Federal University of Santa Catarina)",
+  "publisher": "Universidade Federal de Santa Catarina",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "",
+  "url": "https://repositorio.ufsc.br/handle/123456789/274573",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "7baeed9474428d0e",
   "title": "α-Fe2O3/GCNas a novel Z-scheme photocatalyst for the simultaneous removal of Rhodamine B and methyl orange by persulfate activation",
   "authors": [
@@ -75411,6 +75547,38 @@
    "Hebei University of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6af0e35f6f91ad6a",
+  "title": "Enhancing the H 2 yield from photoreforming of natural lignocellulose feedstock by two-stage thermo-alkaline hydrolysis pretreatment",
+  "authors": [
+   "Wei Wang",
+   "Zhenyu Jin",
+   "Binhai Cheng",
+   "Ming Mei Zhao"
+  ],
+  "journal": "RSC Sustainability",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4su00142g",
+  "url": "https://doi.org/10.1039/d4su00142g",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Huaneng Clean Energy Research Institute",
+   "Tsinghua University",
+   "Hefei University of Technology",
+   "Suzhou Research Institute"
+  ],
+  "added": "2026-10-02",
+  "issn": "2753-8125"
  },
  {
   "id": "6ad41cb57dff945e",
@@ -82482,6 +82650,43 @@
    "Nahrain University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "4ac114e309842d4c",
+  "title": "Three-in-One: Fabricating a Cnis@Sl S-Scheme Heterojunction with Spatial Charge Separation for Boosting Photocatalytic Biomass Reforming",
+  "authors": [
+   "Xinze Li",
+   "Jiliang Ma",
+   "Weikun Jiang",
+   "Rui Hai Cui",
+   "Zhendong Liu",
+   "Junqiang Zhang",
+   "Run-Cang Sun"
+  ],
+  "journal": "SSRN Electronic Journal",
+  "publisher": "RELX Group (Netherlands)",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.2139/ssrn.4823269",
+  "url": "https://doi.org/10.2139/ssrn.4823269",
+  "source": "openalex",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Heterojunctions",
+   "Photocatalysis",
+   "S-Scheme"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "Dalian Polytechnic University",
+   "Qilu University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1556-5068"
  },
  {
   "id": "4aa32d4b1751e04c",
@@ -92452,6 +92657,38 @@
   "added": "2026-07-26"
  },
  {
+  "id": "1db9970b2bddd6bb",
+  "title": "Biomass and Plastic Photoreforming for Hydrogen and Valuable Chemicals Production",
+  "authors": [
+   "Bassam Mokhtar",
+   "Mahmoud Gamal Ahmed",
+   "Hassan S. Alqahtani",
+   "Tarek A. Kandiel"
+  ],
+  "journal": "The handbook of environmental chemistry",
+  "publisher": "Springer Nature",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1007/698_2024_1150",
+  "url": "https://doi.org/10.1007/698_2024_1150",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Sohag University",
+   "Nanyang Technological University",
+   "Saudi Aramco (Saudi Arabia)",
+   "King Fahd University of Petroleum and Minerals"
+  ],
+  "added": "2026-10-02",
+  "issn": "1433-6839"
+ },
+ {
   "id": "1d99f9c208c94c37",
   "title": "Photocatalyst-free hydrothiolation of gem -difluoroalkenes with thiols",
   "authors": [
@@ -97061,6 +97298,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "085b55178af9725f",
+  "title": "Hydrogen Production: A Review",
+  "authors": [
+   "Yashawant Patil",
+   "Prajakta Shete",
+   "Jayant Pawar",
+   "Girish R. Pathade"
+  ],
+  "journal": "Ecology Environment and Conservation",
+  "publisher": "",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.53550/eec.2024.v30i02s.067",
+  "url": "https://doi.org/10.53550/eec.2024.v30i02s.067",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "0971-765X"
+ },
+ {
   "id": "0845996ad7938027",
   "title": "Second phase Cu 2 O boosted photocatalytic activity of fluorine doped CuO nanoparticles",
   "authors": [
@@ -97573,6 +97839,42 @@
    "King Abdulaziz University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "06fe019b6fd8011a",
+  "title": "Pt–TiO 2 catalysts for glycerol photoreforming: comparison of anatase, brookite and rutile polymorphs",
+  "authors": [
+   "Claudio Maria Pecoraro",
+   "Lorenzo Mino",
+   "Elizaveta G. Kozyr",
+   "Leonardo Palmisano",
+   "Francesco Di Franco",
+   "Vittorio Loddo",
+   "Monica Santamaria",
+   "Marianna Bellardita"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4cc00353e",
+  "url": "https://doi.org/10.1039/d4cc00353e",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Palermo",
+   "University of Turin"
+  ],
+  "added": "2026-10-02",
+  "issn": "1359-7345"
  },
  {
   "id": "06f7052abfaaa70f",

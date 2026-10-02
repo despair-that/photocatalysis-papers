@@ -4363,6 +4363,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "6af8db2c7991192e",
+  "title": "Coproduction of hydrogen and pyruvic acid on 0D-2D CoP–ZnIn2S4 from lactic acid photoreforming",
+  "authors": [
+   "Tayebeh Roostaei",
+   "Mohammad Reza Rahimpour",
+   "Mehdi Eisapour",
+   "Jun Zhao",
+   "Heng Zhao",
+   "Zhangxin Chen",
+   "Jinguang Hu"
+  ],
+  "journal": "Materials Today Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2023-12-28",
+  "year": 2023,
+  "doi": "10.1016/j.mtchem.2023.101882",
+  "url": "https://doi.org/10.1016/j.mtchem.2023.101882",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Sacrificial Reagents",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Photoreforming",
+   "ZnIn2S4"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Shiraz University",
+   "University of Calgary",
+   "Peking University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2468-5194"
+ },
+ {
   "id": "6547d036e185e346",
   "title": "A photocatalyst with an enhanced Schottky effect and an efficient electron-transfer channel fabricated by assembling Ni–WC heterojunction nanoparticles on g-C 3 N 4 for highly efficient removal of chlorophenols",
   "authors": [
@@ -8976,6 +9014,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "6d6810c3c1f7947b",
+  "title": "Selective cellobiose photoreforming for simultaneous gluconic acid and syngas production in acidic conditions",
+  "authors": [
+   "Jiu Wang",
+   "Heng Zhao",
+   "Lin Chen",
+   "Jonas Björk",
+   "Johanna Rosén",
+   "Pawan Kumar",
+   "Liquan Jing",
+   "Jun Chen",
+   "Md Golam Kibria",
+   "Jinguang Hu"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2023-12-25",
+  "year": 2023,
+  "doi": "10.1016/j.apcatb.2023.123665",
+  "url": "https://doi.org/10.1016/j.apcatb.2023.123665",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Calgary",
+   "Eastern Institute of Technology, Ningbo",
+   "Linköping University",
+   "Wuhan University of Technology",
+   "State Key Laboratory of Advanced Technology For Materials Synthesis and Processing"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
   "id": "5280a8ae8d5f9ff1",
   "title": "Mechanism insight into triple S-Scheme intermolecular carbon nitride homojunction with robust built-in electric field for highly enhanced photocatalytic hydrogen evolution",
   "authors": [
@@ -10545,6 +10622,33 @@
    "Kyoto University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "fbbc1137fbc6da71",
+  "title": "(Invited) Thermo-Photo Catalysis for Energy and Environment",
+  "authors": [
+   "Yun Hang Hu"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2023-12-22",
+  "year": 2023,
+  "doi": "10.1149/ma2023-02472311mtgabs",
+  "url": "https://doi.org/10.1149/ma2023-02472311mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Water Splitting"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Michigan Technological University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1091-8213"
  },
  {
   "id": "fb4617fa3fa355e4",
@@ -15631,6 +15735,37 @@
    "Tunghai University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "79c1f0503be17034",
+  "title": "Effect of Alkali Metal Cations on the TiO 2 P25 Catalyst for Hydrogen Generation by the Photoreforming of Glycerol",
+  "authors": [
+   "Bello B. Ahmad",
+   "Philip R. Davies",
+   "Meenakshisundaram Sankar",
+   "Jessica Powell",
+   "Sandra Yurani Toledo Camacho"
+  ],
+  "journal": "ChemistrySelect",
+  "publisher": "Wiley",
+  "published": "2023-12-21",
+  "year": 2023,
+  "doi": "10.1002/slct.202304301",
+  "url": "https://doi.org/10.1002/slct.202304301",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Cardiff University",
+   "Universitat Rovira i Virgili"
+  ],
+  "added": "2026-10-02",
+  "issn": "2365-6549"
  },
  {
   "id": "789fd9ec03e5abee",
@@ -29010,6 +29145,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a3e3cfc09b0e007f",
+  "title": "Hydrogen production from pure and crude glycerol photoreforming using platinum supported on TiO2 and N-TiO2",
+  "authors": [
+   "Mauricio Musso",
+   "Santiago Veiga",
+   "María Andrea De León",
+   "Angie Quevedo",
+   "Juan Bussi"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "2023-12-12",
+  "year": 2023,
+  "doi": "10.1016/j.matlet.2023.135714",
+  "url": "https://doi.org/10.1016/j.matlet.2023.135714",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Universidad de la República de Uruguay"
+  ],
+  "added": "2026-10-02",
+  "issn": "0167-577X"
+ },
+ {
   "id": "a35395ca13b6e517",
   "title": "Activating two-dimensional semiconductors for photocatalysis: a cross-dimensional strategy",
   "authors": [
@@ -35671,6 +35840,37 @@
    "Ajman University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "5cbf2fba169e1ba1",
+  "title": "In situ and operando Raman spectroscopy of semiconducting photoelectrodes and devices for photoelectrochemistry",
+  "authors": [
+   "Marco Favaro",
+   "Heejung Kong",
+   "Ronen Gottesman"
+  ],
+  "journal": "Journal of Physics D Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "2023-12-07",
+  "year": 2023,
+  "doi": "10.1088/1361-6463/ad10d3",
+  "url": "https://doi.org/10.1088/1361-6463/ad10d3",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Helmholtz-Zentrum Berlin für Materialien und Energie",
+   "Hebrew University of Jerusalem"
+  ],
+  "added": "2026-10-02",
+  "issn": "0022-3727"
  },
  {
   "id": "526e49979739d1c9",

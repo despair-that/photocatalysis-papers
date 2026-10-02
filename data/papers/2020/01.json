@@ -50297,6 +50297,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a8ce30ea169a7acd",
+  "title": "Supplementary material from \"Methanol photo-reforming with water on pure titania for hydrogen production\"",
+  "authors": [
+   "M. Bowker",
+   "W. Jones"
+  ],
+  "journal": "Figshare",
+  "publisher": "Figshare (United Kingdom)",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.6084/m9.figshare.c.4994573.v1",
+  "url": "https://doi.org/10.6084/m9.figshare.c.4994573.v1",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "a89eb4504964bc2c",
   "title": "An in situ combustion method for scale-up fabrication of BiVO 4 photoanodes with enhanced long-term photostability for unassisted solar water splitting",
   "authors": [
@@ -64873,6 +64902,34 @@
   "added": "2026-07-27"
  },
  {
+  "id": "6710a35f0ea1cfdc",
+  "title": "Photoreforming of biomass in metal salt hydrate solutions",
+  "authors": [
+   "Christian M. Pichler",
+   "Taylor Uekert",
+   "Erwin Reisner"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1039/d0cc01686a",
+  "url": "https://doi.org/10.1039/d0cc01686a",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Cambridge"
+  ],
+  "added": "2026-10-02",
+  "issn": "1359-7345"
+ },
+ {
   "id": "66fe3a95cc14a44c",
   "title": "Inhibition of Sn( ii ) oxidation in Z -scheme BiVO 4 -QD@Sn 3 O 4 for overall water splitting",
   "authors": [
@@ -66094,6 +66151,42 @@
    "Government College University, Faisalabad"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "626dfc8bf28ebff6",
+  "title": "Visible-light-driven dry reforming of methane using a semiconductor-supported catalyst",
+  "authors": [
+   "Yohei Cho",
+   "Shusaku Shoji",
+   "Akira Yamaguchi",
+   "Takuya Hoshina",
+   "Takeshi Fujita",
+   "Hideki Abe",
+   "Masahiro Miyauchi"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1039/d0cc00729c",
+  "url": "https://doi.org/10.1039/d0cc00729c",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "Semiconductors",
+   "Visible Light"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Tokyo Institute of Technology",
+   "Kochi University of Technology",
+   "National Institute for Materials Science"
+  ],
+  "added": "2026-10-02",
+  "issn": "1359-7345"
  },
  {
   "id": "621c9974d82b7bfb",
@@ -84944,6 +85037,37 @@
    "Shahjalal University of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "0b36364125c2e583",
+  "title": "High-efficient and Low-cost H2 Production by Solar-driven Photo-thermo-reforming of Methanol with CuO Catalyst",
+  "authors": [
+   "Donghui Li",
+   "Jie Sun",
+   "Rong Ma",
+   "Jinjia Wei"
+  ],
+  "journal": "ES Energy & Environments",
+  "publisher": "",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.30919/esee8c722",
+  "url": "https://doi.org/10.30919/esee8c722",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2578-0646"
  },
  {
   "id": "0ad3a5e43e058788",

@@ -1673,6 +1673,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "403e2e772edf498e",
+  "title": "Olive Leaves as Biotemplates for Enhanced Solar-Light Harvesting by a Titania-Based Solid",
+  "authors": [
+   "Jesús Hidalgo-Carrillo",
+   "Juan Martín-Gómez",
+   "M. Carmen Herrera-Beurnio",
+   "Rafael C. Estévez",
+   "Francisco José Urbano",
+   "Alberto Marinas"
+  ],
+  "journal": "Nanomaterials",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2020-05-30",
+  "year": 2020,
+  "doi": "10.3390/nano10061057",
+  "url": "https://doi.org/10.3390/nano10061057",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Hydrogen Evolution",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "University of Córdoba"
+  ],
+  "added": "2026-10-02",
+  "issn": "2079-4991"
+ },
+ {
   "id": "3957e9286e7f264a",
   "title": "Enhanced photocatalytic NO removal and toxic NO2 production inhibition over ZIF-8-derived ZnO nanoparticles with controllable amount of oxygen vacancies",
   "authors": [
@@ -18692,6 +18729,50 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d5c0c87249a0429f",
+  "title": "Enhanced Hydrogen Production from Ethanol Photoreforming by Site-Specific Deposition of Au on Cu2O/TiO2 p-n Junction",
+  "authors": [
+   "Lan Luo",
+   "Tingting Zhang",
+   "Xin Zhang",
+   "Yun Rong",
+   "Yanjun Lin",
+   "Bing Zhang",
+   "Xu Xiang"
+  ],
+  "journal": "Catalysts",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2020-05-13",
+  "year": 2020,
+  "doi": "10.3390/catal10050539",
+  "url": "https://doi.org/10.3390/catal10050539",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Charge Transfer",
+   "Hydrogen Production",
+   "Oxygen Vacancies",
+   "Photoreforming",
+   "Solar Light",
+   "TiO2"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "State Key Laboratory of Chemical Resource Engineering",
+   "Beijing University of Chemical Technology",
+   "Zhengzhou University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2073-4344"
+ },
+ {
   "id": "cd5be809b27b71e6",
   "title": "Constructing Fe-MOF-Derived Z-Scheme Photocatalysts with Enhanced Charge Transport: Nanointerface and Carbon Sheath Synergistic Effect",
   "authors": [
@@ -32559,6 +32640,40 @@
    "Chongqing Institute of Green and Intelligent Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "92951bfb7d93d91d",
+  "title": "Towards Selective Partial Water Oxidation to Form H2O2: An Attractive Substitute for O2 Evolution in Water Splitting",
+  "authors": [
+   "Bastian Timo Mei",
+   "Kasper Wenderich",
+   "Birgit Nieuweweme",
+   "Guido Mul"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2020-05-01",
+  "year": 2020,
+  "doi": "10.1149/ma2020-01371544mtgabs",
+  "url": "https://doi.org/10.1149/ma2020-01371544mtgabs",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "H2O2 Production",
+   "Hydrogen Production",
+   "Solar Hydrogen",
+   "Water Splitting"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Twente"
+  ],
+  "added": "2026-10-02",
+  "issn": "1091-8213"
  },
  {
   "id": "8ec2e629223b547a",

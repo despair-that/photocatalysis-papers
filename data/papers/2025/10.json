@@ -5578,6 +5578,55 @@
   "added": "2026-07-26"
  },
  {
+  "id": "b429b2991712e680",
+  "title": "Insights into the Influence of Anatase TiO 2 Facets on Marine Biomass Photoreforming Coupled with Hydrogen Evolution",
+  "authors": [
+   "Xiaolong Bao",
+   "Mingze Li",
+   "Difei Xiao",
+   "Shenghe Si",
+   "Xingyun Luo",
+   "Fengxia Tong",
+   "Xizhuang Liang",
+   "Dujuan Dai",
+   "Dong Liu",
+   "Zeyan Wang",
+   "Baibiao Huang"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "2025-10-28",
+  "year": 2025,
+  "doi": "10.1021/acs.langmuir.5c04916",
+  "url": "https://doi.org/10.1021/acs.langmuir.5c04916",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Photoreforming",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 92,
+  "affiliations": [
+   "Yantai University",
+   "Shandong University",
+   "State Key Laboratory of Crystal Materials",
+   "University of Science and Technology of China",
+   "Yantai Vocational College"
+  ],
+  "added": "2026-10-02",
+  "issn": "0743-7463"
+ },
+ {
   "id": "ab2c7cfe89a7cb06",
   "title": "Sustainable solar seawater splitting over a BaTaO 2 N photoanode enabled by chloride recirculation",
   "authors": [
@@ -6082,6 +6131,38 @@
    "Islamic University of Madinah"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "5f7d67c89bc5b0fb",
+  "title": "Boosting H2 evolution rate through glycerol photoreforming over CuAl2O4/FePO4 nanocomposite under visible light",
+  "authors": [
+   "Adel Ali Ismail",
+   "Mostafa E. Salem",
+   "L.A. Al-Hajji"
+  ],
+  "journal": "Materials Science and Engineering B",
+  "publisher": "Elsevier BV",
+  "published": "2025-10-28",
+  "year": 2025,
+  "doi": "10.1016/j.mseb.2025.118933",
+  "url": "https://doi.org/10.1016/j.mseb.2025.118933",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photoreforming",
+   "Visible Light"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Kuwait Institute for Scientific Research",
+   "Imam Mohammad ibn Saud Islamic University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0921-5107"
  },
  {
   "id": "5f1fa490f6b86fef",
@@ -8688,6 +8769,56 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4f305cda9030b990",
+  "title": "Au@MoSx boosted carbon nitride for selective photoreforming of plastic waster: synergistic hydrogen production and value-added chemicals generation",
+  "authors": [
+   "Yadan Luo",
+   "Danyang Zhang",
+   "Jingzhao Cheng",
+   "Guijie Liang",
+   "Guangmin Ren",
+   "Jingsan Xu",
+   "Hua Tang",
+   "Shaowen Cao"
+  ],
+  "journal": "Advanced Powder Materials",
+  "publisher": "Elsevier BV",
+  "published": "2025-10-26",
+  "year": 2025,
+  "doi": "10.1016/j.apmate.2025.100366",
+  "url": "https://doi.org/10.1016/j.apmate.2025.100366",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "g-C3N4 & Carbon Materials",
+   "Mechanism & Charge Dynamics",
+   "2D Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "DFT",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Nanosheets",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreforming"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Qingdao University",
+   "Wuhan University of Technology",
+   "State Key Laboratory of Advanced Technology For Materials Synthesis and Processing",
+   "Hubei University of Arts and Science",
+   "Qingdao University of Science and Technology",
+   "Queensland University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2772-834X"
+ },
+ {
   "id": "2620d55d9f093638",
   "title": "Enhanced Water Splitting Using a Densely StructuredDendritic Bismuthinite Photoanode with FeOOH Cocatalyst",
   "authors": [
@@ -9881,6 +10012,47 @@
    "Institute of Physics and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3ca8d2838446a950",
+  "title": "Defect-engineered Bi@ZnO-OVs for photoreforming lignin biomass into high value-added chemicals and hydrogen production",
+  "authors": [
+   "Jiangyushan Liang",
+   "Abdelkader Labidi",
+   "Hao Liang",
+   "Yanna Tao",
+   "Ewa Kowalska",
+   "Yujin Xue",
+   "Yuan Hao Wang",
+   "Antônio Otávio T. Patrocínio",
+   "Chuanyi Wang"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2025-10-25",
+  "year": 2025,
+  "doi": "10.1016/j.cej.2025.170107",
+  "url": "https://doi.org/10.1016/j.cej.2025.170107",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "ZnO"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Shaanxi University of Science and Technology",
+   "Jagiellonian University",
+   "Chulalongkorn University",
+   "Universidade Federal de Uberlândia"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
  },
  {
   "id": "37f668075fa461f8",
@@ -11879,6 +12051,50 @@
    "Chandigarh University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a451e2f5133ea315",
+  "title": "Design of S-scheme CuO/CeO2 heterojunction for photoreforming of polyethylene terephthalate plastic into value-added chemicals combined with hydrogen evolution",
+  "authors": [
+   "Mubarak Alazemi",
+   "Yasser A. Alassmy",
+   "Irshad Ahmad",
+   "Mohammed Qasem Alfaifi",
+   "Marwan M. Abduljawad",
+   "Sultan A. Alshuhri",
+   "Mohammed T. Alotaibi",
+   "Samia Ben Ahmed",
+   "Tensangmu Lama Tamang"
+  ],
+  "journal": "Materials Science in Semiconductor Processing",
+  "publisher": "Elsevier BV",
+  "published": "2025-10-23",
+  "year": 2025,
+  "doi": "10.1016/j.mssp.2025.110180",
+  "url": "https://doi.org/10.1016/j.mssp.2025.110180",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Z-Scheme & Heterojunctions",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photoreforming",
+   "S-Scheme"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "College of Technological Studies",
+   "King Abdulaziz City for Science and Technology",
+   "University of Agriculture Faisalabad",
+   "Taif University",
+   "King Khalid University",
+   "Yeungnam University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1369-8001"
  },
  {
   "id": "a442b648284c216a",
@@ -20667,6 +20883,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ffb1ffc136583023",
+  "title": "Spin-polarization-enhanced photoreforming of plastic waste",
+  "authors": [
+   "Nan Zhou",
+   "Mai Zhang",
+   "Shiwei Lin",
+   "Zhang Li",
+   "Jianjun Liao",
+   "Chen Li",
+   "Wei Qiang Zhou"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2025-10-15",
+  "year": 2025,
+  "doi": "10.1016/j.cej.2025.169550",
+  "url": "https://doi.org/10.1016/j.cej.2025.169550",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hainan University",
+   "Qilu University of Technology",
+   "Shandong Academy of Sciences"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "fbb08615c41de608",
   "title": "Construction of NiWO4/Mn0.3Cd0.7S S-scheme heterojunction for superior visible light photodegradation of tetracycline",
   "authors": [
@@ -22568,6 +22818,49 @@
    "Hiroshima University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "e932492f15279186",
+  "title": "Coproduction of Hydrogen and Value-Added Chemicals Using Ni-TiO 2 @g-C 3 N 4 Nanocomposites from Glycerol Photoreforming",
+  "authors": [
+   "Mehdi Eisapour",
+   "Tayebeh Roostaei",
+   "Manpreet Kaur",
+   "Jinguang Hu",
+   "Heng Zhao",
+   "Zhangxin Chen"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2025-10-14",
+  "year": 2025,
+  "doi": "10.1021/acs.iecr.5c02187",
+  "url": "https://doi.org/10.1021/acs.iecr.5c02187",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Water Splitting",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreforming",
+   "Sacrificial Reagents",
+   "Solar Hydrogen"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "University of Calgary",
+   "McMaster University",
+   "Eastern Institute of Technology",
+   "Eastern Institute of Technology, Ningbo"
+  ],
+  "added": "2026-10-02",
+  "issn": "0888-5885"
  },
  {
   "id": "e85523c29a933d50",
@@ -29027,6 +29320,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "63ed3d8995c1c92c",
+  "title": "TiO2-mediated photoreforming of glycerol to formic acid in acetonitrile-free aqueous solutions: mechanism of crystal phase-regulated oxygen radicals influencing photoreforming",
+  "authors": [
+   "Yongji Hu",
+   "Qidi Qian",
+   "Junyu Wang",
+   "Fei Cao",
+   "Yuesong Shen"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2025-10-09",
+  "year": 2025,
+  "doi": "10.1016/j.cej.2025.169428",
+  "url": "https://doi.org/10.1016/j.cej.2025.169428",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Nanjing Tech University",
+   "State Key Laboratory of Materials-Oriented Chemical Engineering"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "63b0dc84d9760a65",
   "title": "Z-scheme TiO2/g-C3N4 for efficient antibacterial and degradation HCHO under low-power LED irradiation",
   "authors": [
@@ -32921,6 +33249,42 @@
    "University of Applied Sciences Erfurt"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "ce3a361485719868",
+  "title": "Hydrogen Generation from Wastewater-Derived Organics via Solar Photocatalysis Using Low-Cost Cu-TiO₂ Composites",
+  "authors": [
+   "Laura Clarizia"
+  ],
+  "journal": "Global NEST International Conference on Environmental Science & Technology",
+  "publisher": "",
+  "published": "2025-10-05",
+  "year": 2025,
+  "doi": "10.30955/gnc2025.00384",
+  "url": "https://doi.org/10.30955/gnc2025.00384",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Charge Transfer",
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Visible Light",
+   "Wastewater"
+  ],
+  "relevance_score": 98,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "2944-9820"
  },
  {
   "id": "b9170a054d0a2176",
@@ -37175,6 +37539,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f14fd50f9ba45c36",
+  "title": "Hydrogen Production by Solar Photoreforming of Urban Wastewaters in Thin‐Layer Flat Catalytic Panels",
+  "authors": [
+   "Laura Carolina Valencia-Valero",
+   "Kevin A. Simbaña",
+   "Margherita Ruscigno",
+   "Marta Giamberini",
+   "Monika Hapońska",
+   "Alberto V. Puga"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2025-10-01",
+  "year": 2025,
+  "doi": "10.1002/adfm.202502903",
+  "url": "https://doi.org/10.1002/adfm.202502903",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Pollutants",
+   "Simulated Sunlight",
+   "Wastewater"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Universitat Rovira i Virgili"
+  ],
+  "added": "2026-10-02",
+  "issn": "1616-301X"
+ },
+ {
   "id": "ed9a98d87bb53646",
   "title": "Laser synthesis and photocatalytic properties of ultrasmall TiO2 anchored ZnO core-shell nanoparticles",
   "authors": [
@@ -40047,6 +40450,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "50f3ea93f12d89de",
+  "title": "Hydrogen Production by Solar Photoreforming of Urban Wastewaters in Thin‐Layer Flat Catalytic Panels (Adv. Funct. Mater. 44/2025)",
+  "authors": [
+   "Laura Carolina Valencia-Valero",
+   "Kevin A. Simbaña",
+   "Margherita Ruscigno",
+   "Marta Giamberini",
+   "Monika Hapońska",
+   "Alberto V. Puga"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2025-10-01",
+  "year": 2025,
+  "doi": "10.1002/adfm.72192",
+  "url": "https://doi.org/10.1002/adfm.72192",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Wastewater"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "Universitat Rovira i Virgili"
+  ],
+  "added": "2026-10-02",
+  "issn": "1616-301X"
+ },
+ {
   "id": "4f37cb8fcd404e08",
   "title": "Photocatalytic Degradation of Triazine Herbicides in Agricultural Water Using a Fe 3 O 4 /SiO 2 /TiO 2 Photocatalyst: Phytotoxicity Assessment in Pak Choi",
   "authors": [
@@ -41195,6 +41634,32 @@
    "Universidade Estadual Paulista (Unesp)"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2381071d30216eaf",
+  "title": "Large-scale, long-term hydrogen generation at a liter level via plastic photoreforming",
+  "authors": [
+   "Yang Ding",
+   "Chunhua Wang",
+   "Heng Zhao"
+  ],
+  "journal": "Matter",
+  "publisher": "Elsevier BV",
+  "published": "2025-10-01",
+  "year": 2025,
+  "doi": "10.1016/j.matt.2025.102408",
+  "url": "https://doi.org/10.1016/j.matt.2025.102408",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "2590-2385"
  },
  {
   "id": "21959604e27ab679",

@@ -6478,6 +6478,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f180798830e29a0e",
+  "title": "One-step synthesis of novel Ag/AgCl-glass with remarkably stable photocatalytic activity",
+  "authors": [
+   "Hong Li",
+   "Changqing Li",
+   "Naiyi Li",
+   "Linyu Zhu",
+   "Yong Zhuo",
+   "Dehua Xiong"
+  ],
+  "journal": "Journal of Non-Crystalline Solids",
+  "publisher": "Elsevier BV",
+  "published": "2019-01-24",
+  "year": 2019,
+  "doi": "10.1016/j.jnoncrysol.2018.11.031",
+  "url": "https://doi.org/10.1016/j.jnoncrysol.2018.11.031",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Wuhan University of Technology",
+   "State Key Laboratory of Silicate Materials for Architecture"
+  ],
+  "added": "2026-10-02",
+  "issn": "0022-3093"
+ },
+ {
   "id": "db009bead31e3ef0",
   "title": "Active Surface Species Ruling Product Selectivity in Photocatalytic CO 2 Reduction over Pt- or Co-Promoted TiO 2",
   "authors": [
@@ -56597,6 +56629,40 @@
    "Centro Médico Sanitas Córdoba"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6606ccced47101c4",
+  "title": "Optimising hydrogen production via solar acetic acid photoreforming on Cu/TiO 2",
+  "authors": [
+   "Mikel Imízcoz",
+   "Alberto V. Puga"
+  ],
+  "journal": "Catalysis Science & Technology",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2019-01-01",
+  "year": 2019,
+  "doi": "10.1039/c8cy02349b",
+  "url": "https://doi.org/10.1039/c8cy02349b",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "CO2 Reduction",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreduction",
+   "Photoreforming"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Consejo Superior de Investigaciones Científicas",
+   "Instituto de Tecnología Química",
+   "Universitat Politècnica de València"
+  ],
+  "added": "2026-10-02",
+  "issn": "2044-4753"
  },
  {
   "id": "65ef695270611633",

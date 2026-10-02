@@ -5076,6 +5076,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "316f609c46f79307",
+  "title": "Continuous flow synthesis of Ag-PEDOT-COF nanocomposite for sustainable photoreforming of plastic waste and chromium remediation in visible light",
+  "authors": [
+   "Astha Singh",
+   "Rituporn Gogoi",
+   "Kajal Sharma",
+   "Najla Fourati",
+   "Chouki Zerrouki",
+   "Samy Rémita",
+   "Prem Felix Siril"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "Elsevier BV",
+  "published": "2023-06-28",
+  "year": 2023,
+  "doi": "10.1016/j.seppur.2023.124459",
+  "url": "https://doi.org/10.1016/j.seppur.2023.124459",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Visible Light"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Indian Institute of Technology Mandi",
+   "Conservatoire National des Arts et Métiers",
+   "Centre National de la Recherche Scientifique",
+   "École Normale Supérieure - PSL",
+   "Laboratoire des systèmes et applications des technologies de l'information et de l'énergie",
+   "Université Paris-Saclay",
+   "Institut de Chimie Physique"
+  ],
+  "added": "2026-10-02",
+  "issn": "1383-5866"
+ },
+ {
   "id": "2ff6867fc860c755",
   "title": "MgAl-layered double hydroxides decorated with Pd-doped SnS nanoparticles: A novel photocatalyst for efficient dye degradation and Cr(VI) reduction in water",
   "authors": [
@@ -11426,6 +11465,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "9876cfed569a263a",
+  "title": "Mini-review on remediation of plastic pollution through photoreforming: progress, possibilities, and challenges",
+  "authors": [
+   "Alaka Samal",
+   "Nigamananda Das"
+  ],
+  "journal": "Environmental Science and Pollution Research",
+  "publisher": "Springer Science+Business Media",
+  "published": "2023-06-23",
+  "year": 2023,
+  "doi": "10.1007/s11356-023-28253-x",
+  "url": "https://doi.org/10.1007/s11356-023-28253-x",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Utkal University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0944-1344"
+ },
+ {
   "id": "93b8ee925ee4dbef",
   "title": "Shape‐Controlled First‐Row Transition Metal Vanadates for Electrochemical and Photoelectrochemical Water Splitting",
   "authors": [
@@ -13435,6 +13501,33 @@
    "Tsinghua University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "cc512652edc7c0e8",
+  "title": "Photoreforming – green hydrogen from alcohol, sugar and starch",
+  "authors": [
+   "Julian Venzlaff",
+   "Claudia Bohrmann-Linde"
+  ],
+  "journal": "CHEMKON",
+  "publisher": "Wiley",
+  "published": "2023-06-21",
+  "year": 2023,
+  "doi": "10.1002/ckon.202300016",
+  "url": "https://doi.org/10.1002/ckon.202300016",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Wuppertal"
+  ],
+  "added": "2026-10-02",
+  "issn": "0944-5846"
  },
  {
   "id": "ca1cf8be0de7d89e",
@@ -24081,6 +24174,42 @@
    "University of California, Berkeley"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "894ed4e9b582eab6",
+  "title": "Mechanistic Study of Glucose Photoreforming over TiO2-Based Catalysts for H2 Production",
+  "authors": [
+   "Lan Lan",
+   "Helen Daly",
+   "Rehana Sung",
+   "Floriana Tuna",
+   "Nathan C. Skillen",
+   "Peter K. J. Robertson",
+   "Christopher Hardacre",
+   "Xiaolei Fan"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2023-06-13",
+  "year": 2023,
+  "doi": "10.1021/acscatal.3c00858",
+  "url": "https://doi.org/10.1021/acscatal.3c00858",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Manchester",
+   "Queen's University Belfast"
+  ],
+  "added": "2026-10-02",
+  "issn": "2155-5435"
  },
  {
   "id": "8510ee62dcf30a27",
@@ -35306,6 +35435,42 @@
    "Jiangsu University of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b34e835f500c6b98",
+  "title": "Recent Advances in the Photoreforming of Plastic Waste: Principles, Challenges, and Perspectives",
+  "authors": [
+   "Xin Tang",
+   "Xiaochi Han",
+   "Nashwan H. M. Sulaiman",
+   "Lirong He",
+   "Xuemei Zhou"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2023-06-02",
+  "year": 2023,
+  "doi": "10.1021/acs.iecr.3c00809",
+  "url": "https://doi.org/10.1021/acs.iecr.3c00809",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "Sichuan University",
+   "State Key Laboratory of Polymer Materials Engineering"
+  ],
+  "added": "2026-10-02",
+  "issn": "0888-5885"
  },
  {
   "id": "b08294e8e13d2070",

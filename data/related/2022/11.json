@@ -1,0 +1,40 @@
+[
+ {
+  "id": "253c9734996662f1",
+  "title": "Unravelling the Anomalous Coking Resistance over Boron Nitride-Supported Ni Catalysts for Dry Reforming of Methane",
+  "authors": [
+   "Jiang Deng",
+   "Min Gao",
+   "Jun-ya Hasegawa",
+   "Xiaoyu Zhang",
+   "Aiyong Wang",
+   "Aling Chen",
+   "Dengsong Zhang"
+  ],
+  "journal": "CCS Chemistry",
+  "publisher": "Chinese Chemical Society",
+  "published": "2022-11-03",
+  "year": 2022,
+  "doi": "10.31635/ccschem.022.202202342",
+  "url": "https://doi.org/10.31635/ccschem.022.202202342",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "Immobilization",
+   "NiCo",
+   "Related",
+   "TiO2"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Shanghai University",
+   "Hokkaido University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2096-5745"
+ }
+]

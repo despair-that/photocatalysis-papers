@@ -3571,6 +3571,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0cd07f3ed59291fa",
+  "title": "Enhanced Photocatalytic Activity of ZnO-Rgo Nanocomposites in Degradation of Gaseous Acetaldehyde",
+  "authors": [
+   "Yu-Chih Chen",
+   "Ken-ichi Katsumata",
+   "Yung Jung Hsu"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2013-10-27",
+  "year": 2013,
+  "doi": "10.1149/ma2013-02/41/2448",
+  "url": "https://doi.org/10.1149/ma2013-02/41/2448",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "National Yang Ming Chiao Tung University",
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1091-8213"
+ },
+ {
   "id": "ec2861ee1a8c5bb5",
   "title": "Visible light responsive photocatalytic ZnO:Al films decorated with Ag nanoparticles",
   "authors": [
@@ -5063,6 +5093,47 @@
   "relevance_score": 52,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1732ef08eb75b7c6",
+  "title": "Carbon Nanotubes for Photoinduced Energy Conversion Applications",
+  "authors": [
+   "Yury Gogotsi",
+   "Volker Presser"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2013-10-24",
+  "year": 2013,
+  "doi": "10.1201/b15591-20",
+  "url": "https://doi.org/10.1201/b15591-20",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "CO2 Reduction",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions",
+   "Computational & DFT",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Charge Separation",
+   "Excited States",
+   "Heterojunctions",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Photoexcitation",
+   "Photoluminescence",
+   "Quantum Dots",
+   "Semiconductors",
+   "Water Splitting"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "14be580bccdf9698",
@@ -9924,6 +9995,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "1848774a1260b951",
+  "title": "Persistence, degradation and toxicity of transformation products of selected insecticides",
+  "authors": [
+   "Romina Žabar"
+  ],
+  "journal": "RUNG",
+  "publisher": "",
+  "published": "2013-10-15",
+  "year": 2013,
+  "doi": "",
+  "url": "http://repozitorij.ung.si/IzpisGradiva.php?id=1259",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Simulated Sunlight",
+   "TiO2"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "16511d28386458a2",
   "title": "Adsorption/photocatalytic activity and fundamental natures of BiOCl and BiOCl I1− prepared in water and ethylene glycol environments, and Ag and Au-doping effects",
   "authors": [
@@ -10205,6 +10302,39 @@
    "Jeonbuk National University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "8cd2307ad4c06600",
+  "title": "Ti/ TiO2 nanotubes enhance Mycobacterium fortuitum, Mycobacterium chelonae and Mycobacterium abscessus inactivation in water",
+  "authors": [
+   "Michelle Fernanda Brugnera",
+   "Marcelo Miyata",
+   "Guilherme Julião Zocolo",
+   "Clarice Queico Fujimura Leite",
+   "Maria Valnice Boldrín Zanoni"
+  ],
+  "journal": "Journal of Chemical Technology & Biotechnology",
+  "publisher": "Wiley",
+  "published": "2013-10-14",
+  "year": 2013,
+  "doi": "10.1002/jctb.4243",
+  "url": "https://doi.org/10.1002/jctb.4243",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Universidade Estadual Paulista (Unesp)"
+  ],
+  "added": "2026-10-02",
+  "issn": "0142-0356"
  },
  {
   "id": "8c8850ac869457fc",
@@ -15308,6 +15438,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d2acf8e5b96ac35f",
+  "title": "Tunable Biomass Transformations by Means of Photocatalytic Nanomaterials",
+  "authors": [
+   "Rafael Luque",
+   "Alina Mariana Balu"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2013-10-02",
+  "year": 2013,
+  "doi": "10.1201/b15585-16",
+  "url": "https://doi.org/10.1201/b15585-16",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Electron-Hole Pairs",
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "a515190128dd751a",
   "title": "Facile hydrothermal synthesis of TiO 2 –Bi 2 WO 6 hollow superstructures with excellent photocatalysis and recycle properties",
   "authors": [
@@ -16459,6 +16619,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "9d65062acf36a665",
+  "title": "Improvement of the Performance of Dye-Sensitized Solar Cells with TiO2 Photoanodes in Unsaturated",
+  "authors": [
+   "Xiao Long Tang"
+  ],
+  "journal": "Applied Mechanics and Materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-10-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/amm.448-453.2979",
+  "url": "https://doi.org/10.4028/www.scientific.net/amm.448-453.2979",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Electrochemical Characterization"
+  ],
+  "tags": [
+   "EIS",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Chongqing University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1660-9336"
+ },
+ {
   "id": "9bb250c857b0f221",
   "title": "Photocatalysis as an Auspicious Synthetic Route Towards Nitrogen Containing Organic Compounds",
   "authors": [
@@ -16576,6 +16767,32 @@
    "Tsinghua University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "944451e25b97585e",
+  "title": "Size Controlled Two-dimensional Co3O4 with Exposure of {111} Plane: Synthesis and Catalytic Properties for Photooxidation of Organics",
+  "authors": [
+   "Jiahui Kou",
+   "Rajender Varma"
+  ],
+  "journal": "Current Organic Chemistry",
+  "publisher": "Bentham Science Publishers",
+  "published": "2013-10-01",
+  "year": 2013,
+  "doi": "10.2174/13852728113179990046",
+  "url": "https://doi.org/10.2174/13852728113179990046",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photooxidation"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "1385-2728"
  },
  {
   "id": "9315c770bdf5dfca",

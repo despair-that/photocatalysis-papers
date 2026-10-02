@@ -5436,6 +5436,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7916c40751e6c447",
+  "title": "Plastic‐to‐Treasure: Innovative advances in photo/electro‐catalytic upcycling technologies for commodity chemicals and fuels",
+  "authors": [
+   "Yu Xuan Leiu",
+   "Ke Ming Lim",
+   "Zi-Jing Chiah",
+   "Elton Song-Zhe Mah",
+   "Wee-Jun Ong"
+  ],
+  "journal": "EcoEnergy",
+  "publisher": "Wiley",
+  "published": "2024-11-27",
+  "year": 2024,
+  "doi": "10.1002/ece2.81",
+  "url": "https://doi.org/10.1002/ece2.81",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Xiamen University Malaysia",
+   "Xiamen University",
+   "Korea University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2835-9380"
+ },
+ {
   "id": "73d9aed32d1a17c4",
   "title": "Anionic Disorder and Its Impact on the Surface Electronic Structure of Oxynitride Photoactive Semiconductors",
   "authors": [
@@ -10759,6 +10792,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "9e47cabab291cf43",
+  "title": "Building Mo2C/C/TCN heterojunction for efficient noble-metal-free plastic photoreforming and hydrogen generation",
+  "authors": [
+   "Shuang Tang",
+   "Yangsen Xu",
+   "Ling Xiang",
+   "Li-Yi Tang",
+   "Xinzhong Wang",
+   "Yu-Xiang Yu",
+   "Wei-De Zhang"
+  ],
+  "journal": "Journal of Material Science and Technology",
+  "publisher": "Elsevier BV",
+  "published": "2024-11-23",
+  "year": 2024,
+  "doi": "10.1016/j.jmst.2024.09.051",
+  "url": "https://doi.org/10.1016/j.jmst.2024.09.051",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photoreforming"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Shenzhen Institute of Information Technology",
+   "Shenzhen University",
+   "South China University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1005-0302"
+ },
+ {
   "id": "8d0c2f8642b87e8b",
   "title": "Assessment of solar photocatalytic wastewater disinfection and microcontaminants removal by modified-allophane nanoclays based on TiO2, Fe and ZnO at laboratory and pilot scale",
   "authors": [
@@ -12428,6 +12497,40 @@
   "added": "2026-07-26"
  },
  {
+  "id": "d4abb351a1e5dfd9",
+  "title": "Photoreforming: A Sustainable Pathway for Plastic Waste to Fuel Conversion",
+  "authors": [
+   "Shubham Kumar Patial",
+   "Rizul Gautam",
+   "Anuj Sharma",
+   "Suman B. Singh"
+  ],
+  "journal": "ACS symposium series",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1021/bk-2024-1490.ch008",
+  "url": "https://doi.org/10.1021/bk-2024-1490.ch008",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "Central Scientific Instruments Organisation",
+   "RMIT University",
+   "Academy of Scientific and Innovative Research"
+  ],
+  "added": "2026-10-02",
+  "issn": "0097-6156"
+ },
+ {
   "id": "d2e91a37995f4167",
   "title": "Maintaining High Efficiency of Photoelectrochemical Gas-Phase CO 2 Reduction Reaction for 500 h By Supplying Water Vapor to Cathode Surface",
   "authors": [
@@ -13999,6 +14102,42 @@
   "relevance_score": 96,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "7959f1f85e6f8752",
+  "title": "Shining Light on the Future: Photoreforming (PR) as a Solution to Plastic Trash: A Brief Review",
+  "authors": [
+   "Alaka Samal",
+   "Nigamananda Das"
+  ],
+  "journal": "ACS symposium series",
+  "publisher": "American Chemical Society",
+  "published": "2024-11-22",
+  "year": 2024,
+  "doi": "10.1021/bk-2024-1490.ch009",
+  "url": "https://doi.org/10.1021/bk-2024-1490.ch009",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "g-C3N4 & Carbon Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "CdS",
+   "Photocatalysis",
+   "Photoreforming",
+   "Pollutants",
+   "Visible Light",
+   "g-C3N4"
+  ],
+  "relevance_score": 92,
+  "affiliations": [
+   "Utkal University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0097-6156"
  },
  {
   "id": "77037a055891bb4b",
@@ -22876,6 +23015,42 @@
    "China University of Geosciences (Beijing)"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2afbe6c019f48826",
+  "title": "Photo reforming of Spinacia oleracea for enhanced solar hydrogen fuel",
+  "authors": [
+   "Sayantanu Mandal",
+   "Ayantan Biswas",
+   "Swagata Das",
+   "Kajari Kargupta"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2024-11-18",
+  "year": 2024,
+  "doi": "10.26434/chemrxiv-2024-44kkd",
+  "url": "https://doi.org/10.26434/chemrxiv-2024-44kkd",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis",
+   "Photoreforming",
+   "Solar Hydrogen",
+   "Visible Light",
+   "Water Splitting"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "Jadavpur University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2573-2293"
  },
  {
   "id": "2744632b6d5dd55d",
@@ -36486,6 +36661,36 @@
   "added": "2026-07-26"
  },
  {
+  "id": "ef5e7c37af139ee6",
+  "title": "Circular Economy and Chemical Conversion for Polyester Wastes",
+  "authors": [
+   "Jingjing Cao",
+   "Xin Qiu",
+   "Fan Zhang",
+   "Shaohai Fu"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2024-11-07",
+  "year": 2024,
+  "doi": "10.1002/cssc.202402100",
+  "url": "https://doi.org/10.1002/cssc.202402100",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Jiangnan University",
+   "Sichuan University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1864-5631"
+ },
+ {
   "id": "e414eb81b4069472",
   "title": "Synergistic uranium extraction, organic degradation, and electricity generation by a self-driven photoelectrochemical system with TNR/Si PVC photoanode and copper foam cathode",
   "authors": [
@@ -41505,6 +41710,38 @@
    "Indian Institute of Information Technology, Nagpur"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "f42a3fa7b02b181d",
+  "title": "Can CCS Make it Cheaper for a Sustainable Hydrogen Supply? A Technoeconomic Assessment",
+  "authors": [
+   "Abdullah A. Alyousef",
+   "Yousef M. Alshammari"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-11-04",
+  "year": 2024,
+  "doi": "10.2118/222332-ms",
+  "url": "https://doi.org/10.2118/222332-ms",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoelectrolysis",
+   "Solar Hydrogen"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Birmingham",
+   "Imperial College London"
+  ],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "f08263275e6d285e",

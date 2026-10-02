@@ -12749,6 +12749,46 @@
   "added": "2026-07-24"
  },
  {
+  "id": "920507668db595a9",
+  "title": "Photo‐catalytic reforming of aqueous phase derived from hydrothermal liquefaction of Nostoc ellipsosporum for bio‐hydrogen production",
+  "authors": [
+   "Sivakumar Shri Vigneshwar",
+   "Authilingam Swetha",
+   "Kannappan Panchamoorthy Gopinath",
+   "Jayaseelan Arun",
+   "Ramachandran Sivaramakrishnan",
+   "Arivalagan Pugazhendhi"
+  ],
+  "journal": "International Journal of Energy Research",
+  "publisher": "Wiley",
+  "published": "2021-07-20",
+  "year": 2021,
+  "doi": "10.1002/er.7062",
+  "url": "https://doi.org/10.1002/er.7062",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "TiO2",
+   "Wastewater"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Sri Sivasubramaniya Nadar College of Engineering",
+   "Sathyabama Institute of Science and Technology",
+   "Chulalongkorn University",
+   "Asia University",
+   "Maejo University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0363-907X"
+ },
+ {
   "id": "8fdc48cf7df6e000",
   "title": "Potential Co-catalyst application of novel M3P2 (M=Zn, Cd) in photocatalytic hydrogen evolution reaction from water splitting",
   "authors": [

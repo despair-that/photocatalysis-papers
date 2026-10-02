@@ -13976,6 +13976,42 @@
   "added": "2026-07-26"
  },
  {
+  "id": "b2739211d75ed431",
+  "title": "Polymeric Carbon Nitride‐based Materials in Aqueous Suspensions for Water Photo‐splitting and Photo‐reforming of Biomass Aqueous Solutions to Generate H 2",
+  "authors": [
+   "Elisa Isabel Garcia-Lopez",
+   "Giuseppe Marcı̀",
+   "Leonardo Palmisano"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2023-02-17",
+  "year": 2023,
+  "doi": "10.1002/9783527837991.ch8",
+  "url": "https://doi.org/10.1002/9783527837991.ch8",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "g-C3N4 & Carbon Materials",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Co-catalysts",
+   "Doping",
+   "Photocatalysis",
+   "Semiconductors",
+   "Sunlight-Driven",
+   "Visible Light"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "University of Palermo"
+  ],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "af648154aa216ee5",
   "title": "Single‐Atom Phosphorus Defects Decorated CoP Cocatalyst Boosts Photocatalytic Hydrogen Generation Performance of Cd 0.5 Zn 0.5 S by Directed Separating the Photogenerated Carriers",
   "authors": [
@@ -14655,6 +14691,50 @@
    "York University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "4bcf2e85c00f035f",
+  "title": "Front Matter",
+  "authors": [
+   "Xinchen Wang",
+   "Masakazu Anpo",
+   "Xianzhi Fu"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2023-02-17",
+  "year": 2023,
+  "doi": "10.1002/9783527837991.fmatter",
+  "url": "https://doi.org/10.1002/9783527837991.fmatter",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Z-Scheme & Heterojunctions",
+   "Water Splitting",
+   "Hydrogen Evolution",
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Heterojunctions",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Pollutants",
+   "S-Scheme",
+   "TiO2",
+   "Visible Light",
+   "Water Splitting",
+   "ZnO"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "Fuzhou University"
+  ],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "4a648b534299c397",
@@ -27092,6 +27172,44 @@
    "Nanjing University of Posts and Telecommunications"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "5994df98358ab90a",
+  "title": "Synthesis of Fe-TiO2 and Cu-TiO2 Based Materials by Olive Leaves Biotemplating—Application to Hydrogen Production from Glycerol Photoreforming",
+  "authors": [
+   "Juan Martín-Gómez",
+   "Susana Reca-Expósito",
+   "Francisco Javier López-Tenllado",
+   "Jesús Hidalgo-Carrillo",
+   "Alberto Marinas",
+   "Francisco José Urbano"
+  ],
+  "journal": "Nanomaterials",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2023-02-08",
+  "year": 2023,
+  "doi": "10.3390/nano13040664",
+  "url": "https://doi.org/10.3390/nano13040664",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 92,
+  "affiliations": [
+   "University of Córdoba"
+  ],
+  "added": "2026-10-02",
+  "issn": "2079-4991"
  },
  {
   "id": "473a376a2a5aa9ae",

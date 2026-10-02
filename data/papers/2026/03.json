@@ -8730,6 +8730,49 @@
   "added": "2026-07-26"
  },
  {
+  "id": "09276853798ac1f8",
+  "title": "Selective Biomass Valorization via Cascade Photooxidation and Photothermal Hydride Shift",
+  "authors": [
+   "Yingchuan Zhang",
+   "Fupeng Zhang",
+   "Ruotong Yang",
+   "Guangri Jia",
+   "Zhuang Ma",
+   "Nengchao Luo",
+   "Zhengxiao Guo"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2026-03-27",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c01516",
+  "url": "https://doi.org/10.1021/jacs.6c01516",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Solar Fuels",
+   "Sacrificial Reagents",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Photocatalysis",
+   "Photooxidation",
+   "Photoreforming",
+   "Plasmonics"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "University of Hong Kong",
+   "Dalian Institute of Chemical Physics",
+   "Chinese Academy of Sciences",
+   "Dalian National Laboratory for Clean Energy",
+   "State Key Laboratory of Catalysis"
+  ],
+  "added": "2026-10-02",
+  "issn": "0002-7863"
+ },
+ {
   "id": "007f11fad240705d",
   "title": "From polymer choice to pathway control of Nb2O5 nanofibers for acetaminophen degradation",
   "authors": [
@@ -28189,6 +28232,45 @@
   "relevance_score": 78,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "38790a786d27039f",
+  "title": "Sustainable photoreforming polyethylene terephthalate plastics into valuable chemicals with hydrogen generation over TiO2-carbon nanotubes composite",
+  "authors": [
+   "Mubarak Alazemi",
+   "Irshad Ahmad",
+   "Yasser A. Alassmy",
+   "Ayman M. Al-Qattan",
+   "Sultan A. Alshuhri",
+   "Mohammed Qasem Alfaifi",
+   "Mohammed Hadi Wasily",
+   "Mohammed T. Alotaibi"
+  ],
+  "journal": "Materials Science in Semiconductor Processing",
+  "publisher": "Elsevier BV",
+  "published": "2026-03-15",
+  "year": 2026,
+  "doi": "10.1016/j.mssp.2026.110604",
+  "url": "https://doi.org/10.1016/j.mssp.2026.110604",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "College of Technological Studies",
+   "University of Agriculture Faisalabad",
+   "King Abdulaziz City for Science and Technology",
+   "Kuwait Institute for Scientific Research",
+   "Taif University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1369-8001"
  },
  {
   "id": "3464e24bba238c7b",
@@ -50197,6 +50279,38 @@
    "Fudan University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "4dd7117235cef651",
+  "title": "Front Cover: Operando Magic Angle Spinning Solid‐State NMR Spectroscopy of Methanol Photoreforming Over Titania‐Coated Silica Monoliths",
+  "authors": [
+   "Fei Ding",
+   "Karl König",
+   "Johannes Böhmer",
+   "Florian M. Wisser",
+   "Erdmann Spiecker",
+   "Benjamin Apeleo Zubiri",
+   "Dorothea Wisser"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2026-03-02",
+  "year": 2026,
+  "doi": "10.1002/chem.70769",
+  "url": "https://doi.org/10.1002/chem.70769",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "0947-6539"
  },
  {
   "id": "46c2edc20157de4e",

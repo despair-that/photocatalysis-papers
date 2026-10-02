@@ -5033,6 +5033,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "064ee6b58a90922a",
+  "title": "Structured macroporous Brown TiO2-SiC catalysts for ethanol-water photoreforming under visible light for hydrogen production",
+  "authors": [
+   "Ana Lucia de Souza Niero",
+   "Sarah Mozzaquatro Pasini",
+   "Pedro Henrique Daguer",
+   "Everthon Taghori Sica",
+   "Bruno Francisco Oechsler",
+   "Sergio Yesid Gómez González",
+   "Dachamir Hotza"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2025-05-29",
+  "year": 2025,
+  "doi": "10.1016/j.ijhydene.2025.05.273",
+  "url": "https://doi.org/10.1016/j.ijhydene.2025.05.273",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Universidade Federal de Santa Catarina",
+   "Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ },
+ {
   "id": "03471e8098b69305",
   "title": "Photoredox-mediated cobalt catalysis for non-asymmetric and asymmetric synthesis",
   "authors": [
@@ -9978,6 +10016,38 @@
   "added": "2026-07-26"
  },
  {
+  "id": "74b5535204b38198",
+  "title": "Photoreforming for upcycling of plastics into energy, chemicals and materials: a review",
+  "authors": [
+   "Huixian Du",
+   "Xuefeng Hu",
+   "Chao Wang",
+   "Yuanxing Pu",
+   "Yao-Hui Huang",
+   "Tian Tian",
+   "Mina Yang"
+  ],
+  "journal": "Environmental Chemistry Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "2025-05-26",
+  "year": 2025,
+  "doi": "10.1007/s10311-025-01850-7",
+  "url": "https://doi.org/10.1007/s10311-025-01850-7",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Shaanxi University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1610-3653"
+ },
+ {
   "id": "738400079a599241",
   "title": "Synthesis of Tb and Dy MOFs Using Pyridazine-3,6-Dicarboxylic Acid: Dual-Function of Tb-MOF for Luminescent Sensing of o -NBA and Riboflavin and Photocatalytic Degradation of Rhodamine B",
   "authors": [
@@ -10538,6 +10608,51 @@
    "Chang'an University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "fc1efda57356d400",
+  "title": "Surface asymmetric polarization enables ultrafast hole extraction and hydroxyl radical generation boosting lignocellulose photoreforming and H2 production",
+  "authors": [
+   "Zhongye Cao",
+   "Meng Tian",
+   "Qingshan Tang",
+   "Qiu Wan",
+   "Feiyue Ge",
+   "Entian Cui",
+   "Kepeng Song",
+   "Kan Zhang",
+   "Xue-Jun Wu",
+   "Ang Li",
+   "Wei Jiang",
+   "Guigao Liu"
+  ],
+  "journal": "Nano Energy",
+  "publisher": "Elsevier BV",
+  "published": "2025-05-25",
+  "year": 2025,
+  "doi": "10.1016/j.nanoen.2025.111180",
+  "url": "https://doi.org/10.1016/j.nanoen.2025.111180",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Photoreforming",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Nanjing University of Science and Technology",
+   "Nanjing University",
+   "Yancheng Institute of Technology",
+   "Jiangsu Provincial Key Laboratory of New Environmental Protection",
+   "Shandong University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2211-2855"
  },
  {
   "id": "f4d6cce73d373065",
@@ -17377,6 +17492,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3c5b6d124dddcc03",
+  "title": "Highly selective photoreforming of plastic waste into pyruvate and coupled with hydrogen production from seawater on the defect-rich 2D/2D Cd0.5Zn0.5S/NiPS3",
+  "authors": [
+   "Ziwen Wang",
+   "Xingyu Huo",
+   "Jun Wang",
+   "Huanyu Chen",
+   "Qiuyu Wang",
+   "Bo Lv"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2025-05-21",
+  "year": 2025,
+  "doi": "10.1016/j.jece.2025.117199",
+  "url": "https://doi.org/10.1016/j.jece.2025.117199",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Kunming University of Science and Technology",
+   "State Key Laboratory of Vanadium and Titanium Resources Comprehensive Utilization",
+   "Panzhihua University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2213-2929"
+ },
+ {
   "id": "3763858e5a4165a4",
   "title": "Photocatalytic Ring-Closing Metathesis/Amination of 1,6-Enynes and 1,7-Enynes: Synthesis of α,β-Unsaturated γ-Lactams and Quinolin-2-ones",
   "authors": [
@@ -17794,6 +17944,38 @@
    "University of Illinois Urbana-Champaign"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "f246727d0f63f288",
+  "title": "Optimize molecular engineering of high-crystal PTI/PHI homojunctions for enhanced photoreforming of Poly(ethylene terephthalate) plastics into high-value chemicals",
+  "authors": [
+   "Changwen Ma",
+   "Yuanyong Huang",
+   "Di Li",
+   "Dongbo Xu",
+   "Feifei Li",
+   "Weidong Shi"
+  ],
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "published": "2025-05-20",
+  "year": 2025,
+  "doi": "10.1016/j.ces.2025.121890",
+  "url": "https://doi.org/10.1016/j.ces.2025.121890",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Jiangsu University",
+   "Jiangsu University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0009-2509"
  },
  {
   "id": "f1d5719dcbd01b99",
@@ -27605,6 +27787,46 @@
    "North Minzu University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "7ce39ddf34595037",
+  "title": "Bandgap engineering of Zn1-xCdxS for glycerol photo(electro)reforming into glyceric acid with hydrogen coproduction",
+  "authors": [
+   "Xinti Yu",
+   "Daichen Liu",
+   "Ce Fu",
+   "Bokun Zhu",
+   "Xue Yong",
+   "Jinguang Hu",
+   "Heng Zhao",
+   "Zhangxin Chen"
+  ],
+  "journal": "Chemical Synthesis",
+  "publisher": "",
+  "published": "2025-05-14",
+  "year": 2025,
+  "doi": "10.20517/cs.2024.136",
+  "url": "https://doi.org/10.20517/cs.2024.136",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Eastern Institute of Technology",
+   "University of Calgary",
+   "Eastern Institute of Technology, Ningbo"
+  ],
+  "added": "2026-10-02",
+  "issn": "2769-5247"
  },
  {
   "id": "799c1b2219030996",
@@ -39088,6 +39310,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f473c36727450798",
+  "title": "Solar light irradiation pre-treatment followed by photoreforming for simultaneous polypropylene (PP) plastic degradation and hydrogen production",
+  "authors": [
+   "Thanh Tam Nguyen",
+   "Thinh Van Nguyen",
+   "Atsushi Takahara",
+   "Kaveh Edalati"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2025-05-05",
+  "year": 2025,
+  "doi": "10.1016/j.jece.2025.116944",
+  "url": "https://doi.org/10.1016/j.jece.2025.116944",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Light Irradiation",
+   "Photoreforming",
+   "Solar Light"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Kyushu University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2213-2929"
+ },
+ {
   "id": "ebb33f789d0abd81",
   "title": "Charge separation enhancement of triple-phase Ag3PO4-AgI-ZnO heterojunction for dye photodegradation",
   "authors": [
@@ -41901,6 +42156,52 @@
    "Weifang Medical University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "104e6383de19c6ce",
+  "title": "Floatable organic-inorganic hybrid-TiO2 unlocks superoxide radicals for plastic photoreforming in neutral solution",
+  "authors": [
+   "Mengpei Jiang",
+   "Jianjun Li",
+   "Xinyi Wan",
+   "Jianhang Qiu",
+   "Tingting Yao",
+   "Wenyu Zhang",
+   "Shangyi Ma",
+   "Hao Tan",
+   "Ali Han",
+   "Chunlin Chen",
+   "Gang Yu Liu"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2025-05-03",
+  "year": 2025,
+  "doi": "10.1038/s41467-025-59467-x",
+  "url": "https://doi.org/10.1038/s41467-025-59467-x",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "ROS",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 86,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "Chinese Academy of Sciences",
+   "Institute of Metal Research",
+   "Shenyang National Laboratory for Materials Science"
+  ],
+  "added": "2026-10-02",
+  "issn": "2041-1723"
  },
  {
   "id": "072fa07773f522c7",

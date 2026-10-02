@@ -4863,6 +4863,38 @@
   "added": "2026-07-27"
  },
  {
+  "id": "72b73d49790d6450",
+  "title": "Unlocking Selective Pathways for Glucose Photoreforming by Modulating Reaction Conditions",
+  "authors": [
+   "Ugochukwu Nwosu",
+   "Heng Zhao",
+   "Md Golam Kibria",
+   "Jinguang Hu"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2022-04-27",
+  "year": 2022,
+  "doi": "10.1021/acssuschemeng.1c08708",
+  "url": "https://doi.org/10.1021/acssuschemeng.1c08708",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "University of Calgary"
+  ],
+  "added": "2026-10-02",
+  "issn": "2168-0485"
+ },
+ {
   "id": "721c4047c7c8d5f6",
   "title": "Tailoring the morphology of hafnium zirconium oxide (Hf 0.6 Zr 0.4 O 2 ) as a cocatalyst for photoelectrochemical water oxidation over a hematite ( α‐Fe 2 O 3 ) photoanode",
   "authors": [
@@ -14316,6 +14348,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "dbdb13195ffb2c03",
+  "title": "Sustainable photocatalytic cascaded reaction for H2 evolution over Co decorated ultrathin Cd0.5Zn0.5S nanosheets: Surface kinetics in aqueous NaOH and methanol",
+  "authors": [
+   "Wenhua Xue",
+   "Jingzhuo Tian",
+   "Xiaoyun Hu",
+   "Jun Qin Fan",
+   "Tao Sun",
+   "Enzhou Liu"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2022-04-19",
+  "year": 2022,
+  "doi": "10.1016/j.cej.2022.136427",
+  "url": "https://doi.org/10.1016/j.cej.2022.136427",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "2D Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Nanosheets",
+   "Photocatalysis",
+   "Ultrathin"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Northwest University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "ce99986a6a0981d3",
   "title": "Non-Noble Plasmonic Metal-Based Photocatalysts",
   "authors": [
@@ -15407,6 +15474,38 @@
    "The Synergetic Innovation Center for Advanced Materials"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "c8c5c31786ab111b",
+  "title": "Hydrogen production via photoreforming of wastewater under LED light–driven over CuO@exfoliated g–C3N4 nanoheterojunction",
+  "authors": [
+   "Thurga Devi Munusamy",
+   "Sim Yee Chin",
+   "Md Maksudur Rahman Khan"
+  ],
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "published": "2022-04-18",
+  "year": 2022,
+  "doi": "10.1016/j.chemosphere.2022.134649",
+  "url": "https://doi.org/10.1016/j.chemosphere.2022.134649",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "Wastewater"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Universiti Malaysia Pahang Al-Sultan Abdullah"
+  ],
+  "added": "2026-10-02",
+  "issn": "0045-6535"
  },
  {
   "id": "c7190cef57d73a3e",
@@ -19665,6 +19764,53 @@
    "Nanchang University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2e713a908fe19699",
+  "title": "Hetero‐Janus Nanofibers as an Ideal Framework for Promoting Water‐pollutant Photoreforming Hydrogen Evolution",
+  "authors": [
+   "Jie Liu",
+   "Xinghua Li",
+   "Chaohan Han",
+   "Mingzhuang Liu",
+   "Xiaowei Li",
+   "Jianmin Sun",
+   "Changlu Shao"
+  ],
+  "journal": "Energy & environment materials",
+  "publisher": "Wiley",
+  "published": "2022-04-14",
+  "year": 2022,
+  "doi": "10.1002/eem2.12404",
+  "url": "https://doi.org/10.1002/eem2.12404",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Charge Transfer",
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Pollutants",
+   "ZnO"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Northeast Normal University",
+   "Harbin Institute of Technology",
+   "State Key Laboratory of Urban Water Resources and Water Environment"
+  ],
+  "added": "2026-10-02",
+  "issn": "2575-0348"
  },
  {
   "id": "25280dbbe751017c",
@@ -30694,6 +30840,50 @@
    "City University of Hong Kong"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "8fe49d80edd3e60c",
+  "title": "Effect of Ball-Milling Pretreatment of Cellulose on Its Photoreforming for H2 Production",
+  "authors": [
+   "Lan Lan",
+   "Huanhao Chen",
+   "Daniel J. Lee",
+   "Shaojun Xu",
+   "Nathan C. Skillen",
+   "Aleksander A. Tedstone",
+   "Peter K. J. Robertson",
+   "Arthur A. Garforth",
+   "Helen Daly",
+   "Christopher Hardacre",
+   "Xiaolei Fan"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2022-04-04",
+  "year": 2022,
+  "doi": "10.1021/acssuschemeng.1c07301",
+  "url": "https://doi.org/10.1021/acssuschemeng.1c07301",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Manchester",
+   "Nanjing Tech University",
+   "State Key Laboratory of Materials-Oriented Chemical Engineering",
+   "Research Complex at Harwell",
+   "UK Catalysis Hub",
+   "Cardiff University",
+   "Queen's University Belfast"
+  ],
+  "added": "2026-10-02",
+  "issn": "2168-0485"
  },
  {
   "id": "8f1316af22a954f9",

@@ -1,5 +1,6 @@
 [
  {
+<<<<<<< HEAD
   "id": "feb21c97d00d81e2",
   "title": "Orthogonal Decoupling of First- and Second-Shell Contributions in Protein-Supported Single-Atom Catalysis.",
   "authors": [
@@ -17,10 +18,38 @@
   "doi": "10.1002/smll.76025",
   "url": "https://doi.org/10.1002/smll.76025",
   "source": "semanticscholar",
+=======
+  "id": "a948453b56087eba",
+  "title": "Lattice expansion enables interstitial Ni–sulfur vacancy pairs to trigger charge redistribution for boosted H2 evolution from polylactic acid hydrolysate",
+  "authors": [
+   "Zifei Xie",
+   "Ningjing Meng",
+   "Zimu zhang",
+   "RongLi Mo",
+   "Yujing Huang",
+   "Yihua Xu",
+   "Xin Wang",
+   "Xinru Wang",
+   "Yanping Hou",
+   "Ronghua Jiang",
+   "Jun Huang",
+   "Boge Zhang",
+   "Mingjie Li",
+   "Zebin Yu"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1016/j.jcis.2026.141712",
+  "url": "https://doi.org/10.1016/j.jcis.2026.141712",
+  "source": "openalex",
+>>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
   "categories": [
    "Related"
   ],
   "tags": [
+<<<<<<< HEAD
    "Related",
    "Single-Atom Catalysts"
   ],
@@ -168,5 +197,20 @@
   "affiliations": [],
   "added": "2026-10-02",
   "issn": ""
+=======
+   "Hydrogen Evolution",
+   "Related",
+   "Sulfur Vacancies"
+  ],
+  "relevance_score": 27,
+  "affiliations": [
+   "Guangxi University",
+   "Guangxi Minzu University",
+   "Shaoguan University",
+   "Chongqing University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9797"
+>>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
  }
 ]

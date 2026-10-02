@@ -59581,6 +59581,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3d3bfc1db9d9da4c",
+  "title": "Enhanced H 2 evolution from photocatalytic cellulose conversion based on graphitic carbon layers on TiO 2 /NiO x",
+  "authors": [
+   "Ling Zhang",
+   "Wenzhong Wang",
+   "Shuwen Zeng",
+   "Yang Su",
+   "Hongchang Hao"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2018-01-01",
+  "year": 2018,
+  "doi": "10.1039/c8gc01398e",
+  "url": "https://doi.org/10.1039/c8gc01398e",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Ceramics",
+   "State Key Laboratory of High Performance Ceramics and Superfine Microstructure"
+  ],
+  "added": "2026-10-02",
+  "issn": "1463-9262"
+ },
+ {
   "id": "3cdf470d408ffc65",
   "title": "Synergic TiO 2 photocatalysis and guanine photoreduction for silver deposition amplification: an ultrasensitive and high-throughput visualized colorimetric analysis strategy for anthrax DNAs in blood using a wettable microwells array",
   "authors": [

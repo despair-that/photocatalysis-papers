@@ -24945,6 +24945,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e21956fca84643ad",
+  "title": "CuO promoted TiO2 catalysts for ethanol photoreforming",
+  "authors": [
+   "Danny Zanardo",
+   "Michela Signoretto",
+   "Alberto Olivo",
+   "Cruciani Giuseppe"
+  ],
+  "journal": "ARCA (Università Ca' Foscari Venezia)",
+  "publisher": "Ca' Foscari University of Venice",
+  "published": "2017-01-01",
+  "year": 2017,
+  "doi": "",
+  "url": "http://hdl.handle.net/10278/3693793",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "e20de32245b0bc70",
   "title": "Photosynthetic water splitting by the Mn 4 Ca 2+ O X catalyst of photosystem II: its structure, robustness and mechanism",
   "authors": [
@@ -32596,6 +32625,36 @@
   "added": "2026-07-27"
  },
  {
+  "id": "bf357fa7412e1535",
+  "title": "Particle aggregation behavior during photocatalytic ethanol reforming reaction and its correlation with the activity of H2 production A Physicochemical and engineering aspects",
+  "authors": [
+   "Bing Luo",
+   "Rui Song",
+   "Dengwei Jing"
+  ],
+  "journal": "Colloids and Surfaces",
+  "publisher": "Elsevier BV",
+  "published": "2017-01-01",
+  "year": 2017,
+  "doi": "",
+  "url": "https://pubag.nal.usda.gov/catalog/5825191",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 77,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "0166-6622"
+ },
+ {
   "id": "bee377661cd50a88",
   "title": "Synthesis of nitrogen-containing molecules by zinc-catalyzed [4+2] cycloaddition and photoredox-catalyzed C-H functionalization",
   "authors": [
@@ -33437,6 +33496,48 @@
    "Tohoku University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "bb8119dd0e5f70bb",
+  "title": "Near-infrared-activated NaYF 4 :Yb 3+ , Er 3+ /Au/CdS for H 2 production via photoreforming of bio-ethanol: plasmonic Au as light nanoantenna, energy relay, electron sink and co-catalyst",
+  "authors": [
+   "Wenhui Feng",
+   "Lulu Zhang",
+   "Yan Zhang",
+   "Yu Yang",
+   "Zhi-Bin Fang",
+   "Bo Wang",
+   "Shiying Zhang",
+   "Ping Liu"
+  ],
+  "journal": "Journal of Materials Chemistry A",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2017-01-01",
+  "year": 2017,
+  "doi": "10.1039/c7ta02402a",
+  "url": "https://doi.org/10.1039/c7ta02402a",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "CdS",
+   "Co-catalysts",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photoreforming",
+   "Plasmonics"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Fuzhou University",
+   "Changsha University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2050-7488"
  },
  {
   "id": "bb785a5e0b8c93ef",
@@ -56575,6 +56676,42 @@
   "added": "2026-07-27"
  },
  {
+  "id": "5278c210d22e44a4",
+  "title": "TIO2 Nanorods-Supported Gold Nanoparticles as Photocatalysts foe the CO Preferential Oxidation",
+  "authors": [
+   "Enrique Rodrı́guez-Castellón",
+   "Elena Rodríguez-Aguado",
+   "A. Molina",
+   "Elisa Moretti",
+   "A. Talon",
+   "Loretta Storaro"
+  ],
+  "journal": "ARCA (Università Ca' Foscari Venezia)",
+  "publisher": "Ca' Foscari University of Venice",
+  "published": "2017-01-01",
+  "year": 2017,
+  "doi": "",
+  "url": "http://hdl.handle.net/10278/3699950",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "Band Gap",
+   "Electron-Hole Pairs",
+   "LSPR",
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "51aaad8dc48b9d0c",
   "title": "Tungstic acids H 2 WO 4 and H 4 WO 5 as stable photocatalysts for water oxidation under visible light",
   "authors": [
@@ -63233,6 +63370,36 @@
    "Jiangsu University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "32f27c36cefaf21a",
+  "title": "Photoreforming of oxygenates on noble metal decorated semiconductors",
+  "authors": [
+   "Kai E. Sanwald"
+  ],
+  "journal": "mediaTUM – the media and publications repository of the Technical University Munich (Technical University Munich)",
+  "publisher": "Technical University of Munich",
+  "published": "2017-01-01",
+  "year": 2017,
+  "doi": "",
+  "url": "http://mediatum.ub.tum.de/node?id=1340488",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Water Splitting",
+   "Semiconductor Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Semiconductors",
+   "Wastewater",
+   "Water Splitting"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "32cba311d36fb341",
@@ -73853,6 +74020,34 @@
    "Matsumoto Dental University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "06ded5fe9d10c44c",
+  "title": "Mechanistic study of the role of Au, Pd and Au–Pd in the surface reactions of ethanol over TiO 2 in the dark and under photo-excitation",
+  "authors": [
+   "Shahid M. Bashir",
+   "Hicham Idriss"
+  ],
+  "journal": "Catalysis Science & Technology",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2017-01-01",
+  "year": 2017,
+  "doi": "10.1039/c7cy00961e",
+  "url": "https://doi.org/10.1039/c7cy00961e",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Saudi Arabia Basic Industries (Saudi Arabia)",
+   "King Abdullah University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2044-4753"
  },
  {
   "id": "06c7717bc8b8f0d6",

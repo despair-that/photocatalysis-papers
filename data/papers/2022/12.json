@@ -25540,6 +25540,48 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0714e1700668f895",
+  "title": "Direct Polyethylene Photoreforming into Exclusive Liquid Fuel over Charge-Asymmetrical Dual Sites under Mild Conditions",
+  "authors": [
+   "Xingchen Jiao",
+   "Zexun Hu",
+   "Kai Zheng",
+   "Juncheng Zhu",
+   "Yang Jie Wu",
+   "Xiaojing Zhang",
+   "Jun Hu",
+   "Wensheng Yan",
+   "Junfa Zhu",
+   "Yongfu Sun",
+   "Yi Xie"
+  ],
+  "journal": "Nano Letters",
+  "publisher": "American Chemical Society",
+  "published": "2022-12-14",
+  "year": 2022,
+  "doi": "10.1021/acs.nanolett.2c03813",
+  "url": "https://doi.org/10.1021/acs.nanolett.2c03813",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "Quantum Dots"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Jiangnan University",
+   "University of Science and Technology of China",
+   "National Synchrotron Radiation Laboratory",
+   "Key Laboratory of Synthetic and Biological Colloids, Ministry of Education"
+  ],
+  "added": "2026-10-02",
+  "issn": "1530-6984"
+ },
+ {
   "id": "053e1e439da3969c",
   "title": "Three novel coordination polymers as bifunctional materials for the photocatalytic degradation of dyes and the oxygen evolution reaction in alkaline solutions",
   "authors": [
@@ -33689,6 +33731,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "179d464d92d8bca8",
+  "title": "Enhanced solar hydrogen generation with the direct coupling of photo and thermal energy – An experimental and mechanism study",
+  "authors": [
+   "Buchu Lu",
+   "Xiangyu Yan",
+   "Qibin Liu"
+  ],
+  "journal": "Applied Energy",
+  "publisher": "Elsevier BV",
+  "published": "2022-12-08",
+  "year": 2022,
+  "doi": "10.1016/j.apenergy.2022.120468",
+  "url": "https://doi.org/10.1016/j.apenergy.2022.120468",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Solar Hydrogen"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Institute of Engineering Thermophysics",
+   "University of Chinese Academy of Sciences",
+   "State Key Laboratory of Multiphase Flow in Power Engineering",
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0306-2619"
+ },
+ {
   "id": "165b2c716ccb234e",
   "title": "Synthesis, characterization, and photocatalytic degradation of anionic dyes using a novel ZnO/activated carbon composite",
   "authors": [
@@ -34039,6 +34113,45 @@
    "Nanjing Tech University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "dc6147ad92b63615",
+  "title": "Synergetic effect of Ni-Au bimetal nanoparticles on urchin-like TiO2 for hydrogen and arabinose co-production by glucose photoreforming",
+  "authors": [
+   "Malin Eqi",
+   "Cai Jun Shi",
+   "Jiajing Xie",
+   "Fuyan Kang",
+   "Houjuan Qi",
+   "Xushen Tan",
+   "Zhanhua Huang",
+   "Junli Liu",
+   "Jiang Guo"
+  ],
+  "journal": "Advanced Composites and Hybrid Materials",
+  "publisher": "Springer Science+Business Media",
+  "published": "2022-12-07",
+  "year": 2022,
+  "doi": "10.1007/s42114-022-00580-6",
+  "url": "https://doi.org/10.1007/s42114-022-00580-6",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Northeast Forestry University",
+   "Taiyuan University of Science and Technology",
+   "Shaanxi University of Science and Technology",
+   "Institute of Chemical Industry of Forest Products"
+  ],
+  "added": "2026-10-02",
+  "issn": "2522-0128"
  },
  {
   "id": "db6084e46744fd00",
@@ -42596,6 +42709,44 @@
    "McGill University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "df517b7c2b5bf3c3",
+  "title": "Dual-functional marigold-like Zn Cd1S homojunction for selective glucose photoreforming with remarkable H2 coproduction",
+  "authors": [
+   "Fuyan Kang",
+   "Cai Jun Shi",
+   "Yeling Zhu",
+   "Malin Eqi",
+   "Junming Shi",
+   "Min Teng",
+   "Zhanhua Huang",
+   "Chuanling Si",
+   "Feng Jiang",
+   "Jinguang Hu"
+  ],
+  "journal": "Journal of Energy Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2022-12-01",
+  "year": 2022,
+  "doi": "10.1016/j.jechem.2022.11.043",
+  "url": "https://doi.org/10.1016/j.jechem.2022.11.043",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Northeast Forestry University",
+   "University of British Columbia",
+   "Tianjin University of Science and Technology",
+   "University of Calgary"
+  ],
+  "added": "2026-10-02",
+  "issn": "2095-4956"
  },
  {
   "id": "deecec3ae6c93359",

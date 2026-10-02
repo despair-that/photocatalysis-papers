@@ -12347,6 +12347,48 @@
   "added": "2026-07-26"
  },
  {
+  "id": "2a5d62b6ba788aa3",
+  "title": "Continuous flow synthesis of visible light-active conjugated porous polymer for pollutant degradation and plastic waste photoreforming",
+  "authors": [
+   "Astha Singh",
+   "Rituporn Gogoi",
+   "Kajal Sharma",
+   "Swadhin Kumar Jena",
+   "Najla Fourati",
+   "Chouki Zerrouki",
+   "Samy Rémita",
+   "Prem Felix Siril"
+  ],
+  "journal": "Journal of Cleaner Production",
+  "publisher": "Elsevier BV",
+  "published": "2023-10-23",
+  "year": 2023,
+  "doi": "10.1016/j.jclepro.2023.139476",
+  "url": "https://doi.org/10.1016/j.jclepro.2023.139476",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Pollutants",
+   "Visible Light"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Indian Institute of Technology Mandi",
+   "Conservatoire National des Arts et Métiers",
+   "Centre National de la Recherche Scientifique",
+   "École Normale Supérieure - PSL",
+   "Laboratoire des systèmes et applications des technologies de l'information et de l'énergie",
+   "Université Paris-Saclay",
+   "Institut de Chimie Physique"
+  ],
+  "added": "2026-10-02",
+  "issn": "0959-6526"
+ },
+ {
   "id": "28cfeb0c5ac6e7ed",
   "title": "Ni Coated with N-doped Graphene Layer as Active and Stable H 2 Evolution Cocatalysts for Photocatalytic Overall Water Splitting",
   "authors": [
@@ -23816,6 +23858,46 @@
   "added": "2026-07-24"
  },
  {
+  "id": "c49a9fc3cc95ec2b",
+  "title": "Enhancing Hydrogen Production from the Photoreforming of Lignin",
+  "authors": [
+   "Meshal Aljohani",
+   "Helen Daly",
+   "Lan Lan",
+   "Aristarchos Mavridis",
+   "Matthew Lindley",
+   "Sarah J. Haigh",
+   "Carmine D’Agostino",
+   "Xiaolei Fan",
+   "Christopher Hardacre"
+  ],
+  "journal": "ChemPlusChem",
+  "publisher": "Wiley",
+  "published": "2023-10-13",
+  "year": 2023,
+  "doi": "10.1002/cplu.202300411",
+  "url": "https://doi.org/10.1002/cplu.202300411",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "King Abdulaziz City for Science and Technology",
+   "University of Manchester"
+  ],
+  "added": "2026-10-02",
+  "issn": "2192-6506"
+ },
+ {
   "id": "c0f6b9d30d22d687",
   "title": "Synergistic enhancement of photocatalytic hydrogen evolution by ultrathin oxygen-doped graphitic carbon nitride nanosheets loaded amorphous mesoporous nickel hydroxide",
   "authors": [
@@ -28302,6 +28384,53 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b639c8a08e33374b",
+  "title": "Photoreforming of glycerol to produce hydrogen from natural water in a compound parabolic collector solar photoreactor",
+  "authors": [
+   "J.G. Villachica-Llamosas",
+   "Jakub Sowik",
+   "Alba Ruiz-Aguirre",
+   "G. Colón",
+   "José Peral",
+   "Sixto Malato"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2023-10-10",
+  "year": 2023,
+  "doi": "10.1016/j.jece.2023.111216",
+  "url": "https://doi.org/10.1016/j.jece.2023.111216",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Reactor Engineering & Scale-up",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreactors",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas",
+   "University of Gdańsk",
+   "Consejo Superior de Investigaciones Científicas",
+   "Instituto de Ciencia de Materiales de Sevilla",
+   "Universidad de Sevilla",
+   "Universitat Autònoma de Barcelona"
+  ],
+  "added": "2026-10-02",
+  "issn": "2213-2929"
+ },
+ {
   "id": "b4ec41581263e166",
   "title": "Integration of earth-abundant cocatalysts for high-performance photoelectrochemical energy conversion",
   "authors": [
@@ -30892,6 +31021,44 @@
    "University of Calgary"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "237ae971086d2e14",
+  "title": "Multisustainable Approach. Ternary Photocatalytic Composite: FexO3/Albumin/Few Layer Graphene in H2 Production via Photo-reforming of Methanol",
+  "authors": [
+   "Kamel Rizq Shoueir",
+   "Mathias Barreau",
+   "Walid Baaziz",
+   "Izabela Janowska"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2023-10-09",
+  "year": 2023,
+  "doi": "10.1021/acssuschemeng.3c04186",
+  "url": "https://doi.org/10.1021/acssuschemeng.3c04186",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Graphene",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreforming"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut de Chimie et Procédés pour l'Energie, l'Environnement et la Santé",
+   "Université de Strasbourg",
+   "Institut de Physique et Chimie des Matériaux de Strasbourg"
+  ],
+  "added": "2026-10-02",
+  "issn": "2168-0485"
  },
  {
   "id": "1712407ea359e56d",
@@ -36486,6 +36653,52 @@
   "added": "2026-07-24"
  },
  {
+  "id": "359a82792508271e",
+  "title": "Au-Deposited Ce0.5Zr0.5O2 Nanostructures for Photocatalytic H2 Production under Visible Light",
+  "authors": [
+   "Shaeel Ahmed Al-Thabaiti",
+   "Zaheer Abbas Khan",
+   "Khloud Saeed Al-Thubaiti",
+   "Salem Mohamed Bawaked",
+   "Soad Zahir Alsheheri",
+   "Mohamed Mokhtar",
+   "Maqsood Ahmad Malik",
+   "Katabathini Narasimharao"
+  ],
+  "journal": "Catalysts",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2023-10-04",
+  "year": 2023,
+  "doi": "10.3390/catal13101340",
+  "url": "https://doi.org/10.3390/catal13101340",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "Band Gap",
+   "Charge Separation",
+   "Hydrogen Production",
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreforming",
+   "Plasmonics",
+   "Visible Light"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "King Abdulaziz University",
+   "Jamia Millia Islamia"
+  ],
+  "added": "2026-10-02",
+  "issn": "2073-4344"
+ },
+ {
   "id": "30c678e07c5e9f8c",
   "title": "Hydrazine -functionalized perylene diimide integrated Ti3+ self-doped TiO2 heterostructure for visible light-driven photocatalytic H2 evolution",
   "authors": [
@@ -37923,6 +38136,44 @@
    "Technische Universität Ilmenau"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "d360724bbb229370",
+  "title": "Unraveling the effect of low Cu2O loading on P25 TiO2 and its self-reduction during methanol photoreforming",
+  "authors": [
+   "Fernando Plascencia-Hernández",
+   "Elim Albiter",
+   "Ghazzal Mohamed Nawfal",
+   "Christophe Colbeau-Justin",
+   "Hynd Remita",
+   "Heriberto Pfeiffer",
+   "Miguel Angel Valenzuela"
+  ],
+  "journal": "Inorganic Chemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2023-10-02",
+  "year": 2023,
+  "doi": "10.1016/j.inoche.2023.111541",
+  "url": "https://doi.org/10.1016/j.inoche.2023.111541",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Instituto Politécnico Nacional",
+   "Universidad Nacional Autónoma de México",
+   "Centre National de la Recherche Scientifique",
+   "Université Paris-Saclay",
+   "Institut de Chimie Physique"
+  ],
+  "added": "2026-10-02",
+  "issn": "1387-7003"
  },
  {
   "id": "d155ab9cf103d005",

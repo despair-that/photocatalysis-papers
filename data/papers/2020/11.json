@@ -23642,6 +23642,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f81ba52f4399c23a",
+  "title": "Raw data for article Scalable photocatalyst panels for photoreforming of plastic, biomass and mixed waste in flow",
+  "authors": [
+   "Erwin Reisner",
+   "Taylor Uekert",
+   "Mark A. Bajada",
+   "Teresa Schubert",
+   "Christian M. Pichler"
+  ],
+  "journal": "Apollo (University of Cambridge)",
+  "publisher": "University of Cambridge",
+  "published": "2020-11-10",
+  "year": 2020,
+  "doi": "10.17863/cam.59631",
+  "url": "https://doi.org/10.17863/cam.59631",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "f4e50c6cd3e5a7c9",
   "title": "Integrating Low‐Cost Earth‐Abundant Co‐Catalysts with Encapsulated Perovskite Solar Cells for Efficient and Stable Overall Solar Water Splitting",
   "authors": [

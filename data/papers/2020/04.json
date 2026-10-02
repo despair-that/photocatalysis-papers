@@ -767,6 +767,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7ef35b6d10d4ed6c",
+  "title": "Systematic study of H2 production from catalytic photoreforming of cellulose over Pt catalysts supported on TiO2",
+  "authors": [
+   "Lan Lan",
+   "Yan Qiang Shao",
+   "Yilai Jiao",
+   "Rongxin Zhang",
+   "Christopher Hardacre",
+   "Xiaolei Fan"
+  ],
+  "journal": "Chinese Journal of Chemical Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2020-04-30",
+  "year": 2020,
+  "doi": "10.1016/j.cjche.2020.03.030",
+  "url": "https://doi.org/10.1016/j.cjche.2020.03.030",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Manchester",
+   "Wuyi University",
+   "Chinese Academy of Sciences",
+   "Institute of Metal Research",
+   "Shenyang National Laboratory for Materials Science"
+  ],
+  "added": "2026-10-02",
+  "issn": "1004-9541"
+ },
+ {
   "id": "753291ecd816e2d3",
   "title": "Microwave-Assisted Solvothermal Synthesis and Photocatalytic Activity of Bismuth(III) Based Metal–Organic Framework",
   "authors": [
@@ -2937,6 +2974,34 @@
    "Xichang University"
   ],
   "added": "2026-07-27"
+ },
+ {
+  "id": "203bf4c7d77409ce",
+  "title": "Raw data supporting article: Photoreforming of food waste into value-added products over visible-light-absorbing catalysts",
+  "authors": [
+   "Erwin Reisner",
+   "Taylor Uekert",
+   "Dorchies Florian",
+   "Pichler Christian"
+  ],
+  "journal": "Apollo (University of Cambridge)",
+  "publisher": "University of Cambridge",
+  "published": "2020-04-29",
+  "year": 2020,
+  "doi": "10.17863/cam.51830",
+  "url": "https://doi.org/10.17863/cam.51830",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 56,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "1fab81ab6a839325",
@@ -7455,6 +7520,51 @@
    "National University of Sciences and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "19680b9adf27ee0b",
+  "title": "Photoreforming of Glucose over CuO/TiO2",
+  "authors": [
+   "Elnaz Bahadori",
+   "Gianguido Ramis",
+   "Danny Zanardo",
+   "Federica Menegazzo",
+   "Michela Signoretto",
+   "Delia Gazzoli",
+   "Daniela Pietrogiacomi",
+   "Alessandro Di Michele",
+   "Ilenia Rossetti"
+  ],
+  "journal": "Catalysts",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2020-04-27",
+  "year": 2020,
+  "doi": "10.3390/catal10050477",
+  "url": "https://doi.org/10.3390/catal10050477",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "University of Genoa",
+   "Ca' Foscari University of Venice",
+   "National Interuniversity Consortium of Materials Science and Technology",
+   "Sapienza University of Rome",
+   "University of Perugia",
+   "University of Milan"
+  ],
+  "added": "2026-10-02",
+  "issn": "2073-4344"
  },
  {
   "id": "1890c0d14cb5e83d",
@@ -15022,6 +15132,30 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d06239ebc7920bb4",
+  "title": "photoreforming",
+  "authors": [
+   "N. Rocoby"
+  ],
+  "journal": "Catalysis from A to Z",
+  "publisher": "",
+  "published": "2020-04-18",
+  "year": 2020,
+  "doi": "10.1002/9783527809080.cataz12990",
+  "url": "https://doi.org/10.1002/9783527809080.cataz12990",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "c81936d2533dd509",
   "title": "photoelectrolysis",
   "authors": [],
@@ -21233,6 +21367,51 @@
   "added": "2026-07-24"
  },
  {
+  "id": "1fe114d2f526fb31",
+  "title": "Molecular-level understanding of the deactivation pathways during methanol photo-reforming on Pt-decorated TiO2",
+  "authors": [
+   "Huiting Huang",
+   "Jianyong Feng",
+   "Song Zhang",
+   "Hongna Zhang",
+   "Xin Wang",
+   "Tao Yu",
+   "Chuncheng Chen",
+   "Zhiguo Yi",
+   "Jinhua Ye",
+   "Zhaosheng Li",
+   "Zhigang Zou"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2020-04-12",
+  "year": 2020,
+  "doi": "10.1016/j.apcatb.2020.118980",
+  "url": "https://doi.org/10.1016/j.apcatb.2020.118980",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Collaborative Innovation Center of Advanced Microstructures",
+   "National Laboratory of Solid State Microstructures",
+   "Nanjing University",
+   "Chinese Academy of Sciences",
+   "Institute of Chemistry",
+   "Shanghai Institute of Ceramics",
+   "State Key Laboratory of High Performance Ceramics and Superfine Microstructure",
+   "National Institute for Materials Science"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
   "id": "1d481ea19e580f16",
   "title": "Phase transformation of bimetal zinc nickel oxide to oxysulfide photocatalyst with its exceptional performance to evolve hydrogen",
   "authors": [
@@ -26784,6 +26963,35 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "cc843e90f9f35688",
+  "title": "Raw data for Photoreforming of biomass in metal salt hydrate solutions",
+  "authors": [
+   "Erwin Reisner",
+   "Christian M. Pichler",
+   "Taylor Uekert"
+  ],
+  "journal": "Apollo (University of Cambridge)",
+  "publisher": "University of Cambridge",
+  "published": "2020-04-06",
+  "year": 2020,
+  "doi": "10.17863/cam.51141",
+  "url": "https://doi.org/10.17863/cam.51141",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "c6fd39536dd68d23",

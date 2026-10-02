@@ -16928,6 +16928,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "bbba0af870522870",
+  "title": "Reforming of Rice Ash Waste by Incorporated Nanotitania in Silica Framework for Photo-Catalytic Treatment of Wastewater",
+  "authors": [
+   "Radwa A. El-Salamony",
+   "Salah A. Hassan"
+  ],
+  "journal": "Current Analytical Chemistry",
+  "publisher": "Bentham Science Publishers",
+  "published": "2020-02-11",
+  "year": 2020,
+  "doi": "10.2174/1573411016666200211092040",
+  "url": "https://doi.org/10.2174/1573411016666200211092040",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photodegradation",
+   "TiO2",
+   "Visible Light",
+   "Wastewater"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Egyptian Petroleum Research Institute",
+   "Ain Shams University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1573-4110"
+ },
+ {
   "id": "b7f4f8ab804cb783",
   "title": "Activation of Water‐Splitting Photocatalysts by Loading with Ultrafine Rh–Cr Mixed‐Oxide Cocatalyst Nanoparticles",
   "authors": [

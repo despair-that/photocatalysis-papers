@@ -12847,6 +12847,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f0791ce30a54aa04",
+  "title": "EPR and CV studies cast further light on the origin of the enhanced hydrogen production through glycerol photoreforming on CuO:TiO2 physical mixtures",
+  "authors": [
+   "Juan Martín-Gómez",
+   "Jesús Hidalgo-Carrillo",
+   "Vicente Montes",
+   "Rafael C. Estévez",
+   "Juan C. Escamilla",
+   "Alberto Marinas",
+   "Francisco José Urbano"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2021-03-19",
+  "year": 2021,
+  "doi": "10.1016/j.jece.2021.105336",
+  "url": "https://doi.org/10.1016/j.jece.2021.105336",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Córdoba"
+  ],
+  "added": "2026-10-02",
+  "issn": "2213-2929"
+ },
+ {
   "id": "e0176daa5dc020c6",
   "title": "Solar light sensitive hybrid Ce4+/3+ doped perovskite magnesium zirconate nano cubes for photocatalytic hydrogen evolution and organic pollutant degradation in water",
   "authors": [

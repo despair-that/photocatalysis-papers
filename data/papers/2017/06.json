@@ -6646,6 +6646,49 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2aebbc30e3db82b5",
+  "title": "Efficient hydrogen production from glycerol photoreforming over Ag2O TiO2 synthesized by a sol–gel method",
+  "authors": [
+   "Chao Wang",
+   "Xiaoyan Cai",
+   "Ying Chen",
+   "Zhengdong Cheng",
+   "Xianglong Luo",
+   "Songping Mo",
+   "Lisi Jia",
+   "Riyang Shu",
+   "Pengcheng Lin",
+   "Zhi Yang",
+   "Sifan Sun",
+   "Enqi Pu",
+   "Yiran Shen"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2017-06-22",
+  "year": 2017,
+  "doi": "10.1016/j.ijhydene.2017.05.183",
+  "url": "https://doi.org/10.1016/j.ijhydene.2017.05.183",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Guangdong University of Technology",
+   "Texas A&M University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ },
+ {
   "id": "1d24ea7fdf49b688",
   "title": "New Carbon Nanodots‐Silica Hybrid Photocatalyst for Highly Selective Solar Fuel Production from CO 2",
   "authors": [
@@ -15214,6 +15257,39 @@
    "Tokyo University of Science"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1b25c8c9198a6848",
+  "title": "On the role of Cu, Ag and Pt in active titania for gas-phase ethanol photo-reforming",
+  "authors": [
+   "Sebastián Murcia-López",
+   "Miriam González-Castaño",
+   "Cristina Flox",
+   "Joan Ramon Morante",
+   "Teresa Andreu"
+  ],
+  "journal": "Materials Science in Semiconductor Processing",
+  "publisher": "Elsevier BV",
+  "published": "2017-06-10",
+  "year": 2017,
+  "doi": "10.1016/j.mssp.2017.06.009",
+  "url": "https://doi.org/10.1016/j.mssp.2017.06.009",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Institut de Recerca en Energia de Catalunya",
+   "Universitat de Barcelona"
+  ],
+  "added": "2026-10-02",
+  "issn": "1369-8001"
  },
  {
   "id": "173cdc5f5086eadb",

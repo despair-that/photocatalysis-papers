@@ -14306,6 +14306,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0676ec0c3f9df238",
+  "title": "Photoreforming of ethylene glycol over Rh/TiO2 and Rh/GaN:ZnO",
+  "authors": [
+   "Tobias F. Berto",
+   "Kai E. Sanwald",
+   "Wolfgang Eisenreich",
+   "Oliver Y. Gutiérrez",
+   "Johannes A. Lercher"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2016-03-09",
+  "year": 2016,
+  "doi": "10.1016/j.jcat.2016.02.021",
+  "url": "https://doi.org/10.1016/j.jcat.2016.02.021",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Technical University of Munich",
+   "Pacific Northwest National Laboratory",
+   "Environmental Molecular Sciences Laboratory"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9517"
+ },
+ {
   "id": "eda5d53582b1d75c",
   "title": "High-Quality, Reproducible ZnO Nanowire Arrays Obtained by a Multiparameter Optimization of Chemical Bath Deposition Growth",
   "authors": [

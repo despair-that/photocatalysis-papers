@@ -1,0 +1,35 @@
+[
+ {
+  "id": "d3125bb3ed4789be",
+  "title": "Insights into the interactions of g-C3N4/LaMnO3 hetero-junction to their structures and electronic properties by DFT calculations",
+  "authors": [
+   "Yuzhen Fang",
+   "Xiangjin Kong",
+   "Dongting Wang",
+   "Junhai Liu",
+   "Qianqian Shang",
+   "Shouxin Cui"
+  ],
+  "journal": "Journal of Solid State Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2020-09-12",
+  "year": 2020,
+  "doi": "10.1016/j.jssc.2020.121727",
+  "url": "https://doi.org/10.1016/j.jssc.2020.121727",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "DFT",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Liaocheng University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0022-4596"
+ }
+]

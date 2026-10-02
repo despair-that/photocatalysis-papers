@@ -13464,6 +13464,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3a8b99edc03d6157",
+  "title": "Hydrogen evolution via glycerol photoreforming over Cu–Pt nanoalloys on TiO2",
+  "authors": [
+   "Minsu Jung",
+   "Judy Nancy Hart",
+   "Dominic Boensch",
+   "Jason Anthony Scott",
+   "Yun Hau Ng",
+   "Rose Amal"
+  ],
+  "journal": "Applied Catalysis A General",
+  "publisher": "Elsevier BV",
+  "published": "2015-11-10",
+  "year": 2015,
+  "doi": "10.1016/j.apcata.2015.10.040",
+  "url": "https://doi.org/10.1016/j.apcata.2015.10.040",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "UNSW Sydney"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-860X"
+ },
+ {
   "id": "349a7319efc2d959",
   "title": "Mesoporous graphitic carbon nitride and carbon–TiO 2 hybrid composite photocatalysts with enhanced photocatalytic activity under visible light irradiation",
   "authors": [
@@ -15271,6 +15306,44 @@
    "University of Chinese Academy of Sciences"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a5f795370c2966a4",
+  "title": "Highly efficient hydrogen production through ethanol photoreforming by a carbon nanocone/Pd@TiO 2 hybrid catalyst",
+  "authors": [
+   "Michele Melchionna",
+   "Alessandro Beltram",
+   "Tiziano Montini",
+   "Matteo Monai",
+   "L. Nasi",
+   "Paolo Fornasiero",
+   "Maurizio Prato"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2015-11-05",
+  "year": 2015,
+  "doi": "10.1039/c5cc08015k",
+  "url": "https://doi.org/10.1039/c5cc08015k",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "University of Trieste",
+   "National Interuniversity Consortium of Materials Science and Technology",
+   "Institute of Materials for Electronics and Magnetism"
+  ],
+  "added": "2026-10-02",
+  "issn": "1359-7345"
  },
  {
   "id": "a534197cf56a1590",

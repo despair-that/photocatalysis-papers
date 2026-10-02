@@ -10598,6 +10598,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "08df7435a7fd8e41",
+  "title": "Improved hydrogen production from glycerol photoreforming over sol-gel derived TiO2 coupled with metal oxides",
+  "authors": [
+   "Chao Wang",
+   "Xiaoyan Cai",
+   "Ying Chen",
+   "Zhengdong Cheng",
+   "Xianglong Luo",
+   "Songping Mo",
+   "Lisi Jia",
+   "Pengcheng Lin",
+   "Zhi Yang"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2017-02-13",
+  "year": 2017,
+  "doi": "10.1016/j.cej.2017.02.033",
+  "url": "https://doi.org/10.1016/j.cej.2017.02.033",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Guangdong University of Technology",
+   "Texas A&M University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "c9c5fa99ffecaded",
   "title": "Study on the technology and performance of the degradation of nitrogen oxides according to the outdoor large cement concrete barrier",
   "authors": [

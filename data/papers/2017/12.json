@@ -14845,6 +14845,48 @@
   "added": "2026-07-27"
  },
  {
+  "id": "fb3d81999fec3d33",
+  "title": "Towards Sustainable H2 Production: Rational Design of Hydrophobic Triphenylamine‐based Dyes for Sensitized Ethanol Photoreforming",
+  "authors": [
+   "Alessio Dessì",
+   "Matteo Monai",
+   "Matteo Bessi",
+   "Tiziano Montini",
+   "Massimo Calamante",
+   "Alessandro Mordini",
+   "Gianna Reginato",
+   "Cosimo Trono",
+   "Paolo Fornasiero",
+   "Lorenzo Zani"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2017-12-11",
+  "year": 2017,
+  "doi": "10.1002/cssc.201701707",
+  "url": "https://doi.org/10.1002/cssc.201701707",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "TEOA"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Institute for the Chemistry of OrganoMetallic Compounds",
+   "National Research Council",
+   "University of Trieste",
+   "University of Siena",
+   "Nello Carrara Institute of Applied Physics"
+  ],
+  "added": "2026-10-02",
+  "issn": "1864-5631"
+ },
+ {
   "id": "f3c8138333f8a596",
   "title": "Synthesis, structural, optical and photocatalytic properties of Fe-alloyed CdZnS nanoparticles",
   "authors": [

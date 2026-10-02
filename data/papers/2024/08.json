@@ -9393,6 +9393,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "380f4065d327c4ed",
+  "title": "Hollow TiO2/Bi2MoO6 Janus-nanofibers for photo-reforming of antibiotics into carbon monoxide",
+  "authors": [
+   "Xi Wu",
+   "Xinghua Li",
+   "Luyao Niu",
+   "Fang Zhang",
+   "Yu Liu",
+   "Hongyu Ma",
+   "Wenbo Wang",
+   "Xin Chen",
+   "Xiaowei Li",
+   "Changlu Shao",
+   "Yichun Liu"
+  ],
+  "journal": "Nano Energy",
+  "publisher": "Elsevier BV",
+  "published": "2024-08-26",
+  "year": 2024,
+  "doi": "10.1016/j.nanoen.2024.110185",
+  "url": "https://doi.org/10.1016/j.nanoen.2024.110185",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Northeast Normal University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2211-2855"
+ },
+ {
   "id": "31505c71dedaf0e9",
   "title": "Nanoporous Heterojunction Photocatalysts with Engineered Interfacial Sites for Efficient Photocatalytic Nitrogen Fixation",
   "authors": [
@@ -22474,6 +22512,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a60ede2a76be1bb3",
+  "title": "Visible light-driven photoreforming of polystyrene segmented glycopolymer architectures for enhanced hydrogen generation",
+  "authors": [
+   "Dattatray Namdev Sutar",
+   "Sandip Prabhakar Shelake",
+   "Nagamalleswara Rao Indla",
+   "Sagar Varangane",
+   "Annadanam V. Sesha Sainath",
+   "Ujjwal Pal"
+  ],
+  "journal": "Materials Today Energy",
+  "publisher": "Elsevier BV",
+  "published": "2024-08-15",
+  "year": 2024,
+  "doi": "10.1016/j.mtener.2024.101667",
+  "url": "https://doi.org/10.1016/j.mtener.2024.101667",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Visible Light"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Indian Institute of Chemical Technology",
+   "Academy of Scientific and Innovative Research"
+  ],
+  "added": "2026-10-02",
+  "issn": "2468-6069"
+ },
+ {
   "id": "9c7ad59706d00d4c",
   "title": "A new Zn(II)-based 3D MOF with PCU-like topology: Potent photocatalyst for nitrofurazone antibiotic degradation",
   "authors": [
@@ -27746,6 +27817,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8981416620d0ce9c",
+  "title": "Solar‐Driven Reforming of Lignocellulosic Biomass to Renewable Biohydrogen: A Review",
+  "authors": [
+   "Xuan Cuong Luu",
+   "Lan-Anh Phan Thi",
+   "Pankaj Raizada",
+   "Pardeep Singh",
+   "Lan Huong Nguyen",
+   "Suresh K. Ghotekar",
+   "Van-Huy Nguyen"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2024-08-12",
+  "year": 2024,
+  "doi": "10.1002/cctc.202401287",
+  "url": "https://doi.org/10.1002/cctc.202401287",
+  "source": "openalex",
+  "categories": [
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Sacrificial Reagents"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Ton Duc Thang University",
+   "Vietnam National University, Hanoi",
+   "VNU University of Science",
+   "Shoolini University",
+   "Ho Chi Minh City University of Industry and Trade",
+   "University of Mumbai",
+   "Chettinad Academy of Research and Education"
+  ],
+  "added": "2026-10-02",
+  "issn": "1867-3880"
+ },
+ {
   "id": "7b9a3f2fc151f676",
   "title": "Benefits and challenges of nanotechnology-based photocatalysts in achieving a pollution free environment",
   "authors": [
@@ -32415,6 +32525,39 @@
    "Lomonosov Moscow State University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2c09e3bfd56ce96e",
+  "title": "Photoreforming of Microplastics: Challenges and Opportunities for Sustainable Environmental Remediation",
+  "authors": [
+   "Xiandi Zhang",
+   "Minki Jun",
+   "Wenhan Zu",
+   "Minah Kim",
+   "Kwangyeol Lee",
+   "Lawrence Yoon Suk Lee"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2024-08-09",
+  "year": 2024,
+  "doi": "10.1002/smll.202403347",
+  "url": "https://doi.org/10.1002/smll.202403347",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hong Kong Polytechnic University",
+   "BGI Research",
+   "Korea University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1613-6810"
  },
  {
   "id": "2b92e767c927c458",

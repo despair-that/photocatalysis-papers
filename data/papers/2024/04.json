@@ -3679,6 +3679,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3371068c0285b45d",
+  "title": "Hydrogen‐Bond‐Enhanced Photoreforming of Biomass Furans over a Urea‐Incorporated Cu(II) Porphyrin Framework",
+  "authors": [
+   "Yingchuan Zhang",
+   "Wanzhang Zhang",
+   "Fupeng Zhang",
+   "Yang Xiao",
+   "Guangri Jia",
+   "Wenchao Wang",
+   "Fu-Sheng Ke",
+   "Zhengxiao Guo"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2024-04-28",
+  "year": 2024,
+  "doi": "10.1002/anie.202402694",
+  "url": "https://doi.org/10.1002/anie.202402694",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photoexcitation",
+   "Photoreforming"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Hong Kong",
+   "Wuhan University",
+   "Tsinghua Shenzhen International Graduate School",
+   "Tsinghua University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1433-7851"
+ },
+ {
   "id": "2fd2bad5b193ede7",
   "title": "Effect of precursors on Cu particle distribution in g-C3N4 nanosheets towards efficient photocatalytic degradation and H2 generation",
   "authors": [
@@ -10859,6 +10897,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "231e3e9535301420",
+  "title": "Modulating Oxygen Vacancy in Pt/TiO 2 for Thermo-Photo Reforming Lignin and Its Derivatives to H 2 and Value-Added Product",
+  "authors": [
+   "Weidong Wu",
+   "Bowen Liu",
+   "Xueqing Qiu",
+   "Jinxin Lin",
+   "Xiaofei Wang",
+   "Xuliang Lin",
+   "Yanlin Qin"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2024-04-24",
+  "year": 2024,
+  "doi": "10.1021/acssuschemeng.3c07840",
+  "url": "https://doi.org/10.1021/acssuschemeng.3c07840",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Computational & DFT",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "DFT",
+   "Defect Engineering",
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Guangdong University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2168-0485"
+ },
+ {
   "id": "1e2a8d8853042eee",
   "title": "Simultaneously uranium reduction and organics degradation by a drivingpowers enhanced photocatalytic fuel cell based on a UiO-66-NH2 derived zirconia/N-dopped porous carbon cathode",
   "authors": [
@@ -17972,6 +18048,44 @@
   "added": "2026-07-26"
  },
  {
+  "id": "c4a78d2b52941826",
+  "title": "Synthesis and Photoreforming Reaction of CdS Prepared from MOF Precursor",
+  "authors": [
+   "Sora Kamata",
+   "Haruki Nagakawa",
+   "Ayako Inaguma",
+   "Morio Nagata"
+  ],
+  "journal": "ChemPhotoChem",
+  "publisher": "Wiley",
+  "published": "2024-04-18",
+  "year": 2024,
+  "doi": "10.1002/cptc.202400018",
+  "url": "https://doi.org/10.1002/cptc.202400018",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Quantum Yield",
+   "ZnS"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Tokyo University of Science",
+   "Ibaraki University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2367-0932"
+ },
+ {
   "id": "c19962d99b45acbb",
   "title": "Future Prospects of Photocatalysis",
   "authors": [
@@ -18280,6 +18394,42 @@
    "South China Agricultural University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a497ee9ed49c7358",
+  "title": "Nanostructured Photocatalysts and Applications",
+  "authors": [
+   "Tahir Iqbal Awan",
+   "Sumera Afsheen",
+   "Iqra Maryam"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-04-18",
+  "year": 2024,
+  "doi": "10.1201/9781003403357-8",
+  "url": "https://doi.org/10.1201/9781003403357-8",
+  "source": "openalex",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Hydrogen Evolution",
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Pollutants",
+   "Semiconductors",
+   "TiO2",
+   "Z-Scheme"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "9938c43d2cc08ff0",
@@ -25714,6 +25864,41 @@
    "King Khalid University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "eed1dec92913fed7",
+  "title": "Photoreforming Light Alcohols for Value‐Added Resources: A Mini Review",
+  "authors": [
+   "Ruhan Liu",
+   "Hang Yin",
+   "Peiqi Guo",
+   "Xu Liu",
+   "Zongyou Yin"
+  ],
+  "journal": "Energy Technology",
+  "publisher": "Wiley",
+  "published": "2024-04-12",
+  "year": 2024,
+  "doi": "10.1002/ente.202301708",
+  "url": "https://doi.org/10.1002/ente.202301708",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "Australian National University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2194-4288"
  },
  {
   "id": "e7520418b66aa858",

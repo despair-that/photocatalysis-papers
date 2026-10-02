@@ -4827,6 +4827,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "104691d88164adee",
+  "title": "Photoreforming of Lignocellulose into H2 Using Nanoengineered Carbon Nitride under Benign Conditions",
+  "authors": [
+   "Hatice Kasap",
+   "Demetra S. Achilleos",
+   "Ailun Huang",
+   "Erwin Reisner"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2018-08-28",
+  "year": 2018,
+  "doi": "10.1021/jacs.8b07853",
+  "url": "https://doi.org/10.1021/jacs.8b07853",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Co-catalysts",
+   "Photoreforming"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Cambridge"
+  ],
+  "added": "2026-10-02",
+  "issn": "0002-7863"
+ },
+ {
   "id": "06337d40c9a2175c",
   "title": "Visible Light-Driven BiOI/ZnO Photocatalyst Films and Its Photodegradation of Methomyl Insecticide",
   "authors": [

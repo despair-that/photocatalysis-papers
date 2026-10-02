@@ -11444,6 +11444,50 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d7354bfeaf70a5df",
+  "title": "n-p Heterojunction of TiO2-NiO core-shell structure for efficient hydrogen generation and lignin photoreforming",
+  "authors": [
+   "Heng Zhao",
+   "Chaofan Li",
+   "Liyang Liu",
+   "Bruna Palma",
+   "Zhi-Yi Hu",
+   "Scott H. Renneckar",
+   "Steve Larter",
+   "Yu Li",
+   "Md Golam Kibria",
+   "Jinguang Hu",
+   "Bao-Lian Su"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2020-10-20",
+  "year": 2020,
+  "doi": "10.1016/j.jcis.2020.10.049",
+  "url": "https://doi.org/10.1016/j.jcis.2020.10.049",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Calgary",
+   "Wuhan University of Technology",
+   "State Key Laboratory of Advanced Technology For Materials Synthesis and Processing",
+   "University of British Columbia",
+   "University of Namur"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9797"
+ },
+ {
   "id": "cecc021b19dc692d",
   "title": "Photocatalytic Hydrogen Generation from pH-Neutral Water by a Flexible Tri-Component Composite",
   "authors": [

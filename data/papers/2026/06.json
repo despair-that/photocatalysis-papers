@@ -3391,6 +3391,55 @@
   "added": "2026-07-24"
  },
  {
+  "id": "5da89eec621337e7",
+  "title": "TiO2-based photoreforming of alcohols as an alternative pathway for low-carbon H2 evolution",
+  "authors": [
+   "Ribeiro Ribeiro",
+   "Kamila Resende Moraes Amaral",
+   "Jaqueline C. Desordi",
+   "Karen Kenlderi de Lima Augusto",
+   "Pablo J. Gonçalves",
+   "Christian G. Alonso",
+   "Jia Hong Pan",
+   "Cauê Ribeiro",
+   "Osmando F. Lopes",
+   "Detlef Werner Bahnemann",
+   "Barbara Nascimento Nunes",
+   "Antônio Otávio T. Patrocínio"
+  ],
+  "journal": "Energy Materials",
+  "publisher": "",
+  "published": "2026-06-29",
+  "year": 2026,
+  "doi": "10.20517/energymater.2026.62",
+  "url": "https://doi.org/10.20517/energymater.2026.62",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoreforming",
+   "Semiconductors",
+   "Sunlight-Driven",
+   "TiO2",
+   "Water Splitting"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Universidade Federal de Uberlândia",
+   "Guangxi University",
+   "Brazilian Agricultural Research Corporation",
+   "St Petersburg University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2770-5900"
+ },
+ {
   "id": "5cd724cf212a78e5",
   "title": "CDs@ZnO Photocatalysts with Interfacial-Dependent Oxidative and Reductive Activity",
   "authors": [
@@ -9509,6 +9558,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "c1b07cdb86e9a0e4",
+  "title": "Nitrogen and boron dual doping on Ni/NiAl2O4 for synergistic CH4 and CO2 activation in photo-driven methane dry reforming",
+  "authors": [
+   "Xi Zhang",
+   "Xiazhuo Li",
+   "Jiahui Yang",
+   "Dong Feng",
+   "Baojun Ma",
+   "Fuxiang Zhang"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2026-06-24",
+  "year": 2026,
+  "doi": "10.1016/j.apcatb.2026.127160",
+  "url": "https://doi.org/10.1016/j.apcatb.2026.127160",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Light Irradiation",
+   "Oxygen Vacancies",
+   "Photocatalysis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Dalian Institute of Chemical Physics",
+   "Chinese Academy of Sciences",
+   "State Key Laboratory of Catalysis",
+   "Ningxia University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
   "id": "c193277fa5e7eed5",
   "title": "Lignocellulose-derived nitrogen-doped defect-engineered biochar coupled with β-FeOOH for S-scheme bidirectional redox photocatalytic degradation of mixed groundwater pollutants: mechanisms and predictive kinetic modeling",
   "authors": [
@@ -11270,6 +11356,47 @@
    "Karunya University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "0859e89336e6bc6f",
+  "title": "Photoreforming of solid waste on 1 m2 scale using single-source precursor-derived co-catalyst films",
+  "authors": [
+   "Ariffin Bin Mohamad Annuar",
+   "Yongpeng Liu",
+   "Subhajit Bhattacharjee",
+   "Jonathan Slaughter",
+   "Iuliia Mikulska",
+   "Farheen Nasir Sayed",
+   "Clare P. Grey",
+   "Dominic S. Wright",
+   "Erwin Reisner"
+  ],
+  "journal": "Nature Chemical Engineering",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-06-24",
+  "year": 2026,
+  "doi": "10.1038/s44286-026-00406-y",
+  "url": "https://doi.org/10.1038/s44286-026-00406-y",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Immobilization",
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "University of Cambridge",
+   "The Faraday Institution",
+   "Diamond Light Source"
+  ],
+  "added": "2026-10-02",
+  "issn": "2948-1198"
  },
  {
   "id": "faff814c60d80bfd",
@@ -19708,6 +19835,45 @@
    "University of Peshawar"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "9287eef2b523fa49",
+  "title": "Chirality regulated CdS/co-doped Ti3C2 MXene Schottky heterojunction for microplastic photoreforming to hydrogen and pyruvic acid",
+  "authors": [
+   "Heyu Li",
+   "Lingjiao Li",
+   "Haiyu Wang",
+   "Bin Liu",
+   "Lainfen Chen",
+   "Zhiliang Jin"
+  ],
+  "journal": "Acta Physico-Chimica Sinica",
+  "publisher": "Peking University Press",
+  "published": "2026-06-17",
+  "year": 2026,
+  "doi": "10.1016/j.actphy.2026.100350",
+  "url": "https://doi.org/10.1016/j.actphy.2026.100350",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "CdS",
+   "Heterojunctions",
+   "Photoreforming"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Yulin University",
+   "Shaoguan University",
+   "Zhaoqing University",
+   "State Ethnic Affairs Commission",
+   "North Minzu University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1000-6818"
  },
  {
   "id": "8ef8b1caa0953fe5",
@@ -38154,6 +38320,55 @@
   "added": "2026-07-24"
  },
  {
+  "id": "89dcacd7b9c34d3d",
+  "title": "Direct photoreforming of polylactic acid waste into valuable fuels via interface-activated superoxide radicals",
+  "authors": [
+   "Dongpo He",
+   "Ziyao Zhou",
+   "Fangming Zhao",
+   "Zheng Li (26302)",
+   "Jie Xiong",
+   "Jinyu Ding",
+   "Yang Wu",
+   "Liang Chen (73736)",
+   "Meng Zhou",
+   "Jun Hu",
+   "Junfa Zhu",
+   "Wensheng Yan",
+   "Piming Ma",
+   "Xingchen Jiao",
+   "Yi Xie"
+  ],
+  "journal": "中国科学通报：英文版",
+  "publisher": "",
+  "published": "2026-06-04",
+  "year": 2026,
+  "doi": "10.1016/j.scib.2026.06.011",
+  "url": "https://doi.org/10.1016/j.scib.2026.06.011",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoreforming",
+   "ROS",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Jiangnan University",
+   "Key Laboratory of Synthetic and Biological Colloids, Ministry of Education",
+   "University of Science and Technology of China",
+   "National Synchrotron Radiation Laboratory",
+   "University of Calgary",
+   "Hangzhou Normal University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2095-9273"
+ },
+ {
   "id": "87129e225b5e123c",
   "title": "A circular economy approach: Reimagining spent pickling sludge for ultra-efficient photocatalytic degradation of bisphenol A and hydrogen evolution under natural sunlight",
   "authors": [
@@ -38284,6 +38499,41 @@
    "Nano Carbon (Poland)"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "5c57e73ae3ef7e9b",
+  "title": "In situ photodeposition of Rh cluster loaded Cu-modified TiO2 for enhancing hydrogen evolution from alcohol photoreforming",
+  "authors": [
+   "Xiaoyang Zhang",
+   "Mengyuan Ding",
+   "Mingze Jia",
+   "Song Guo",
+   "Jinlei Guo",
+   "Juan Wang"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-06-04",
+  "year": 2026,
+  "doi": "10.1016/j.jece.2026.123457",
+  "url": "https://doi.org/10.1016/j.jece.2026.123457",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Beihang University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2213-2929"
  },
  {
   "id": "535b181681aa2479",

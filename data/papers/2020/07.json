@@ -27401,6 +27401,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "01dedf66bd4129f2",
+  "title": "Methanol photo-reforming with water on pure titania for hydrogen production",
+  "authors": [
+   "Michael Bowker",
+   "Wilm Jones"
+  ],
+  "journal": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+  "publisher": "Royal Society",
+  "published": "2020-07-05",
+  "year": 2020,
+  "doi": "10.1098/rsta.2020.0058",
+  "url": "https://doi.org/10.1098/rsta.2020.0058",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Rutherford Appleton Laboratory",
+   "Research Complex at Harwell",
+   "UK Catalysis Hub",
+   "Cardiff University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1364-503X"
+ },
+ {
   "id": "00c9d32858d7d6f5",
   "title": "Manufacturing chemicals with light: any role in the circular economy?",
   "authors": [

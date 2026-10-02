@@ -4418,6 +4418,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "bc4cf235d3733146",
+  "title": "Kinetic modeling of hydrogen generation over nano-Cu (s) /TiO 2 catalyst through photoreforming of alcohols",
+  "authors": [
+   "Laura Clarizia",
+   "Ilaria Di Somma",
+   "Luca Onotri",
+   "Roberto Andreozzi",
+   "Raffaele Marotta"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2016-06-25",
+  "year": 2016,
+  "doi": "10.1016/j.cattod.2016.05.053",
+  "url": "https://doi.org/10.1016/j.cattod.2016.05.053",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Naples Federico II",
+   "Institute for Research on Combustion"
+  ],
+  "added": "2026-10-02",
+  "issn": "0920-5861"
+ },
+ {
   "id": "95c8f20cfb69d1e5",
   "title": "Noble metal modified TiO2 microspheres: Surface properties and photocatalytic activity under UV–vis and visible light",
   "authors": [
@@ -12013,6 +12044,43 @@
    "University of Pennsylvania"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "7fd687005a69bef8",
+  "title": "Ag/TiO2/ZSM-5 composites as efficient photocatalysts in the photoreforming of glycerol and photodegradation of toluene",
+  "authors": [
+   "N. Pineda",
+   "Miguel Angel Valenzuela",
+   "S. C. Alfaro",
+   "Jean-Marc Chovelon",
+   "Corinne Ferronato",
+   "L. Fine"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2016-06-13",
+  "year": 2016,
+  "doi": "",
+  "url": "https://hal.science/hal-01368976",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Institut de Recherches sur la Catalyse et l'Environnement de Lyon",
+   "Laboratoire Interuniversitaire des Systèmes Atmosphériques"
+  ],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "70dc77c460b15264",

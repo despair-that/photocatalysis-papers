@@ -1,0 +1,64 @@
+[
+ {
+  "id": "36dd7818012f2cfd",
+  "title": "Effect of key operational factors on decolorization of methyl orange by multi-walled carbon nanotubes (MWCNTs)/TiO2/CdS composite under simulated solar light irradiation",
+  "authors": [
+   "Ke Ouyang",
+   "Shan Xie",
+   "MA Xiao-ou"
+  ],
+  "journal": "Ceramics International",
+  "publisher": "Elsevier BV",
+  "published": "2013-03-29",
+  "year": 2013,
+  "doi": "10.1016/j.ceramint.2013.03.073",
+  "url": "https://doi.org/10.1016/j.ceramint.2013.03.073",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Light Irradiation",
+   "Related",
+   "Solar Light",
+   "TiO2"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Wuyi University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0272-8842"
+ },
+ {
+  "id": "2c0d942a87160442",
+  "title": "Measurement of mobility in dual-gated MoS2 transistors",
+  "authors": [
+   "Michael S. Fuhrer",
+   "James Hone"
+  ],
+  "journal": "Nature Nanotechnology",
+  "publisher": "Nature Portfolio",
+  "published": "2013-03-01",
+  "year": 2013,
+  "doi": "10.1038/nnano.2013.30",
+  "url": "https://doi.org/10.1038/nnano.2013.30",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Monash University",
+   "University of Maryland, College Park",
+   "Columbia University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1748-3387"
+ }
+]

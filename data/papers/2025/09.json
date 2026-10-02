@@ -4296,6 +4296,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e1f99ee30f9e6089",
+  "title": "Precisely Controlled Relationship between Sulfur Vacancy and Ni Site for Boosting Photocatalytic Conversion of Polyester into Formate",
+  "authors": [
+   "Haoze Li",
+   "Mengyao Wang",
+   "Yingbin Zhang",
+   "Ye Chen",
+   "Li Wang",
+   "Jianping Yang"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2025-09-26",
+  "year": 2025,
+  "doi": "10.1002/adfm.202518012",
+  "url": "https://doi.org/10.1002/adfm.202518012",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Photocatalysis",
+   "Photoreforming",
+   "Sulfur Vacancies"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "Donghua University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1616-301X"
+ },
+ {
   "id": "df9129f1bc13e750",
   "title": "Synergistic effects of heterojunction graphene oxide nanocomposites in photocatalytic degradation of norfloxacin and hydrogen generation via water splitting",
   "authors": [
@@ -8124,6 +8160,37 @@
    "National University of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a5f5b11b2d4f1485",
+  "title": "From burden to backbone: the regenerative potential of food waste through digital, biological, and technological innovation",
+  "authors": [
+   "Francesca Girotto",
+   "Giovanni Beggio"
+  ],
+  "journal": "Frontiers in Nutrition",
+  "publisher": "Frontiers Media",
+  "published": "2025-09-24",
+  "year": 2025,
+  "doi": "10.3389/fnut.2025.1675732",
+  "url": "https://doi.org/10.3389/fnut.2025.1675732",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Machine Learning for Photocatalysis"
+  ],
+  "tags": [
+   "Data-Driven",
+   "Machine Learning",
+   "Photoreforming"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Milan",
+   "University of Padua"
+  ],
+  "added": "2026-10-02",
+  "issn": "2296-861X"
  },
  {
   "id": "76fadbdc118c7df6",
@@ -23678,6 +23745,50 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2aee52fe7c832abf",
+  "title": "Mechanistic insights into hydrogen evolution from methanol photoreforming on metal-loaded anatase: Development of a microkinetic model",
+  "authors": [
+   "Matthew J. Wigglesworth",
+   "Ruiman Ma",
+   "Natalia Martsinovich",
+   "Sergio Vernuccio"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2025-09-11",
+  "year": 2025,
+  "doi": "10.1016/j.cej.2025.168334",
+  "url": "https://doi.org/10.1016/j.cej.2025.168334",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "DFT",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Hydroxyl Radicals",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photoreforming",
+   "Radical Chemistry",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "University of Sheffield",
+   "University of Southampton"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "2acb4d7397bddaef",
   "title": "Morphology-performance relationship in hollow-sphere cobalt sulfide photocatalysts for solar-light-driven dye degradation: Integration of RSM, DFT, and machine learning",
   "authors": [
@@ -26602,6 +26713,49 @@
    "Centre in Green Chemistry and Catalysis"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "342cd5ed3713b464",
+  "title": "CdS Nanorod‐Driven Photocatalytic Reforming of Pyridine‐Functional Glycopolymers for H 2 Evolution",
+  "authors": [
+   "Sandip Prabhakar Shelake",
+   "Switi Dattatraya Kshirsagar",
+   "Bapan Biswas",
+   "Nalla Chakradhar",
+   "Chokkapu Appala Naidu",
+   "Annadanam V. Sesha Sainath",
+   "Ujjwal Pal"
+  ],
+  "journal": "ChemPlusChem",
+  "publisher": "Wiley",
+  "published": "2025-09-09",
+  "year": 2025,
+  "doi": "10.1002/cplu.202500401",
+  "url": "https://doi.org/10.1002/cplu.202500401",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoreforming",
+   "Quantum Efficiency",
+   "Quantum Yield",
+   "Recyclability"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Indian Institute of Chemical Technology",
+   "Academy of Scientific and Innovative Research"
+  ],
+  "added": "2026-10-02",
+  "issn": "2192-6506"
  },
  {
   "id": "2732b929cfe57ce0",
@@ -36656,6 +36810,32 @@
    "Sri Guru Granth Sahib World University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "af0908b142031e74",
+  "title": "Selective photoreforming of waste plastics into diesel olefins via single reactive oxygen species",
+  "authors": [
+   "Shuai Yue"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2025-09-01",
+  "year": 2025,
+  "doi": "10.1021/scimeetings.5c11314",
+  "url": "https://doi.org/10.1021/scimeetings.5c11314",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photoreforming",
+   "ROS"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "a9249c51042fab4f",

@@ -7822,6 +7822,48 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b485c18ee857756d",
+  "title": "Constructing active sites and Type-II-like heterojunctions to promote efficient photoreforming of cellulose by CdS for co-production of hydrogen and formic acid",
+  "authors": [
+   "Ermiao Liang",
+   "Wenbo Cui",
+   "Ke Cheng",
+   "Mingcong Xu",
+   "Sha Luo",
+   "Chunhui Ma",
+   "Z Chen",
+   "Yahui Zhang",
+   "Shouxin Liu",
+   "Wei Hua Li"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-05-26",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.155693",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.155693",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "CdS",
+   "Heterojunctions",
+   "Photoreforming"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Central South University of Forestry and Technology",
+   "Northeast Forestry University",
+   "Chinese Academy of Forestry",
+   "Research Institute of Wood Industry"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ },
+ {
   "id": "b392ce3c5216e8cc",
   "title": "Interfacial engineering of novel ZnAl/WO3 and ZnAl/SiO2 heterostructures via microwave-assisted hydrothermal fabrication for norfloxacin efficient photooxidation",
   "authors": [
@@ -33192,6 +33234,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "9b1aa49374db837f",
+  "title": "Photoreforming upcycling of Poly(vinyl chloride) waste and green hydrogen production enabled by 2D/2D Schottky junction interfaces",
+  "authors": [
+   "Alaka Samal",
+   "Chirasmayee Mohanty",
+   "Rajesh K. Sahoo",
+   "Sowhm S. Mohapatra",
+   "Satyanarayan Pal"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-05-09",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.155401",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.155401",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Utkal University",
+   "Institute of Chemical Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ },
+ {
   "id": "8bf093050f9cf399",
   "title": "Enhancing photoelectrochemical catalytic performance of zeolite-Co3O4 composites through optimized ball milling duration",
   "authors": [
@@ -34489,6 +34564,40 @@
    "China University of Geosciences"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "9c40aeb289bffcd7",
+  "title": "Synergistic enhancement of full-spectrum solar-driven glucose photoreforming via nonmetal plasmonic heterojunction-pyroelectric field coupling",
+  "authors": [
+   "Chunxue Liu",
+   "Jiaoyan Li",
+   "Jiahui Kou",
+   "Yaru Ni",
+   "Chunhua Lu"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-05-08",
+  "year": 2026,
+  "doi": "10.1016/j.jece.2026.122977",
+  "url": "https://doi.org/10.1016/j.jece.2026.122977",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Z-Scheme & Heterojunctions",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photoreforming",
+   "Plasmonics"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Nanjing Tech University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2213-2929"
  },
  {
   "id": "9289eea59535d9d2",
@@ -44679,6 +44788,44 @@
   "added": "2026-07-26"
  },
  {
+  "id": "d39957714c8a38a6",
+  "title": "Dynamic coordination transformation from single-to dual-metal sites in MOFs for cascaded photoreforming of plastics into CO",
+  "authors": [
+   "Jian Li",
+   "Zhenfa Wu",
+   "Xinru Zhang",
+   "Tongan Yan",
+   "Jin Luo",
+   "Wenjuan Xue",
+   "Zhaolin Lv",
+   "Hongliang Huang",
+   "Chongli Zhong"
+  ],
+  "journal": "CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION)",
+  "publisher": "Elsevier BV",
+  "published": "2026-05-01",
+  "year": 2026,
+  "doi": "10.1016/s1872-2067(26)65013-9",
+  "url": "https://doi.org/10.1016/s1872-2067(26)65013-9",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tiangong University",
+   "State Key Laboratory of Advanced Separation Membrane Materials",
+   "Lingnan Normal University",
+   "Chinese Academy of Sciences",
+   "Qingdao Institute of Bioenergy and Bioprocess Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0253-9837"
+ },
+ {
   "id": "d2f25f26c41838f8",
   "title": "Retraction notice to “Adsorption and photodegradation of micropollutant in wastewater by photocatalyst TiO2/rice husk biochar” [Environ. Res. 236 (2023) 116789]",
   "authors": [
@@ -47234,6 +47381,46 @@
    "Handan College"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "7eaf963a44afac4c",
+  "title": "Establishing built-in electric field within single-atom-anchored hollow architectures for efficient solar-thermal regulation in plastic photoreforming",
+  "authors": [
+   "Yi-Wen Han",
+   "Run-Yu Liu",
+   "Yu-Xin Zhang",
+   "Lei Ye",
+   "Phuc T.T. Nguyen",
+   "Tian-Jun Gong",
+   "Xue-Bin Lu",
+   "Yao Fu",
+   "Ning Yan"
+  ],
+  "journal": "CHINESE JOURNAL OF CATALYSIS (CHINESE VERSION)",
+  "publisher": "Elsevier BV",
+  "published": "2026-05-01",
+  "year": 2026,
+  "doi": "10.1016/s1872-2067(26)64974-1",
+  "url": "https://doi.org/10.1016/s1872-2067(26)64974-1",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "National University of Singapore",
+   "Tianjin University",
+   "Tsinghua University",
+   "Centre for Hydrogen and Carbon Innovations"
+  ],
+  "added": "2026-10-02",
+  "issn": "0253-9837"
  },
  {
   "id": "7e40a20dc1b8d940",

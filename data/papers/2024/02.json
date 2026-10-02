@@ -2006,6 +2006,51 @@
   "added": "2026-07-26"
  },
  {
+  "id": "e6ab12c3b9d01dee",
+  "title": "H2 production based on a ternary mixture of commercial CuO-NiO-TiO2 in a solar pilot plant",
+  "authors": [
+   "J.G. Villachica-Llamosas",
+   "Alba Ruiz-Aguirre",
+   "G. Colón",
+   "José Peral",
+   "Sixto Malato"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2024-02-28",
+  "year": 2024,
+  "doi": "10.1016/j.cattod.2024.114608",
+  "url": "https://doi.org/10.1016/j.cattod.2024.114608",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Charge Separation",
+   "Electron-Hole Pairs",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Semiconductors",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas",
+   "Consejo Superior de Investigaciones Científicas",
+   "Instituto de Ciencia de Materiales de Sevilla",
+   "Universidad de Sevilla",
+   "Universitat Autònoma de Barcelona"
+  ],
+  "added": "2026-10-02",
+  "issn": "0920-5861"
+ },
+ {
   "id": "dc15599e48b9c15f",
   "title": "Enantioselective Paternò–Büchi Reactions: Strategic Application of a Triplet Rebound Mechanism for Asymmetric Photocatalysis",
   "authors": [
@@ -4256,6 +4301,41 @@
    "Suzhou University of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a645242f5051d110",
+  "title": "Prussian blue analogs photocatalyst promote the evolution of value‐added platform compounds via CoCNZn covalent bonds",
+  "authors": [
+   "Junming Shi",
+   "Guoyang Gao",
+   "Can Jin",
+   "Hongqing Wu",
+   "Weizhen Wang",
+   "Yulong An",
+   "Zhen Ping Zhou",
+   "Zhanhua Huang",
+   "Wenshuai Chen"
+  ],
+  "journal": "EcoMat",
+  "publisher": "Wiley",
+  "published": "2024-02-27",
+  "year": 2024,
+  "doi": "10.1002/eom2.12441",
+  "url": "https://doi.org/10.1002/eom2.12441",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Northeast Forestry University",
+   "Zhengzhou University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2567-3173"
  },
  {
   "id": "a231323de0a70aa5",

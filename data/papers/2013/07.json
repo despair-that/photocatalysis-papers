@@ -2984,6 +2984,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "98126aa42a428e90",
+  "title": "Significant Enhancement in Visible Light Absorption of TiO2 Nanotube Arrays by Surface Band Gap Tuning",
+  "authors": [
+   "Sajith Kurian",
+   "Hyungtak Seo",
+   "Hyeongtag Jeon"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2013-07-25",
+  "year": 2013,
+  "doi": "10.1021/jp405207e",
+  "url": "https://doi.org/10.1021/jp405207e",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Hanyang University",
+   "Ajou University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1932-7447"
+ },
+ {
   "id": "94139eb160a3429a",
   "title": "Enhanced Photocatalytic Activity of ZnO/CuO Nanocomposites Synthesized by Hydrothermal Method",
   "authors": [
@@ -4002,6 +4036,35 @@
   "relevance_score": 61,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "176eeee2169cd754",
+  "title": "Nanowire Assemblies of Carbon Containing Mixed Phase TiO2 and Their Visible Light Photocatalytic Activities",
+  "authors": [
+   "Guo Lun Huang",
+   "Mona Jani",
+   "Yue-Lin Huang",
+   "Wang-Chi Vincent Yeh"
+  ],
+  "journal": "Science of Advanced Materials",
+  "publisher": "American Scientific Publishers",
+  "published": "2013-07-24",
+  "year": 2013,
+  "doi": "10.1166/sam.2013.1641",
+  "url": "https://doi.org/10.1166/sam.2013.1641",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "1947-2935"
  },
  {
   "id": "12d00ca3ba1a38c1",
@@ -5610,6 +5673,39 @@
    "University of Malaya"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "53fe4086fc72a352",
+  "title": "Charge-Carrier Dynamics in Cu- or Fe-Loaded Nitrogen-Doped TiO2 Powder Studied by Femtosecond Diffuse Reflectance Spectroscopy",
+  "authors": [
+   "Ken-ichi Yamanaka",
+   "Takeshi Ohwaki",
+   "Takeshi Morikawa"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2013-07-19",
+  "year": 2013,
+  "doi": "10.1021/jp404431z",
+  "url": "https://doi.org/10.1021/jp404431z",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoexcitation",
+   "Photoinduced ET",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Toyota Central Research and Development Laboratories (Japan)"
+  ],
+  "added": "2026-10-02",
+  "issn": "1932-7447"
  },
  {
   "id": "513309a244378187",
@@ -7390,6 +7486,38 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "15a6d7d39bf8c892",
+  "title": "Preparation of g-C3N4 /TiO2 Nanocomposites and Investigation of Their Photocatalytic Activity",
+  "authors": [
+   "Qiuye Li",
+   "Lanlan Zong",
+   "Yangyang Xing",
+   "Xiaodong Wang",
+   "Laigui Yu",
+   "Jianjun Yang"
+  ],
+  "journal": "Science of Advanced Materials",
+  "publisher": "American Scientific Publishers",
+  "published": "2013-07-16",
+  "year": 2013,
+  "doi": "10.1166/sam.2013.1589",
+  "url": "https://doi.org/10.1166/sam.2013.1589",
+  "source": "openalex",
+  "categories": [
+   "g-C3N4 & Carbon Materials",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "g-C3N4"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "1947-2935"
  },
  {
   "id": "04624e23eb05259c",
@@ -9499,6 +9627,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "63e25175625b61c0",
+  "title": "Structural and Optical Properties of Ball-Milled TiO2 and TiO2-MWCNT for Photocatalytic Application",
+  "authors": [
+   "B. Vidhya",
+   "Anni Ford"
+  ],
+  "journal": "Nanoscience and Nanotechnology Letters",
+  "publisher": "American Scientific Publishers",
+  "published": "2013-07-09",
+  "year": 2013,
+  "doi": "10.1166/nnl.2013.1663",
+  "url": "https://doi.org/10.1166/nnl.2013.1663",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "1941-4900"
+ },
+ {
   "id": "5d230dc5c8defcd7",
   "title": "Pt/Ga2O3–SiO2 nanoparticles for efficient visible-light photocatalysis",
   "authors": [
@@ -9583,6 +9737,34 @@
    "Dalian Jiaotong University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "123ecc046b63e3eb",
+  "title": "Synthesis of Ta2O5/TiO2 Coupled Semiconductor Oxide Nanocomposites with High Photocatalytic Activity",
+  "authors": [
+   "Sudhir Sahebrao Arbuj",
+   "Uttam P. Mulik",
+   "Dinesh Amalnerkar"
+  ],
+  "journal": "Nanoscience and Nanotechnology Letters",
+  "publisher": "American Scientific Publishers",
+  "published": "2013-07-09",
+  "year": 2013,
+  "doi": "10.1166/nnl.2013.1648",
+  "url": "https://doi.org/10.1166/nnl.2013.1648",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "1941-4900"
  },
  {
   "id": "04c275f9e386659c",
@@ -10453,6 +10635,46 @@
    "Huaibei Normal University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "47eb6bab79749298",
+  "title": "Fotocatalizadores heterogêneos magnéticos baseados em óxidos de ferro para produção de hidrogênio via fotólise da água ou para oxidação de compostos orgânicos",
+  "authors": [
+   "Adilson Cândido da Silva"
+  ],
+  "journal": "Americanae (AECID Library)",
+  "publisher": "",
+  "published": "2013-07-05",
+  "year": 2013,
+  "doi": "",
+  "url": "http://hdl.handle.net/1843/SFSA-9ATP9G",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Pollutant Degradation",
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Band Structure",
+   "Charge Transfer",
+   "Co-catalysts",
+   "Dye Degradation",
+   "Electron-Hole Pairs",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photooxidation",
+   "TiO2",
+   "Visible Light",
+   "Water Photolysis"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "383286292d56fef1",
@@ -12035,6 +12257,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "18c6e4eb163d40b5",
+  "title": "Preface",
+  "authors": [
+   "Peter P. Edwards",
+   "Richard Henry Friend",
+   "S. Roberto Amendolia",
+   "Can Li"
+  ],
+  "journal": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+  "publisher": "Royal Society",
+  "published": "2013-07-02",
+  "year": 2013,
+  "doi": "10.1098/rsta.2013.0130",
+  "url": "https://doi.org/10.1098/rsta.2013.0130",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Artificial Photosynthesis",
+   "Solar Fuels",
+   "Solar Hydrogen"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Oxford",
+   "University of Cambridge",
+   "Dalian Institute of Chemical Physics",
+   "Chinese Academy of Sciences",
+   "Dalian National Laboratory for Clean Energy",
+   "State Key Laboratory of Catalysis"
+  ],
+  "added": "2026-10-02",
+  "issn": "1364-503X"
+ },
+ {
   "id": "167a2836b3ebd5d4",
   "title": "Hydrothermal temperature as a morphological control factor: Preparation, characterization and photocatalytic activity of titanate nanotubes and nanoribbons",
   "authors": [
@@ -13310,6 +13569,36 @@
    "Semenov Institute of Chemical Physics"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "75014e8146dc034e",
+  "title": "Preparation and Photocatalytic Activity of Nd3+and CTAB Co-Doped Nanometer TiO2 Thin Films",
+  "authors": [
+   "Lan Fang Yao",
+   "Xiong Tang",
+   "Xin Pei Yan",
+   "Lin Li"
+  ],
+  "journal": "Key engineering materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2013-07-01",
+  "year": 2013,
+  "doi": "10.4028/www.scientific.net/kem.562-565.858",
+  "url": "https://doi.org/10.4028/www.scientific.net/kem.562-565.858",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Shanghai for Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1013-9826"
  },
  {
   "id": "6ff910a54cb3ffbd",

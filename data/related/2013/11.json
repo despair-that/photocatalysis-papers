@@ -1,0 +1,135 @@
+[
+ {
+  "id": "d0fe7c8eed60cab6",
+  "title": "Urea-derived graphitic carbon nitride as an efficient heterogeneous catalyst for CO2 conversion into cyclic carbonates",
+  "authors": [
+   "Qian Su",
+   "Jian Qi Sun",
+   "Jinquan Wang",
+   "Zifeng Yang",
+   "Weiguo Cheng",
+   "Suojiang Zhang"
+  ],
+  "journal": "Catalysis Science & Technology",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2013-11-29",
+  "year": 2013,
+  "doi": "10.1039/c3cy00921a",
+  "url": "https://doi.org/10.1039/c3cy00921a",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Carbon Nitride",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 25,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Institute of Process Engineering",
+   "University of Chinese Academy of Sciences",
+   "State Key Laboratory of Multiphase Complex Systems",
+   "Henan University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2044-4753"
+ },
+ {
+  "id": "8f6e58537d341447",
+  "title": "Turn-on Persistent Luminescence Probe Based on Graphitic Carbon Nitride for Imaging Detection of Biothiols in Biological Fluids",
+  "authors": [
+   "Yurong Tang",
+   "Hongjie Song",
+   "Yingying Su",
+   "Yi Lv"
+  ],
+  "journal": "Analytical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2013-11-15",
+  "year": 2013,
+  "doi": "10.1021/ac403517u",
+  "url": "https://doi.org/10.1021/ac403517u",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Nanosheets",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 25,
+  "affiliations": [
+   "Sichuan University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0003-2700"
+ },
+ {
+  "id": "a3c26b08ab063385",
+  "title": "The Application of Nanostructure MoS2 Materials in Energy Storage and Conversion",
+  "authors": [
+   "Xue Zhang",
+   "Jin Liang",
+   "Shujiang Ding"
+  ],
+  "journal": "Lecture notes in nanoscale science and technology",
+  "publisher": "Springer Nature",
+  "published": "2013-11-14",
+  "year": 2013,
+  "doi": "10.1007/978-3-319-02850-7_9",
+  "url": "https://doi.org/10.1007/978-3-319-02850-7_9",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2195-2159"
+ },
+ {
+  "id": "5e3192e83d50b6ae",
+  "title": "Elements doping to expand the light response of SrTiO3",
+  "authors": [
+   "He Yu",
+   "Jiajia Wang",
+   "Shicheng Yan",
+   "Tao Yu",
+   "Zhigang Zou"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2013-11-06",
+  "year": 2013,
+  "doi": "10.1016/j.jphotochem.2013.10.014",
+  "url": "https://doi.org/10.1016/j.jphotochem.2013.10.014",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "Pioneer",
+   "Related",
+   "SrTiO3"
+  ],
+  "relevance_score": 41,
+  "affiliations": [
+   "National Laboratory of Solid State Microstructures",
+   "Nanjing University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1010-6030"
+ }
+]

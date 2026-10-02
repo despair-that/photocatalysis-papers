@@ -1,0 +1,107 @@
+[
+ {
+  "id": "a0c94296556ebdf0",
+  "title": "Graphene Supported Co-g-C3N4 as a Novel Metal–Macrocyclic Electrocatalyst for the Oxygen Reduction Reaction in Fuel Cells",
+  "authors": [
+   "Qiao Liu",
+   "Junyan Zhang"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "2013-02-20",
+  "year": 2013,
+  "doi": "10.1021/la400003h",
+  "url": "https://doi.org/10.1021/la400003h",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Charge Transfer",
+   "Doping",
+   "Graphene",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 25,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Lanzhou Institute of Chemical Physics",
+   "University of Chinese Academy of Sciences",
+   "State Key Laboratory of Solid Lubrication"
+  ],
+  "added": "2026-10-02",
+  "issn": "0743-7463"
+ },
+ {
+  "id": "9f3e4b386b914451",
+  "title": "Well-dispersed g-C3N4 nanophases in mesoporous silica channels and their catalytic activity for carbon dioxide activation and conversion",
+  "authors": [
+   "Zhijun Huang",
+   "Fengbo Li",
+   "Bingfeng Chen",
+   "Tao Lü",
+   "Yin Yuan",
+   "Guoqing Yuan"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2013-02-15",
+  "year": 2013,
+  "doi": "10.1016/j.apcatb.2013.01.057",
+  "url": "https://doi.org/10.1016/j.apcatb.2013.01.057",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Beijing National Laboratory for Molecular Sciences",
+   "Institute of Chemistry",
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
+  "id": "1d714342fecbec96",
+  "title": "Anodic Electrogenerated Chemiluminescence Behavior of Graphite-Like Carbon Nitride and Its Sensing for Rutin",
+  "authors": [
+   "Changming Cheng",
+   "Ying Huang",
+   "Jun Wang",
+   "Baozhan Zheng",
+   "Hongyan Yuan",
+   "Dan Xiao"
+  ],
+  "journal": "Analytical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2013-02-04",
+  "year": 2013,
+  "doi": "10.1021/ac303263n",
+  "url": "https://doi.org/10.1021/ac303263n",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Related",
+   "Semiconductors",
+   "TEOA",
+   "g-C3N4"
+  ],
+  "relevance_score": 28,
+  "affiliations": [
+   "Sichuan University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0003-2700"
+ }
+]

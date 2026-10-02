@@ -1,0 +1,29 @@
+[
+ {
+  "id": "85e49d4dc31e03c2",
+  "title": "New Books across the Disciplines",
+  "authors": [
+   "Michael Cornett"
+  ],
+  "journal": "Journal of Medieval and Early Modern Studies",
+  "publisher": "Duke University Press",
+  "published": "2021-09-01",
+  "year": 2021,
+  "doi": "10.1215/10829636-9295079",
+  "url": "https://doi.org/10.1215/10829636-9295079",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Duke University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1082-9636"
+ }
+]

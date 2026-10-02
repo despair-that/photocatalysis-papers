@@ -825,6 +825,43 @@
   "added": "2026-07-26"
  },
  {
+  "id": "7034c5334a1afdf9",
+  "title": "Syngas production by photoreforming of formic acid with 2D VxW1−xN1.5 solid solution as an efficient cocatalyst",
+  "authors": [
+   "Xiaoyuan Ye",
+   "Yuchen Dong",
+   "Ziying Zhang",
+   "Wengao Zeng",
+   "Bin Zhu",
+   "Tuo Zhang",
+   "Ze Gao",
+   "Anna Dai",
+   "Xiangjiu Guan"
+  ],
+  "journal": "Frontiers in Energy",
+  "publisher": "Higher Education Press",
+  "published": "2024-03-30",
+  "year": 2024,
+  "doi": "10.1007/s11708-024-0940-x",
+  "url": "https://doi.org/10.1007/s11708-024-0940-x",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Photoreforming"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "State Key Laboratory of Multiphase Flow in Power Engineering",
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2095-1698"
+ },
+ {
   "id": "61fea92d90c46900",
   "title": "Highly visible-light-active sulfur and carbon co-doped TiO2 (SC-TiO2) heterogeneous photocatalysts prepared by underwater discharge plasma",
   "authors": [
@@ -18329,6 +18366,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0ac943934e7a7142",
+  "title": "Photoreforming for microplastics recycling: A critical review",
+  "authors": [
+   "Petr Praus"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2024-03-17",
+  "year": 2024,
+  "doi": "10.1016/j.jece.2024.112525",
+  "url": "https://doi.org/10.1016/j.jece.2024.112525",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "VSB - Technical University of Ostrava"
+  ],
+  "added": "2026-10-02",
+  "issn": "2213-2929"
+ },
+ {
   "id": "ed87555fc62b1936",
   "title": "Fabrication of g-C3N4 nanosheet anchored NiZn2O4 nanocomposites for enhanced photocatalytic dye degradation",
   "authors": [
@@ -22574,6 +22637,42 @@
   "added": "2026-07-26"
  },
  {
+  "id": "067193cd3ef0d862",
+  "title": "Cation-mediated acid-base pairs for mild oxidative cleavage of lignocellulosic β-1,4-glycosidic bonds",
+  "authors": [
+   "Hongguang Zhang",
+   "Aiguo Wang",
+   "Ruixuan Zhao",
+   "Jinguang Hu"
+  ],
+  "journal": "BioResources",
+  "publisher": "North Carolina State University",
+  "published": "2024-03-14",
+  "year": 2024,
+  "doi": "10.15376/biores.19.2.2736-2748",
+  "url": "https://doi.org/10.15376/biores.19.2.2736-2748",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Photoreforming",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Calgary",
+   "Institute of Food Science and Technology",
+   "Chinese Academy of Agricultural Sciences",
+   "Ministry of Agriculture and Rural Affairs"
+  ],
+  "added": "2026-10-02",
+  "issn": "1930-2126"
+ },
+ {
   "id": "ff2f26081c62ca15",
   "title": "Unraveling the Potential of Vinyl Ether as an Ethylene Surrogate in Heteroarene C─H Functionalization via the Spin‐Center Shift",
   "authors": [
@@ -23631,6 +23730,51 @@
    "National Institute of Technology Warangal"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "2d36993a5478d69b",
+  "title": "Upcycle polyethylene terephthalate waste by photoreforming: Bifunction of Pt cocatalyst",
+  "authors": [
+   "Xiaochi Han",
+   "Ming Jiang",
+   "Huaxing Li",
+   "Rongjie Li",
+   "Nashwan H. M. Sulaiman",
+   "Tao Zhang",
+   "Hongjiao Li",
+   "Lirong Zheng",
+   "Jiake Wei",
+   "Lirong He",
+   "Xuemei Zhou"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2024-03-13",
+  "year": 2024,
+  "doi": "10.1016/j.jcis.2024.03.094",
+  "url": "https://doi.org/10.1016/j.jcis.2024.03.094",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Photoreforming"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Sichuan University",
+   "National Center for Nanoscience and Technology",
+   "Chinese Academy of Sciences",
+   "Institute of High Energy Physics",
+   "Beijing Synchrotron Radiation Facility",
+   "Dalian Institute of Chemical Physics",
+   "State Key Laboratory of Catalysis",
+   "State Key Laboratory of Polymer Materials Engineering"
+  ],
+  "added": "2026-10-02",
+  "issn": "0021-9797"
  },
  {
   "id": "2ac07aaffb447359",
@@ -31305,6 +31449,51 @@
    "Northeast Normal University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1864df028d729275",
+  "title": "Revealing the activity and selectivity of atomically dispersed Ni in Zn3In2S6 for benzyl alcohol photoreforming",
+  "authors": [
+   "Denny Gunawan",
+   "Li Yuan Lau",
+   "Jodie A. Yuwono",
+   "Priyank V. Kumar",
+   "Louis Oppong-Antwi",
+   "Inga Christine Kuschnerus",
+   "Shery L. Y. Chang",
+   "Rosalie K. Hocking",
+   "Rose Amal",
+   "Jason Anthony Scott",
+   "Cui Ying Toe"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2024-03-07",
+  "year": 2024,
+  "doi": "10.1016/j.cej.2024.150215",
+  "url": "https://doi.org/10.1016/j.cej.2024.150215",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Organic Synthesis",
+   "Photoreforming",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "UNSW Sydney",
+   "The University of Adelaide",
+   "Mark Wainwright Analytical Centre",
+   "Swinburne University of Technology",
+   "University of Newcastle Australia"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
  },
  {
   "id": "0e7e0370e92ebef3",
@@ -39068,6 +39257,36 @@
    "North Minzu University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "9d72511f30dd79c7",
+  "title": "Photoreforming of PET waste via single-atom catalysts",
+  "authors": [
+   "Emilia Paone",
+   "Francesco Mauriello"
+  ],
+  "journal": "Chem Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2024-03-01",
+  "year": 2024,
+  "doi": "10.1016/j.checat.2024.100925",
+  "url": "https://doi.org/10.1016/j.checat.2024.100925",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "National Interuniversity Consortium of Materials Science and Technology",
+   "University of Reggio Calabria"
+  ],
+  "added": "2026-10-02",
+  "issn": "2667-1093"
  },
  {
   "id": "9c1d290afacffdf6",

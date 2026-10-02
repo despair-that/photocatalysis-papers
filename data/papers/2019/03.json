@@ -2350,6 +2350,47 @@
   "added": "2026-07-24"
  },
  {
+  "id": "720b01a3b9983822",
+  "title": "Hydrogen production from bio-derived biphasic photoreforming over a raspberry-like amphiphilic Ag2O-TiO2/SiO2 catalyst",
+  "authors": [
+   "Enqi Bu",
+   "Ying Chen",
+   "Chao Wang",
+   "Zhengdong Cheng",
+   "Xianglong Luo",
+   "Riyang Shu",
+   "Jingtao Zhang",
+   "Mingzheng Liao",
+   "Zhiqiang Jiang",
+   "Qingbin Song"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2019-03-28",
+  "year": 2019,
+  "doi": "10.1016/j.cej.2019.03.259",
+  "url": "https://doi.org/10.1016/j.cej.2019.03.259",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Guangdong University of Technology",
+   "Texas A&M University",
+   "Macau University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ },
+ {
   "id": "7075e73cd1131de5",
   "title": "TiO2@NbSe2 decorated nanocomposites for efficient visible-light photocatalysis",
   "authors": [
@@ -19348,6 +19389,31 @@
    "Liaoning University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "c536bd009d6d589f",
+  "title": "Microfluidic Synthesis of Monodisperse Yolk-Shell Titania Microspheres as Photo-catalysts for Dry Reforming of Methane.",
+  "authors": [
+   "Matthew D. Parker"
+  ],
+  "journal": "NCSU Libraries Repository (North Carolina State University Libraries)",
+  "publisher": "North Carolina State University",
+  "published": "2019-03-07",
+  "year": 2019,
+  "doi": "",
+  "url": "http://www.lib.ncsu.edu/resolver/1840.20/36383",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "a1e2be317146f4de",

@@ -18054,6 +18054,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "28d0f86d2cb09702",
+  "title": "A Sustainable Production of H2 by Water Splitting and Photo-Reforming of Organic Wastes on Au/TiO2 Nanotube Arrays",
+  "authors": [
+   "Claudio Ampelli",
+   "Chiara Genovese",
+   "Paola Lanzafame",
+   "Siglinda Perathoner",
+   "Gabriele Centi"
+  ],
+  "journal": "Chemical engineering transactions",
+  "publisher": "AIDIC-Italian Association of Chemical Engineering",
+  "published": "2014-08-01",
+  "year": 2014,
+  "doi": "10.3303/cet1439272",
+  "url": "https://doi.org/10.3303/cet1439272",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Water Splitting",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "Photoreforming",
+   "TiO2",
+   "Visible Light",
+   "Water Splitting"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "University of Messina"
+  ],
+  "added": "2026-10-02",
+  "issn": "1974-9791"
+ },
+ {
   "id": "23faaa625e518d4a",
   "title": "Photocatalytic activity of PbS quantum dots sensitized flower-like Bi 2 WO 6 for degradation of Rhodamine B under visible light irradiation",
   "authors": [

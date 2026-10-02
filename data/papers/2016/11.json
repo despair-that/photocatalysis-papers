@@ -694,12 +694,20 @@
    "Daiqi Ye"
   ],
   "journal": "Catalysts",
+<<<<<<< HEAD
   "publisher": "MDPI AG",
+=======
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+>>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
   "published": "2016-11-30",
   "year": 2016,
   "doi": "10.3390/catal6120188",
   "url": "https://doi.org/10.3390/catal6120188",
+<<<<<<< HEAD
   "source": "crossref",
+=======
+  "source": "openalex",
+>>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
   "categories": [
    "Pollutant Degradation",
    "Semiconductor Materials"
@@ -710,9 +718,18 @@
    "ZnO"
   ],
   "relevance_score": 60,
+<<<<<<< HEAD
   "affiliations": [],
   "added": "2026-10-01",
   "issn": ""
+=======
+  "affiliations": [
+   "Guangdong Provincial Key Laboratory of Atmospheric Environment and Pollution Control",
+   "South China University of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2073-4344"
+>>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
  },
  {
   "id": "4e9d1af55dab8331",

@@ -32660,6 +32660,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "aa70aa25a3ea55e2",
+  "title": "Recent advances in hydrogen production by solar photoreforming of plastic feedstocks using nanocatalytic materials: A review",
+  "authors": [
+   "Loganya Supramaniam",
+   "Sze-Mun Lam",
+   "Jin-Chung Sin",
+   "Pooya Lahijani",
+   "Abdul Rahman Mohamed"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2025-06-07",
+  "year": 2025,
+  "doi": "10.1016/j.ijhydene.2025.06.010",
+  "url": "https://doi.org/10.1016/j.ijhydene.2025.06.010",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Water Splitting"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Water Splitting"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Universiti Sains Malaysia",
+   "Universiti Tunku Abdul Rahman"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
+ },
+ {
   "id": "a9b2ff340b50b1b8",
   "title": "Phase-Controlled Synthesis of Single-Crystalline Tin Sulfide Nanosheets for PEC Water Oxidation",
   "authors": [
@@ -38315,6 +38353,50 @@
    "Birla Institute of Technology and Science, Pilani"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2d7e20959de6d690",
+  "title": "Highly Selective H2 Production From Photoreforming of Formic Acid Triggered by Cu Single‐Atom Sites in a Cocatalyst",
+  "authors": [
+   "Xiaoyuan Ye",
+   "Yuchen Dong",
+   "Weibo Hua",
+   "Wengao Zeng",
+   "Ziying Zhang",
+   "Tuo Zhang",
+   "Xiangjiu Guan",
+   "Liejin Guo"
+  ],
+  "journal": "Carbon Energy",
+  "publisher": "Wiley",
+  "published": "2025-06-04",
+  "year": 2025,
+  "doi": "10.1002/cey2.70024",
+  "url": "https://doi.org/10.1002/cey2.70024",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "CdS",
+   "Charge Transfer",
+   "Co-catalysts",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "State Key Laboratory of Multiphase Flow in Power Engineering",
+   "Xi'an Jiaotong University",
+   "University of South China"
+  ],
+  "added": "2026-10-02",
+  "issn": "2096-9570"
  },
  {
   "id": "173c06f3e5839fc8",

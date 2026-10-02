@@ -1,0 +1,133 @@
+[
+ {
+  "id": "22545b56bdb420aa",
+  "title": "Improved H2 production of Pt-TiO2/g-C3N4-MnOx composites by an efficient handling of photogenerated charge pairs",
+  "authors": [
+   "S. Obregón",
+   "G. Colón"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2013-08-11",
+  "year": 2013,
+  "doi": "10.1016/j.apcatb.2013.07.034",
+  "url": "https://doi.org/10.1016/j.apcatb.2013.07.034",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Photogenerated Carriers",
+   "Related",
+   "TiO2",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Consejo Superior de Investigaciones Científicas",
+   "Instituto de Ciencia de Materiales de Sevilla",
+   "Universidad de Sevilla"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
+  "id": "bfc085caa0acb124",
+  "title": "Photoconversion of carbon dioxide in zinc–copper–gallium layered double hydroxides: The kinetics to hydrogen carbonate and further to CO/methanol",
+  "authors": [
+   "Motoharu Morikawa",
+   "Naveed Ahmed",
+   "Yusuke Yoshida",
+   "Yasuo Izumi"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2013-08-07",
+  "year": 2013,
+  "doi": "10.1016/j.apcatb.2013.07.065",
+  "url": "https://doi.org/10.1016/j.apcatb.2013.07.065",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Chiba University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ },
+ {
+  "id": "5b20dd22dbb75383",
+  "title": "Modification of TiO2 with sulfate and phosphate for enhanced eosin Y-sensitized hydrogen evolution under visible light illumination",
+  "authors": [
+   "Xing Liu",
+   "Yuexiang Li",
+   "Shaoqin Peng",
+   "Gongxuan Lü",
+   "Shuben Li"
+  ],
+  "journal": "Photochemical & Photobiological Sciences",
+  "publisher": "Springer Science+Business Media",
+  "published": "2013-08-07",
+  "year": 2013,
+  "doi": "10.1039/c3pp50167a",
+  "url": "https://doi.org/10.1039/c3pp50167a",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Organic Photocatalysts",
+   "Related",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Nanchang University",
+   "Chinese Academy of Sciences",
+   "Lanzhou Institute of Chemical Physics",
+   "State Key Laboratory of Oxo Synthesis and Selective Oxidation"
+  ],
+  "added": "2026-10-02",
+  "issn": "1474-905X"
+ },
+ {
+  "id": "4addb257b3e833c8",
+  "title": "Using electrochemical methods to study the promotion mechanism of the photoelectric conversion performance of Ag-modified mesoporous g-C3N4 heterojunction material",
+  "authors": [
+   "Yuyu Bu",
+   "Zhuoyuan Chen",
+   "Weibing Li"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2013-08-07",
+  "year": 2013,
+  "doi": "10.1016/j.apcatb.2013.07.066",
+  "url": "https://doi.org/10.1016/j.apcatb.2013.07.066",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Institute of Oceanology",
+   "Qingdao University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0926-3373"
+ }
+]

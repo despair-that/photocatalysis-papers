@@ -185,6 +185,41 @@
   "added": "2026-07-26"
  },
  {
+  "id": "e493ce2e10b95973",
+  "title": "An enhanced production of biomethane from cellulose photoreforming driven by titania morphological modification",
+  "authors": [
+   "Wirda Udaibah",
+   "Didi Dwi Anggoro",
+   "Aji Prasetyaningrum",
+   "Abdullah Bafaqeer",
+   "Nor Aishah Saidina Amin"
+  ],
+  "journal": "Reaction Kinetics Mechanisms and Catalysis",
+  "publisher": "Springer Science+Business Media",
+  "published": "2025-02-28",
+  "year": 2025,
+  "doi": "10.1007/s11144-025-02821-3",
+  "url": "https://doi.org/10.1007/s11144-025-02821-3",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Diponegoro University",
+   "Walisongo State Islamic University",
+   "King Fahd University of Petroleum and Minerals",
+   "University of Technology Malaysia"
+  ],
+  "added": "2026-10-02",
+  "issn": "1878-5190"
+ },
+ {
   "id": "e07a4d3109f767cd",
   "title": "The Elimination of N-Chloropiperidine in Aqueous Solution by Using Ni/NiO-C3N4 Under Visible Light Illumination",
   "authors": [
@@ -3970,6 +4005,48 @@
    "Putian University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b2af44d173ae19bd",
+  "title": "Hydrothermally devised visible light-activated NiFe2O4/Bi4O5I2 composite for aquaculture wastewater decontamination and plastic waste photoreforming applications",
+  "authors": [
+   "Xuet-Wei Woon",
+   "Sze-Mun Lam",
+   "Jin-Chung Sin",
+   "Abdul Rahman Mohamed",
+   "Honghu Zeng",
+   "Haixiang Li",
+   "Liangliang Huang",
+   "Hua Lin",
+   "Jun Wei Lim"
+  ],
+  "journal": "Inorganic Chemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2025-02-26",
+  "year": 2025,
+  "doi": "10.1016/j.inoche.2025.114188",
+  "url": "https://doi.org/10.1016/j.inoche.2025.114188",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Visible Light",
+   "Wastewater"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Universiti Tunku Abdul Rahman",
+   "Guilin University of Technology",
+   "Guangxi Key Laboratory of Environmental Pollution Control Theory and Technology",
+   "Universiti Sains Malaysia",
+   "Universiti Teknologi Petronas",
+   "Centre for Biofuel and Biochemical Research"
+  ],
+  "added": "2026-10-02",
+  "issn": "1387-7003"
  },
  {
   "id": "b2409404ee9d801d",
@@ -8286,6 +8363,52 @@
    "Jeju National University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "dd51d2685aad7e91",
+  "title": "An Electron Transfer Mediated Mechanism for Efficient Photoreforming of Waste Plastics Using a Ni 3 S 4 /ZnCdS Heterojunction",
+  "authors": [
+   "Zehao Ma",
+   "Shaoqi Zhan",
+   "Yule Zhang",
+   "Artem V. Kuklin",
+   "Yinxiang Chen",
+   "Ying-Wu Lin",
+   "Han Zhang",
+   "Xiaohui Ren",
+   "Hans Ågren",
+   "Zhang Ye"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "",
+  "published": "2025-02-24",
+  "year": 2025,
+  "doi": "10.1002/adma.202416581",
+  "url": "https://doi.org/10.1002/adma.202416581",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Heterojunctions",
+   "Photogenerated Carriers",
+   "Photoreforming"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of South China",
+   "Uppsala University",
+   "Shenzhen University",
+   "Wuhan University of Science and Technology",
+   "State Key Laboratory of Refractories and Metallurgy",
+   "Wrocław University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0935-9648"
  },
  {
   "id": "db0678edc6cdb4b8",
@@ -21455,6 +21578,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "74717809307c5269",
+  "title": "Production of H2 and organic acids by cellulose photo-reforming with TiO2-bimetallic(CuNi) co-catalysts: Metal loading and photodeposition sequence effects",
+  "authors": [
+   "Sergio Belda-Marco",
+   "Pablo Ayala",
+   "Stephen Nagaraju Myakala",
+   "Dominik Eder",
+   "M.A. Lillo-Ródenas",
+   "Alexey S. Cherevan",
+   "M.C. Román-Martı́nez"
+  ],
+  "journal": "Environmental Research",
+  "publisher": "Elsevier BV",
+  "published": "2025-02-15",
+  "year": 2025,
+  "doi": "10.1016/j.envres.2025.121141",
+  "url": "https://doi.org/10.1016/j.envres.2025.121141",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Photocatalysis",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "University of Alicante",
+   "TU Wien"
+  ],
+  "added": "2026-10-02",
+  "issn": "0013-9351"
+ },
+ {
   "id": "7452e179a2d6954f",
   "title": "Design and characterization of porphyrin-based photosensitizing metalloproteins integrated with artificial metalloenzymes for photocatalytic hydrogen production",
   "authors": [
@@ -27766,6 +27927,46 @@
    "Henan Normal University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "4444d6900e839d77",
+  "title": "Enhancing mass and energy transfer efficiency of a defect-rich Bi2Fe4O9/Bi2S3/MoS2 heterojunction for plastic photoreforming via ultrasound assistance",
+  "authors": [
+   "Yulong Jing",
+   "Xueqin Gong",
+   "Menglu Wang",
+   "Zeyan Wang",
+   "Peng Wang",
+   "Yuanyuan Liu",
+   "Hefeng Cheng",
+   "Ying Dai",
+   "Zhaoke Zheng",
+   "Baibiao Huang"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2025-02-11",
+  "year": 2025,
+  "doi": "10.1016/j.ijhydene.2025.02.093",
+  "url": "https://doi.org/10.1016/j.ijhydene.2025.02.093",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "MoS2",
+   "Photoreforming"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Shandong University",
+   "State Key Laboratory of Crystal Materials"
+  ],
+  "added": "2026-10-02",
+  "issn": "0360-3199"
  },
  {
   "id": "42d7cc64edbeacb3",
@@ -43703,6 +43904,48 @@
    "The University of Osaka"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "11447826774e110f",
+  "title": "Light-driven degradation of microplastics: Mechanisms, technologies, and future directions",
+  "authors": [
+   "Yang Wu",
+   "Ran Yi",
+   "Yankun Wang",
+   "Changyuan Zhang",
+   "Jing Zheng",
+   "Peiyong Ning",
+   "Dan Shan",
+   "Baiqi Wang"
+  ],
+  "journal": "Journal of Hazardous Materials Advances",
+  "publisher": "Elsevier BV",
+  "published": "2025-02-01",
+  "year": 2025,
+  "doi": "10.1016/j.hazadv.2025.100628",
+  "url": "https://doi.org/10.1016/j.hazadv.2025.100628",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming",
+   "Pollutants",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Tianjin Medical University",
+   "Tianjin Centers for Disease Control and Prevention",
+   "Nankai University",
+   "Tianjin Stomatological Hospital"
+  ],
+  "added": "2026-10-02",
+  "issn": "2772-4166"
  },
  {
   "id": "0b6b05a87733d1c8",

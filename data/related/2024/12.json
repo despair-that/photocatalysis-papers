@@ -1,0 +1,41 @@
+[
+ {
+  "id": "d4b5dcfb7d9defd4",
+  "title": "Phase and sulfur vacancy engineering in cadmium sulfide for boosting hydrogen production from catalytic plastic waste photoconversion",
+  "authors": [
+   "Thanh Tam Nguyen",
+   "Jacqueline Hidalgo-Jiménez",
+   "Xavier Sauvage",
+   "Katsuhiko Saito",
+   "Qixin Guo",
+   "Kaveh Edalati"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2024-12-17",
+  "year": 2024,
+  "doi": "10.1016/j.cej.2024.158730",
+  "url": "https://doi.org/10.1016/j.cej.2024.158730",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Production",
+   "Related",
+   "Sulfur Vacancies"
+  ],
+  "relevance_score": 27,
+  "affiliations": [
+   "Kyushu University",
+   "Centre National de la Recherche Scientifique",
+   "Groupe de Physique des Matériaux",
+   "Université de Rouen Normandie",
+   "Institut National des Sciences Appliquées Rouen Normandie",
+   "Saga University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1385-8947"
+ }
+]

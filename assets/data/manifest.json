@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-02 05:44 UTC",
- "total": 211537,
+ "generated": "2026-10-02 13:35 UTC",
+ "total": 210109,
  "years": [
   {
    "year": 2027,
@@ -9,72 +9,72 @@
   },
   {
    "year": 2026,
-   "count": 14939,
+   "count": 13748,
    "file": "papers-2026.json"
   },
   {
    "year": 2025,
-   "count": 16932,
+   "count": 17026,
    "file": "papers-2025.json"
   },
   {
    "year": 2024,
-   "count": 16361,
+   "count": 16417,
    "file": "papers-2024.json"
   },
   {
    "year": 2023,
-   "count": 15075,
+   "count": 15136,
    "file": "papers-2023.json"
   },
   {
    "year": 2022,
-   "count": 14490,
+   "count": 14525,
    "file": "papers-2022.json"
   },
   {
    "year": 2021,
-   "count": 13317,
+   "count": 13340,
    "file": "papers-2021.json"
   },
   {
    "year": 2020,
-   "count": 12691,
+   "count": 12716,
    "file": "papers-2020.json"
   },
   {
    "year": 2019,
-   "count": 11814,
+   "count": 11828,
    "file": "papers-2019.json"
   },
   {
    "year": 2018,
-   "count": 11092,
+   "count": 11099,
    "file": "papers-2018.json"
   },
   {
    "year": 2017,
-   "count": 10060,
+   "count": 10071,
    "file": "papers-2017.json"
   },
   {
    "year": 2016,
-   "count": 9561,
+   "count": 8846,
    "file": "papers-2016.json"
   },
   {
    "year": 2015,
-   "count": 8607,
+   "count": 8610,
    "file": "papers-2015.json"
   },
   {
    "year": 2014,
-   "count": 8077,
+   "count": 8081,
    "file": "papers-2014.json"
   },
   {
    "year": 2013,
-   "count": 7208,
+   "count": 7353,
    "file": "papers-2013.json"
   },
   {

@@ -10172,6 +10172,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "faeab86ec0495e14",
+  "title": "Photoreforming of waste plastic by B‐doped carbon nitride nanotube: Atomic‐level modulation and mechanism insights",
+  "authors": [
+   "Zongyang Ya",
+   "Lei Tang",
+   "Dong Xu",
+   "Hua Wang",
+   "Shengbo Zhang"
+  ],
+  "journal": "AIChE Journal",
+  "publisher": "Wiley",
+  "published": "2025-01-23",
+  "year": 2025,
+  "doi": "10.1002/aic.18740",
+  "url": "https://doi.org/10.1002/aic.18740",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Doping",
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Tianjin University",
+   "Collaborative Innovation Center of Chemical Science and Engineering Tianjin",
+   "National University of Singapore"
+  ],
+  "added": "2026-10-02",
+  "issn": "0001-1541"
+ },
+ {
   "id": "f1005f3d0c056c73",
   "title": "Eu2O3/CoMnAl-LDH@g-C3N4 ternary S-scheme heterojunction photocatalyst for hydrogen production under solar light illumination",
   "authors": [
@@ -20325,6 +20362,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f1308b9385a692fa",
+  "title": "Photothermal Conversion of Biopolyols and Sugars into Syngas over Pd–PdO/TiO2",
+  "authors": [
+   "Jingxuan Yang",
+   "Hongru Zhou",
+   "Jincheng Luo",
+   "Min Wang"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2025-01-16",
+  "year": 2025,
+  "doi": "10.1021/acscatal.4c04927",
+  "url": "https://doi.org/10.1021/acscatal.4c04927",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreforming",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "Dalian University of Technology",
+   "State Key Laboratory of Fine Chemicals"
+  ],
+  "added": "2026-10-02",
+  "issn": "2155-5435"
+ },
+ {
   "id": "eff97dd33132b359",
   "title": "Combining Cocatalyst and Oxygen Vacancy to Synergistically Improve Fe2O3 Photoelectrochemical Water Oxidation Performance",
   "authors": [
@@ -21799,6 +21875,36 @@
    "Anyang Normal University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "173a9101844b4c4f",
+  "title": "Crucial role of pre-treatment in plastic photoreforming for precision upcycling",
+  "authors": [
+   "Xiandi Zhang",
+   "Wenhan Zu",
+   "Lawrence Yoon Suk Lee"
+  ],
+  "journal": "npj Materials Sustainability",
+  "publisher": "Springer Science+Business Media",
+  "published": "2025-01-16",
+  "year": 2025,
+  "doi": "10.1038/s44296-024-00045-5",
+  "url": "https://doi.org/10.1038/s44296-024-00045-5",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoreforming"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "BGI Group (China)",
+   "Hong Kong Polytechnic University",
+   "BGI Research"
+  ],
+  "added": "2026-10-02",
+  "issn": "2948-1775"
  },
  {
   "id": "14383fc15b89176b",
@@ -29352,6 +29458,50 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e4e1ca04af0e226a",
+  "title": "The defect engineering design of COCN/L-CdS/Ni2P for promoting hydrogen energy generation from seawater coupling with photoreforming of plastics",
+  "authors": [
+   "Zhe Yin",
+   "Ziwen Wang",
+   "Jun Long Wang",
+   "Binglin Tang",
+   "Guoping Yu",
+   "Qiuyu Wang",
+   "Huanyu Chen",
+   "Kangzheng Li",
+   "Zhichao Zhang",
+   "Qingcheng Luo",
+   "Fuqin Zhang",
+   "Bo Lv"
+  ],
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "published": "2025-01-10",
+  "year": 2025,
+  "doi": "10.1016/j.fuel.2025.134358",
+  "url": "https://doi.org/10.1016/j.fuel.2025.134358",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "CdS",
+   "Defect Engineering",
+   "Ni2P",
+   "Photoreforming"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Kunming University of Science and Technology",
+   "Panzhihua University",
+   "Central South University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0016-2361"
+ },
+ {
   "id": "dda9c5273530c229",
   "title": "Photothermal effect and hole transport properties of polyaniline for enhanced photoelectrochemical water splitting of BiVO4 photoanode",
   "authors": [
@@ -29893,6 +30043,39 @@
    "National Chung Hsing University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b1dd876c2fb7294d",
+  "title": "Photothermal activation of methane dry reforming on perovskite-supported Ni-catalysts: Impact of support composition and Ni loading method",
+  "authors": [
+   "Andrea Osti",
+   "Simone Costa",
+   "Lorenzo Rizzato",
+   "Beatrice Senoner",
+   "Antonella Glisenti"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2025-01-10",
+  "year": 2025,
+  "doi": "10.1016/j.cattod.2025.115200",
+  "url": "https://doi.org/10.1016/j.cattod.2025.115200",
+  "source": "openalex",
+  "categories": [
+   "Perovskites",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "Perovskites",
+   "Photocatalysis",
+   "Photothermal Catalysis",
+   "Plasmonics",
+   "Visible Light"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": "0920-5861"
  },
  {
   "id": "abe5124abdc3b588",
@@ -47976,6 +48159,41 @@
    "Far Eastern Federal University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "f41bd1dafa2805af",
+  "title": "Sulfur Vacancy of MoS2 Catalysts Enables Rapid Photoreforming of Bioenergy Crops to H2",
+  "authors": [
+   "Ziyi Wang",
+   "Chi Ma",
+   "Yan Chen",
+   "Ji-Ping Tang",
+   "Jiahao Wang",
+   "Yun-Hui Hu",
+   "Yongjun Yuan"
+  ],
+  "journal": "SSRN Electronic Journal",
+  "publisher": "RELX Group (Netherlands)",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.2139/ssrn.5660213",
+  "url": "https://doi.org/10.2139/ssrn.5660213",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "MoS2",
+   "Photoreforming",
+   "Sulfur Vacancies"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Hangzhou Dianzi University"
+  ],
+  "added": "2026-10-02",
+  "issn": "1556-5068"
  },
  {
   "id": "f3f2c541d3e0d661",
@@ -68439,6 +68657,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "aa1a1ee5ccc1fae1",
+  "title": "Hydrogen evolution using alloyed AuPd/TiO 2 hollow spheres by photoreforming of polyethylene terephthalate waste",
+  "authors": [
+   "Nashwan H. M. Sulaiman",
+   "Shuai Wang",
+   "Hairong Yue",
+   "Jiake Wei",
+   "Patrik Schmuki",
+   "Xuemei Zhou"
+  ],
+  "journal": "Journal of Materials Chemistry A",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5ta00189g",
+  "url": "https://doi.org/10.1039/d5ta00189g",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "Sichuan University",
+   "Dalian Institute of Chemical Physics",
+   "Chinese Academy of Sciences",
+   "State Key Laboratory of Catalysis",
+   "Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  ],
+  "added": "2026-10-02",
+  "issn": "2050-7488"
+ },
+ {
   "id": "aa138e533ac664e3",
   "title": "Influence of Sacrificial Reagents on the Photoelectrocatalytic Performance of Titanium Dioxide Nanotube Arrays for Hydrogen Production",
   "authors": [
@@ -75650,6 +75906,51 @@
   "added": "2026-07-24"
  },
  {
+  "id": "906f0fd98c8698d6",
+  "title": "Regulating the band gap of Zn x Cd 1− x S in 3DOM CaTiO 3 for high hydrogen evolution and gluconic acid selectivity",
+  "authors": [
+   "Tingting Shen",
+   "Jing Liu",
+   "Fang-Yuan Bai",
+   "Weiwei Xu",
+   "Yong Xue",
+   "Zhirong Li",
+   "Jingru Han",
+   "Jun Chen",
+   "Heng Zhao",
+   "Zhi-Yi Hu",
+   "Yu Li",
+   "Bao-Lian Su"
+  ],
+  "journal": "Inorganic Chemistry Frontiers",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5qi00824g",
+  "url": "https://doi.org/10.1039/d5qi00824g",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Hydrogen Evolution",
+   "Photoreforming"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Wuhan University of Technology",
+   "State Key Laboratory of Advanced Technology For Materials Synthesis and Processing",
+   "Eastern Institute of Technology, Ningbo",
+   "University of Liverpool",
+   "University of Namur"
+  ],
+  "added": "2026-10-02",
+  "issn": "2052-1545"
+ },
+ {
   "id": "9063152967071050",
   "title": "Sol–Gel and Hydrothermal Synthesis of Zirconium-Based Photocatalysts for Environmental Applications",
   "authors": [
@@ -79112,6 +79413,56 @@
    "Tongji University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "83d60dc0736381c2",
+  "title": "An asymmetrically tipped MoS 2 /CdS heterostructure for high-performance photocatalytic plastic reforming",
+  "authors": [
+   "Yao Yu",
+   "Jinqiang Zhang",
+   "Panpan Zhang",
+   "Lei Shi",
+   "Kunsheng Hu",
+   "Tara Louise Pukala",
+   "Yanlin Shi",
+   "Zhongfan Jia",
+   "Shaobin Wang",
+   "Xiaoguang Duan"
+  ],
+  "journal": "Materials Horizons",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5mh00658a",
+  "url": "https://doi.org/10.1039/d5mh00658a",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "CdS",
+   "Charge Separation",
+   "Co-catalysts",
+   "Heterojunctions",
+   "Heterostructures",
+   "Lactic Acid",
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "The University of Adelaide",
+   "Jiangsu University",
+   "Nanjing Forestry University",
+   "Flinders University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2051-6347"
  },
  {
   "id": "83a60ab9712958eb",
@@ -87342,6 +87693,44 @@
   "added": "2026-07-26"
  },
  {
+  "id": "66315d94bab8fab8",
+  "title": "Plastic photoreforming: catalytic production of hydrogen and valuable chemicals",
+  "authors": [
+   "Heng Li",
+   "Yeqiong Huang",
+   "Yueyang Zhang",
+   "Haiyan Li",
+   "Chengcheng Shen",
+   "Dong Sheng Xia",
+   "Yanmei Zheng"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5gc02621k",
+  "url": "https://doi.org/10.1039/d5gc02621k",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Xiamen University",
+   "Xiamen Ocean Vocational College",
+   "Xiamen University Tan Kah Kee College",
+   "North Minzu University",
+   "Wuhan Institute of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1463-9262"
+ },
+ {
   "id": "6626594abb2306ca",
   "title": "Bromide-promoted cascade annulation of isocyanobiaryls with aldehydes through photoredox catalysis",
   "authors": [
@@ -87831,6 +88220,37 @@
    "Chandigarh University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "63e7101d086d5b77",
+  "title": "Photocatalytic water splitting for hydrogen generation",
+  "authors": [
+   "Alexandra Corina Iacoban",
+   "Florentina Neațu",
+   "Ștefan Neațu",
+   "Mihaela Florea"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1016/b978-0-443-34088-8.00009-4",
+  "url": "https://doi.org/10.1016/b978-0-443-34088-8.00009-4",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Water Splitting"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Bucharest",
+   "National Institute of Materials Physics"
+  ],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "63df28f0b59013c4",
@@ -100682,6 +101102,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "30158ae14c788523",
+  "title": "State-of-the-art and perspectives of hydrogen generation from waste plastics",
+  "authors": [
+   "Feng Xing Niu",
+   "Zeqi Wu",
+   "Da Chen",
+   "Yuexiang Huang",
+   "Vitaly V. Ordomsky",
+   "Andreï Y. Khodakov",
+   "Kevin M. Van Geem"
+  ],
+  "journal": "Chemical Society Reviews",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d4cs00604f",
+  "url": "https://doi.org/10.1039/d4cs00604f",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "China Jiliang University",
+   "Centre National de la Recherche Scientifique",
+   "Université de Lille",
+   "Unité de Catalyse et Chimie du Solide",
+   "Centrale Lille Institut",
+   "Ghent University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0306-0012"
+ },
+ {
   "id": "2ff6b3746872465b",
   "title": "Mechanochemistry-Driven Synthesis of Cu/P25/G-C3n4 Photocatalysts for Sustainable Co2 Reduction",
   "authors": [
@@ -104581,6 +105040,39 @@
   "relevance_score": 48,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1f397b45b25e7f14",
+  "title": "Vinasse photoreforming for hydrogen production using Pt/TiO 2 as catalyst under UV irradiation",
+  "authors": [
+   "Patrícia Ferreira Silvaino",
+   "João Coutinho Ferreira",
+   "Saulo Amaral Carminati",
+   "Jorge Moreira Vaz",
+   "Estevam Vitorio Spinace"
+  ],
+  "journal": "RSC Advances",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5ra00481k",
+  "url": "https://doi.org/10.1039/d5ra00481k",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Instituto de Pesquisas Energéticas e Nucleares",
+   "National Nuclear Energy Commission"
+  ],
+  "added": "2026-10-02",
+  "issn": "2046-2069"
  },
  {
   "id": "1f2e002c9e4ca535",

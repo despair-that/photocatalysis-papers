@@ -16117,6 +16117,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "fd736bcd3ac4a8cd",
+  "title": "Continuous flow gas phase photoreforming of methanol at elevated reaction temperatures sensitised by Pt/TiO 2",
+  "authors": [
+   "A. Caravaca",
+   "Helen Daly",
+   "M. Smith",
+   "Andrew A. Mills",
+   "Sarayute Chansai",
+   "Christopher Hardacre"
+  ],
+  "journal": "Reaction Chemistry & Engineering",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2016-01-01",
+  "year": 2016,
+  "doi": "10.1039/c6re00140h",
+  "url": "https://doi.org/10.1039/c6re00140h",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Queen's University Belfast",
+   "Rutherford Appleton Laboratory",
+   "Research Complex at Harwell",
+   "UK Catalysis Hub",
+   "University of Manchester"
+  ],
+  "added": "2026-10-02",
+  "issn": "2058-9883"
+ },
+ {
   "id": "fd631ba9b1ed57fd",
   "title": "PHOTOCATALYTIC DEGRADATION OF ANILINE IN AQUEOUS SOLUTION USING ZnO NANOPARTICLES",
   "authors": [
@@ -31069,6 +31105,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "c2e2a1842a88d36e",
+  "title": "Elucidation of reaction pathways of the photoreforming and overall water splitting reaction over precious metal decorated semiconductors",
+  "authors": [
+   "Tobias F. Berto"
+  ],
+  "journal": "mediaTUM – the media and publications repository of the Technical University Munich (Technical University Munich)",
+  "publisher": "Technical University of Munich",
+  "published": "2016-01-01",
+  "year": 2016,
+  "doi": "",
+  "url": "http://mediatum.ub.tum.de/node?id=1296501",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Water Splitting",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Semiconductors",
+   "Water Splitting"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "c2d6d7f26ff484f7",
   "title": "Improvement of the Photocatalytic Water Splitting Activity of Silver Tantalate by Photodeposited Platinum and Cobalt-Oxide Nanoclusters",
   "authors": [
@@ -45028,6 +45092,32 @@
   "relevance_score": 76,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "8b0985661964ade5",
+  "title": "Engineering Phonon, Photon, Electron and Plasmon interactions in Silicon - Metal Nanocavitiies for Silicon Photonics and Thermoplasmonics",
+  "authors": [
+   "Daksh Agarwal"
+  ],
+  "journal": "ScholarlyCommons (University of Pennsylvania)",
+  "publisher": "University of Pennsylvania",
+  "published": "2016-01-01",
+  "year": 2016,
+  "doi": "",
+  "url": "https://repository.upenn.edu/edissertations/1576",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "Photoreforming",
+   "Plasmonics"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
  },
  {
   "id": "8ae0f98b781229ec",
@@ -76333,6 +76423,47 @@
    "King Abdulaziz University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "0767b650aadf45e1",
+  "title": "From trash to resource: recovered-Pd from spent three-way catalysts as a precursor of an effective photo-catalyst for H 2 production",
+  "authors": [
+   "Valentina Gombac",
+   "Tiziano Montini",
+   "Andrea Falqui",
+   "Danilo Loche",
+   "Maurizio Prato",
+   "Alessandro Genovese",
+   "Maria Laura Mercuri",
+   "Angela Serpe",
+   "Paolo Fornasiero",
+   "Paola Deplano"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2016-01-01",
+  "year": 2016,
+  "doi": "10.1039/c5gc02908b",
+  "url": "https://doi.org/10.1039/c5gc02908b",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "University of Trieste",
+   "University of Cagliari",
+   "National Interuniversity Consortium of Materials Science and Technology",
+   "Institute for the Chemistry of OrganoMetallic Compounds",
+   "King Abdullah University of Science and Technology",
+   "Italian Institute of Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "1463-9262"
  },
  {
   "id": "0736991f7b64ff13",

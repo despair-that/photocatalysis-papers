@@ -6618,6 +6618,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "24e841624e8e144c",
+  "title": "A novel approach for enhancing hydrogen production from bio-glycerol photoreforming by improving colloidal dispersion stability",
+  "authors": [
+   "Xiaoyan Cai",
+   "Chao Wang",
+   "Ying Chen",
+   "Zhengdong Cheng",
+   "Riyang Shu",
+   "Jingtao Zhang",
+   "Enqi Bu",
+   "Mingzheng Liao",
+   "Qingbin Song"
+  ],
+  "journal": "The Science of The Total Environment",
+  "publisher": "Elsevier BV",
+  "published": "2018-02-20",
+  "year": 2018,
+  "doi": "10.1016/j.scitotenv.2018.02.009",
+  "url": "https://doi.org/10.1016/j.scitotenv.2018.02.009",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Guangdong University of Technology",
+   "Texas A&M University",
+   "Macau University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "0048-9697"
+ },
+ {
   "id": "21c6e24e00d577fe",
   "title": "Zeolite Supported-Nano TiO 2 Composites Prepared by a Facile Solid Diffusion Process as High Performance Photocatalysts",
   "authors": [

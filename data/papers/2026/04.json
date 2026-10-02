@@ -7276,6 +7276,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3c0e9e7c5e3b89f4",
+  "title": "Photoreforming of Plastic Waste: Connecting the Dots for Green and Efficient Upcycling Systems within a Circular Economy",
+  "authors": [
+   "Angela Patricia Abad-López",
+   "Carlos David Grande-Tovar"
+  ],
+  "journal": "ACS Applied Polymer Materials",
+  "publisher": "American Chemical Society",
+  "published": "2026-04-27",
+  "year": 2026,
+  "doi": "10.1021/acsapm.6c00445",
+  "url": "https://doi.org/10.1021/acsapm.6c00445",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreforming"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "University of Atlántico"
+  ],
+  "added": "2026-10-02",
+  "issn": "2637-6105"
+ },
+ {
   "id": "32b296223e917663",
   "title": "Bimetallic CoMoS4 Decorated MOF-Derived CdS: A Synergistic Heterostructure for Enhanced Photocatalytic Hydrogen Evolution",
   "authors": [
@@ -15070,6 +15098,42 @@
    "Immune Regulation (United Kingdom)"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6f3aca4a761ca111",
+  "title": "Hydrogen production from waste plastics: Sustainable processes, recent advances, and emerging trends",
+  "authors": [
+   "Maliheh Heravi",
+   "Sathyapal R. Churipard",
+   "Sundaramurthy Vedachalam",
+   "Saumitra Saxena",
+   "Bassam B. Dally",
+   "Ajay Kumar Dalai"
+  ],
+  "journal": "Cleaner Waste Systems",
+  "publisher": "Elsevier BV",
+  "published": "2026-04-22",
+  "year": 2026,
+  "doi": "10.1016/j.clwas.2026.100518",
+  "url": "https://doi.org/10.1016/j.clwas.2026.100518",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoreforming",
+   "Scale-up"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "University of Saskatchewan",
+   "King Abdullah University of Science and Technology"
+  ],
+  "added": "2026-10-02",
+  "issn": "2772-9125"
  },
  {
   "id": "55f17be750bdca07",
@@ -39185,6 +39249,43 @@
    "The University of Osaka"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "df7eb26ef10bcf35",
+  "title": "Solar reforming of plastics using acid-catalyzed depolymerization",
+  "authors": [
+   "Papa K. Kwarteng",
+   "Yongpeng Liu",
+   "Chen Han",
+   "Shannon A. Bonke",
+   "David M. Vahey",
+   "Carolina Pulignani",
+   "Erwin Reisner"
+  ],
+  "journal": "Joule",
+  "publisher": "Elsevier BV",
+  "published": "2026-04-06",
+  "year": 2026,
+  "doi": "10.1016/j.joule.2026.102347",
+  "url": "https://doi.org/10.1016/j.joule.2026.102347",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Photocatalysis",
+   "Photoreforming",
+   "Quantum Yield"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "University of Cambridge"
+  ],
+  "added": "2026-10-02",
+  "issn": "2542-4351"
  },
  {
   "id": "dc399140f9368d9b",

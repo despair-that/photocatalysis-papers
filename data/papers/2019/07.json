@@ -14375,6 +14375,46 @@
   "added": "2026-07-24"
  },
  {
+  "id": "743f2114c97e26b9",
+  "title": "Increasing the Activity and Selectivity of TiO 2 -Supported Au Catalysts for Renewable Hydrogen Generation from Ethanol Photoreforming by Engineering Ti 3+ Defects",
+  "authors": [
+   "Xin Zhang",
+   "Lan Luo",
+   "Yun Rong",
+   "Min Pu",
+   "Bing Zhang",
+   "Xu Xiang"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2019-07-17",
+  "year": 2019,
+  "doi": "10.1021/acssuschemeng.9b02008",
+  "url": "https://doi.org/10.1021/acssuschemeng.9b02008",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Hydrogen Production",
+   "Oxygen Vacancies",
+   "Photogenerated Carriers",
+   "Photoreforming"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "State Key Laboratory of Chemical Resource Engineering",
+   "Beijing University of Chemical Technology",
+   "Zhengzhou University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2168-0485"
+ },
+ {
   "id": "73e52ff5f47496fc",
   "title": "Filling nanotubes for photocatalysis",
   "authors": [

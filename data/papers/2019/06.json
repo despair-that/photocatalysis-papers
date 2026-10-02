@@ -10132,6 +10132,48 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d328621d6aa867d7",
+  "title": "Formic Acid Photoreforming for Hydrogen Production on Shape-Controlled Anatase TiO2 Nanoparticles: Assessment of the Role of Fluorides, {101}/{001} Surfaces Ratio, and Platinization",
+  "authors": [
+   "Francesco Pellegrino",
+   "Fabrizio Sordello",
+   "Lorenzo Mino",
+   "Claudio Minero",
+   "Vasile-Dan Hodoroaba",
+   "Gianmario Martra",
+   "Valter Maurino"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2019-06-18",
+  "year": 2019,
+  "doi": "10.1021/acscatal.9b01861",
+  "url": "https://doi.org/10.1021/acscatal.9b01861",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Photoelectrochemistry",
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Photoelectrochemistry",
+   "Photoreforming",
+   "TiO2"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "University of Turin",
+   "Federal Institute For Materials Research and Testing"
+  ],
+  "added": "2026-10-02",
+  "issn": "2155-5435"
+ },
+ {
   "id": "b673f8feb5029c3f",
   "title": "Efficient direct electron transfer via band alignment in hybrid metal-semiconductor nanostructures toward enhanced photocatalysts",
   "authors": [

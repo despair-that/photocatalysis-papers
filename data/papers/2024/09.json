@@ -2065,6 +2065,50 @@
   "added": "2026-07-26"
  },
  {
+  "id": "00531afe521bf0ff",
+  "title": "1T/2H-MoS2/CdS heterojunction for the co-production of lactic acid photoreforming to hydrogen and value-added chemicals",
+  "authors": [
+   "Ermiao Liang",
+   "Xue Liu",
+   "Zheng Yang",
+   "Jifang Zhang",
+   "Yabo Qi",
+   "Rui Teng",
+   "Wenbo Cui",
+   "Mingcong Xu",
+   "Sha Luo",
+   "Chunhui Ma",
+   "Wei Li"
+  ],
+  "journal": "Journal of environmental chemical engineering",
+  "publisher": "Elsevier BV",
+  "published": "2024-09-30",
+  "year": 2024,
+  "doi": "10.1016/j.jece.2024.114287",
+  "url": "https://doi.org/10.1016/j.jece.2024.114287",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Sacrificial Reagents",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "CdS",
+   "Heterojunctions",
+   "Lactic Acid",
+   "MoS2",
+   "Photoreforming"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Northeast Forestry University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2213-2929"
+ },
+ {
   "id": "0043c6f35b7d2783",
   "title": "Regulated charge transfer by cascade dual Z-scheme heterojunction of HCdS@ZnIn2S4-Cobalt porphyrin for efficient photocatalytic solar fuel production",
   "authors": [
@@ -34758,6 +34802,55 @@
    "Harbin Normal University"
   ],
   "added": "2026-07-26"
+ },
+ {
+  "id": "64e674bdb2842031",
+  "title": "Enhanced Charge Transfer Dynamics in a NiCo 2 S 4 –Zn x Cd 1– x S Photothermal Catalyst for Efficient Photoreforming of Waste Plastic",
+  "authors": [
+   "Wenjie Su",
+   "Yule Zhang",
+   "Artem V. Kuklin",
+   "Yiguo Xu",
+   "Valeriy S. Gerasimov",
+   "Zehao Ma",
+   "Han Zhang",
+   "Hans Ågren",
+   "Ye Zhang"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2024-09-05",
+  "year": 2024,
+  "doi": "10.1021/acscatal.4c02269",
+  "url": "https://doi.org/10.1021/acscatal.4c02269",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Layered Double Hydroxides",
+   "Mechanism & Charge Dynamics",
+   "Plasmonic Photocatalysis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LSPR",
+   "NiCo",
+   "Photogenerated Carriers",
+   "Photoreforming",
+   "Photothermal Catalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "University of South China",
+   "Shenzhen University",
+   "Uppsala University",
+   "Southern University of Science and Technology",
+   "Institute of Computational Modeling",
+   "Siberian Federal University"
+  ],
+  "added": "2026-10-02",
+  "issn": "2155-5435"
  },
  {
   "id": "63b6c4d503f1989c",
