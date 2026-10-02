@@ -1,5 +1,65 @@
 [
  {
+  "id": "feb21c97d00d81e2",
+  "title": "Orthogonal Decoupling of First- and Second-Shell Contributions in Protein-Supported Single-Atom Catalysis.",
+  "authors": [
+   "Hai-Yan Li",
+   "Rui-Shu Xu",
+   "Jiang-Tao Cai",
+   "Zhen-Nian Liu",
+   "Hong-Wen Tao",
+   "Hao-Wen Huang"
+  ],
+  "journal": "Small",
+  "publisher": "",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.1002/smll.76025",
+  "url": "https://doi.org/10.1002/smll.76025",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
+  "id": "b25eb18465df58eb",
+  "title": "Effective removal of tetracycline hydrochloride over Cu-doped carbon nitride via an adsorption-promoted Fenton-like catalysis.",
+  "authors": [
+   "Yi-Ting Zheng",
+   "Rui-Hao Li",
+   "Yi-Nuo Xie",
+   "Bo-Wen Du",
+   "Long-Hui Nie"
+  ],
+  "journal": "Nanoscale",
+  "publisher": "",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.1039/d6nr03063g",
+  "url": "https://doi.org/10.1039/d6nr03063g",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Antibiotic Degradation",
+   "Carbon Nitride",
+   "Related"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-10-02",
+  "issn": ""
+ },
+ {
   "id": "3c2799213c6ea2ea",
   "title": "Multimodal Synergy via Interfacial Charge Regulation Boosts Solar-Driven Photothermal CO2 Splitting in Perovskite-Ceria Composites",
   "authors": [
@@ -65,6 +125,48 @@
   "relevance_score": 23,
   "affiliations": [],
   "added": "2026-10-01",
+  "issn": ""
+ },
+ {
+  "id": "328bb3c4e2b222e3",
+  "title": "Multifunctional Nanoreactor Based on Catalyst Surface Engineering Combines pH-Adaptive Catalysis With Tumor Microenvironment Modulation for Synergistic Chemodynamic-Chemotherapy.",
+  "authors": [
+   "Yu-Chen Liu",
+   "Shan Lin",
+   "Peng-Yuan Song",
+   "Xia-Nan Li",
+   "Jing-Wen Wang",
+   "Yang Zhang",
+   "Min Cai",
+   "Kang Fu",
+   "Zi-Yue Xu",
+   "Qian-Qian Zhao",
+   "Long Zhang",
+   "Jie Shen",
+   "Shi-Bo Wang",
+   "Xiang-Dong Kong",
+   "Pu Chen"
+  ],
+  "journal": "Small",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.1002/smll.75881",
+  "url": "https://doi.org/10.1002/smll.75881",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "H2O2 Production",
+   "Hydroxyl Radicals",
+   "MoS2",
+   "Radical Chemistry",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-02",
   "issn": ""
  }
 ]
