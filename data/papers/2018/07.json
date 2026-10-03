@@ -3798,6 +3798,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "866d44325e651931",
+  "title": "Tuning the Crystal Phase and Morphology of the Photoluminescent Indium Sulphide Nanocrystals and Their Adsorption‐Based Catalytic and Photocatalytic Applications",
+  "authors": [
+   "Rahul Kumar Sharma",
+   "Yogendra Nath Chouryal",
+   "Sandeep Nigam",
+   "Jeganathan Saravanakumar",
+   "Sunita Barik",
+   "Pushpal Ghosh"
+  ],
+  "journal": "ChemistrySelect",
+  "publisher": "Wiley",
+  "published": "2018-07-26",
+  "year": 2018,
+  "doi": "10.1002/slct.201801006",
+  "url": "https://doi.org/10.1002/slct.201801006",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Dye Degradation",
+   "Photocatalysis",
+   "Photoluminescence"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
   "id": "723f5a3cc789f446",
   "title": "Highly stable functionalized cuprous oxide nanoparticles for photocatalytic degradation of methylene blue",
   "authors": [

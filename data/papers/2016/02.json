@@ -17248,6 +17248,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4437aab320d21f10",
+  "title": "Synthesis, Characterization and Photocatalytic Activity of Ag + ‐ and Sn 2+ ‐Doped KTi 0.5 Te 1.5 O 6",
+  "authors": [
+   "Ravinder Guje",
+   "Ravi Gundeboina",
+   "Jitta Raju Reddy",
+   "Naveen Kumar Veldurthi",
+   "Sreenu Kurra",
+   "Muga Vithal"
+  ],
+  "journal": "Photochemistry and Photobiology",
+  "publisher": "Wiley",
+  "published": "2016-02-01",
+  "year": 2016,
+  "doi": "10.1111/php.12559",
+  "url": "https://doi.org/10.1111/php.12559",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Co-catalysts & Surface",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Doping",
+   "Dye Degradation",
+   "Hydroxyl Radicals",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "Visible Light"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
   "id": "4002b48956cb100c",
   "title": "Optimization of semiconductor ns-TiO2-CuO admixed photoelectrode for photoelectrochemical solar cell in regard to hydrogen production",
   "authors": [

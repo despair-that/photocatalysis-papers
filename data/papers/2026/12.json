@@ -143,6 +143,36 @@
   "added": "2026-09-18"
  },
  {
+  "id": "e063ab583fa65eb3",
+  "title": "CdS-based heterostructures for photocatalytic hydrogen evolution: synthesis strategies, multi-scale engineering, charge-transfer mechanisms, and future perspectives",
+  "authors": [
+   "Suhaib Shuaib Adam Shuaib",
+   "Xiao-Feng Zhou"
+  ],
+  "journal": "Coordination Chemistry Reviews",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.ccr.2026.218527",
+  "url": "https://doi.org/10.1016/j.ccr.2026.218527",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "CdS",
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
   "id": "d341cdfccf33355d",
   "title": "Integrated dual photocatalysts for simultaneous solar hydrogen production and CO",
   "authors": [
@@ -434,6 +464,43 @@
   "added": "2026-09-16"
  },
  {
+  "id": "a23f70cf9ae1945c",
+  "title": "Coherent interface engineering in S-scheme heterojunctions for high-efficiency photocatalytic hydrogen evolution",
+  "authors": [
+   "Yueshuai Wang",
+   "Zheng-Lin Li",
+   "Xue-Tao Zhang",
+   "Guo-Yu Huang",
+   "Meng-Jie Cui",
+   "Yi-Wei Pan",
+   "Meng-Yao Xue",
+   "Jian-Rui Feng",
+   "Yue Lu",
+   "Man-Ling Sui"
+  ],
+  "journal": "Materials Today Nano",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtnano.2026.100962",
+  "url": "https://doi.org/10.1016/j.mtnano.2026.100962",
+  "source": "semanticscholar",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "S-Scheme"
+  ],
+  "relevance_score": 93,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
   "id": "a1b883d10d9a6777",
   "title": "Green synthesis and multifunctional evaluation of Zr, Bi, and Mo‑doped CeO₂ nanoparticles and their chitosan‑encapsulated variants",
   "authors": [
@@ -569,6 +636,39 @@
   "relevance_score": 72,
   "affiliations": [],
   "added": "2026-09-18"
+ },
+ {
+  "id": "87628f77016e39f3",
+  "title": "NaCl-assisted Ni(SeO3)·xH2O/NC synthesis as high-performance co-catalyst for highly efficient photocatalytic hydrogen evolution",
+  "authors": [
+   "R. Subagyo",
+   "Yuly Kusumawati",
+   "H. Bahruji",
+   "D. Prasetyoko",
+   "D. V. Wellia",
+   "W. B. K. Putri",
+   "Gagus Ketut Sunnardianto"
+  ],
+  "journal": "Nano-Structures & Nano-Objects",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nanoso.2026.101759",
+  "url": "https://doi.org/10.1016/j.nanoso.2026.101759",
+  "source": "semanticscholar",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
  },
  {
   "id": "7efee972881723b9",
@@ -843,6 +943,72 @@
   "added": "2026-09-22"
  },
  {
+  "id": "4835e365a7f9a706",
+  "title": "From bulk to nano: Size-induced variations in the structural, magnetic, optical and photocatalytic properties of CoCrFeO",
+  "authors": [
+   "Sumit Singh",
+   "Devinder Singh"
+  ],
+  "journal": "Next Nanotechnology",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nxnano.2026.100822",
+  "url": "https://doi.org/10.1016/j.nxnano.2026.100822",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Band Gap",
+   "Charge Separation",
+   "Dye Degradation",
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Photoluminescence",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
+  "id": "3f670416c5a221bd",
+  "title": "Interfacial engineering of Z-scheme heterojunction to boost photocatalytic hydrogen evolution over Mn0.5Co0.5P decorated CoMo2S4 yolk-shell nanospheres",
+  "authors": [
+   "Tingyang Li",
+   "Peng Ji",
+   "Jian-Xiang Wang",
+   "Rui-Yang Zhao",
+   "Ji-Shu Han",
+   "Lei Wang"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.seppur.2026.139967",
+  "url": "https://doi.org/10.1016/j.seppur.2026.139967",
+  "source": "semanticscholar",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Z-Scheme"
+  ],
+  "relevance_score": 87,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
   "id": "3ba35aff3a13f523",
   "title": "Process intensification of ZnO photocatalysis via electrochemical coupling for tartrazine degradation",
   "authors": [
@@ -879,6 +1045,44 @@
   "relevance_score": 76,
   "affiliations": [],
   "added": "2026-09-23"
+ },
+ {
+  "id": "3a1541fe292fc6f9",
+  "title": "Significantly promoted photocatalytic hydrogen evolution on S-scheme MoS2/TiO2 heterojunctions",
+  "authors": [
+   "Jiu-Fu Chen",
+   "Yi Zhu",
+   "Jun-Bo Zhong",
+   "Ying Zhang",
+   "Jian-Zhang Li",
+   "Cong-Xue Tian",
+   "Qi-Zhao Wang"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.cplett.2026.143068",
+  "url": "https://doi.org/10.1016/j.cplett.2026.143068",
+  "source": "semanticscholar",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Hydrogen Evolution",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "MoS2",
+   "Photocatalysis",
+   "S-Scheme",
+   "TiO2"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
  },
  {
   "id": "2eb17fa30de56680",
@@ -1081,6 +1285,46 @@
   "relevance_score": 61,
   "affiliations": [],
   "added": "2026-09-17"
+ },
+ {
+  "id": "1351d35463d099f9",
+  "title": "Construction of topological insulator Bi2Te3 bridged Zn3In2S6/C3N5 ternary heterojunction with step-scheme/type-I synergistic charge transfer for boosted visible-light photocatalytic hydrogen evolution",
+  "authors": [
+   "Hui-Yang Xu",
+   "Jun-Wei Zhuo",
+   "Wen-Jun Chen",
+   "Zhi-Wei Li",
+   "Xiao-Rui Huang",
+   "Yong-Yi Li",
+   "Shuang-Long Li",
+   "Bo Wang",
+   "Jun-Yu Huang",
+   "Zi-Mo Wang",
+   "Wei Li"
+  ],
+  "journal": "Journal of Power Sources",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jpowsour.2026.241566",
+  "url": "https://doi.org/10.1016/j.jpowsour.2026.241566",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
  },
  {
   "id": "0e6cde926aeff46b",

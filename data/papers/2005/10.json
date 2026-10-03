@@ -2664,6 +2664,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ea1ae45b5bce2c20",
+  "title": "Photo-degradation of synthetic and natural polyisoprenes at specific UV radiations",
+  "authors": [
+   "K.A.M. dos Santos",
+   "P.A.Z. Suarez",
+   "J.C. Rubim"
+  ],
+  "journal": "Polymer Degradation and Stability",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-01",
+  "year": 2005,
+  "doi": "10.1016/j.polymdegradstab.2005.01.038",
+  "url": "https://doi.org/10.1016/j.polymdegradstab.2005.01.038",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photodegradation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
   "id": "e4197edc4e7bbc98",
   "title": "Visible light induced photocatalytic degradation of organic pollutants",
   "authors": [

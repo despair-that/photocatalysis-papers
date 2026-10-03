@@ -104,6 +104,34 @@
   "added": "2026-08-31"
  },
  {
+  "id": "62dd67eea118b03e",
+  "title": "Global prospects of low-carbon photocatalytic hydrogen based on regionalised optimisation",
+  "authors": [
+   "F. Tabita González-Zubieta",
+   "Vafa Feyzi",
+   "Pedro Gerber Machado",
+   "Javier Dufour",
+   "Diego Iribarren"
+  ],
+  "journal": "Applied Energy",
+  "publisher": "Elsevier BV",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.apenergy.2026.128969",
+  "url": "https://doi.org/10.1016/j.apenergy.2026.128969",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
   "id": "5d67c6d51bb72150",
   "title": "CdS/ZnIn2S4 heterostructure via epitaxial growth of ZnIn2S4 on CdS nanorods for efficient photocatalytic H2O2 production",
   "authors": [

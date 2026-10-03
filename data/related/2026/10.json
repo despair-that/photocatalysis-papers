@@ -31,6 +31,39 @@
   "issn": ""
  },
  {
+  "id": "92ddba3b8731158b",
+  "title": "A review on the degradation of hydrogen evolution electrodes under fluctuating renewable electricity",
+  "authors": [
+   "Jie Wang",
+   "Si-Han Liang",
+   "Ying-Ying Wang",
+   "Yiping Hu",
+   "Hai-Long Zhang",
+   "Zhe Sun",
+   "Bing-Jia Lin",
+   "Jun-Lei Tang"
+  ],
+  "journal": "Surface Science and Technology",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1007/s44251-026-00159-z",
+  "url": "https://doi.org/10.1007/s44251-026-00159-z",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
   "id": "60bcc6e28713f771",
   "title": "Overcoming over-hydrogenation in pyridine ring reduction: PdCo/C bimetallic catalysis for the chemoselective hydrogenation of methyl nicotinate",
   "authors": [
@@ -61,6 +94,131 @@
   "relevance_score": 23,
   "affiliations": [],
   "added": "2026-10-02",
+  "issn": ""
+ },
+ {
+  "id": "40abbb9527778507",
+  "title": "Interfacial effects of a ternary heterostructure on 1 T/2H MoS2 for Pt/C-comparable alkaline hydrogen evolution at industrially relevant high current densities",
+  "authors": [
+   "Nan Zhang",
+   "Meng Gao",
+   "Wen-Ru Cheng",
+   "Zhao-Cun Song",
+   "Xi-Chen Yang"
+  ],
+  "journal": "Journal of Environmental Chemical Engineering",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.jece.2026.124731",
+  "url": "https://doi.org/10.1016/j.jece.2026.124731",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
+  "id": "1e4c7e6f078efcd9",
+  "title": "Interfacial electronic reconstruction enabled by Mo-S chemical bridging in Schottky ZnIn2S4/Mo2C heterojunctions for enhanced coupled hydrogen evolution and benzyl alcohol oxidation",
+  "authors": [
+   "Hong-Hai Miao",
+   "Xi Luo",
+   "Jin-Yuan Liu",
+   "Zhao Mo",
+   "Shu-Kui Shi",
+   "Zai-Yong Jiang",
+   "Xiang-Lin Zhu"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.157606",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.157606",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Related",
+   "ZnIn2S4"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
+  "id": "0f4d36bad6a2b0ef",
+  "title": "Ultra small RuNi clusters synergistically promotes water dissociation and hydrogen adsorption for efficient hydrogen evolution in AEM water electrolyzers",
+  "authors": [
+   "Hongwei Zhao",
+   "Hong-Yi Li",
+   "Tianjiao Lou",
+   "Guang-Shun Ran",
+   "Hui Song",
+   "Xing Cheng"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.cej.2026.180682",
+  "url": "https://doi.org/10.1016/j.cej.2026.180682",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
+  "id": "0f36588890a68fff",
+  "title": "Integrated Multi-Omics and Molecular Docking Analysis of Malate Degradation by Lactiplantibacillus plantarum S4 During Sea Buckthorn Juice Fermentation",
+  "authors": [
+   "Xiaogang Guo",
+   "Menghui Lin",
+   "Laifeng Zhuo",
+   "Yanru Feng",
+   "Thanh Ninh Le",
+   "Minjie Zhao",
+   "Haiying Cai"
+  ],
+  "journal": "Foods",
+  "publisher": "MDPI AG",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.3390/foods15193517",
+  "url": "https://doi.org/10.3390/foods15193517",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-03",
   "issn": ""
  }
 ]
