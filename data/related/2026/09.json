@@ -1,6 +1,5 @@
 [
  {
-<<<<<<< HEAD
   "id": "feb21c97d00d81e2",
   "title": "Orthogonal Decoupling of First- and Second-Shell Contributions in Protein-Supported Single-Atom Catalysis.",
   "authors": [
@@ -18,44 +17,52 @@
   "doi": "10.1002/smll.76025",
   "url": "https://doi.org/10.1002/smll.76025",
   "source": "semanticscholar",
-=======
-  "id": "a948453b56087eba",
-  "title": "Lattice expansion enables interstitial Ni–sulfur vacancy pairs to trigger charge redistribution for boosted H2 evolution from polylactic acid hydrolysate",
-  "authors": [
-   "Zifei Xie",
-   "Ningjing Meng",
-   "Zimu zhang",
-   "RongLi Mo",
-   "Yujing Huang",
-   "Yihua Xu",
-   "Xin Wang",
-   "Xinru Wang",
-   "Yanping Hou",
-   "Ronghua Jiang",
-   "Jun Huang",
-   "Boge Zhang",
-   "Mingjie Li",
-   "Zebin Yu"
-  ],
-  "journal": "Journal of Colloid and Interface Science",
-  "publisher": "Elsevier BV",
-  "published": "2026-09-01",
-  "year": 2026,
-  "doi": "10.1016/j.jcis.2026.141712",
-  "url": "https://doi.org/10.1016/j.jcis.2026.141712",
-  "source": "openalex",
->>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
   "categories": [
    "Related"
   ],
   "tags": [
-<<<<<<< HEAD
    "Related",
    "Single-Atom Catalysts"
   ],
   "relevance_score": 24,
   "affiliations": [],
   "added": "2026-10-02",
+  "issn": ""
+ },
+ {
+  "id": "f12ec78421ad45fd",
+  "title": "Urea - Derived Carbon Nitride Fragmentation: A Route to Melem-Based Superstructures",
+  "authors": [
+   "Milica V. Carević",
+   "Nadica D. Abazović",
+   "Zorica D. Mojović",
+   "Jugoslav B. Krstić",
+   "Miloš Mojović",
+   "Tatjana D. Vulić",
+   "Mirjana I. Čomor"
+  ],
+  "journal": "Preprints.org",
+  "publisher": "",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.20944/preprints202609.2696.v1",
+  "url": "https://doi.org/10.20944/preprints202609.2696.v1",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Light Irradiation",
+   "ROS",
+   "Radical Chemistry",
+   "Related",
+   "Visible Light",
+   "g-C3N4"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-10-03",
   "issn": ""
  },
  {
@@ -121,6 +128,43 @@
   "relevance_score": 23,
   "affiliations": [],
   "added": "2026-10-01",
+  "issn": ""
+ },
+ {
+  "id": "198e6b89c418f78f",
+  "title": "Chemo-metallo nanodrivers for spatiotemporally controlled in situ vaccination.",
+  "authors": [
+   "Li X",
+   "Lei H",
+   "Chen Y",
+   "Yang Y",
+   "Lu S",
+   "Han S",
+   "Sun S",
+   "Pei Z",
+   "Pan X",
+   "Chen K",
+   "Lian L",
+   "Hou G",
+   "Cheng L."
+  ],
+  "journal": "Science advances",
+  "publisher": "",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.1126/sciadv.aee4577",
+  "url": "https://doi.org/10.1126/sciadv.aee4577",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-03",
   "issn": ""
  },
  {
@@ -197,7 +241,37 @@
   "affiliations": [],
   "added": "2026-10-02",
   "issn": ""
-=======
+ },
+ {
+  "id": "a948453b56087eba",
+  "title": "Lattice expansion enables interstitial Ni–sulfur vacancy pairs to trigger charge redistribution for boosted H2 evolution from polylactic acid hydrolysate",
+  "authors": [
+   "Zifei Xie",
+   "Ningjing Meng",
+   "Zimu zhang",
+   "RongLi Mo",
+   "Yujing Huang",
+   "Yihua Xu",
+   "Xin Wang",
+   "Xinru Wang",
+   "Yanping Hou",
+   "Ronghua Jiang",
+   "Jun Huang",
+   "Boge Zhang",
+   "Mingjie Li",
+   "Zebin Yu"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1016/j.jcis.2026.141712",
+  "url": "https://doi.org/10.1016/j.jcis.2026.141712",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
    "Hydrogen Evolution",
    "Related",
    "Sulfur Vacancies"
@@ -211,6 +285,5 @@
   ],
   "added": "2026-10-02",
   "issn": "0021-9797"
->>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
  }
 ]

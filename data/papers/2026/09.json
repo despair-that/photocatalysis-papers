@@ -774,7 +774,6 @@
   "added": "2026-09-16"
  },
  {
-<<<<<<< HEAD
   "id": "7c99b12b33d5f492",
   "title": "Emerging strategies for catalytic ammonia synthesis: novel energy-input pathways and regulation of catalyst electronic structure.",
   "authors": [
@@ -1470,11 +1469,7 @@
  },
  {
   "id": "52ea2915542b3953",
-  "title": "Chiral Heterojunctions for Spin-Enhanced Photoreforming of Plastic Waste.",
-=======
-  "id": "52ea2915542b3953",
   "title": "Chiral Heterojunctions for Spin‐Enhanced Photoreforming of Plastic Waste",
->>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
   "authors": [
    "Jian Li",
    "Zhenfa Wu",
@@ -1487,45 +1482,37 @@
    "Chuang Zhang",
    "Chongli Zhong"
   ],
-<<<<<<< HEAD
-  "journal": "Advanced materials (Deerfield Beach, Fla.)",
-=======
   "journal": "Advanced Materials",
->>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
   "publisher": "",
   "published": "2026-09-30",
   "year": 2026,
   "doi": "10.1002/adma.75215",
   "url": "https://doi.org/10.1002/adma.75215",
-<<<<<<< HEAD
-  "source": "pubmed",
-  "categories": [
-   "Solar Fuels",
-   "Hydrogen Evolution",
-=======
   "source": "openalex",
   "categories": [
    "Solar Fuels",
->>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
    "Z-Scheme & Heterojunctions",
    "Mechanism & Charge Dynamics"
   ],
   "tags": [
    "Charge Carriers",
    "Heterojunctions",
-<<<<<<< HEAD
-   "Hydrogen Evolution",
-=======
->>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
    "Photocatalysis",
    "Photogenerated Carriers",
    "Photoreforming"
   ],
-<<<<<<< HEAD
-  "relevance_score": 98,
-  "affiliations": [],
-  "added": "2026-10-01",
-  "issn": ""
+  "relevance_score": 92,
+  "affiliations": [
+   "Tiangong University",
+   "Technical Institute of Physics and Chemistry",
+   "Institute of Physics",
+   "Xiamen University",
+   "Tan Kah Kee Innovation Laboratory",
+   "Nanjing University",
+   "Nankai University"
+  ],
+  "added": "2026-10-02",
+  "issn": "0935-9648"
  },
  {
   "id": "4a733ed8715ae700",
@@ -1826,20 +1813,6 @@
   "affiliations": [],
   "added": "2026-10-01",
   "issn": "1735-1472"
-=======
-  "relevance_score": 92,
-  "affiliations": [
-   "Tiangong University",
-   "Technical Institute of Physics and Chemistry",
-   "Institute of Physics",
-   "Xiamen University",
-   "Tan Kah Kee Innovation Laboratory",
-   "Nanjing University",
-   "Nankai University"
-  ],
-  "added": "2026-10-02",
-  "issn": "0935-9648"
->>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
  },
  {
   "id": "29435223597293f3",
@@ -3948,7 +3921,6 @@
   "issn": ""
  },
  {
-<<<<<<< HEAD
   "id": "3161aedc892624ab",
   "title": "Eco‐friendly synthesis of Ca‐ and Mg‐doped ZnO nanoparticles via Ferula halophila : Photocatalytic and biological activities",
   "authors": [
@@ -4109,8 +4081,6 @@
   "issn": ""
  },
  {
-=======
->>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
   "id": "1f9168c040744bcd",
   "title": "Unlocking the Potential of Biomass Residues for the Sustainable Synthesis of Photocatalysts for H2 Generation",
   "authors": [
@@ -4148,8 +4118,7 @@
    "University of Perugia",
    "University of Palermo"
   ],
-<<<<<<< HEAD
-  "added": "2026-10-01",
+  "added": "2026-10-02",
   "issn": "2073-4344"
  },
  {
@@ -4184,12 +4153,6 @@
   "issn": ""
  },
  {
-=======
-  "added": "2026-10-02",
-  "issn": "2073-4344"
- },
- {
->>>>>>> eea97627 (feat(backfill): photoreforming queries + HTTP retry hardening; +500 papers backfilled)
   "id": "19034ad11c7b0658",
   "title": "An interfacial defect-engineered Mg2SnO4/BiOBr heterojunction: insights into vacancy-mediated charge dynamics with DFT insights for photo-defluorination of pollutants.",
   "authors": [
@@ -4218,6 +4181,41 @@
   "relevance_score": 78,
   "affiliations": [],
   "added": "2026-09-30",
+  "issn": ""
+ },
+ {
+  "id": "0c0d4bc1ac4046da",
+  "title": "Au-loaded ZnO immobilized cellulose-derived carbon beads for enhanced photocatalytic degradation of tetracycline.",
+  "authors": [
+   "Yaoyao Wang",
+   "Pujuan Zhao",
+   "Gao Huan",
+   "Xiaogang Luo"
+  ],
+  "journal": "Journal of hazardous materials",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.1016/j.jhazmat.2026.143778",
+  "url": "https://doi.org/10.1016/j.jhazmat.2026.143778",
+  "source": "pubmed",
+  "categories": [
+   "Pollutant Degradation",
+   "Reactor Engineering & Scale-up",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Antibiotic Degradation",
+   "Charge Transfer",
+   "Immobilization",
+   "Photocatalysis",
+   "Semiconductors",
+   "ZnO"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-03",
   "issn": ""
  },
  {
@@ -4950,6 +4948,56 @@
   "relevance_score": 66,
   "affiliations": [],
   "added": "2026-09-29"
+ },
+ {
+  "id": "a948453b56087eba",
+  "title": "Lattice expansion enables interstitial Ni-sulfur vacancy pairs to trigger charge redistribution for boosted H2 evolution from polylactic acid hydrolysate.",
+  "authors": [
+   "Zifei Xie",
+   "Ningjing Meng",
+   "Zimu Zhang",
+   "RongLi Mo",
+   "Yujing Huang",
+   "Yihua Xu",
+   "Xin Wang",
+   "Xinru Wang",
+   "Yanping Hou",
+   "Ronghua Jiang",
+   "Jun Huang",
+   "Boge Zhang",
+   "Mingjie Li",
+   "Zebin Yu"
+  ],
+  "journal": "Journal of colloid and interface science",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1016/j.jcis.2026.141712",
+  "url": "https://doi.org/10.1016/j.jcis.2026.141712",
+  "source": "pubmed",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Charge Separation",
+   "DFT",
+   "Doping",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreforming",
+   "Sulfur Vacancies",
+   "Visible Light"
+  ],
+  "relevance_score": 88,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
  },
  {
   "id": "a55efab9535c821e",
@@ -18732,6 +18780,48 @@
    "Harbin University of Science and Technology"
   ],
   "added": "2026-09-19"
+ },
+ {
+  "id": "107d30e311e98065",
+  "title": "Ultrathin TiO2-CeO2 Composite Films for Efficient Photocatalytic Methylene Blue Degradation.",
+  "authors": [
+   "Mahsa Amiri",
+   "Majid Ahmadi",
+   "Mahtab Salari Mehr",
+   "Elyad Damerchi",
+   "Khatereh Roohi",
+   "Peyman Taheri",
+   "Tanel Tätte",
+   "Nadezda Kongi",
+   "Alexander Vanetsev"
+  ],
+  "journal": "ACS omega",
+  "publisher": "",
+  "published": "2026-09-17",
+  "year": 2026,
+  "doi": "10.1021/acsomega.6c07126",
+  "url": "https://doi.org/10.1021/acsomega.6c07126",
+  "source": "pubmed",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "2D Materials",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Immobilization",
+   "Photocatalysis",
+   "Pollutants",
+   "TiO2",
+   "Ultrathin",
+   "Wastewater",
+   "Water Purification"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
  },
  {
   "id": "0e364b1434407f31",
@@ -41669,6 +41759,42 @@
   "relevance_score": 61,
   "affiliations": [],
   "added": "2026-08-24"
+ },
+ {
+  "id": "a1084cf1952f6843",
+  "title": "Fluorination Effects in Hexagonal XY (X, Y = C, Ge, Si, Sn; X ≠ Y) Monolayers and vdW Heterostructures: Insights from Ab Initio Calculations.",
+  "authors": [
+   "Renato B Pontes",
+   "Danilo P Kuritza",
+   "Rafael Barbosa",
+   "José E Padilha"
+  ],
+  "journal": "ACS omega",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1021/acsomega.6c04011",
+  "url": "https://doi.org/10.1021/acsomega.6c04011",
+  "source": "pubmed",
+  "categories": [
+   "Water Splitting",
+   "Computational & DFT",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Band Structure",
+   "Heterostructures",
+   "Photocatalysis",
+   "Semiconductors",
+   "Water Splitting"
+  ],
+  "relevance_score": 88,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
  },
  {
   "id": "9cfa14d77c3eee2b",

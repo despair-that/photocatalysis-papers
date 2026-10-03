@@ -1,5 +1,35 @@
 [
  {
+  "id": "fbc870bf9c095c3e",
+  "title": "Piezocatalysis and piezo-photocatalysis of metal-organic frameworks: from symmetry- and mechanism-based classification, design to applications",
+  "authors": [
+   "Chaofan Yuan",
+   "Sheng Guo",
+   "Yihe Zhang",
+   "Na Tian",
+   "Fang Chen",
+   "Hongwei Huang"
+  ],
+  "journal": "Coordination Chemistry Reviews",
+  "publisher": "Elsevier BV",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.ccr.2026.218611",
+  "url": "https://doi.org/10.1016/j.ccr.2026.218611",
+  "source": "crossref",
+  "categories": [
+   "MOFs & COFs"
+  ],
+  "tags": [
+   "MOFs",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
   "id": "c14269e81eecbbc7",
   "title": "Green and sustainable metal–organic framework catalysts for biodiesel production: Progress and energy circularity perspectives",
   "authors": [

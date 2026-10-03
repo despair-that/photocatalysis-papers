@@ -1,5 +1,33 @@
 [
  {
+  "id": "042a65f32ab5ba88",
+  "title": "Revisiting the universal principle for the rational design of single-atom electrocatalysts",
+  "authors": [
+   "Haoxiang Xu",
+   "Daojian Cheng",
+   "Dapeng Cao",
+   "Xiao Cheng Zeng"
+  ],
+  "journal": "Nature Catalysis",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2024-02-27",
+  "year": 2024,
+  "doi": "10.1038/s41929-023-01106-z",
+  "url": "https://doi.org/10.1038/s41929-023-01106-z",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
   "id": "3576053df1a7f1eb",
   "title": "Photo-thermal coupled single-atom catalysis boosting dry reforming of methane beyond thermodynamic limits over high equivalent flow",
   "authors": [

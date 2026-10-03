@@ -211,6 +211,48 @@
   "issn": ""
  },
  {
+  "id": "85e6f4a3ac331ff1",
+  "title": "Near‐Infrared‐Active Plasmonic S‐Scheme Zn 0.5 Cd 0.5 S/W 18 O 49 Heterojunction Enables Simultaneous Polylactic Acid Photoreforming and Hydrovoltaic Power Generation",
+  "authors": [
+   "Xin Wang",
+   "Boyan Liu",
+   "Liangcheng Xu",
+   "Yingjuan Zhang",
+   "Kai-Hang Ye",
+   "Xiaowen Ruan",
+   "Songcan Wang"
+  ],
+  "journal": "Advanced Energy Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-03",
+  "year": 2026,
+  "doi": "10.1002/aenm.71658",
+  "url": "https://doi.org/10.1002/aenm.71658",
+  "source": "crossref",
+  "categories": [
+   "Solar Fuels",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Heterojunctions",
+   "LSPR",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreforming",
+   "Plasmonics",
+   "Quantum Efficiency",
+   "Quantum Yield",
+   "Solar Fuels"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-10-03",
+  "issn": ""
+ },
+ {
   "id": "f964ca4ae123de53",
   "title": "Selective Ultrafast Excitation and Dephasing of Gap Plasmons into Hot Carriers in Structural Color Generation",
   "authors": [
