@@ -24,7 +24,7 @@ EFETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 TERM = (
     'photocatalysis[tiab] OR photocatalytic[tiab] OR photocatalyst[tiab] '
     'OR photoredox[tiab] OR photoelectrochemical[tiab] OR '
-    'photodegradation[tiab]'
+    'photodegradation[tiab] OR photoreforming[tiab]'
 )
 
 

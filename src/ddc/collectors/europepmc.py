@@ -27,7 +27,8 @@ class EuropePmcCollector(Collector):
     def fetch(self, since: dt.date, limit: int) -> List[RawRecord]:
         query = (
             '(photocatalysis OR photocatalytic OR photocatalyst OR '
-            'photoredox OR photoelectrochemical OR photodegradation) AND '
+            'photoredox OR photoelectrochemical OR photodegradation OR '
+            'photoreforming) AND '
             f'FIRST_PDATE:[{since.isoformat()} TO {dt.date.today().isoformat()}]'
         )
         data = http.get_json(API, {

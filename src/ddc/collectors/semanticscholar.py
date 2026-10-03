@@ -25,6 +25,7 @@ QUERIES = (
     "photocatalysis",
     "photocatalytic hydrogen evolution",
     "photoredox catalysis",
+    "photoreforming",
 )
 
 

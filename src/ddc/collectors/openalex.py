@@ -28,6 +28,7 @@ SEARCHES = (
     "photoelectrochemical water splitting",
     "visible light mediated",
     "ligand to metal charge transfer",
+    "photoreforming",
 )
 
 # Transparent-peer-review artifacts (review reports, decision letters,

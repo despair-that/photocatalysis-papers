@@ -18,7 +18,7 @@ log = logging.getLogger(__name__)
 
 API = "https://doaj.org/api/search/articles/"
 
-QUERY = 'photocatalysis OR photocatalytic OR photoredox'
+QUERY = 'photocatalysis OR photocatalytic OR photoredox OR photoreforming'
 
 
 @register

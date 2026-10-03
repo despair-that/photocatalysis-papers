@@ -26,6 +26,7 @@ NS = {
 QUERIES = (
     "all:photocatalytic",
     "all:photocatalysis",
+    "all:photoreforming",
     'abs:"photoelectrochemical water splitting" OR abs:"photoredox catalysis"',
 )
 
