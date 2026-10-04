@@ -1,5 +1,45 @@
 [
  {
+  "id": "e5eb61ac099bbc5a",
+  "title": "Computational Insights into Catalytic Hydrogenation over M6O8-Node MOFs: From Active-Site Engineering to Data-Driven Catalyst Design",
+  "authors": [
+   "Wenting Ding",
+   "Zuoshuai Xi",
+   "Shuanglong Li",
+   "Yongquan Niu",
+   "Wenqing Li",
+   "Yujing Ji",
+   "Jingjing Wang",
+   "Hongyi Gao",
+   "Ge Wang"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c05813",
+  "url": "https://doi.org/10.1021/acscatal.6c05813",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "Data-Driven",
+   "Doping",
+   "High-Throughput",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "University of Science and Technology Beijing"
+  ],
+  "added": "2026-10-04",
+  "issn": "2155-5435"
+ },
+ {
   "id": "d75e23b1f5f086a9",
   "title": "Theory-guided design of 3d transition-metal doped Ni2P(001) enables superior bifunctional catalysis for hydrazine-assisted hydrogen production",
   "authors": [
