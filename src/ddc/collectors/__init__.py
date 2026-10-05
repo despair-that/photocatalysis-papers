@@ -17,6 +17,7 @@ from . import chemrxiv  # noqa: F401
 from . import crossref  # noqa: F401
 from . import doaj  # noqa: F401
 from . import europepmc  # noqa: F401
+from . import journalrss  # noqa: F401
 from . import openalex  # noqa: F401
 from . import pubmed  # noqa: F401
 from . import semanticscholar  # noqa: F401

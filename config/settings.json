@@ -15,6 +15,7 @@
     "europepmc",
     "pubmed",
     "semanticscholar",
-    "doaj"
+    "doaj",
+    "journalrss"
   ]
 }
