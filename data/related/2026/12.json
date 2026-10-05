@@ -214,5 +214,38 @@
   "affiliations": [],
   "added": "2026-10-05",
   "issn": ""
+ },
+ {
+  "id": "31899f3bab65f07b",
+  "title": "Missing-linker-confined Ru-based single-atom nanozymes enable proximity-enhanced dual enzyme catalysis and multimodal signal transduction",
+  "authors": [
+   "Peng Wei",
+   "Mi-Qin Lv",
+   "Hong-Ling Tao",
+   "Jian Lv",
+   "Yan-Yue Chen",
+   "Lin-Ru Bai",
+   "Jian Tang",
+   "Yun-Hui Yang",
+   "Rong Hu"
+  ],
+  "journal": "Sensors and Actuators B: Chemical",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.snb.2026.140812",
+  "url": "https://doi.org/10.1016/j.snb.2026.140812",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
  }
 ]
