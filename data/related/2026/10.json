@@ -1,5 +1,169 @@
 [
  {
+  "id": "075d04890b0f8fb5",
+  "title": "Engineering a Ni-N4 coordinated porphyrinic polymer-carbon nanotube hybrid for efficient alkaline hydrogen evolution",
+  "authors": [
+   "Ai-Jian Wang",
+   "Cheng Yuan",
+   "Peng-Fei Chen",
+   "Jia-Cheng Hou",
+   "Wei Zhu",
+   "Wei Zhao",
+   "Long Zhao"
+  ],
+  "journal": "Dyes and Pigments",
+  "publisher": "",
+  "published": "2026-10-05",
+  "year": 2026,
+  "doi": "10.1016/j.dyepig.2026.114250",
+  "url": "https://doi.org/10.1016/j.dyepig.2026.114250",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "6bb504ba2ca63095",
+  "title": "Photo-Enhanced Electronic Metal-Support Interaction Boosts Low-Temperature Water-Gas Shift Reaction via Ni δ+ -O V -Ce 3+ Interfacial Redox Cycling.",
+  "authors": [
+   "Tian J",
+   "Wang Z",
+   "Guan A",
+   "Hou Y",
+   "Yu H",
+   "Sun X",
+   "Zhu Y",
+   "Wang X",
+   "Tian H",
+   "Lu J",
+   "Pan JH."
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-10-04",
+  "year": 2026,
+  "doi": "10.1002/anie.6374020",
+  "url": "https://doi.org/10.1002/anie.6374020",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LDH",
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "f1d584ff85b5b8c8",
+  "title": "Light-assisted hydrogen evolution at a Pt cathode using [Ru(bpy)3]-intercalated layered MnO2 anodes.",
+  "authors": [
+   "Hayato Sano",
+   "Ryota Sugawara",
+   "Rion Yamaguchi",
+   "Ryo Sasaki",
+   "Kazuaki Tomono"
+  ],
+  "journal": "Dalton transactions",
+  "publisher": "",
+  "published": "2026-10-02",
+  "year": 2026,
+  "doi": "10.1039/d6dt01780k",
+  "url": "https://doi.org/10.1039/d6dt01780k",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Metal Photocatalysts",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "9e548938a97a8321",
+  "title": "Enhanced Hydrogen Evolution Activity of MoS2 Through Solid Solution Modification of Its Edge Sites With Ruthenium.",
+  "authors": [
+   "Jin-Song Zhou",
+   "Tsz-Kei Leung",
+   "Denis A. Kuznetsov",
+   "C. Müller",
+   "Lei Ran",
+   "Ying-Guang Zhang",
+   "Xin Li",
+   "Gang Li",
+   "Yi-Fan Xu",
+   "Ke-Da Chen",
+   "Qing-Lan Tang",
+   "Yao-Yang Yu",
+   "Michael K. H. Leung"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "",
+  "published": "2026-10-02",
+  "year": 2026,
+  "doi": "10.1002/anie.1871980",
+  "url": "https://doi.org/10.1002/anie.1871980",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "EIS",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "MoS2",
+   "Related",
+   "Tafel"
+  ],
+  "relevance_score": 33,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "7c893f2c6f98468e",
+  "title": "Lactate‐Depleting Nanotherapy Reprograms the Immunometabolic Microenvironment to Overcome Biofilm Tolerance in Implant‐Associated Infections",
+  "authors": [
+   "Wenbo Wang, Biyu Rui, Guixia Wang, Zesong Ruan, Zhiyuan Luo, Yunlong Zhang, Tingwang Shi, Yingying Huang, Yunfeng Chen"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-02",
+  "year": 2026,
+  "doi": "10.1002/adma.75214",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75214?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Related"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": "1521-4095"
+ },
+ {
   "id": "e5eb61ac099bbc5a",
   "title": "Computational Insights into Catalytic Hydrogenation over M6O8-Node MOFs: From Active-Site Engineering to Data-Driven Catalyst Design",
   "authors": [

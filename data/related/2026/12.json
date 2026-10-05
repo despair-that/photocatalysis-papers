@@ -1,5 +1,158 @@
 [
  {
+  "id": "efa2997fd6931677",
+  "title": "Electrochemical self-activation of TaS2 for hydrogen evolution – Revealing the mechanism and demonstrating the key role of H2S evolution and Pt doping",
+  "authors": [
+   "Vladislav Buravets",
+   "František Hošek",
+   "E. Miliutina",
+   "V. Burtsev",
+   "Kamil Severa",
+   "Jana Rosenkranzová",
+   "P. Fitl",
+   "M. Paidar",
+   "T. Hrbek",
+   "A. Chumakov",
+   "L. Bajtošová",
+   "M. Cieslar",
+   "A. Kaňa",
+   "V. Švorčík",
+   "O. Lyutakov"
+  ],
+  "journal": "Journal of Power Sources",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jpowsour.2026.241421",
+  "url": "https://doi.org/10.1016/j.jpowsour.2026.241421",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "b37b275b3d916641",
+  "title": "Unraveling the role of polyol additives in mitigating hydrogen evolution and improving anode utilization in magnesium–air batteries",
+  "authors": [
+   "N. Ankah",
+   "Sanna Gull",
+   "Rida Fatima",
+   "Nur Adnin Akmar Zulkifli",
+   "I. B. Obot"
+  ],
+  "journal": "Journal of Energy Storage",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.est.2026.124709",
+  "url": "https://doi.org/10.1016/j.est.2026.124709",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "a2cb87bf0781c01a",
+  "title": "Oxygen-deficient Fe3O4-x/Fe hybrid nanoparticles anchored on defect-rich carbon nanotubes for high-performance supercapacitors and alkaline hydrogen evolution reaction",
+  "authors": [
+   "Libin V. R.",
+   "Sajana Pooniya",
+   "A. Singh",
+   "Saurabh Pathak",
+   "Dinesh Bhalothia"
+  ],
+  "journal": "Materials Today Sustainability",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtsust.2026.101449",
+  "url": "https://doi.org/10.1016/j.mtsust.2026.101449",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "9efe045f9f5b2f98",
+  "title": "A molten-salt strategy for synthesizing Co9S8-embedded, N, S Co-doped mesoporous carbon as electrocatalysts for hydrogen evolution",
+  "authors": [
+   "Mei-Zhu Chen",
+   "Wen-Ting Zhang",
+   "Duihai Tang",
+   "Shi-Gang Xin",
+   "Zheng-Han Zhao"
+  ],
+  "journal": "Microporous and Mesoporous Materials",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.micromeso.2026.114389",
+  "url": "https://doi.org/10.1016/j.micromeso.2026.114389",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "647917b447955e01",
+  "title": "Corrigendum to “Innovation trends and evolutionary paths of electrocatalytic hydrogen evolution reaction technology: A global patent analysis” [World Pat. Inf. 83 (2025) 102388 DOI:10.1016/j.wpi.2025.102388]",
+  "authors": [
+   "Wen-Ting Jin",
+   "Ji Huang"
+  ],
+  "journal": "World Patent Information",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.wpi.2026.102500",
+  "url": "https://doi.org/10.1016/j.wpi.2026.102500",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
   "id": "5570c62843d8f3ab",
   "title": "Partially reduced graphene oxide-supported Ti3C2Tx MXene/NiCo2S4 composites for synergistic polysulfide anchoring and catalysis toward high-performance lithium-sulfur batteries",
   "authors": [
@@ -29,6 +182,37 @@
   "relevance_score": 23,
   "affiliations": [],
   "added": "2026-10-02",
+  "issn": ""
+ },
+ {
+  "id": "44dd51135d515ded",
+  "title": "Petal-like self-supported nickel phosphide electrode with synergistic cobalt doping and cation vacancies as an efficient electrocatalyst for the alkaline hydrogen evolution reaction",
+  "authors": [
+   "Jian-Jun Zhao",
+   "Lu Li",
+   "Ying-Qi Tan",
+   "Nan Sun",
+   "Chun-Lin Song",
+   "Jin-Gang Yang"
+  ],
+  "journal": "Journal of Power Sources",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jpowsour.2026.241423",
+  "url": "https://doi.org/10.1016/j.jpowsour.2026.241423",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-05",
   "issn": ""
  }
 ]

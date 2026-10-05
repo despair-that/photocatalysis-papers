@@ -35,6 +35,39 @@
   "added": "2026-08-07"
  },
  {
+  "id": "ed703d49df85f9eb",
+  "title": "Unassisted tandem photoelectrochemical system for simultaneous hydrogen evolution and polyethylene terephthalate plastic reforming",
+  "authors": [
+   "Shuo Zhang",
+   "Yang-Lin Chen",
+   "Yu-Qing Wang",
+   "Stener Lie",
+   "T. Salim",
+   "Phei Lim Chan",
+   "Ahmad Ibrahim",
+   "L. Wong"
+  ],
+  "journal": "Nano Energy",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nanoen.2026.112381",
+  "url": "https://doi.org/10.1016/j.nanoen.2026.112381",
+  "source": "semanticscholar",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
   "id": "ec03ffc5340e729f",
   "title": "Potential Conversion of Chicken Bone Waste into Fe2O3-Functionalized Hydroxyapatite Photocatalyst",
   "authors": [
@@ -671,6 +704,40 @@
   "issn": ""
  },
  {
+  "id": "81c2f64a2c9e52d0",
+  "title": "Rational construction of ZnCdS/MnO2 photocatalyst for hydrogen evolution coupling with plastic reforming",
+  "authors": [
+   "Rui-Xuan Chu",
+   "Yan-Ru Wang",
+   "Yu-Sen Han",
+   "Wen-Bei Jia",
+   "Wei-Ye Zhang",
+   "Bing-Qiang Cao",
+   "Qin Zhong",
+   "Man Ou",
+   "Shi-Peng Wan",
+   "Zhao-Xiang Zhong"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.cej.2026.182661",
+  "url": "https://doi.org/10.1016/j.cej.2026.182661",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
   "id": "7efee972881723b9",
   "title": "SnO₂/TiO₂ mixed oxides photocatalyst: A rapid synthesis approach and its application in visible-light decolourisation of crystal violet",
   "authors": [
@@ -1006,6 +1073,35 @@
   "relevance_score": 87,
   "affiliations": [],
   "added": "2026-10-03",
+  "issn": ""
+ },
+ {
+  "id": "3bd47e7616166eaf",
+  "title": "Photothermal interfacial evaporation coupled photocatalytic water vapor splitting for efficient hydrogen production",
+  "authors": [
+   "Xin-Yu Gao",
+   "Feng Liu",
+   "Xue-Li Yan",
+   "Xiao-Jing Ma",
+   "Mao-Chang Liu"
+  ],
+  "journal": "Nano Energy",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nanoen.2026.112406",
+  "url": "https://doi.org/10.1016/j.nanoen.2026.112406",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-05",
   "issn": ""
  },
  {

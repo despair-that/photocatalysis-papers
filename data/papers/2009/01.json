@@ -17450,6 +17450,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a9579e5f6f851fc8",
+  "title": "Synthesis of rutile–anatase core–shell structured TiO2 for photocatalysis",
+  "authors": [
+   "Gang Liu",
+   "Xiaoxia Yan",
+   "Zhigang Chen",
+   "Xuewen Wang",
+   "Lianzhou Wang",
+   "Gao Qing Lu",
+   "Hui-Ming Cheng"
+  ],
+  "journal": "Journal of Materials Chemistry",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2009-01-01",
+  "year": 2009,
+  "doi": "10.1039/b902666e",
+  "url": "https://doi.org/10.1039/b902666e",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-05",
+  "issn": ""
+ },
+ {
   "id": "a9492c3c80ce57c8",
   "title": "Tungsten trioxide and titanium dioxide photocatalytic degradations of quinoline",
   "authors": [
