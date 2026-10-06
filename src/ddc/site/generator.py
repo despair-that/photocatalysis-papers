@@ -236,13 +236,10 @@ def _related_page(related: List[Paper], ctx: dict) -> str:
     cards = "\n".join(paper_card(p, jmeta=resolve_journal(p.journal, p.issn))
                       for p in shown)
     intro = (f"<h1>Related radar</h1>\n"
-             f"<p>Non-photocatalysis papers that still matter here — written "
-             f"by a pioneer author, or hitting the core-material vocabulary "
-             f"(CdS, LDH, NiCo, dual/single-atom, lactic acid, sacrificial "
-             f"systems, HER, electrochemical characterization) — kept separate "
-             f"from the main index. Showing the {len(shown):,} most recently "
-             f"indexed of {len(related):,}; each card carries the tags that "
-             f"qualified it.</p>\n")
+             f"<p>Non-photocatalysis papers still worth tracking, kept "
+             f"separate from the main index. Showing the {len(shown):,} most "
+             f"recently indexed of {len(related):,}; each card carries the "
+             f"tags that qualified it.</p>\n")
     empty = ('<p class="empty">Nothing here yet — the related index fills as '
              'new papers arrive.</p>')
     return page(title=f"Related · {ctx['site_title']}",
