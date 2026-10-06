@@ -12586,7 +12586,8 @@
    "Co-catalysts",
    "Hydrogen Evolution",
    "Hydrogen Production",
-   "Photocatalysis"
+   "Photocatalysis",
+   "Dual-Atom Catalysts"
   ],
   "relevance_score": 78,
   "affiliations": [
@@ -16540,7 +16541,8 @@
   "tags": [
    "DFT",
    "Machine Learning",
-   "Photocatalysis"
+   "Photocatalysis",
+   "Dual-Atom Catalysts"
   ],
   "relevance_score": 61,
   "affiliations": [

@@ -15942,7 +15942,8 @@
    "Carbon Nitride",
    "Light Irradiation",
    "Photocatalysis",
-   "Single-Atom Catalysts"
+   "Single-Atom Catalysts",
+   "Dual-Atom Catalysts"
   ],
   "relevance_score": 60,
   "affiliations": [
@@ -38637,7 +38638,8 @@
    "DFT",
    "Hydrogen Evolution",
    "Photocatalysis",
-   "Radical Chemistry"
+   "Radical Chemistry",
+   "Dual-Atom Catalysts"
   ],
   "relevance_score": 76,
   "affiliations": [
@@ -96768,7 +96770,8 @@
   ],
   "tags": [
    "Photoreduction",
-   "g-C3N4"
+   "g-C3N4",
+   "Dual-Atom Catalysts"
   ],
   "relevance_score": 55,
   "affiliations": [

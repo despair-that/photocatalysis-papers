@@ -21906,7 +21906,8 @@
    "Organic Synthesis",
    "Photocatalysis",
    "Single-Atom Catalysts",
-   "Solar Fuels"
+   "Solar Fuels",
+   "Dual-Atom Catalysts"
   ],
   "relevance_score": 100,
   "affiliations": [
@@ -26529,7 +26530,8 @@
    "General Photocatalysis"
   ],
   "tags": [
-   "Photocatalysis"
+   "Photocatalysis",
+   "Dual-Atom Catalysts"
   ],
   "relevance_score": 46,
   "affiliations": [
@@ -32770,7 +32772,8 @@
    "Carbon Nitride",
    "Photocatalysis",
    "Visible Light",
-   "g-C3N4"
+   "g-C3N4",
+   "Dual-Atom Catalysts"
   ],
   "relevance_score": 69,
   "affiliations": [

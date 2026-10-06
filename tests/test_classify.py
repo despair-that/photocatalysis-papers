@@ -120,6 +120,20 @@ class TestClassify(unittest.TestCase):
         self.assertTrue(verdict.accepted)
         self.assertIn("Water Splitting", verdict.categories)
 
+    def test_unicode_hyphen_terms_match(self):
+        # Publisher metadata often carries U+2010/U+2011 where an ASCII
+        # hyphen was intended ("dual‐atom", "Z‐scheme"); vocabulary phrases
+        # must still match and award their tags.
+        for title in (
+            "Ni-Fe dual-atom anchored g-C3N5 for photocatalytic H2 evolution",
+            "Ni\u2010Fe dual\u2010atom anchored g\u2010C3N5 for photocatalytic "
+            "H2 evolution",
+        ):
+            r = record(title)
+            verdict = classify(r)
+            self.assertTrue(verdict.accepted, title)
+            self.assertIn("Dual-Atom Catalysts", verdict.tags, title)
+
     def test_accepts_lmct_synthesis(self):
         # Modern LMCT photochemistry often never says "photocatal…"
         r = record(

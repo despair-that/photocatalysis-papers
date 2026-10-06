@@ -33,18 +33,26 @@ _TITLE_BONUS = 1  # extra point when a term appears in the title
 _MIN_PRIMARY_POINTS = 4
 
 
+# Publisher metadata (Crossref, Elsevier XML) often carries U+2010/U+2011
+# hyphens or U+2212 minus signs where an ASCII hyphen was intended; a phrase
+# like "dual-atom" or "Z-scheme" must match those too.
+_DASH_CLASS = "[\u2010-\u2015\u2212-]"
+
+
 def _compile(vocab: Dict[str, object]) -> List[Tuple[re.Pattern, str]]:
     """Compile phrases to word-boundary patterns allowing suffixes.
 
     "photocatal" matches "photocatalysis" / "photocatalytic" /
     "photocatalyst(s)".  Phrases containing uppercase letters (e.g. "CdS")
     compile case-sensitively so acronyms with distinct casing stay distinct —
-    "CdS" must not match "CDs" (carbon dots).
+    "CdS" must not match "CDs" (carbon dots).  ASCII hyphens inside a phrase
+    also match the Unicode dash variants listed in _DASH_CLASS.
     """
     compiled = []
     for phrase in vocab:
         flags = 0 if any(c.isupper() for c in phrase) else re.IGNORECASE
-        pattern = re.compile(r"\b" + re.escape(phrase) + r"\w*", flags)
+        body = re.escape(phrase).replace("\\-", _DASH_CLASS)
+        pattern = re.compile(r"\b" + body + r"\w*", flags)
         compiled.append((pattern, phrase))
     return compiled
 
