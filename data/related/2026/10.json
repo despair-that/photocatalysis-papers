@@ -31,6 +31,96 @@
   "issn": ""
  },
  {
+  "id": "e04781da76c12dd9",
+  "title": "Regulating the Local Coordination of Cd‐Glutamate Through Ligand Chirality for Efficient Alkaline Hydrogen Evolution",
+  "authors": [
+   "Aslam Hossain",
+   "Zhengyou Li",
+   "Soorya Sreedevi",
+   "Mariya Ivanova",
+   "Alexander V. Soldatov",
+   "Afzal Hussain",
+   "Zahid Rafiq"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-10-04",
+  "year": 2026,
+  "doi": "10.1002/smll.76010",
+  "url": "https://doi.org/10.1002/smll.76010",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "DFT",
+   "Hydrogen Evolution",
+   "Related",
+   "Tafel"
+  ],
+  "relevance_score": 27,
+  "affiliations": [
+   "Trakia University",
+   "Southern Federal University",
+   "King Saud University",
+   "The University of Texas at El Paso"
+  ],
+  "added": "2026-10-06",
+  "issn": "1613-6810"
+ },
+ {
+  "id": "dbd71fc25f360090",
+  "title": "Engineering Carbon Cloth‐Catalyst Interfaces for Pt‐Free Hydrogen Evolution Across the Full pH Spectrum",
+  "authors": [
+   "Syed Mohammed Hubaish, Belal Salah, Khouloud Jlassi, Ali A. Abdelhafiz, Kamel Eid"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2026-10-04",
+  "year": 2026,
+  "doi": "10.1002/advs.77763",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77763?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-06",
+  "issn": "2198-3844"
+ },
+ {
+  "id": "7fa8604a243bcdb0",
+  "title": "Phytic Acid‐Induced Oxygen Vacancies in Self‐Supporting NiCo Metal‐Organic Frameworks for Efficient Oxygen Evolution Reaction",
+  "authors": [
+   "Hanya Ye, Qing Zhang, Cong Liu, Xiaoqian Zang, Muhammad Nadeem, Qiaoliang Bao, Yoshio Bando, Ding Yuan, Yuhai Dou"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-10-04",
+  "year": 2026,
+  "doi": "10.1002/smll.76082",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76082?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "NiCo",
+   "Oxygen Evolution",
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 26,
+  "affiliations": [],
+  "added": "2026-10-06",
+  "issn": "1613-6810"
+ },
+ {
   "id": "6bb504ba2ca63095",
   "title": "Photo-Enhanced Electronic Metal-Support Interaction Boosts Low-Temperature Water-Gas Shift Reaction via Ni δ+ -O V -Ce 3+ Interfacial Redox Cycling.",
   "authors": [
@@ -66,6 +156,31 @@
   "affiliations": [],
   "added": "2026-10-05",
   "issn": ""
+ },
+ {
+  "id": "49f58caecbcfa4b3",
+  "title": "MoS2‐Based Thermoelectric Materials: Current Advances and Future Prospects in Micro‐Thermoelectric Devices",
+  "authors": [
+   "Yan Gu, Jia Liang, Xiangyang Liu, Kaleem Ahmad, Chunlei Wan"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-10-04",
+  "year": 2026,
+  "doi": "10.1002/smll.76042",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76042?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-06",
+  "issn": "1613-6810"
  },
  {
   "id": "f1d584ff85b5b8c8",

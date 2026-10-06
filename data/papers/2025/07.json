@@ -46328,6 +46328,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f49fbb6bd8119ae5",
+  "title": "Engineered covalent triazine framework inverse opal beads for enhanced photocatalytic carbon dioxide reduction",
+  "authors": [
+   "Xu Wang",
+   "Jingzhen Wang",
+   "Fengtong Shen",
+   "Ying Zhang",
+   "Long Zhang",
+   "Linlin Zang",
+   "Liguo Sun"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2025-07-01",
+  "year": 2025,
+  "doi": "10.1016/j.jcis.2025.03.033",
+  "url": "https://doi.org/10.1016/j.jcis.2025.03.033",
+  "source": "crossref",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-10-06",
+  "issn": ""
+ },
+ {
   "id": "f34c8d969ffa6aad",
   "title": "Photoredox-HAT catalysed α-C–H alkylation of primary amines with vinyl phosphine oxides: New building blocks for spiropyrrolidine synthesis",
   "authors": [

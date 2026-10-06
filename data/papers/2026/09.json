@@ -5778,6 +5778,46 @@
   "added": "2026-09-29"
  },
  {
+  "id": "48eb5687d709224a",
+  "title": "Molybdenum cluster iodides for improved CsPbBr3 perovskite photoelectrodes: a superatomic approach to stability, passivation, and optoelectronic performance.",
+  "authors": [
+   "Stéphane Cordier",
+   "Thi Diep Pham",
+   "Serge Paofai",
+   "Antoine Le Gendre",
+   "Etienne Le Gendre",
+   "Kurt Kpoton",
+   "Régis Gautier",
+   "Adèle Renaud"
+  ],
+  "journal": "Nanoscale",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1039/d6nr02142e",
+  "url": "https://doi.org/10.1039/d6nr02142e",
+  "source": "pubmed",
+  "categories": [
+   "Photoelectrochemistry",
+   "Perovskites",
+   "Semiconductor Materials",
+   "Computational & DFT",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "DFT",
+   "Halide Perovskites",
+   "Heterostructures",
+   "Perovskites",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 56,
+  "affiliations": [],
+  "added": "2026-10-06",
+  "issn": ""
+ },
+ {
   "id": "4502d8464bfd85ee",
   "title": "Enhanced Visible-Light Photocatalytic Activity of Bi-Doped ZnFe2O4 Thin Films toward Rhodamine B and Metronidazole Degradation",
   "authors": [
@@ -13045,6 +13085,41 @@
    "Ministry of Higher Education and Scientific Research"
   ],
   "added": "2026-09-23"
+ },
+ {
+  "id": "673927a147521691",
+  "title": "Active regulation of synergistic interfacial materials for solar water purification.",
+  "authors": [
+   "Xinyu Li",
+   "Xiaoke Li",
+   "Zhen Yu",
+   "Xinrong Huang",
+   "Jun Xia",
+   "Zechang Wei",
+   "Jintong Gao",
+   "Yingtang Zhou",
+   "Lenan Zhang",
+   "Swee Ching Tan"
+  ],
+  "journal": "Science bulletin",
+  "publisher": "",
+  "published": "2026-09-22",
+  "year": 2026,
+  "doi": "10.1016/j.scib.2026.09.065",
+  "url": "https://doi.org/10.1016/j.scib.2026.09.065",
+  "source": "pubmed",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "Water Purification"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-10-06",
+  "issn": ""
  },
  {
   "id": "64ed253ca1502121",

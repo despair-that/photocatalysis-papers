@@ -7555,6 +7555,40 @@
   "added": "2026-07-26"
  },
  {
+  "id": "46b225213da78b7c",
+  "title": "Synthesis and Properties of Size-Adjustable CsPbBr3 Nanosheets for Potential Photocatalysis",
+  "authors": [
+   "Qi Liu",
+   "Hang Li",
+   "Xiaoqian Wang",
+   "Jiazhen He",
+   "Xuemin Luo",
+   "Mingwei Wang",
+   "Jinfeng Liu",
+   "Yong Liu"
+  ],
+  "journal": "Materials",
+  "publisher": "MDPI AG",
+  "published": "2024-05-27",
+  "year": 2024,
+  "doi": "10.3390/ma17112563",
+  "url": "https://doi.org/10.3390/ma17112563",
+  "source": "crossref",
+  "categories": [
+   "2D Materials",
+   "Electrochemical Characterization"
+  ],
+  "tags": [
+   "EIS",
+   "Nanosheets",
+   "Photocatalysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-10-06",
+  "issn": ""
+ },
+ {
   "id": "4356976c391ec257",
   "title": "Crafting high-performance CuZnO2/g-C3N4 nanocomposites: unleashing the power of dual-functional photocatalysis and antibacterial action",
   "authors": [
