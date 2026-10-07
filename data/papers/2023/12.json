@@ -14250,6 +14250,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "1c6fb2611d3bfbb3",
+  "title": "Photocatalytic Reduction of CO 2 to HCOOH and CO by a Phosphine‐Bipyridine‐Phosphine Ir(III) Catalyst: Photophysics, Nonadiabatic Effects, Mechanism, and Selectivity",
+  "authors": [
+   "Ling-Ya Peng",
+   "Guang-Ning Pan",
+   "Wen-Kai Chen",
+   "Xiang-Yang Liu",
+   "Wei-Hai Fang",
+   "Ganglong Cui"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "Wiley",
+  "published": "2023-12-22",
+  "year": 2023,
+  "doi": "10.1002/ange.202315300",
+  "url": "https://doi.org/10.1002/ange.202315300",
+  "source": "crossref",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Photocatalysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-07",
+  "issn": ""
+ },
+ {
   "id": "18fbbd6b2ae20d85",
   "title": "Molecular Relays in Nanometer Scale Alumina: Effective Protection Layers for Water-Submersed Halide Perovskite Photocathodes",
   "authors": [

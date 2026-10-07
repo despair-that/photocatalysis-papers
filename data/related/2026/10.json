@@ -1,5 +1,138 @@
 [
  {
+  "id": "90aa7813da7a3cdb",
+  "title": "Sunlight-assisted activation of peroxymonosulfate using NiFe2O4 supported on a 2D g-C3N4 nanosheet heterojunction for the degradation of methylene blue in wastewater",
+  "authors": [
+   "Mkhondwane S",
+   "Kumar Y",
+   "Vinod",
+   "Rajasekhar Pullabhotla V."
+  ],
+  "journal": "RSC advances",
+  "publisher": "",
+  "published": "2026-10-06",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13636767",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Heterojunctions",
+   "Nanosheets",
+   "Related",
+   "Wastewater",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-07",
+  "issn": ""
+ },
+ {
+  "id": "db8148a2c2a0eed4",
+  "title": "Single‐Atom Control of Aromaticity and Excited‐State Dynamics in Endohedral Zirconium–Antimony Zintl Clusters",
+  "authors": [
+   "Yun Zhang, Ziqi Deng, Wen-Juan Tian, Hui-Qing Sun, Kang Sun, Alvaro Muñoz-Castro, Zhong-Ming Sun, Teng-Teng Chen"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-05",
+  "year": 2026,
+  "doi": "10.1002/anie.6088506",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6088506?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-07",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "b84cd5b3dd6b2b86",
+  "title": "Interfacial Charge‐Transfer Kinetics Regulate Na2S Deposition by Recycled V Single‐Atom Catalysts for Durable Na–S Batteries",
+  "authors": [
+   "Guangxuan Wu, Zhihui Zhou, Yeteng Lu, Zhoujie Lao, Yuhan Ma, Nan Xiao, Ning Wang, Congqin Zheng, Shuiyong Wang, Enzuo Liu, Xiang Zhang, Chunsheng Shi, Chunnian He, Wenbin Hu, Naiqin Zhao, Wanxiang Zhao, Biao Chen"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-05",
+  "year": 2026,
+  "doi": "10.1002/anie.7796630",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7796630?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Na2S/Na2SO3",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-07",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "784e324a99f52b9f",
+  "title": "Oxophilic Gallium Single‐Atom Regulating Micropore‐Confined Os Atomic Clusters Enables Efficient Alkaline Hydrogen Electrocatalysis",
+  "authors": [
+   "Mengyang Yang, Ling Li, Yuheng He, Di Li, Lin Ge, Xinpeng Sun, Lijing Ma, Shenghua Chen, Zhi Geng, Fan Lv, Kai Xi, Chunhui Xiao, Shujiang Ding, Lingyou Zeng, Shaojun Guo"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-05",
+  "year": 2026,
+  "doi": "10.1002/anie.2044894",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2044894?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-07",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "2cfd9d6d541d57da",
+  "title": "High‐Density Co‐Based Single‐Atom Nanozymes Alleviate Myocardial Ischemia‐Reperfusion Injury by Disrupting the Cycle of Oxidative Stress‐Ferroptosis‐Inflammatory Response",
+  "authors": [
+   "Bin Zhang, Rui Niu, Shuai Zhang, Ruiping Deng, Shuyan Song, Junduo Wu, Longhai Jin, Shaoqin Liu, Yinghui Wang, Hongjie Zhang"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-05",
+  "year": 2026,
+  "doi": "10.1002/anie.3395960",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3395960?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-07",
+  "issn": "1521-3773"
+ },
+ {
   "id": "075d04890b0f8fb5",
   "title": "Engineering a Ni-N4 coordinated porphyrinic polymer-carbon nanotube hybrid for efficient alkaline hydrogen evolution",
   "authors": [
@@ -156,6 +289,36 @@
   "affiliations": [],
   "added": "2026-10-05",
   "issn": ""
+ },
+ {
+  "id": "68848b673d2018ba",
+  "title": "Synergistic Effect of Citrate and EDTA Electrolyte Additives Mixture on the Discharge Behavior of AZ31 Anode in Mg–Air Batteries",
+  "authors": [
+   "Shani Abtan Bason",
+   "G. Ben-Hamu"
+  ],
+  "journal": "Batteries",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-10-04",
+  "year": 2026,
+  "doi": "10.3390/batteries12100395",
+  "url": "https://doi.org/10.3390/batteries12100395",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "EIS",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 27,
+  "affiliations": [
+   "Ben-Gurion University of the Negev",
+   "Sami Shamoon College of Engineering"
+  ],
+  "added": "2026-10-07",
+  "issn": "2313-0105"
  },
  {
   "id": "49f58caecbcfa4b3",

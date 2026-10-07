@@ -18920,6 +18920,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2de7f9f1edde2e20",
+  "title": "A Copper(II) Molecular Catalyst for Efficient and Selective Photochemical Reduction of CO 2 to CO in a Water‐Containing System",
+  "authors": [
+   "Wen-Ju Liu",
+   "Hai-Hua Huang",
+   "Ting Ouyang",
+   "Long Jiang",
+   "Di-Chang Zhong",
+   "Wen Zhang",
+   "Tong-Bu Lu"
+  ],
+  "journal": "Chemistry – A European Journal",
+  "publisher": "Wiley",
+  "published": "2018-02-05",
+  "year": 2018,
+  "doi": "10.1002/chem.201705566",
+  "url": "https://doi.org/10.1002/chem.201705566",
+  "source": "crossref",
+  "categories": [
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TEOA",
+   "Visible Light"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-10-07",
+  "issn": ""
+ },
+ {
   "id": "27ffab035318b9a4",
   "title": "Protonated graphitic carbon nitride coated metal-organic frameworks with enhanced visible-light photocatalytic activity for contaminants degradation",
   "authors": [
