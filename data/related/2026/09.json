@@ -243,6 +243,37 @@
   "issn": ""
  },
  {
+  "id": "15e79045c996ff8e",
+  "title": "Degradation Behavior of Electrospun Polylactic Acid Nanofiber Membranes and Its Impact on Fibroblasts Proliferation",
+  "authors": [
+   "Chenhu Mei",
+   "Shasha Zhang",
+   "Chenghao Wu",
+   "Fuxun Qi",
+   "MingYu Zhang",
+   "Xinyu Zhang",
+   "Xiaoyan Li"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "2026-09-07",
+  "year": 2026,
+  "doi": "10.1002/app.71490",
+  "url": "https://doi.org/10.1002/app.71490",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-08",
+  "issn": ""
+ },
+ {
   "id": "a948453b56087eba",
   "title": "Lattice expansion enables interstitial Ni–sulfur vacancy pairs to trigger charge redistribution for boosted H2 evolution from polylactic acid hydrolysate",
   "authors": [

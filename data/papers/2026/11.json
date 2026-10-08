@@ -623,6 +623,38 @@
   "added": "2026-09-11"
  },
  {
+  "id": "6e0c66e334d5ef60",
+  "title": "Mixture design guided optimization of activated carbon/TiO2/Bi2WO6 composite powders and composite-coated papers for visible-light-driven methylene blue degradation",
+  "authors": [
+   "Jattuporn Loedbunrueankun",
+   "Kuntinee Suvarnakich",
+   "Ubonrat Siripatrawan",
+   "Intatch Hongrattanavichit",
+   "Youn Suk Lee",
+   "Pichayada Katemake"
+  ],
+  "journal": "Chemical Engineering Journal Advances",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ceja.2026.101490",
+  "url": "https://doi.org/10.1016/j.ceja.2026.101490",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-10-08",
+  "issn": ""
+ },
+ {
   "id": "5d9fa5ca94374b28",
   "title": "Green cerium oxide–carbon dot nanohybrid (CeO₂@CD) from",
   "authors": [
@@ -785,6 +817,31 @@
   "relevance_score": 61,
   "affiliations": [],
   "added": "2026-09-11"
+ },
+ {
+  "id": "42a06be04a3de5c7",
+  "title": "Towards more comparable UV-LED photocatalysis experiments: the role of source architecture on photonic and thermal conditions",
+  "authors": [
+   "Adam Kubiak",
+   "Maria Vittoria Dozzi"
+  ],
+  "journal": "Chemical Engineering Journal Advances",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ceja.2026.101497",
+  "url": "https://doi.org/10.1016/j.ceja.2026.101497",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-08",
+  "issn": ""
  },
  {
   "id": "404fa0900f045144",
