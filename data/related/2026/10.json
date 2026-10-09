@@ -1,5 +1,119 @@
 [
  {
+  "id": "fcd83d1fe6964251",
+  "title": "Molecular Heptazine–Platinum Complexes to Model Metal–Support Coordination in Platinized Graphitic Carbon Nitride: Insights into Catalyst Stability and Support Suitability",
+  "authors": [
+   "Lu C",
+   "Hung T",
+   "Zhang J",
+   "Lau V."
+  ],
+  "journal": "Inorganic chemistry",
+  "publisher": "",
+  "published": "2026-10-08",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13644308",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-10-09",
+  "issn": ""
+ },
+ {
+  "id": "36bb96eefb9df8f6",
+  "title": "Single-atom nanozymes in nanomedicine: catalytic precision, mechanistic insights, and translational opportunities",
+  "authors": [
+   "Cui J",
+   "Xia X",
+   "Li X",
+   "Luo D",
+   "Song K",
+   "Sun S",
+   "Liu J",
+   "Xia S",
+   "Masud M",
+   "Yamauchi Y",
+   "Li X."
+  ],
+  "journal": "Chemical science",
+  "publisher": "",
+  "published": "2026-10-08",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13644008",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-09",
+  "issn": ""
+ },
+ {
+  "id": "704d9cbf7b68abb4",
+  "title": "Highly Stabilized and Accessible Sub‐Nanometer RuBi Heteroclusters Drive Efficient Alkaline Hydrogen Evolution",
+  "authors": [
+   "Qian Huang, Huizhu Cai, Zetong Wan, Xiaowei Zhou, Fengli Wei, Hengpan Yang, Xue Zhang, Qi Hu, Chuanxin He"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-07",
+  "year": 2026,
+  "doi": "10.1002/anie.2036983",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2036983?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-09",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "4ab30894f7fdd686",
+  "title": "Interfacial Electron–Proton Dual Modulation of Fe Single‐Atom Catalyst by α‐MoC for O2 Activation and Lignin Depolymerization",
+  "authors": [
+   "Ran Shi, Jinghang Wu, Bowen Song, Qichen Liu, Linjing Liu, Feng Li, Xin Li, Xin Wang, Yifei Chen, Xusheng Zheng, Yafei Li, Yu Mao, Kong Chen, Yuen Wu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-07",
+  "year": 2026,
+  "doi": "10.1002/anie.7938626",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7938626?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-09",
+  "issn": "1521-3773"
+ },
+ {
   "id": "90aa7813da7a3cdb",
   "title": "Sunlight-assisted activation of peroxymonosulfate using NiFe2O4 supported on a 2D g-C3N4 nanosheet heterojunction for the degradation of methylene blue in wastewater",
   "authors": [

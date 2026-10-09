@@ -206,6 +206,38 @@
   "issn": ""
  },
  {
+  "id": "e04d72348c5e50dc",
+  "title": "Attenuation processes and environmental drivers of atrazine in coastal wetland photocatalysis-microorganism combined system",
+  "authors": [
+   "Yufei Dai",
+   "Jing Zhao",
+   "Li Lu",
+   "Jingyu Zhang",
+   "Haoyu Zhang",
+   "Xin Luo",
+   "Zengyuan Niu",
+   "Ping Wang",
+   "Keqiang Li"
+  ],
+  "journal": "Journal of Environmental Chemical Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jece.2026.125387",
+  "url": "https://doi.org/10.1016/j.jece.2026.125387",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-09",
+  "issn": ""
+ },
+ {
   "id": "d341cdfccf33355d",
   "title": "Integrated dual photocatalysts for simultaneous solar hydrogen production and CO",
   "authors": [
@@ -280,6 +312,34 @@
   "relevance_score": 57,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "cbe7d7cfe95be655",
+  "title": "Synergistic valorization of steel slag-derived TiO2 multifunctional composite coatings: Orthogonally optimized photocatalysis and flame retardancy",
+  "authors": [
+   "Zhiyi Wang",
+   "Dongzhao Lu",
+   "Hao Zhang",
+   "Yachao Wang"
+  ],
+  "journal": "Journal of Environmental Chemical Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jece.2026.124917",
+  "url": "https://doi.org/10.1016/j.jece.2026.124917",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-09",
+  "issn": ""
  },
  {
   "id": "c86fc1787282a408",
@@ -1103,6 +1163,40 @@
   "relevance_score": 87,
   "affiliations": [],
   "added": "2026-10-03",
+  "issn": ""
+ },
+ {
+  "id": "3d2104ffeb943116",
+  "title": "Microstructure–defect–polarization coupling in dye-selective piezo–photocatalysis of an entropy-engineered tungsten bronze high-entropy oxide",
+  "authors": [
+   "Minghao Xu",
+   "Yi Zhu",
+   "Ying Li",
+   "Xunlu Li",
+   "He Qi",
+   "Jie Wu",
+   "Junding Zheng",
+   "Zhiguo Wang",
+   "Longlong Shu",
+   "Ju Gao",
+   "Hongfang Zhang"
+  ],
+  "journal": "Journal of Environmental Chemical Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jece.2026.125290",
+  "url": "https://doi.org/10.1016/j.jece.2026.125290",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-09",
   "issn": ""
  },
  {

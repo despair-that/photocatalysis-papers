@@ -77,5 +77,39 @@
   ],
   "added": "2026-10-02",
   "issn": "2155-5435"
+ },
+ {
+  "id": "36d05ae41c413f7a",
+  "title": "Defect-tailored MoS2 for superior Fenton-like catalysis: The synergistic reactive sites of 1T phase and sulfur vacancy in electron transfer and radical generation",
+  "authors": [
+   "Lu Zhao",
+   "Liang Liu",
+   "Xiao-Feng Bai",
+   "Ai-Yong Zhang",
+   "Shu-Chuan Peng",
+   "Chi Zhang",
+   "Hai-Hong Niu",
+   "Heng Liang"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "Elsevier BV",
+  "published": "2023-08-01",
+  "year": 2023,
+  "doi": "10.1016/j.seppur.2023.123997",
+  "url": "https://doi.org/10.1016/j.seppur.2023.123997",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Radical Chemistry",
+   "Related",
+   "Sulfur Vacancies"
+  ],
+  "relevance_score": 26,
+  "affiliations": [],
+  "added": "2026-10-09",
+  "issn": ""
  }
 ]
