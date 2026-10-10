@@ -26805,6 +26805,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d0f67f9b150978a3",
+  "title": "Microscopic structural changes during photodegradation of low-density polyethylene detected by Raman spectroscopy",
+  "authors": [
+   "Yusuke Hiejima",
+   "Takumitsu Kida",
+   "Kento Takeda",
+   "Toshio Igarashi",
+   "Koh-hei Nitta"
+  ],
+  "journal": "Polymer Degradation and Stability",
+  "publisher": "Elsevier BV",
+  "published": "2018-04-01",
+  "year": 2018,
+  "doi": "10.1016/j.polymdegradstab.2018.02.010",
+  "url": "https://doi.org/10.1016/j.polymdegradstab.2018.02.010",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photodegradation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-10",
+  "issn": ""
+ },
+ {
   "id": "c8c1a8cf42b7cc7d",
   "title": "Flower-like Bi2WO6/ZnO composite with excellent photocatalytic capability under visible light irradiation",
   "authors": [

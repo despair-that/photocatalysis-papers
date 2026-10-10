@@ -11868,6 +11868,42 @@
   "added": "2026-09-26"
  },
  {
+  "id": "01618aa84d25e996",
+  "title": "One-Step Thermal Treatment Route to Obtain ZnO Nanospheres from ZnAlEu LDH Nanotubes.",
+  "authors": [
+   "Thaina Calaça Futamata",
+   "Dimy Nanclares",
+   "Alexandre Candido Teixeira",
+   "Karina Torre da Fonseca",
+   "Danilo Mustafa"
+  ],
+  "journal": "ACS omega",
+  "publisher": "",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.1021/acsomega.6c05773",
+  "url": "https://doi.org/10.1021/acsomega.6c05773",
+  "source": "pubmed",
+  "categories": [
+   "Layered Double Hydroxides",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Electron-Hole Pairs",
+   "Heterostructures",
+   "LDH",
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-10-10",
+  "issn": ""
+ },
+ {
   "id": "ff32315d601c8e37",
   "title": "Phosphate-Ion-Induced Formation of a Cu2O/Cu3(PO4)2 p–n Junction with Type-II Band Alignment for Improved Photoelectrochemical Hydrogen Production",
   "authors": [
@@ -44329,6 +44365,32 @@
    "Hubei Normal University"
   ],
   "added": "2026-09-03"
+ },
+ {
+  "id": "1773b8e3370eeeaf",
+  "title": "Finite-time thermodynamics unveils barriers in photocatalysis",
+  "authors": [
+   "Wenjia Gu",
+   "Yiwei Fu",
+   "Maochang Liu"
+  ],
+  "journal": "Science Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1016/j.scib.2026.09.076",
+  "url": "https://doi.org/10.1016/j.scib.2026.09.076",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-10",
+  "issn": ""
  },
  {
   "id": "14feaca4691885da",

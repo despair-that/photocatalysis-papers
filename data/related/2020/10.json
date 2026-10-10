@@ -40,5 +40,35 @@
   ],
   "added": "2026-10-02",
   "issn": "0272-8842"
+ },
+ {
+  "id": "235d3102ed4103db",
+  "title": "Robust ruthenium diphosphide nanoparticles for pH-universal hydrogen evolution reaction with platinum-like activity",
+  "authors": [
+   "Feng Zhou",
+   "Rongjian Sa",
+   "Xing Zhang",
+   "Shen Zhang",
+   "Zhenhai Wen",
+   "Ruihu Wang"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2020-10-01",
+  "year": 2020,
+  "doi": "10.1016/j.apcatb.2020.119092",
+  "url": "https://doi.org/10.1016/j.apcatb.2020.119092",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-10",
+  "issn": ""
  }
 ]

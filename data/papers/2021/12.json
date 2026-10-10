@@ -15625,6 +15625,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e4b0437e5b57be95",
+  "title": "Application of One-Dimensional Nanomaterials in Catalysis at the Single-Molecule and Single-Particle Scale",
+  "authors": [
+   "Saisai Yuan",
+   "Qitao Zhang"
+  ],
+  "journal": "Frontiers in Chemistry",
+  "publisher": "Frontiers Media SA",
+  "published": "2021-12-17",
+  "year": 2021,
+  "doi": "10.3389/fchem.2021.812287",
+  "url": "https://doi.org/10.3389/fchem.2021.812287",
+  "source": "crossref",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Electron-Hole Pairs",
+   "Photocatalysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-10-10",
+  "issn": ""
+ },
+ {
   "id": "dd9ded529b10fec3",
   "title": "Two-dimensional ultrathin MoS 2 modified hydrogenated TiO 2 nanoparticles for superior photocatalytic degradation under simulated sunlight",
   "authors": [

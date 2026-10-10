@@ -41867,6 +41867,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ce35f90709633544",
+  "title": "Recent Advances in Covalent Organic Framework for Selective Photocatalytic Reduction of CO 2",
+  "authors": [
+   "Shubham Avinash Deshmukh",
+   "Darpan Vijaykumar Bhuse",
+   "Selvaraj Suresh",
+   "Subodh Uttamrao Raut",
+   "Sharda Kondawar",
+   "Sujit Sarkar",
+   "Chandan Patel",
+   "Ganesh Agawane"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2025-01-03",
+  "year": 2025,
+  "doi": "10.1002/cctc.202401362",
+  "url": "https://doi.org/10.1002/cctc.202401362",
+  "source": "crossref",
+  "categories": [
+   "MOFs & COFs"
+  ],
+  "tags": [
+   "COFs",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-10",
+  "issn": ""
+ },
+ {
   "id": "cc8b822b95654897",
   "title": "Covalent organic frameworks with asymmetric unprotonated/protonated structures for efficient photocatalytic hydrogen evolution",
   "authors": [
