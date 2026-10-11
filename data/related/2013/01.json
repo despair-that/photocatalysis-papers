@@ -236,6 +236,38 @@
   "issn": "2050-7488"
  },
  {
+  "id": "8462f54504362eac",
+  "title": "Catalytic conversion of syngas to mixed alcohols over CuFe-based catalysts derived from layered double hydroxides",
+  "authors": [
+   "Wa Gao",
+   "Yufei Zhao",
+   "Junmin Liu",
+   "Qianwen Huang",
+   "Shan He",
+   "Changming Li",
+   "Jingwen Zhao",
+   "Min Wei"
+  ],
+  "journal": "Catalysis Science & Technology",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2013-01-01",
+  "year": 2013,
+  "doi": "10.1039/c3cy00025g",
+  "url": "https://doi.org/10.1039/c3cy00025g",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
+ },
+ {
   "id": "4602c009b4c7267c",
   "title": "Photoluminescence behavior of Ag-doped graphite-like carbon nitride material",
   "authors": [

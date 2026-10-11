@@ -512,6 +512,47 @@
   "added": "2026-09-11"
  },
  {
+  "id": "aaf0274527f21cec",
+  "title": "Fe",
+  "authors": [
+   "Ghani Ur Rehman",
+   "Roswanira Abdul Wahab",
+   "Ilyas Khan",
+   "D. Baba Basha",
+   "Zeeshan Khan",
+   "Mohsen Bakouri",
+   "Azmat Ali Khan",
+   "A.F. Ismail",
+   "P.S. Goh",
+   "Mustafa Kamal",
+   "Suriani Abu Bakar"
+  ],
+  "journal": "Materials & Design",
+  "publisher": "Elsevier",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.matdes.2026.117142",
+  "url": "https://doi.org/10.1016/j.matdes.2026.117142",
+  "source": "doaj",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Plasmonic Photocatalysis",
+   "Reactor Engineering & Scale-up",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "LSPR",
+   "Photocatalysis",
+   "ROS",
+   "Scale-up",
+   "Wastewater"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
+ },
+ {
   "id": "8842d78e2d15084a",
   "title": "Time-controlled oxygen vacancy engineering in CeO",
   "authors": [

@@ -41407,6 +41407,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "86214874a0e7e51c",
+  "title": "Sol-gel-assisted sonication approaches and characterization of engineered Gd–doped CeO₂/CNTs nanocomposites for improved photocatalytic and selective anticancer activities",
+  "authors": [
+   "ZabnAllah M. Alaizeri",
+   "Maqusood Ahamed",
+   "Hisham A. Alhadlaq"
+  ],
+  "journal": "Journal of Sol-Gel Science and Technology",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2026-02-05",
+  "year": 2026,
+  "doi": "10.1007/s10971-025-07048-1",
+  "url": "https://doi.org/10.1007/s10971-025-07048-1",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
+ },
+ {
   "id": "85967064edd66223",
   "title": "Efficient degradation of sulfamethoxazole via photocatalytic activation of Peroxymonosulfate by CuO/g-C3N4",
   "authors": [
@@ -51880,6 +51906,39 @@
    "Indian Institute of Science Education and Research Berhampur"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a3c22d2828cb387d",
+  "title": "Influence of La-Ti co-doping on structural, photocatalysis and magnetic performance of YbFeO3 nanoparticles derived from sol-gel method",
+  "authors": [
+   "A. Varaprasad",
+   "Rameeza Begum Sheik",
+   "Balakrishna Avula",
+   "Nageswara Rao Netinti",
+   "G. Chinna Ram",
+   "M. Gnana Kiran",
+   "Syed Inthiyaz",
+   "Malla Balakrishna",
+   "Anees A. Ansari"
+  ],
+  "journal": "Solid State Communications",
+  "publisher": "Elsevier BV",
+  "published": "2026-02-01",
+  "year": 2026,
+  "doi": "10.1016/j.ssc.2025.116265",
+  "url": "https://doi.org/10.1016/j.ssc.2025.116265",
+  "source": "crossref",
+  "categories": [
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
  },
  {
   "id": "a2c0433ced6574fa",

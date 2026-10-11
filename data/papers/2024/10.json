@@ -9042,6 +9042,36 @@
   "added": "2026-07-26"
  },
  {
+  "id": "b6531056f909dcbd",
+  "title": "Application of Metal–Organic Framework-Based Composite Materials for Photodegradation of Dye Pollutants in Wastewater",
+  "authors": [
+   "Farzaneh Mahmoudi",
+   "Leonidas G. Bachas"
+  ],
+  "journal": "Water",
+  "publisher": "MDPI AG",
+  "published": "2024-10-24",
+  "year": 2024,
+  "doi": "10.3390/w16213051",
+  "url": "https://doi.org/10.3390/w16213051",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "MOFs & COFs"
+  ],
+  "tags": [
+   "MOFs",
+   "Photocatalysis",
+   "Photodegradation",
+   "Pollutants",
+   "Wastewater"
+  ],
+  "relevance_score": 95,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
+ },
+ {
   "id": "b3eee2af0ab7e5a5",
   "title": "Organic Photoredox-Catalyzed Hydrosilylation of Vinylboronic Esters for the Synthesis of Geminal and Vicinal Borosilanes",
   "authors": [

@@ -29,6 +29,84 @@
   "issn": ""
  },
  {
+  "id": "f4ae565147054db5",
+  "title": "Gold‐Stabilized Copper Enables Anodic Hydrogen Evolution for Ultralow‐Voltage CO‐to‐Ethylene Electrolysis",
+  "authors": [
+   "Sungjin Park, Hengzhou Liu, Heejong Shin, Hafiz Ghulam Abbas, Loann Bonnenfant, Ke Xie, Hyeon Seok Lee, Fatemeh Arabyarmohammadi, Jianan Erick Huang, Panos Papangelakis, Peiying Wang, Ali Shayesteh Zeraati, Jiheon Kim, Roham Dorakhan, David Sinton, Xiaopeng Liu, Wenzhen Li, Byoung-hoon Lee, Edward H. Sargent"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-08",
+  "year": 2026,
+  "doi": "10.1002/adma.74459",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74459?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "615d7bbbaa87a3ca",
+  "title": "Defect Engineering via Aggregation: Unlocking Hour‐Long Afterglow and UV Thermoluminescence in Self‐Embedded Carbon Nitride Quantum Dots",
+  "authors": [
+   "Hao Cui, Ni Huang, Kai Jiang, Jingmin Zhang, Yongjian Wu, Hengwei Lin"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-08",
+  "year": 2026,
+  "doi": "10.1002/anie.5306487",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5306487?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Defect Engineering",
+   "Quantum Dots",
+   "Related"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "5a7232154b28396e",
+  "title": "Tandem Ru–Tm Sites on MoS2 Tune Entropy–Enthalpy Tradeoff for Enhanced Alkaline Hydrogen Evolution",
+  "authors": [
+   "Yu Zhu, Wentao Xue, Meng Li, Xiaoheng Zhu, Yujie Wang, Yu Zhou, Mohan Chen, Xuan Wang, Hao Li, Yawen Tang, Gengtao Fu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-08",
+  "year": 2026,
+  "doi": "10.1002/anie.3060071",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3060071?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": "1521-3773"
+ },
+ {
   "id": "36bb96eefb9df8f6",
   "title": "Single-atom nanozymes in nanomedicine: catalytic precision, mechanistic insights, and translational opportunities",
   "authors": [

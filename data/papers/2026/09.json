@@ -679,6 +679,68 @@
   "issn": "2366-7486"
  },
  {
+  "id": "97eac4e6c1e95062",
+  "title": "Green-synthesized Zinc–copper–cobalt Oxide Nanoparticles: Structural, Morphological, Optical and Electrochemical Characterization for Photocatalytic and Supercapacitor Applications",
+  "authors": [
+   "Shruti A. Gomkale",
+   "G. Subramaniam",
+   "S. Mayakannan",
+   "G. Chandrasekaran",
+   "A. V. S. Ram Prasad",
+   "R. Suresh"
+  ],
+  "journal": "Journal of Environmental Nanotechnology",
+  "publisher": "Institute for Environmental Nanotechnology",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.13074/jent.2026.09.2632328",
+  "url": "https://doi.org/10.13074/jent.2026.09.2632328",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Photocatalysis",
+   "Pollutants",
+   "Wastewater"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
+ },
+ {
+  "id": "95981739cd2ea15b",
+  "title": "Development of MgO-reinforced Chitosan–CMC/ZnO Nanocomposite Films for Photocatalytic and Antimicrobial Applications",
+  "authors": [
+   "Anju Rani",
+   "Dhananjay Bhaurao Awachat",
+   "Manish S Deshmukh",
+   "P. Satishkumar",
+   "Nischal P Mungle",
+   "R. Prakash"
+  ],
+  "journal": "Journal of Environmental Nanotechnology",
+  "publisher": "Institute for Environmental Nanotechnology",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.13074/jent.2026.09.2632381",
+  "url": "https://doi.org/10.13074/jent.2026.09.2632381",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
+ },
+ {
   "id": "93476dfe7821ab7c",
   "title": "Design Considerations of Photocatalysts for the Simultaneous Degradation of Mixed Pollutants in Wastewater: A Review",
   "authors": [
@@ -943,6 +1005,45 @@
   "relevance_score": 71,
   "affiliations": [],
   "added": "2026-10-01",
+  "issn": ""
+ },
+ {
+  "id": "747bc81e6aa237d7",
+  "title": "Visible-light Driven Photocatalytic Degradation of Rhodamine B over Ce-g-C 3 N 4 Composite: Structure -activity Relationship Study",
+  "authors": [
+   "C. Kalaiyarasi",
+   "P. Dhilip",
+   "A. Dhivya",
+   "P. Mahalingam",
+   "Smagul Karazhanov",
+   "P. Sivakumar"
+  ],
+  "journal": "Journal of Environmental Nanotechnology",
+  "publisher": "Institute for Environmental Nanotechnology",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.13074/jent.2026.09.2632300",
+  "url": "https://doi.org/10.13074/jent.2026.09.2632300",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "g-C3N4 & Carbon Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Carbon Nitride",
+   "Charge Carriers",
+   "Dye Degradation",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Wastewater",
+   "g-C3N4"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-11",
   "issn": ""
  },
  {
@@ -1227,6 +1328,38 @@
   "issn": "2745-4592"
  },
  {
+  "id": "6494503078d23405",
+  "title": "Sustainable Fabrication of Nanoparticles from Moringa oleifera Leaves and Their Efficiency During Photocatalytic Degradation of MO and MG Dyes",
+  "authors": [
+   "D. Ganesan",
+   "Vigneshkumar Alagarsamy",
+   "S. Balasubramanian",
+   "S. Saileysh Sivaraja",
+   "Mohamed Khalif",
+   "S. Lokesh",
+   "M. Durga"
+  ],
+  "journal": "Journal of Environmental Nanotechnology",
+  "publisher": "Institute for Environmental Nanotechnology",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.13074/jent.2026.09.2632349",
+  "url": "https://doi.org/10.13074/jent.2026.09.2632349",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Visible Light",
+   "ZnO"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
+ },
+ {
   "id": "63983037fa786bff",
   "title": "Photocatalytic Degradation of Malachite Green: A Systematic Review of Catalyst Performance, Mineralization, and the Reporting Gaps Limiting Environmental Application",
   "authors": [
@@ -1325,6 +1458,44 @@
   "affiliations": [],
   "added": "2026-10-02",
   "issn": "1088-4246"
+ },
+ {
+  "id": "61987fe0ca1f56ae",
+  "title": "Development of PANI/TiO₂ Nanocomposites for Visible-light-driven Photocatalytic Treatment of Dye-contaminated Wastewater",
+  "authors": [
+   "Vijay R Khawale",
+   "P. Satishkumar",
+   "Sugumari Vallinayagam",
+   "Manoj Tripathi",
+   "Anju Rani",
+   "M. Harish",
+   "Barun Haldar"
+  ],
+  "journal": "Journal of Environmental Nanotechnology",
+  "publisher": "Institute for Environmental Nanotechnology",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.13074/jent.2026.09.2632311",
+  "url": "https://doi.org/10.13074/jent.2026.09.2632311",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Charge Transfer",
+   "Dye Degradation",
+   "Electron-Hole Pairs",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Visible Light",
+   "Wastewater"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
  },
  {
   "id": "5d3de1329a8bfec7",
@@ -1541,6 +1712,36 @@
   ],
   "added": "2026-10-02",
   "issn": "0935-9648"
+ },
+ {
+  "id": "4d496cde85723947",
+  "title": "Green Synthesis, Characterization, and Visible-light Photocatalytic Application of Mo–TiO₂ for Reactive Orange 16 Degradation: RSM Optimization and GPR Modeling",
+  "authors": [
+   "Arumugam Gopal",
+   "J. Saravanan",
+   "Anand M Raikar",
+   "L. Muthulakshmi"
+  ],
+  "journal": "Journal of Environmental Nanotechnology",
+  "publisher": "Institute for Environmental Nanotechnology",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.13074/jent.2026.09.2632374",
+  "url": "https://doi.org/10.13074/jent.2026.09.2632374",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "Photocatalysis",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
  },
  {
   "id": "4c559c82522ef4f9",
@@ -2179,6 +2380,77 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-10-02",
+  "issn": ""
+ },
+ {
+  "id": "1972bfd2f20004d1",
+  "title": "Green Fabrication of Psidium guajava -assisted Silver Nanoparticles for Efficient Photocatalytic Degradation, Broad-spectrum Antimicrobial Activity and Biomedical Applications",
+  "authors": [
+   "Anju Rani",
+   "P. Satishkumar",
+   "M. Harish",
+   "Vijay R Khawale",
+   "M. Santhosh",
+   "R. Prakash"
+  ],
+  "journal": "Journal of Environmental Nanotechnology",
+  "publisher": "Institute for Environmental Nanotechnology",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.13074/jent.2026.09.2632334",
+  "url": "https://doi.org/10.13074/jent.2026.09.2632334",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Band Gap",
+   "Dye Degradation",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "Wastewater"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
+ },
+ {
+  "id": "1861e0ab2607c6ae",
+  "title": "Influence of Pomegranate Peel-mediated Synthesis on the Physicochemical Characteristics and Photocatalytic Performance of CuO and TiO₂ Nanomaterials",
+  "authors": [
+   "V. P. Suresh Kumar",
+   "Shailendra Kumar Yadav",
+   "S. Devarajsamy",
+   "J. Dhanasekaran",
+   "J. Kumaresan",
+   "R. Girimurugan"
+  ],
+  "journal": "Journal of Environmental Nanotechnology",
+  "publisher": "Institute for Environmental Nanotechnology",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.13074/jent.2026.09.2632309",
+  "url": "https://doi.org/10.13074/jent.2026.09.2632309",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoluminescence",
+   "Radical Chemistry",
+   "Recyclability",
+   "TiO2"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-10-11",
   "issn": ""
  },
  {

@@ -70,5 +70,34 @@
   ],
   "added": "2026-10-02",
   "issn": "0016-2361"
+ },
+ {
+  "id": "ec417f949a8a7fcb",
+  "title": "Establishing a predictive model for ultraviolet degradation to rapidly estimate the service life of poly (lactic acid)-based mulch film for agricultural protection",
+  "authors": [
+   "Chaopei Chen",
+   "Haicheng Huang",
+   "Somia Yassin Hussain Abdalkarim",
+   "Rabie A.M. Asad",
+   "Hou-Yong Yu"
+  ],
+  "journal": "Journal of Cleaner Production",
+  "publisher": "Elsevier BV",
+  "published": "2025-05-01",
+  "year": 2025,
+  "doi": "10.1016/j.jclepro.2025.145587",
+  "url": "https://doi.org/10.1016/j.jclepro.2025.145587",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
  }
 ]

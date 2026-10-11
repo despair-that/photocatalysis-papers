@@ -29,6 +29,43 @@
   "issn": ""
  },
  {
+  "id": "297da0e5b036fd31",
+  "title": "The Highly Efficient Hydrogen Evolution Performance of MOF-Derived Nitrogen-Doped CoO/Ni2P/NF Electrodes",
+  "authors": [
+   "Haixiang Wang",
+   "Haibo Wang",
+   "Qingzhu Sun",
+   "Qirong Li",
+   "Xiangdong Liu",
+   "Lei Xing",
+   "Sijia Guo",
+   "Yongchang Zhu",
+   "Zhixin Wan",
+   "Hao Luan",
+   "Tao Tang",
+   "Xiaorang Guo"
+  ],
+  "journal": "Catalysis Letters",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2026-01-24",
+  "year": 2026,
+  "doi": "10.1007/s10562-026-05300-z",
+  "url": "https://doi.org/10.1007/s10562-026-05300-z",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Ni2P",
+   "Related"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-10-11",
+  "issn": ""
+ },
+ {
   "id": "ab8c1ea38ae6232d",
   "title": "Nitrogen and boron dual doping on Ni/NiAl2O4 for synergistic CH4 and CO2 activation in photo-driven methane dry reforming",
   "authors": [
