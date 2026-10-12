@@ -11742,6 +11742,39 @@
   "added": "2026-07-26"
  },
  {
+  "id": "6bfee7e2002c81fe",
+  "title": "Construction of Azo‐Linked Covalent Organic Frameworks via Monomer Exchange for Enhanced Photocatalytic Performance",
+  "authors": [
+   "Hongqi Zhu",
+   "Wenjie Lu",
+   "Yu Gou",
+   "Yang Li",
+   "Ligong Chen",
+   "Bowei Wang",
+   "Xilong Yan"
+  ],
+  "journal": "ChemPhotoChem",
+  "publisher": "Wiley",
+  "published": "2024-05-23",
+  "year": 2024,
+  "doi": "10.1002/cptc.202400013",
+  "url": "https://doi.org/10.1002/cptc.202400013",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "MOFs & COFs"
+  ],
+  "tags": [
+   "COFs",
+   "Photocatalysis",
+   "Photodegradation"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": ""
+ },
+ {
   "id": "66b3aa86b4ea0a24",
   "title": "Quasi-Homogeneous Photocatalysis in Ultrastiff Microporous Polymer Aerogels",
   "authors": [

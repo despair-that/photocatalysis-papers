@@ -37400,6 +37400,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "794b46df7ef224b0",
+  "title": "Concerted Proton-Coupled Electron Transfer by Mo 5+ /Mo 6+ Reversible Transformation for CO 2 Photoreduction with Nearly 100% CH 4 Selectivity",
+  "authors": [
+   "Qian Liang",
+   "Jingshan Fan",
+   "Jiawen Ding",
+   "Xiuzheng Deng",
+   "Yingtang Zhou",
+   "Jun Cai",
+   "Zheng Peng",
+   "Zhongyu Li",
+   "Zhenhui Kang"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2024-11-07",
+  "year": 2024,
+  "doi": "10.1021/acscatal.4c04994",
+  "url": "https://doi.org/10.1021/acscatal.4c04994",
+  "source": "crossref",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "Photoreduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": ""
+ },
+ {
   "id": "73003683058f8a77",
   "title": "Recent advances in transition metal-based photocatalytic heterojunctions for algal inhibition and water disinfection: A review",
   "authors": [

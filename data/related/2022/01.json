@@ -35,6 +35,39 @@
   "issn": "0360-3199"
  },
  {
+  "id": "76e4e38c6ca7df9c",
+  "title": "Sulfur vacancy engineering of MoS2 via phosphorus incorporation for improved electrocatalytic N2 reduction to NH3",
+  "authors": [
+   "Hao Fei",
+   "Ting Guo",
+   "Yue Xin",
+   "Liangbing Wang",
+   "Ruoqi Liu",
+   "Dezhi Wang",
+   "Fangyang Liu",
+   "Zhuangzhi Wu"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1016/j.apcatb.2021.120733",
+  "url": "https://doi.org/10.1016/j.apcatb.2021.120733",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related",
+   "Sulfur Vacancies"
+  ],
+  "relevance_score": 26,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": ""
+ },
+ {
   "id": "15d5c605197b966e",
   "title": "Achieving Full-Spectrum-Driven Simultaneous Hydrogen Evolution and Organic Pollutants Degradation Through the Sensitization of Ag3po4 by Double Perovskite Quantum Dots",
   "authors": [

@@ -35593,6 +35593,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "269106ad21335214",
+  "title": "Ultrastable amide-like isoquinolone-linked covalent organic frameworks for accelerated photocatalytic single-electron transfer transformation",
+  "authors": [
+   "Wanqin Wang",
+   "Xiaodong Zhao",
+   "Wei Su",
+   "Yanqiu Zhu",
+   "Dekang Huang",
+   "Wanmin Cheng",
+   "Yonggang Xiang"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2025-12-04",
+  "year": 2025,
+  "doi": "10.1038/s41467-025-67058-z",
+  "url": "https://doi.org/10.1038/s41467-025-67058-z",
+  "source": "crossref",
+  "categories": [
+   "MOFs & COFs"
+  ],
+  "tags": [
+   "COFs",
+   "Photocatalysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": ""
+ },
+ {
   "id": "2140d110d5e4385f",
   "title": "Iodine doping covalent organic frameworks to reduce electron-hole recombination for promoting photocatalytic performance",
   "authors": [

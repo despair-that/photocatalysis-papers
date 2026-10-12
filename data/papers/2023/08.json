@@ -271,6 +271,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d31f5b2ced9788a3",
+  "title": "Construction of Amide-Linked Covalent Organic Frameworks by N -Heterocyclic Carbene-Mediated Selective Oxidation for Photocatalytic Dehalogenation",
+  "authors": [
+   "Wanqin Wang",
+   "Dekang Huang",
+   "Wenlong Zheng",
+   "Xiaodong Zhao",
+   "Kuanxiao He",
+   "Huaji Pang",
+   "Yonggang Xiang"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2023-08-31",
+  "year": 2023,
+  "doi": "10.1021/acs.chemmater.3c01425",
+  "url": "https://doi.org/10.1021/acs.chemmater.3c01425",
+  "source": "crossref",
+  "categories": [
+   "MOFs & COFs",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "COFs",
+   "Photocatalysis",
+   "Selective Oxidation"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": ""
+ },
+ {
   "id": "d2359eaadeba5833",
   "title": "Enhanced piezo-photocatalytic activity of Bi2MoO6 nanosheets: Theory and experimental studies",
   "authors": [

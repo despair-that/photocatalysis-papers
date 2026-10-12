@@ -19777,6 +19777,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "fa5328fdc72c44c1",
+  "title": "Efficient Light Initiated One-Pot Synthesis of Benzimidazoles over PtS/ZnIn2S4 Promoted by RGO",
+  "authors": [
+   "Jiaqi Wang",
+   "Tianyi Liu",
+   "Xiao Du",
+   "Zhaohui Li"
+  ],
+  "journal": "Photocatalysis",
+  "publisher": "Scilight Press Pty Ltd",
+  "published": "2025-11-19",
+  "year": 2025,
+  "doi": "10.53941/photocatalysis.2025.100005",
+  "url": "https://doi.org/10.53941/photocatalysis.2025.100005",
+  "source": "crossref",
+  "categories": [
+   "CO2 Reduction",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreduction",
+   "Visible Light",
+   "ZnIn2S4"
+  ],
+  "relevance_score": 84,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": ""
+ },
+ {
   "id": "e50b8d0fba4694fc",
   "title": "Towards sustaining efficient (photo)electrolysis in microgravity: nanotopographical and magnetic field explorations",
   "authors": [

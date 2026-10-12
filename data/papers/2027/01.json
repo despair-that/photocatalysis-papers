@@ -91,6 +91,37 @@
   "issn": ""
  },
  {
+  "id": "88985657dee03388",
+  "title": "Self-driven photocatalytic fuel cell-powered electrolysis using waste-derived dual-function carbon cathodes for wastewater purification",
+  "authors": [
+   "Qi Feng",
+   "Jiawei Ma",
+   "Lingjun Meng",
+   "Yongkui Huang",
+   "Bo Zu",
+   "Longjun Xu",
+   "Chenglun Liu"
+  ],
+  "journal": "Desalination",
+  "publisher": "Elsevier BV",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.desal.2026.120917",
+  "url": "https://doi.org/10.1016/j.desal.2026.120917",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Wastewater"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": ""
+ },
+ {
   "id": "791a0ca5d17dea34",
   "title": "Magnetic field-assisted enhancement of organic dye photodegradation using reusable plant-assisted magnetite-reduced graphene oxide for sustainable wastewater treatment application",
   "authors": [

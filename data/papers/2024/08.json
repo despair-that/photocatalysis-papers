@@ -41839,6 +41839,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "42d31073fe617040",
+  "title": "Linkage Conversion in Covalent Organic Frameworks: An Efficient Strategy to Promote Photocatalytic Organic Transformations",
+  "authors": [
+   "Huaji Pang",
+   "Dekang Huang",
+   "Yonggang Xiang"
+  ],
+  "journal": "ChemCatChem",
+  "publisher": "Wiley",
+  "published": "2024-08-02",
+  "year": 2024,
+  "doi": "10.1002/cctc.202400724",
+  "url": "https://doi.org/10.1002/cctc.202400724",
+  "source": "crossref",
+  "categories": [
+   "MOFs & COFs",
+   "Photoredox & Organic Synthesis",
+   "Reactor Engineering & Scale-up",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "COFs",
+   "Organic Synthesis",
+   "Photocatalysis",
+   "Recyclability",
+   "Semiconductors"
+  ],
+  "relevance_score": 79,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": ""
+ },
+ {
   "id": "3f07f24811eaaac7",
   "title": "Ni(II) and Cu(II) complexes derived from thiophene-2,5-bis(thiosemicarbazone) as unprecedented templates for photocatalytic hydrogen production",
   "authors": [

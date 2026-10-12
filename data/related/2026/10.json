@@ -1,5 +1,107 @@
 [
  {
+  "id": "ae98b8c388e030f0",
+  "title": "Spin Coupled FeCo Dual‐Atom Sites Direct Selective Ozone Activation for Hypersaline Wastewater Purification",
+  "authors": [
+   "Yinhao Dai, Jianying Wu, Chengyang Gao, Fuqiang Liu, Qiang Zhong, Yuankui Sun, Hongyu Dong, Xiaoguang Duan, Xiaohong Guan"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-10",
+  "year": 2026,
+  "doi": "10.1002/anie.4167912",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4167912?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dual-Atom Catalysts",
+   "Related",
+   "Wastewater"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "7ba1f60241e47fea",
+  "title": "Chirality‐Driven Piezocatalysis in MOFs: Achieving Efficient Cocatalyst‐Free Hydrogen Evolution",
+  "authors": [
+   "Yali Ma, Zhuoran Sun, Haijun Hu, Lingfeng Zhu, Liqun Ye, Hongwei Huang, Xiaodong Sun, Tianyi Ma"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-10",
+  "year": 2026,
+  "doi": "10.1002/anie.3163680",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3163680?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "4cdc7772aba0429f",
+  "title": "Graphdiyne‐Based Heteronuclear Dual‐Atom Catalysts Enable High‐Energy‐Density Lithium–Sulfur Batteries",
+  "authors": [
+   "Zhongqiang Wang, Wenjing Zhang, Huang Xiao, Min Liu, Cong Tian, Congying Song, Fang Li, Zhen Hu, Guoxing Li"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-10",
+  "year": 2026,
+  "doi": "10.1002/anie.3002971",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3002971?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dual-Atom Catalysts",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "2e5c6951fb85eaea",
+  "title": "Axial Sulfur Ligation Unlocks the Rigidity of p‐Block Aluminum Single‐Atoms for Accelerated Oxygen Reduction",
+  "authors": [
+   "Xiaochen Wang, Mengge Li, Lili Zhang, Bing Zhang, Chunhui Li, Ning Zhang, Huishan Shang"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-10",
+  "year": 2026,
+  "doi": "10.1002/anie.4525727",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4525727?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-12",
+  "issn": "1521-3773"
+ },
+ {
   "id": "fcd83d1fe6964251",
   "title": "Molecular Heptazine–Platinum Complexes to Model Metal–Support Coordination in Platinized Graphitic Carbon Nitride: Insights into Catalyst Stability and Support Suitability",
   "authors": [
