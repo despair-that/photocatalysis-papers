@@ -1,5 +1,309 @@
 [
  {
+  "id": "b321c5ab7591b137",
+  "title": "K+-driven interfacial water reconstruction via charge-enriched heterointerfaces for accelerated alkaline hydrogen evolution",
+  "authors": [
+   "Min Bi",
+   "Zhe Lu",
+   "Peng-Cheng Yao",
+   "Jing-Wen Sun",
+   "Zhen Hou",
+   "Pan Xiong",
+   "Xin Wang",
+   "Jun-Wu Zhu",
+   "Yong-Sheng Fu"
+  ],
+  "journal": "Applied Catalysis B: Environment and Energy",
+  "publisher": "",
+  "published": "2026-10-13",
+  "year": 2026,
+  "doi": "10.1016/j.apcatb.2026.127593",
+  "url": "https://doi.org/10.1016/j.apcatb.2026.127593",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
+  "id": "816edbd163dec229",
+  "title": "Ni and C co-doping synergistically modulates the electronic distribution of MoO2 to achieve efficient hydrogen evolution in alkaline seawater",
+  "authors": [
+   "Ruo-Nan Liu",
+   "Yang-Shuo Liu",
+   "Tai-Li Yang",
+   "Pei-Xin Li",
+   "Yao Meng",
+   "Liang Qiao",
+   "Jun-Lei Qi",
+   "Yao-Tian Yan",
+   "Xiao-Hang Zheng"
+  ],
+  "journal": "Fuel",
+  "publisher": "",
+  "published": "2026-10-13",
+  "year": 2026,
+  "doi": "10.1016/j.fuel.2026.141600",
+  "url": "https://doi.org/10.1016/j.fuel.2026.141600",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
+  "id": "4cc646ae47ecee06",
+  "title": "Ammonia-assisted MoS2/biomass-derived activated carbon electrocatalyst for alkaline hydrogen evolution",
+  "authors": [
+   "N. Balagowtham",
+   "R. Arunpandian",
+   "M. Pandian",
+   "Mohanraj Kumar",
+   "Jeffrey Joseph John Jeya Kamaraj",
+   "K. R. Acchutharaman",
+   "M. Krishnamachari",
+   "Krishnan Vancheeswaran Prasad",
+   "Jih-Hsing Chang"
+  ],
+  "journal": "Biomass and Bioenergy",
+  "publisher": "",
+  "published": "2026-10-13",
+  "year": 2026,
+  "doi": "10.1016/j.biombioe.2026.110157",
+  "url": "https://doi.org/10.1016/j.biombioe.2026.110157",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
+  "id": "138e9197f206d40c",
+  "title": "Self-supporting WB/WC ceramic composite electrodes for robust hydrogen evolution reaction at high current densities",
+  "authors": [
+   "Shi-Dong He",
+   "Ze-Huan Jia",
+   "Yun-Peng Zhang",
+   "Wan-Chun Duan",
+   "An-Ding Huang",
+   "Fei-Hong Wang",
+   "Lu-Yuan Hao",
+   "Xiao-Jun Wu",
+   "Xin Xu"
+  ],
+  "journal": "Journal of the European Ceramic Society",
+  "publisher": "",
+  "published": "2026-10-13",
+  "year": 2026,
+  "doi": "10.1016/j.jeurceramsoc.2026.118928",
+  "url": "https://doi.org/10.1016/j.jeurceramsoc.2026.118928",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
+  "id": "ef5c699ccc06513f",
+  "title": "Rational Synthesis of High-Entropy (FeCoNiCuMn)12P5 Microrings and Their Enhanced Hydrogen Evolution Reaction Performance",
+  "authors": [
+   "Lei Yang",
+   "Yu-Xin Wan",
+   "Zi-Yi Zhao",
+   "Zi-Yuan Zhao",
+   "Xiao-Xian Tian",
+   "Jun Yin",
+   "Yu-Jue Li",
+   "Jia-Hui Wang",
+   "Le Xu",
+   "Xue-Qin Yuan"
+  ],
+  "journal": "Catalysis Letters",
+  "publisher": "",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1007/s10562-026-05549-4",
+  "url": "https://doi.org/10.1007/s10562-026-05549-4",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
+  "id": "dcc718cd5ae76895",
+  "title": "Proximity‐Engineered Dual‐Atomic Cobalt Sites Enable Adaptive Spin Catalysis for Simultaneous Oxygen and Peroxide Reduction",
+  "authors": [
+   "Ruiqi Cheng",
+   "Xiaodong Lin",
+   "Jin Song",
+   "Yexin Luo",
+   "Zhen Zhan",
+   "Songhua Cai",
+   "Chaopeng Fu",
+   "Alexandru Vlad",
+   "Guangchao Li"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1002/anie.3109429",
+  "url": "https://doi.org/10.1002/anie.3109429",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "COFs",
+   "Dual-Atom Catalysts",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
+  "id": "9f60b2d3514b3c30",
+  "title": "Accelerated Surface Reconstruction in Double Perovskites: Enhancing Oxygen Evolution Reaction Activity Through Fe‐Doping",
+  "authors": [
+   "Natasha Hales",
+   "Jinzhen Huang",
+   "André Wark",
+   "Ivano E. Castelli",
+   "Alvaro Garcia-Padilla",
+   "Camelia Nicoleta Borca",
+   "Thomas Huthwelker",
+   "Thomas J. Schmidt",
+   "Emiliana Fabbri"
+  ],
+  "journal": "SusMat",
+  "publisher": "Wiley",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1002/sus2.70106",
+  "url": "https://doi.org/10.1002/sus2.70106",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "Oxygen Evolution",
+   "Perovskites",
+   "Related",
+   "Tafel"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
+  "id": "110c5a5b9bbf2ac6",
+  "title": "Stability-oriented evaluation of a TiO2@g-C3N4 heterojunction for visible-light driven peroxymonosulfate activation and removal of structurally diverse pharmaceuticals",
+  "authors": [
+   "Gouri Suresh Kumbhar",
+   "Md Abdullah Al Masud",
+   "Leigh G. Terry",
+   "Won Sik Shin"
+  ],
+  "journal": "Tungsten",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-10-11",
+  "year": 2026,
+  "doi": "10.1007/s42864-026-00411-x",
+  "url": "https://doi.org/10.1007/s42864-026-00411-x",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Related",
+   "TiO2",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Kyungpook National University",
+   "University of Alabama"
+  ],
+  "added": "2026-10-13",
+  "issn": "2661-8028"
+ },
+ {
+  "id": "de4731f84cffc862",
+  "title": "Bifunctional MXene-Pd multilayer electrodes enabling coupled electrochemical reforming and hydrogen evolution",
+  "authors": [
+   "Minwook Jeong",
+   "Dayoeng Gang",
+   "Yonghoon Lee",
+   "Dong-Gyu Lee",
+   "Dae Han Sung",
+   "Jisoo Kim",
+   "Min-Su Gu"
+  ],
+  "journal": "Carbon Neutrality",
+  "publisher": "",
+  "published": "2026-10-10",
+  "year": 2026,
+  "doi": "10.1007/s43979-026-00184-9",
+  "url": "https://doi.org/10.1007/s43979-026-00184-9",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Nanosheets",
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
   "id": "ae98b8c388e030f0",
   "title": "Spin Coupled FeCo Dual‐Atom Sites Direct Selective Ozone Activation for Hypersaline Wastewater Purification",
   "authors": [
@@ -1027,6 +1331,37 @@
   "relevance_score": 23,
   "affiliations": [],
   "added": "2026-10-03",
+  "issn": ""
+ },
+ {
+  "id": "0321729d762ef355",
+  "title": "Data-driven framework with interpretable machine learning of sputter-deposited electrocatalysts for hydrogen evolution reaction in alkaline water electrolysis and anion exchange membrane water electrolysis",
+  "authors": [
+   "Jo-Han Huang",
+   "Yu-Hsuan Cheng",
+   "Yung-Liang Tung",
+   "Chia-Ching Chou",
+   "Jian-Zhang Chen"
+  ],
+  "journal": "Next Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.nxener.2026.101103",
+  "url": "https://doi.org/10.1016/j.nxener.2026.101103",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Data-Driven",
+   "Hydrogen Evolution",
+   "Machine Learning",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
   "issn": ""
  }
 ]

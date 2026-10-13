@@ -73873,6 +73873,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b4559f28c9ee2cde",
+  "title": "Construction of a UiO-66/g-C₃N₄ Heterojunction for Enhanced Photocatalytic Selective Oxidation of 5-Hydroxymethylfurfural to 2,5-Diformylfuran",
+  "authors": [
+   "Kai Chen",
+   "Yao Lin",
+   "Chenyu Gong",
+   "Yifei Qu",
+   "Ying Wu"
+  ],
+  "journal": "New Journal of Chemistry",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d6nj02192a",
+  "url": "https://doi.org/10.1039/d6nj02192a",
+  "source": "crossref",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photocatalysis",
+   "Selective Oxidation"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
   "id": "b3dbadd18e80d3f1",
   "title": "Photocatalytic Degradation of SMR by TiO2-Al-La-Kaolin: Degradation Pathways, Mechanisms and Toxicity Assessment",
   "authors": [

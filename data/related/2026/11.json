@@ -33,6 +33,37 @@
   "issn": ""
  },
  {
+  "id": "e5ffdbe0962bac25",
+  "title": "Electronic structure regulation of NiP via metal/nonmetal co-doping for electrocatalytic hydrogen evolution reaction",
+  "authors": [
+   "Tao Qin",
+   "Ya-Ru Guo",
+   "Hao Chen",
+   "Yu-Le Chang",
+   "Jin-Long Ge",
+   "Xiao-Yu Zhang"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.157988",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.157988",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
   "id": "e15c26136234d199",
   "title": "Phosphorus modification induced oxygen-rich defective Fe3O4 nanoparticles for enhanced hydrogen evolution reaction",
   "authors": [
@@ -219,6 +250,41 @@
   "issn": ""
  },
  {
+  "id": "92fdd3855934f001",
+  "title": "Construction of Zn0.2Cd0.8S/TP-PCN semiconductor catalyst for enhanced hydrogen evolution coupled with PET degradation performance",
+  "authors": [
+   "Yu-Sen Han",
+   "Li-Ting Lai",
+   "Wei-Ye Zhang",
+   "Rui Li",
+   "Wen-Bei Jia",
+   "Rui-Xuan Chu",
+   "Shi-Peng Wan",
+   "Xuan Liu",
+   "Qin Zhong",
+   "Zhao-Xiang Zhong"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.158019",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.158019",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related",
+   "Semiconductors"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
   "id": "8771a583bf73aa58",
   "title": "Suppressing hydrogen evolution and enhancing discharge performance of alkaline aluminum-air batteries by constructing Ti3C2Tx MXene functional layer",
   "authors": [
@@ -246,6 +312,40 @@
   "relevance_score": 24,
   "affiliations": [],
   "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "63dba7f922086435",
+  "title": "Urea-doped orange-waste-derived biochar supporting Ni nanoparticles for efficient hydrogen evolution from tetrahydroxydiboron",
+  "authors": [
+   "L. N. Louzada",
+   "Igor Pecly Estephaneli",
+   "A. C. Martins",
+   "Marcela de Oliveira Brahim Cortez",
+   "Andressa Rocha Honório de Oliveira",
+   "Marcelo S. Lima",
+   "R. D. da Silva",
+   "F. Pinto",
+   "Didier Astruc",
+   "R. Moreira"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.157964",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.157964",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
   "issn": ""
  },
  {
@@ -376,6 +476,38 @@
   "relevance_score": 24,
   "affiliations": [],
   "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "02c3bf0546bb724f",
+  "title": "Amorphous nickel hydroxide confined noble metal single atoms for enhanced alkaline hydrogen evolution reaction",
+  "authors": [
+   "Guang Yang",
+   "Xi-Liang Gong",
+   "Ze-Shuo Meng",
+   "Shuang Hou",
+   "Ming-Hao Yang",
+   "Zhong-Miao Gong",
+   "Rong Huang",
+   "Yi Cui"
+  ],
+  "journal": "Chinese Journal of Catalysis",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/s1872-2067(26)65166-2",
+  "url": "https://doi.org/10.1016/s1872-2067(26)65166-2",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
   "issn": ""
  }
 ]

@@ -124,6 +124,41 @@
   "added": "2026-08-18"
  },
  {
+  "id": "e45df79a535e6c30",
+  "title": "Rational design of Type-II Na2Li2Ti6O14/TiO2 nanoflower heterojunction for boosting photocatalytic hydrogen evolution",
+  "authors": [
+   "Nan Zhao",
+   "Pei Wang",
+   "Zhao-Yang Wang",
+   "Hai-Tao Yu",
+   "Zhen-Zi Li",
+   "Ying Xie",
+   "Wei Zhou"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.157888",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.157888",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
+ },
+ {
   "id": "e17c01d60b7719f5",
   "title": "Black phosphorus quantum dot heterostructures: Adaptive interface engineering, electronic coupling, and predictive design",
   "authors": [
@@ -760,6 +795,36 @@
   "relevance_score": 78,
   "affiliations": [],
   "added": "2026-09-27"
+ },
+ {
+  "id": "5a8175e59e9ad3bb",
+  "title": "MOF and MOF-derived photocatalysts for hydrogen evolution: Current status, challenges, and future outlook",
+  "authors": [
+   "Yi-Fei Li",
+   "Ting-Yang Li",
+   "Zheng-Zhuo Xiong",
+   "Rui-Yang Zhao",
+   "Ji-Shu Han",
+   "Lei Wang"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.157975",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.157975",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
  },
  {
   "id": "581e41c9d9d42c21",

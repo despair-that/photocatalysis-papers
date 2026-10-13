@@ -26,5 +26,37 @@
   "affiliations": [],
   "added": "2026-10-05",
   "issn": ""
+ },
+ {
+  "id": "689f7630df230e0e",
+  "title": "Anion-defect engineering of Mo2CO2 MXenes for site-selective hydrogen binding in hydrogen evolution",
+  "authors": [
+   "Yuan-Feng Li",
+   "Xin Xia",
+   "Yi-Xuan Zhou",
+   "Max Quayle",
+   "Feng Ye",
+   "Chao Xu",
+   "Alberto Roldan"
+  ],
+  "journal": "Computational Materials Science",
+  "publisher": "",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.commatsci.2026.115149",
+  "url": "https://doi.org/10.1016/j.commatsci.2026.115149",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Defect Engineering",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-13",
+  "issn": ""
  }
 ]
