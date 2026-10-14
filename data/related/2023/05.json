@@ -36,5 +36,35 @@
   ],
   "added": "2026-10-02",
   "issn": "2366-9608"
+ },
+ {
+  "id": "4fbda274439a086d",
+  "title": "Atomically Fe-doped MoS2−x with Fe-Mo dual sites for efficient electrocatalytic NO reduction to NH3",
+  "authors": [
+   "Kai Chen",
+   "Jiaxin Wang",
+   "Jilong Kang",
+   "Xubin Lu",
+   "Xiaolin Zhao",
+   "Ke Chu"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2023-05-01",
+  "year": 2023,
+  "doi": "10.1016/j.apcatb.2022.122241",
+  "url": "https://doi.org/10.1016/j.apcatb.2022.122241",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-14",
+  "issn": ""
  }
 ]

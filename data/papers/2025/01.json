@@ -99595,6 +99595,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "350836aa5180f6dc",
+  "title": "Plasmonic Bi-doped Bi-Bi 2 Sn 2 O 7 /Bi-g-C 3 N 4 photothermal catalysis for nitrogen fixation",
+  "authors": [
+   "Lei Zhang",
+   "Rao Gu",
+   "Jianzhong Zhang",
+   "Hang Liu",
+   "Shien Zhu",
+   "Dawei Su",
+   "Tianyi Wang",
+   "Yi Mou",
+   "Chengyin Wang"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d4gc05761a",
+  "url": "https://doi.org/10.1039/d4gc05761a",
+  "source": "crossref",
+  "categories": [
+   "Nitrogen Fixation",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "Ammonia Synthesis",
+   "Nitrogen Fixation",
+   "Photothermal Catalysis",
+   "Plasmonics"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-10-14",
+  "issn": ""
+ },
+ {
   "id": "34b8d483713bb4ee",
   "title": "Photocatalytic Degradation of Amoxicillin Using Go/Tio2 Nanocomposites: A Comparative Optimization and Modeling Study Using Rsm, Ann, and Anfis",
   "authors": [

@@ -2136,6 +2136,45 @@
   "added": "2026-07-24"
  },
  {
+  "id": "001b3920fce66874",
+  "title": "Photocatalytic Degradation of Phenol from Textile Wastewater Using Rutile and ZnO-NPs Doped Rutile Nanocomposite",
+  "authors": [
+   "Tunmise Latifat Adewoye",
+   "Ishaq Alhassan MOHAMMED",
+   "Sherif Ishola MUSTAPHA",
+   "Hambali Umar Hambali",
+   "Abdulkadri Ahmed ZUBAIRU",
+   "Ayodele Sarat ATANDA",
+   "Rephael Nsebong ETIM",
+   "Boluwatife Korede IKUSEMORO"
+  ],
+  "journal": "Malaysian Journal of Catalysis",
+  "publisher": "Penerbit UTM Press",
+  "published": "2024-12-31",
+  "year": 2024,
+  "doi": "10.11113/mjcat.v8n2.189",
+  "url": "https://doi.org/10.11113/mjcat.v8n2.189",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Doping",
+   "Photocatalysis",
+   "TiO2",
+   "Wastewater",
+   "ZnO"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-14",
+  "issn": ""
+ },
+ {
   "id": "ff93dc5182209c02",
   "title": "AgBiS2 quantum Dots-embedded g-C3N4 heterojunction for efficient visible-light photocatalytic sterilization",
   "authors": [

@@ -58,6 +58,41 @@
   "added": "2026-08-11"
  },
  {
+  "id": "cffcc4d22362be13",
+  "title": "In situ synthesis of NiS/BiVO4 heterojunctions: photocatalytic performance evaluation of tetracycline and mechanistic perspective",
+  "authors": [
+   "Xuehao Wang",
+   "Fanbing Yan",
+   "Zhixiang Zhang",
+   "Yinjun Zhang",
+   "Lianwei Shan",
+   "Ze Wu",
+   "Xuejiao Li"
+  ],
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "published": "2027-02-01",
+  "year": 2027,
+  "doi": "10.1016/j.molstruc.2026.147802",
+  "url": "https://doi.org/10.1016/j.molstruc.2026.147802",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Antibiotic Degradation",
+   "BiVO4",
+   "Heterojunctions",
+   "Photocatalysis"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-10-14",
+  "issn": ""
+ },
+ {
   "id": "9ba0edcc2862b915",
   "title": "Dual-functional composite of biobased interpenetrating network with pyridine-modified MIL-101(Fe) for synergistic adsorption-photocatalysis of phenolic compounds",
   "authors": [

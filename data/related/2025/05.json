@@ -72,6 +72,40 @@
   "issn": "0016-2361"
  },
  {
+  "id": "9f250331aa9bcb2f",
+  "title": "Tailoring OH Formation and Desorption on Nickel Catalysts via Surface Oxidation for Enhanced Hydrogen Evolution Stability and Kinetics",
+  "authors": [
+   "Yu Kang",
+   "Chunyu Zhang",
+   "Hao Li",
+   "Yifan Li",
+   "Hao Lei",
+   "Rong Huang",
+   "Yujia Han",
+   "Wei Wei",
+   "Xunhua Zhao",
+   "Yi Cui"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2025-05-09",
+  "year": 2025,
+  "doi": "10.1021/acscatal.4c07829",
+  "url": "https://doi.org/10.1021/acscatal.4c07829",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-14",
+  "issn": ""
+ },
+ {
   "id": "ec417f949a8a7fcb",
   "title": "Establishing a predictive model for ultraviolet degradation to rapidly estimate the service life of poly (lactic acid)-based mulch film for agricultural protection",
   "authors": [

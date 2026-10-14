@@ -39387,6 +39387,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "49acdd2d44e6768b",
+  "title": "Facet-Engineered Electron–Hole Compensation Enables Sustained Hot-Carrier Plasmonic Multi-Electron Reduction",
+  "authors": [
+   "Yi Sun",
+   "Bo Jiang",
+   "Li Li",
+   "Wenxuan Liu",
+   "Mengxue Zhao",
+   "Junbo Li",
+   "Lei Sun",
+   "Wei Ji"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-05-05",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c01635",
+  "url": "https://doi.org/10.1021/acscatal.6c01635",
+  "source": "crossref",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Plasmonic Photocatalysis",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Electron-Hole Pairs",
+   "Heterostructures",
+   "Photocatalysis",
+   "Plasmonics",
+   "Semiconductors"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-10-14",
+  "issn": ""
+ },
+ {
   "id": "497d575fa3146c32",
   "title": "Carbon dot – TiO2 photocatalytic coating for biofouling inhibition in aquaculture cage nets",
   "authors": [

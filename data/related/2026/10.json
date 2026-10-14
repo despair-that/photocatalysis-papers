@@ -202,6 +202,66 @@
   "issn": ""
  },
  {
+  "id": "b996878a1690ec6b",
+  "title": "Spatially Decoupled Cascade Oxygen Reduction on Bi Single‐Atom and Cluster‐Hybrid Sites for Hydroxyl Radical Generation",
+  "authors": [
+   "Lixu Wu, Zhiming Wang, Chao Miao, Yanguang Yang, Nan Hu, Haiyu Wang, Yan Li, Yongxin Zhou, Guohua Zhao"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1002/adma.75366",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75366?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Radical Chemistry",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-14",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "b94df91483c46f55",
+  "title": "Gold Single-Atom Catalysts Enable Selective Shuttle Hydrochlorination of Alkynes.",
+  "authors": [
+   "Marc-Eduard Usteri",
+   "Eva J. Meeus",
+   "Christian Zachau",
+   "Seung-Eun Choi",
+   "A. Bugaev",
+   "Milivoj Plodinec",
+   "S. Mitchell",
+   "Bill Morandi",
+   "J. Pérez-Ramírez"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1002/anie.1983055",
+  "url": "https://doi.org/10.1002/anie.1983055",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-14",
+  "issn": ""
+ },
+ {
   "id": "9f60b2d3514b3c30",
   "title": "Accelerated Surface Reconstruction in Double Perovskites: Enhancing Oxygen Evolution Reaction Activity Through Fe‐Doping",
   "authors": [
@@ -235,6 +295,93 @@
   "relevance_score": 23,
   "affiliations": [],
   "added": "2026-10-13",
+  "issn": ""
+ },
+ {
+  "id": "891d3d899c2213c3",
+  "title": "Strain‐Controlled Pt Single‐Atom Catalysts on Crumpled MXene Supports for Highly Active Hydrogen Evolution",
+  "authors": [
+   "Xiaomin Chen, Ding Yuan, Chao Rong, Qing Zhang, Cancan Chang, Bowen Deng, Ziqi Sun, Hua Kun Liu, Shi Xue Dou, Yuhai Dou"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1002/adma.75361",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75361?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 28,
+  "affiliations": [],
+  "added": "2026-10-14",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "44eb7ea31c25a17a",
+  "title": "Praseodymium‐Modulated NiFe Layered Double Hydroxide with Enhanced Oxygen Evolution Activity and Extended Durability",
+  "authors": [
+   "Yuanming Gao, Xuezhen Wu, Lin Zhang, Haoxiang Zhang, Xueying Feng, Yu Bai, Wei Song, Yong Zheng, Jiong Liu, Jieyu Chen, Dong Yang, Wen Ma, Shengzhong (Frank) Liu"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1002/advs.78238",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78238?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Oxygen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-14",
+  "issn": "2198-3844"
+ },
+ {
+  "id": "26261073d7284f83",
+  "title": "Copper single-atom carbon dots hydrogel resets oxidative and immune homeostasis for rheumatoid arthritis therapy",
+  "authors": [
+   "Qian He",
+   "Jie Kang",
+   "Dan Ma",
+   "Ying-Ying Zhang",
+   "Xiao-Rong Ling Hu",
+   "Yi-Pu Han",
+   "Mei-Rong Wang",
+   "Yi-Rong Yuan",
+   "Li-Yun Zhang"
+  ],
+  "journal": "Discover Nano",
+  "publisher": "",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1186/s11671-026-04994-9",
+  "url": "https://doi.org/10.1186/s11671-026-04994-9",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Dots",
+   "ROS",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-14",
   "issn": ""
  },
  {
