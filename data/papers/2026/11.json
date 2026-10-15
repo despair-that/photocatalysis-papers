@@ -96,6 +96,35 @@
   "added": "2026-09-26"
  },
  {
+  "id": "f0ce002a081a75e3",
+  "title": "Use of Polycyclic Aromatic Compounds as Electrophotocatalysts in Organic Reactions",
+  "authors": [
+   "Marco Manni",
+   "Jacopo Dosso",
+   "Federico Franco",
+   "Giacomo Filippini"
+  ],
+  "journal": "Chemistry–Methods",
+  "publisher": "Wiley-VCH",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1002/cmtd.70171",
+  "url": "https://doi.org/10.1002/cmtd.70171",
+  "source": "doaj",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Excited States",
+   "Photoredox"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": ""
+ },
+ {
   "id": "e4c3620fdf2ff4f9",
   "title": "Structural integrity, elastic response, electronic character, and photocatalytic hydrogen-production potential of Rb2NaX (X = S, Se, Te) Janus monolayers: A comprehensive density-functional investigation",
   "authors": [

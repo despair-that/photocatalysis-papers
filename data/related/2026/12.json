@@ -40,6 +40,37 @@
   "issn": ""
  },
  {
+  "id": "b9c5bab525b84dde",
+  "title": "Multi-element doped ZnIn-based metal sulfide microspheres: Synergistic atomic scale interaction for accelerating oxygen and hydrogen evolution",
+  "authors": [
+   "Xiao-Yu Wu",
+   "Meng-Yang Li",
+   "Jia-Ming Luo",
+   "Song-Feng Liang",
+   "Geng-Hua Cao",
+   "Luan Liu",
+   "Zhu-Rong Dong"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.cej.2026.182976",
+  "url": "https://doi.org/10.1016/j.cej.2026.182976",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": ""
+ },
+ {
   "id": "b37b275b3d916641",
   "title": "Unraveling the role of polyol additives in mitigating hydrogen evolution and improving anode utilization in magnesium–air batteries",
   "authors": [
@@ -124,6 +155,33 @@
   "relevance_score": 24,
   "affiliations": [],
   "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "9ea8818884cffc20",
+  "title": "DFT calculation of hydrogen evolution reaction on the surface of transition metals doped with line-defect niobium-based metals",
+  "authors": [
+   "Hung-Lung Chou",
+   "Hsin-Yu Chung"
+  ],
+  "journal": "Computational and Theoretical Chemistry",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.comptc.2026.116074",
+  "url": "https://doi.org/10.1016/j.comptc.2026.116074",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "DFT",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-15",
   "issn": ""
  },
  {

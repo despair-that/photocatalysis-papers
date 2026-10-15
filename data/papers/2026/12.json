@@ -176,6 +176,36 @@
   "added": "2026-09-18"
  },
  {
+  "id": "e0d782487844a2b0",
+  "title": "Comparative assessment of carbamazepine degradation and residual developmental toxicity after UV-C/H₂O₂ and UV-C/TiO₂ treatment",
+  "authors": [
+   "María Eugenia Becerril Ortiz",
+   "Jorge Javier Ramírez García",
+   "Hariz Islas Flores",
+   "Armando Ramírez Serrano"
+  ],
+  "journal": "Cleaner Water",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.clwat.2026.100324",
+  "url": "https://doi.org/10.1016/j.clwat.2026.100324",
+  "source": "doaj",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "ROS",
+   "Wastewater"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": ""
+ },
+ {
   "id": "e063ab583fa65eb3",
   "title": "CdS-based heterostructures for photocatalytic hydrogen evolution: synthesis strategies, multi-scale engineering, charge-transfer mechanisms, and future perspectives",
   "authors": [
@@ -716,6 +746,44 @@
   "added": "2026-09-07"
  },
  {
+  "id": "965a9a00472955f2",
+  "title": "Electronic structure engineering of CdS via ball-milled V₂P cocatalyst for highly efficient photocatalytic hydrogen evolution",
+  "authors": [
+   "Yong-Gang Lei",
+   "Shu-Yan Wang",
+   "Xiao-Shan Guo",
+   "Xiao-Jun Wang",
+   "Yong-Chun Tong",
+   "Qing-Yun Wang",
+   "Yu-Qi Han",
+   "Rui-Gang Fu",
+   "Xiao-Juan Feng",
+   "Li-Sheng Liu"
+  ],
+  "journal": "Applied Catalysis A: General",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.apcata.2026.121266",
+  "url": "https://doi.org/10.1016/j.apcata.2026.121266",
+  "source": "semanticscholar",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Co-catalysts",
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": ""
+ },
+ {
   "id": "8eef129cad7f249e",
   "title": "Iron doping and cerium oxide surface modification synergize with CoFe-LDH catalysis to boost Photoelectrochemical water splitting of ZnIn2S4 Photoanodes",
   "authors": [
@@ -789,6 +857,48 @@
   "relevance_score": 72,
   "affiliations": [],
   "added": "2026-09-18"
+ },
+ {
+  "id": "8b51db84f7de7b0f",
+  "title": "Visible-light photocatalytic removal and LC-MS elucidation of pharmaceutical contaminants in wastewater using UiO-66(Zr/Ce)/pCNNT composites",
+  "authors": [
+   "Abayomi David Folawewo",
+   "Sreekantha B. Jonnalagadda",
+   "Olatunji Stephen Olatunde"
+  ],
+  "journal": "Scientific African",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.sciaf.2026.e03696",
+  "url": "https://doi.org/10.1016/j.sciaf.2026.e03696",
+  "source": "doaj",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "MOFs & COFs",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Electrochemical Characterization",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Band Alignment",
+   "Charge Separation",
+   "EIS",
+   "Light Irradiation",
+   "MOFs",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoluminescence",
+   "Pollutants",
+   "S-Scheme",
+   "Visible Light",
+   "Wastewater"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": ""
  },
  {
   "id": "87628f77016e39f3",
@@ -886,6 +996,42 @@
   "relevance_score": 76,
   "affiliations": [],
   "added": "2026-10-13",
+  "issn": ""
+ },
+ {
+  "id": "7f1c9df2e3b1eecd",
+  "title": "Phosphonate ylide-integrated covalent organic frameworks for efficient photocatalytic hydrogen peroxide production",
+  "authors": [
+   "Hong Dong",
+   "Hong-Tu Che",
+   "Jian-Zhou Xiao",
+   "Zhi-Hao Zhao",
+   "Sha-Sha Gong",
+   "Ying-Xue Ma",
+   "Xin Wang",
+   "Ya Wang",
+   "Xin Zhang",
+   "Feng-Ming Zhang"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.cej.2026.182967",
+  "url": "https://doi.org/10.1016/j.cej.2026.182967",
+  "source": "semanticscholar",
+  "categories": [
+   "Solar Fuels",
+   "MOFs & COFs"
+  ],
+  "tags": [
+   "COFs",
+   "H2O2 Production",
+   "Photocatalysis"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-10-15",
   "issn": ""
  },
  {

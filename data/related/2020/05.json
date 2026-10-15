@@ -26,5 +26,37 @@
   ],
   "added": "2026-10-02",
   "issn": "0031-2290"
+ },
+ {
+  "id": "4aa54acbf8329dfe",
+  "title": "Two types of cooperative nitrogen vacancies in polymeric carbon nitride for efficient solar-driven H2O2 evolution",
+  "authors": [
+   "Yao Xie",
+   "Yunxiang Li",
+   "Zhaohui Huang",
+   "Junying Zhang",
+   "Xiaofang Jia",
+   "Xu-Sheng Wang",
+   "Jinhua Ye"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2020-05-01",
+  "year": 2020,
+  "doi": "10.1016/j.apcatb.2019.118581",
+  "url": "https://doi.org/10.1016/j.apcatb.2019.118581",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Pioneer",
+   "Related"
+  ],
+  "relevance_score": 32,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": ""
  }
 ]

@@ -32486,6 +32486,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "aae5156905a23f3a",
+  "title": "Genetically targeted photocatalytic organic dyes for spatiotemporally controlled organic synthesis in specific living cells",
+  "authors": [
+   "Spencer Zhao",
+   "Kang Yong Loh",
+   "Jonathan Tyson",
+   "Chandan Kadur",
+   "Carolyn R. Bertozzi",
+   "Karl Deisseroth",
+   "Zhenan Bao"
+  ],
+  "journal": "Nature Chemistry",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2026-07-08",
+  "year": 2026,
+  "doi": "10.1038/s41557-026-02195-6",
+  "url": "https://doi.org/10.1038/s41557-026-02195-6",
+  "source": "crossref",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Organic Synthesis",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": ""
+ },
+ {
   "id": "a344a04f60098490",
   "title": "Photocatalytic Remote Radical-Polar Crossover Reaction: Access of Organofluorine Compounds via 1,2-Carbonyl Migration",
   "authors": [

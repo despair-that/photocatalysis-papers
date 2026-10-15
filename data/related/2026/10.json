@@ -1,5 +1,110 @@
 [
  {
+  "id": "b3dc51c916b14bae",
+  "title": "Activity-Stability Balance Enabled by Orbital Splitting Energy in Ruthenium-Based Oxide Catalysts",
+  "authors": [
+   "Qingyi Liu",
+   "Lifeng Hang",
+   "Jinwu Liu",
+   "Da-Qian Cai",
+   "Zhehan Yi",
+   "Tao Zhang",
+   "Ting Yu",
+   "Hong Jin Fan"
+  ],
+  "journal": "ACS Nano",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.1021/acsnano.6c16492",
+  "url": "https://doi.org/10.1021/acsnano.6c16492",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Pioneer",
+   "Related"
+  ],
+  "relevance_score": 29,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": ""
+ },
+ {
+  "id": "db8bd14163887599",
+  "title": "Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
+  "authors": [
+   "Chien-Chih Tseng",
+   "Chang-Hsun Huang",
+   "Jui-Cheng Kao",
+   "Jui-Han Fu",
+   "Aowen Li",
+   "Ryo Ishikawa",
+   "Seong Rae Cho",
+   "Chenxi Lei",
+   "Kai Qi",
+   "Chih-Zong Deng",
+   "Po-Yu Yang",
+   "Cheng-Tang Pan",
+   "Wei-Chun Chen",
+   "Ming-Chung Wu",
+   "Fong-Zhi Chen",
+   "Yu-Wei Lin",
+   "Yu-Chieh Lo",
+   "Ya-Lun Ho",
+   "Kosuke Nagashio",
+   "Yi-Chia Chou",
+   "Naoya Shibata",
+   "Chun-Wei Pao",
+   "Vincent Tung"
+  ],
+  "journal": "Nature",
+  "publisher": "Springer Nature",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.1038/s41586-026-11267-z",
+  "url": "https://www.nature.com/articles/s41586-026-11267-z",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Related"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": "0028-0836"
+ },
+ {
+  "id": "4cf3af56d53131d1",
+  "title": "Remote allosteric control of single-atom Cu sites in Zr-MOFs enables selective CH4 hydroxylation",
+  "authors": [
+   "Geqian Fang, Fenfei Wei, Wenjun Yu, Yu Kang, Maya Marinova, Lulu Chen, Lin Li, Vitaly V. Ordomsky, Anne-Marie Blanchenet, Sen Lin, Jian Lin, Xiaodong Wang, Xianzhi Fu, Andrei Y. Khodakov, Tao Zhang"
+  ],
+  "journal": "Science Advances",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.1126/sciadv.aei9401",
+  "url": "https://www.science.org/doi/abs/10.1126/sciadv.aei9401?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": "2375-2548"
+ },
+ {
   "id": "b321c5ab7591b137",
   "title": "K+-driven interfacial water reconstruction via charge-enriched heterointerfaces for accelerated alkaline hydrogen evolution",
   "authors": [
@@ -134,6 +239,40 @@
   "issn": ""
  },
  {
+  "id": "056f57f07ea5f884",
+  "title": "Systematic insights into NiMoO4@NiX/MoX (X = S, Se, Te) heterojunction nanoarrays for alkaline hydrogen evolution.",
+  "authors": [
+   "Xiao D. Sun",
+   "Yan-Zhi Cui",
+   "Qiu-Yue Xiang",
+   "Qiong-Yao Wei",
+   "Yu-Lin Li",
+   "Qing-Cheng Zhang",
+   "Bao-Sheng Wang",
+   "Zhi-Wei Liu",
+   "Heng Chen"
+  ],
+  "journal": "Nanoscale",
+  "publisher": "",
+  "published": "2026-10-13",
+  "year": 2026,
+  "doi": "10.1039/d6nr02619b",
+  "url": "https://doi.org/10.1039/d6nr02619b",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": ""
+ },
+ {
   "id": "ef5c699ccc06513f",
   "title": "Rational Synthesis of High-Entropy (FeCoNiCuMn)12P5 Microrings and Their Enhanced Hydrogen Evolution Reaction Performance",
   "authors": [
@@ -168,6 +307,39 @@
   "issn": ""
  },
  {
+  "id": "eae83580076c79e5",
+  "title": "Wrinkling Facilitated Hydrogen Evolution Reaction on Non-Noble Transition-Metal Single Atoms Anchored at Vacancy-Defected MoS2 Monolayer",
+  "authors": [
+   "Ming-Jie Pu",
+   "Yi-Fan Feng",
+   "Tian-Gang Dong",
+   "Lin Liu"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1021/acs.jpcc.6c04609",
+  "url": "https://doi.org/10.1021/acs.jpcc.6c04609",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Band Structure",
+   "First-Principles",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "MoS2",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 31,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": ""
+ },
+ {
   "id": "dcc718cd5ae76895",
   "title": "Proximity‐Engineered Dual‐Atomic Cobalt Sites Enable Adaptive Spin Catalysis for Simultaneous Oxygen and Peroxide Reduction",
   "authors": [
@@ -199,6 +371,46 @@
   "relevance_score": 24,
   "affiliations": [],
   "added": "2026-10-13",
+  "issn": ""
+ },
+ {
+  "id": "c3607ac8a276bdc0",
+  "title": "Resolving Proton Diffusion Kinetics in Electrolytic Hydrogen Evolution",
+  "authors": [
+   "Zi-Yi Xu",
+   "Feng-Wei Xie",
+   "Lu-Li Feng",
+   "Zi-Ren Yuan",
+   "Ze-Yu Teng",
+   "Zhen-Li He",
+   "Xue-Qing Li",
+   "Yuan-Hong Lin",
+   "Xiao-Wei Dou",
+   "Han-Fang Zhang",
+   "Wei-Zhao Lu",
+   "Lin-Ping Yu",
+   "Xi-Yue Kang",
+   "Yao Jiang",
+   "Yue-Hui He"
+  ],
+  "journal": "The Journal of Physical Chemistry Letters",
+  "publisher": "",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1021/acs.jpclett.6c02170",
+  "url": "https://doi.org/10.1021/acs.jpclett.6c02170",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "EIS",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-10-15",
   "issn": ""
  },
  {
@@ -322,6 +534,40 @@
   "affiliations": [],
   "added": "2026-10-14",
   "issn": "1521-4095"
+ },
+ {
+  "id": "84420e640de20119",
+  "title": "Nitrogen-doped iron-cobalt alloy and tungsten oxide heterostructures: active electrocatalysts for alkaline hydrogen evolution.",
+  "authors": [
+   "M. N. Lakhan",
+   "S. A. Ekanayake",
+   "Xiao-Li Zhang",
+   "Hamidreza Arandiyan",
+   "Rachel A. Caruso"
+  ],
+  "journal": "Faraday discussions",
+  "publisher": "",
+  "published": "2026-10-12",
+  "year": 2026,
+  "doi": "10.1039/d6fd00095a",
+  "url": "https://doi.org/10.1039/d6fd00095a",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "Related",
+   "Tafel",
+   "WO3",
+   "Water Splitting"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-10-15",
+  "issn": ""
  },
  {
   "id": "44eb7ea31c25a17a",
