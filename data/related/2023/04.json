@@ -31,5 +31,36 @@
   ],
   "added": "2026-10-02",
   "issn": "1385-8947"
+ },
+ {
+  "id": "e6e71f63ba4b77de",
+  "title": "Nitrogen-rich carbon nitride inducing electron delocalization of Co-N4 site to enhance electrocatalytic carbon dioxide reduction",
+  "authors": [
+   "Jofrey Jackson Masana",
+   "Jiayong Xiao",
+   "Hui Zhang",
+   "Xiaoying Lu",
+   "Ming Qiu",
+   "Ying Yu"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2023-04-01",
+  "year": 2023,
+  "doi": "10.1016/j.apcatb.2022.122199",
+  "url": "https://doi.org/10.1016/j.apcatb.2022.122199",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Carbon Nitride",
+   "Related"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-10-16",
+  "issn": ""
  }
 ]

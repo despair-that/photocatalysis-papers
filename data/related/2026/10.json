@@ -80,6 +80,60 @@
   "issn": "0028-0836"
  },
  {
+  "id": "b4a4c039d6b7f5a3",
+  "title": "Dual Twisted Interfaces Enable Tunable Second Harmonic Generation in Chemical Vapor Deposition Grown Trilayer MoS2",
+  "authors": [
+   "Mengxuan Guo, Luyun Xuan, Mingwen Zhang, Han Zhang, Ziyue Chen, Lu Zheng, Weiwei Li, Mai Zhang, Tong He, Ruihuan Duan, Wu Zhao, Xuetao Gan, Zheng Liu, Manzhang Xu, Wei Huang, Xuewen Wang"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.1002/adma.75387",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75387?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-16",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "5705b14b86de555a",
+  "title": "Plant extract mediated liquid phase exfoliation of MoS2: a sustainable approach to micro and nanostructured material preparation",
+  "authors": [
+   "Hariprasad Ramachandran",
+   "Sharmila Nageswaran"
+  ],
+  "journal": "Frontiers in Nanotechnology",
+  "publisher": "Frontiers Media",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.3389/fnano.2026.1906127",
+  "url": "https://doi.org/10.3389/fnano.2026.1906127",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Band Structure",
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Vellore Institute of Technology University"
+  ],
+  "added": "2026-10-16",
+  "issn": "2673-3013"
+ },
+ {
   "id": "4cf3af56d53131d1",
   "title": "Remote allosteric control of single-atom Cu sites in Zr-MOFs enables selective CH4 hydroxylation",
   "authors": [

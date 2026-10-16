@@ -1940,6 +1940,41 @@
   "added": "2026-09-17"
  },
  {
+  "id": "13ce75eade05a201",
+  "title": "From interfacial modulation to Bi2WO6 activation: MOF-808-regulated S-scheme photocatalysis for solar hydrogen evolution",
+  "authors": [
+   "Xuedi Wu",
+   "Feiyang Tang",
+   "Zhichao Wang",
+   "Wenhuan Yang",
+   "Xurong Dong",
+   "Weiping Li",
+   "Long Bai"
+  ],
+  "journal": "Renewable Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.renene.2026.126566",
+  "url": "https://doi.org/10.1016/j.renene.2026.126566",
+  "source": "crossref",
+  "categories": [
+   "Water Splitting",
+   "Z-Scheme & Heterojunctions",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "S-Scheme",
+   "Solar Hydrogen"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-10-16",
+  "issn": ""
+ },
+ {
   "id": "1351d35463d099f9",
   "title": "Construction of topological insulator Bi2Te3 bridged Zn3In2S6/C3N5 ternary heterojunction with step-scheme/type-I synergistic charge transfer for boosted visible-light photocatalytic hydrogen evolution",
   "authors": [

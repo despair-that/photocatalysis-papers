@@ -95756,6 +95756,46 @@
   "added": "2026-07-26"
  },
  {
+  "id": "5b8a6951c80572e4",
+  "title": "Advanced ABO4-type ternary metal oxides for photocatalytic environmental remediation: Recent progress and future perspectives.",
+  "authors": [
+   "Sahana B V",
+   "Latha Kumari"
+  ],
+  "journal": "Journal of environmental quality",
+  "publisher": "",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1002/jeq2.70291",
+  "url": "https://doi.org/10.1002/jeq2.70291",
+  "source": "pubmed",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Z-Scheme & Heterojunctions",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Band Structure",
+   "Charge Carriers",
+   "Charge Separation",
+   "Doping",
+   "Heterojunctions",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Pollutants",
+   "ROS",
+   "Semiconductors",
+   "Visible Light"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-16",
+  "issn": ""
+ },
+ {
   "id": "5b6c39db95c367a9",
   "title": "Circumventing photoanode bandgap limits via oxidative photoelectro–hole primed photoredox catalysis for energy-demanding solar-to-chemical synthesis",
   "authors": [
@@ -105526,6 +105566,33 @@
    "University of Lisbon"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "357c7d3401530c13",
+  "title": "Cooperative Photocatalysis and N-Heterocyclic Carbene Catalysis for Enantioselective Benzylic C—H Oxyacylation ★",
+  "authors": [
+   "Caobo Li",
+   "Zhicheng Li",
+   "Zhonghua Gao",
+   "Song Ye"
+  ],
+  "journal": "Acta Chimica Sinica",
+  "publisher": "Shanghai Institute of Organic Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.6023/a26070252",
+  "url": "https://doi.org/10.6023/a26070252",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-16",
+  "issn": ""
  },
  {
   "id": "355409363c34c6e3",
