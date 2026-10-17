@@ -9126,6 +9126,34 @@
   "added": "2026-09-27"
  },
  {
+  "id": "7c213ebf4085dc37",
+  "title": "Anti-Markovnikov Hydroamination of Vinylpyridines via a Novel Photocatalytic Strategy.",
+  "authors": [
+   "Meng-Han Li",
+   "Yun-Hao Xiang",
+   "Guo-Zhi Han"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-25",
+  "year": 2026,
+  "doi": "10.3390/molecules31193420",
+  "url": "https://doi.org/10.3390/molecules31193420",
+  "source": "pubmed",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-17",
+  "issn": ""
+ },
+ {
   "id": "782c38f176ed5acd",
   "title": "Bichromophoric Ruthenium(II) Complexes for the Photoredox Late-Stage Radical Functionalization of Indolizines and Other Heterocycles",
   "authors": [
@@ -9408,6 +9436,44 @@
   "relevance_score": 51,
   "affiliations": [],
   "added": "2026-09-26"
+ },
+ {
+  "id": "1ddcd01b98d6500a",
+  "title": "Enhanced Catalytic Activity of TiO2/rGO Nanocomposites with Squaraine Dye for Photocatalytic Wastewater Treatment.",
+  "authors": [
+   "Petya Karakashkova",
+   "Maya Shopska",
+   "Iliyana Yordanova",
+   "Georgi Tyuliev",
+   "Georgi B Hadjichristov",
+   "Stela Minkovska"
+  ],
+  "journal": "Materials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-25",
+  "year": 2026,
+  "doi": "10.3390/ma19194102",
+  "url": "https://doi.org/10.3390/ma19194102",
+  "source": "pubmed",
+  "categories": [
+   "Semiconductor Materials",
+   "Pollutant Degradation",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Graphene",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Pollutants",
+   "TiO2",
+   "Visible Light",
+   "Wastewater"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-17",
+  "issn": ""
  },
  {
   "id": "1b71c535b63fecdb",
@@ -12448,6 +12514,35 @@
    "University of Waterloo"
   ],
   "added": "2026-09-23"
+ },
+ {
+  "id": "dadee1057dd14422",
+  "title": "Transition-Metal Clusters and Complexes: Ab Initio Studies on Inducing Photoexcitation and Photocatalytic Activity.",
+  "authors": [
+   "Ellie L Uzunоva",
+   "Ivelina M Georgieva",
+   "Tsvetan Zahariev"
+  ],
+  "journal": "Materials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-22",
+  "year": 2026,
+  "doi": "10.3390/ma19194047",
+  "url": "https://doi.org/10.3390/ma19194047",
+  "source": "pubmed",
+  "categories": [
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Ab Initio",
+   "DFT",
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-10-17",
+  "issn": ""
  },
  {
   "id": "da168260ab8392fe",
@@ -35217,6 +35312,40 @@
    "Saveetha University"
   ],
   "added": "2026-09-07"
+ },
+ {
+  "id": "ff7f0d274623e9b4",
+  "title": "ZnO/ZIF-8@Au nanoarchitectures with nanoconfinement-enhanced plasmonic coupling for ultrasensitive photoelectrochemical detection of malondialdehyde.",
+  "authors": [
+   "Xiaoxia Han",
+   "Dan Li",
+   "Yiran Li",
+   "Lizhen Huang",
+   "Bin Dong",
+   "Sui-Dong Wang",
+   "Hao Wu"
+  ],
+  "journal": "Analytica chimica acta",
+  "publisher": "",
+  "published": "2026-09-05",
+  "year": 2026,
+  "doi": "10.1016/j.aca.2026.346222",
+  "url": "https://doi.org/10.1016/j.aca.2026.346222",
+  "source": "pubmed",
+  "categories": [
+   "Photoelectrochemistry",
+   "Plasmonic Photocatalysis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "Plasmonics",
+   "ZnO"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-10-17",
+  "issn": ""
  },
  {
   "id": "fb80c8877fb67bc6",

@@ -1,5 +1,30 @@
 [
  {
+  "id": "1d41dcbe9722fc8c",
+  "title": "Charge-mediated remote epitaxy of Ga2O3 via MoS2",
+  "authors": [
+   "Gyeong Ryul Lee, Dong-Gwan Kim, Wonwoo Suh, Yoonho Choi, Donghan Kim, Mohammad M. Afandi, Juhui Oh, Hongsik Park, Celesta S. Chang, Hyun S. Kum, Taehoon Lee, Roy B. Chung"
+  ],
+  "journal": "Science Advances",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1126/sciadv.aee9510",
+  "url": "https://www.science.org/doi/abs/10.1126/sciadv.aee9510?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-17",
+  "issn": "2375-2548"
+ },
+ {
   "id": "b3dc51c916b14bae",
   "title": "Activity-Stability Balance Enabled by Orbital Splitting Energy in Ruthenium-Based Oxide Catalysts",
   "authors": [
@@ -31,6 +56,32 @@
   "affiliations": [],
   "added": "2026-10-15",
   "issn": ""
+ },
+ {
+  "id": "2bad44df14c1939d",
+  "title": "High‐Entropy Engineering to Stabilize Single‐Atom Ru Catalysts for Efficient and Durable Water Splitting",
+  "authors": [
+   "Peng-Fei Xie, Yun-Fan Yang, Ju-Zhen Zhang, Binbin He, Feng Zhang, Wenbo Zhao, Peng-Xiang Hou, Yan Sun, Wang Du, Yun Zu, Chang Liu, Yian Wang, Minhua Shao, Jin-Cheng Li"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.1002/anie.2676498",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2676498?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts",
+   "Water Splitting"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-17",
+  "issn": "1521-3773"
  },
  {
   "id": "db8bd14163887599",

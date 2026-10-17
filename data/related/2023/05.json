@@ -38,6 +38,35 @@
   "issn": "2366-9608"
  },
  {
+  "id": "0714969721ad83e8",
+  "title": "Single‐Atom Catalysis in Organic Synthesis",
+  "authors": [
+   "Vitthal B. Saptal",
+   "Vincenzo Ruta",
+   "Mark A. Bajada",
+   "Gianvito Vilé"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2023-05-10",
+  "year": 2023,
+  "doi": "10.1002/anie.202219306",
+  "url": "https://doi.org/10.1002/anie.202219306",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Organic Synthesis",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-17",
+  "issn": ""
+ },
+ {
   "id": "4fbda274439a086d",
   "title": "Atomically Fe-doped MoS2−x with Fe-Mo dual sites for efficient electrocatalytic NO reduction to NH3",
   "authors": [

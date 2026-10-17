@@ -37,5 +37,39 @@
   ],
   "added": "2026-10-02",
   "issn": "1385-8947"
+ },
+ {
+  "id": "642d5ca08af7a0c3",
+  "title": "Reactivity and Mechanism of Recoverable Pd 1 @C 3 N 4 Single-Atom Catalyst in Buchwald–Hartwig Aminations",
+  "authors": [
+   "Georgios Giannakakis",
+   "Marc Eduard Usteri",
+   "Aram Bugaev",
+   "Andrea Ruiz-Ferrando",
+   "Dario Faust Akl",
+   "Núria López",
+   "Serena Fantasia",
+   "Kurt Püntener",
+   "Javier Pérez-Ramírez",
+   "Sharon Mitchell"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2024-12-17",
+  "year": 2024,
+  "doi": "10.1021/acscatal.4c05134",
+  "url": "https://doi.org/10.1021/acscatal.4c05134",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-17",
+  "issn": ""
  }
 ]
