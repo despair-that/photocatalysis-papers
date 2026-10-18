@@ -1,5 +1,158 @@
 [
  {
+  "id": "f33bda665eb119e0",
+  "title": "Dual Modulation of Interfacial Water Structure and Metal‐Support Interaction via Single‐Atom Sites for Industrial Hydrogen Evolution",
+  "authors": [
+   "Guanghui Xu, Mingzi Sun, Xiaolong Jia, Cheng Huang, Chuanfu Li, Bolong Huang, Meiling Xiao, Changpeng Liu, Jianbing Zhu, Wei Xing"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1002/adma.74720",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74720?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 28,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "ce3537582a4c8ff9",
+  "title": "Atomic‐Level Regulating Zinc Chemistry by Sn Single‐Atom/Carbon‐Fibers Armed Gel Electrolyte for Highly Reversible Zinc Anode",
+  "authors": [
+   "Zeyu Yan, Song Yang, Fusheng Luo, Jinlong Zhang, Xiude Liu, Junkai Zhu, Yifei Zhang, Jun Huang, Yiwang Chen"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1002/adma.74734",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74734?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "a7411cff930f4924",
+  "title": "Sustainable Poly(Lactic Acid)/Graphene Oxide Bioelectronic Platform for Neurotransmitters Sensing and Tunable Stimulation of Astrocytes (Adv. Mater. 58/2026)",
+  "authors": [
+   "Alessandra Scidà, Giulia Cazzador, Roberta Fabbri, Matteo Calosi, Alessandro Silvestri, Andrea Candini, Fabiola Liscio, Franco Corticelli, Aikaterini Konstantoulaki, Andrea D'Iorio, Marco Caprini, Vincenzo Palermo, Monica Bertoldo, Valentina Benfenati, Chiara Zanardi, Emanuele Treossi"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1002/adma.75295",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75295?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Graphene",
+   "Lactic Acid",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "80b467cc5ca42fba",
+  "title": "Engineering Metal‐Pocket Cooperativity in Single‐Atom COF Nanozymes for Selective Cascade Catalysis",
+  "authors": [
+   "Ziping Li, Qijun Sun, Yawen Hao, Haotian Wen, Shery Chang, Fengwang Li, Jiangtao Xu, Kang Liang"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1002/adma.74678",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74678?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "41860b216b959846",
+  "title": "Interlayer Water Activation Supplemented Dual Oxygen Evolution Reaction Channels in Layered Double Hydroxides for Efficient Seawater Electrolysis",
+  "authors": [
+   "Rongli Fan, Gaoxiang He, Minyue Zhao, Huihui Yan, Bin Gao, Zhonghua Li, Huiting Huang, Xizhang Wang, Weichang Hao, Jianyong Feng, Zhigang Zou, Zhaosheng Li"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1002/adma.74631",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74631?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Oxygen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "360831bfef165c4e",
+  "title": "Sub‐Nanometer Cobalt on Tungsten Titanium Carbide MXene (W2TiC2Tx): An Electrocatalyst for Highly Efficient and Stable Alkaline Hydrogen Evolution at Industrial‐Scale Current Density",
+  "authors": [
+   "Xiaopeng Liu, Fan Yang, Deep M. Patel, Mohammad Albloushi, Qiqi Mao, Shan Jiang, Christian J. Breckner, Connor W. Schroeder, Ruoyu Cui, Tao Ma, Dapeng Jing, Wenyu Huang, Jeffrey T. Miller, Wenzhen Li, Luke T. Roling, Yue Wu"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "10.1002/adma.74654",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74654?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": "1521-4095"
+ },
+ {
   "id": "1d41dcbe9722fc8c",
   "title": "Charge-mediated remote epitaxy of Ga2O3 via MoS2",
   "authors": [

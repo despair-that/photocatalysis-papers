@@ -30,6 +30,36 @@
   "issn": ""
  },
  {
+  "id": "e8ac2c40806aa7bc",
+  "title": "Sequential construction of HOF-on-HOF architectures via stepwise hemin immobilization toward enhanced photocatalytic hydrogen evolution",
+  "authors": [
+   "Hui-Jun Li",
+   "Wen-Jie Liu",
+   "Zhou-Qing Xu",
+   "Jun-Jun Sun",
+   "Jian-Liang Cao",
+   "Yan Wang"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.seppur.2026.140509",
+  "url": "https://doi.org/10.1016/j.seppur.2026.140509",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": ""
+ },
+ {
   "id": "dd239ec63b1dd9fa",
   "title": "Electronic structural modulation, thermodynamic stability and photocatalytic response of novel lead-free Rb2AgScX6 (X= Cl, Br) double perovskites: First principle investigation",
   "authors": [

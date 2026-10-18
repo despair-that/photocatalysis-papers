@@ -1,5 +1,72 @@
 [
  {
+  "id": "d19d9f4428f16aed",
+  "title": "Machine-learning-guided first-principles investigation of hydrogen evolution on transition-metal-intercalated graphene/WSSiN2",
+  "authors": [
+   "Xian-Long Li",
+   "Fei He",
+   "Xin Dai",
+   "Jun-Bao Liao",
+   "Zheng-Li Zhang",
+   "Zhao Ding",
+   "Xiang Guo",
+   "Zi-Jiang Luo",
+   "Xue-Fei Liu",
+   "Yi Wang"
+  ],
+  "journal": "Carbon",
+  "publisher": "",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.carbon.2026.122186",
+  "url": "https://doi.org/10.1016/j.carbon.2026.122186",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "First-Principles",
+   "Graphene",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": ""
+ },
+ {
+  "id": "8ea3140097193b5e",
+  "title": "Interfacial M–O–P coupling drives active-site reconfiguration in CoMoO4 for high-current-density alkaline hydrogen evolution",
+  "authors": [
+   "Shu-Ting Wang",
+   "Rui Zhang",
+   "Fu-Lin Zhang",
+   "Xin-Wei Zheng",
+   "Wen-Tuan Bi",
+   "Yu-Fei Kong",
+   "Yan Sang"
+  ],
+  "journal": "Journal of Power Sources",
+  "publisher": "",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.jpowsour.2026.241680",
+  "url": "https://doi.org/10.1016/j.jpowsour.2026.241680",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": ""
+ },
+ {
   "id": "8cf0940ee2c02619",
   "title": "MXene electrocatalysts for hydrogen evolution and methanol oxidation: Interfacial mechanisms, architectures, and emerging design principles for energy-saving electrolysis",
   "authors": [

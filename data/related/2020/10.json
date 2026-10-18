@@ -42,6 +42,42 @@
   "issn": "0272-8842"
  },
  {
+  "id": "f0fbb8e144b67e65",
+  "title": "Insights into the Multiple Synergies of Supports in the Selective Oxidation of Glycerol to Dihydroxyacetone: Layered Double Hydroxide Supported Au",
+  "authors": [
+   "Zhe An",
+   "Honghao Ma",
+   "Hongbo Han",
+   "Zeyu Huang",
+   "Yitao Jiang",
+   "Wenlong Wang",
+   "Yanru Zhu",
+   "Hongyan Song",
+   "Xin Shu",
+   "Xu Xiang",
+   "Jing He"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2020-10-12",
+  "year": 2020,
+  "doi": "10.1021/acscatal.0c02844",
+  "url": "https://doi.org/10.1021/acscatal.0c02844",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Related",
+   "Selective Oxidation"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": ""
+ },
+ {
   "id": "235d3102ed4103db",
   "title": "Robust ruthenium diphosphide nanoparticles for pH-universal hydrogen evolution reaction with platinum-like activity",
   "authors": [

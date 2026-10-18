@@ -26194,6 +26194,41 @@
   "added": "2026-07-27"
  },
  {
+  "id": "fb01c33d49e80451",
+  "title": "Visible-light-driven photoreduction of CO 2 to CO over porous nitrogen-deficient carbon nitride nanotubes",
+  "authors": [
+   "Shien Guo",
+   "Hongye Zhang",
+   "Peng Yang",
+   "Yu Chen",
+   "Xiaoxiao Yu",
+   "Bo Yu",
+   "Yanfei Zhao",
+   "Zhenzhen Yang",
+   "Zhimin Liu"
+  ],
+  "journal": "Catalysis Science & Technology",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2019-01-01",
+  "year": 2019,
+  "doi": "10.1039/c8cy02509f",
+  "url": "https://doi.org/10.1039/c8cy02509f",
+  "source": "crossref",
+  "categories": [
+   "CO2 Reduction",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Photoreduction",
+   "Visible Light"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": ""
+ },
+ {
   "id": "fafdae11d3209976",
   "title": "Practical heterogeneous photoredox/nickel dual catalysis for C–N and C–O coupling reactions",
   "authors": [

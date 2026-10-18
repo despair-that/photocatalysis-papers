@@ -784,6 +784,42 @@
   "issn": ""
  },
  {
+  "id": "8f3137c1c0fdd720",
+  "title": "Advanced engineering of inorganic semiconductor nanowires: Materials-by-design for next-generation green energy technologies",
+  "authors": [
+   "Sunday Temitope Oyinbo",
+   "Hoe-Gil Lee",
+   "Sikiru Oluwarotimi Ismail",
+   "Tien-Chien Jen"
+  ],
+  "journal": "Energy Reviews",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.enrev.2026.100216",
+  "url": "https://doi.org/10.1016/j.enrev.2026.100216",
+  "source": "doaj",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Machine Learning for Photocatalysis",
+   "Semiconductor Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Machine Learning",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Semiconductors",
+   "Water Splitting"
+  ],
+  "relevance_score": 84,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": ""
+ },
+ {
   "id": "8eef129cad7f249e",
   "title": "Iron doping and cerium oxide surface modification synergize with CoFe-LDH catalysis to boost Photoelectrochemical water splitting of ZnIn2S4 Photoanodes",
   "authors": [
@@ -1313,6 +1349,86 @@
   "relevance_score": 51,
   "affiliations": [],
   "added": "2026-09-12"
+ },
+ {
+  "id": "655d3dc091dab173",
+  "title": "SnO2-x/TiO2 Photocatalysts for Dye Removal Under Visible Light: Effect of Sn2+:Sn4+ Ratio on Defect Formation",
+  "authors": [
+   "Haroki Madani",
+   "Saepurahman Saepurahman",
+   "Muhammad Triyogo Adiwibowo",
+   "Teguh Kurniawan",
+   "Marta Pramudita",
+   "Rusdi Rusdi"
+  ],
+  "journal": "Bulletin of Chemical Reaction Engineering & Catalysis",
+  "publisher": "Masyarakat Katalis Indonesia - Indonesian Catalyst Society (MKICS)",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.9767/bcrec.20798",
+  "url": "https://doi.org/10.9767/bcrec.20798",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Band Gap",
+   "Band Structure",
+   "Doping",
+   "Heterostructures",
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Photodegradation",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 98,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": ""
+ },
+ {
+  "id": "61291b98e12f8b60",
+  "title": "Stacking-Order-Dependent Interfacial Synergy in ZnO/SnO2 and SnO2/ZnO Heterostructured Nanofilms for Enhanced Photocatalytic, Sonocatalytic and Antibacterial Activities",
+  "authors": [
+   "Mohamed Amine Bezzerrouk",
+   "Ahmed Akriche",
+   "Bachir Kharroubi",
+   "Ismail Hattabi",
+   "Fabien Giovannelli",
+   "Bruno Pignon",
+   "Rabie Naceur",
+   "Mohamed Bousmaha"
+  ],
+  "journal": "Bulletin of Chemical Reaction Engineering & Catalysis",
+  "publisher": "Masyarakat Katalis Indonesia - Indonesian Catalyst Society (MKICS)",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.9767/bcrec.20794",
+  "url": "https://doi.org/10.9767/bcrec.20794",
+  "source": "doaj",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Heterostructures",
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": ""
  },
  {
   "id": "5fc77a2046943f96",

@@ -55649,6 +55649,32 @@
   "added": "2026-07-27"
  },
  {
+  "id": "8ce6595c363668b3",
+  "title": "Electrochemical and photoelectrochemical approaches for the selective removal, recovery, and valorization of chloride ions",
+  "authors": [
+   "Do-Hwan Nam",
+   "Dongho Lee",
+   "Kyoung-Shin Choi"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1016/j.cej.2020.126378",
+  "url": "https://doi.org/10.1016/j.cej.2020.126378",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": ""
+ },
+ {
   "id": "8cde6473a7c1ab62",
   "title": "Photocatalytic degradation of crystal violet dye using sulphur-doped carbon quantum dots",
   "authors": [

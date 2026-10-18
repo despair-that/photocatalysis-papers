@@ -483,6 +483,40 @@
   "added": "2026-09-04"
  },
  {
+  "id": "b7735a93ea6ec8ad",
+  "title": "Sn-doped ZnO nanostructures: Synthesis, characterization, and photocatalytic performance",
+  "authors": [
+   "Ashkan Nahvibayani",
+   "Seyed Mojtaba Zebarjad",
+   "Kamal Janghorban",
+   "Zahra Sherafat"
+  ],
+  "journal": "Chemical Engineering Journal Advances",
+  "publisher": "Elsevier",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ceja.2026.101513",
+  "url": "https://doi.org/10.1016/j.ceja.2026.101513",
+  "source": "doaj",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Doping",
+   "Electron-Hole Pairs",
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Photoluminescence",
+   "ZnO"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-18",
+  "issn": ""
+ },
+ {
   "id": "b675232ffb4cfce0",
   "title": "Facilitating the activation of wide bandgap hexagonal boron nitride via 222 nm far UV-C for efficient photocatalytic degradation of recalcitrant PFAS",
   "authors": [
@@ -614,6 +648,36 @@
   "relevance_score": 75,
   "affiliations": [],
   "added": "2026-10-11",
+  "issn": ""
+ },
+ {
+  "id": "95a4a044400503ba",
+  "title": "Dimensional reduction and edge-state engineering unlock superior photocatalytic hydrogen evolution in lead-free (C6H5–C2H4–NH3)4AgBiBr8 layered double perovskite",
+  "authors": [
+   "Vidhya Chandrabose",
+   "Meera Bhasuran",
+   "R. Nair",
+   "S. Kurian"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.157943",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.157943",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution",
+   "Perovskites"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Perovskites",
+   "Photocatalysis"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-10-18",
   "issn": ""
  },
  {
