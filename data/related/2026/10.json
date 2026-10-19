@@ -1,5 +1,81 @@
 [
  {
+  "id": "6d746298d8b2238a",
+  "title": "Unveiling Electrode–Electrolyte Interfacial Synergy in CTAB‐Modulated Pd Single‐Atom Catalysts for Efficient H2O2 Electrosynthesis",
+  "authors": [
+   "Weiping Xiao, Qin Zhao, Na Wang, Fengyan Han, Danil Bukhvalov, Xiaofei Yang"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-17",
+  "year": 2026,
+  "doi": "10.1002/anie.2707273",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2707273?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-19",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "64864c84c432329d",
+  "title": "Ligand Steric Hindrance‐Engineered Spatially Asymmetric Single‐Atom Catalysts: A New Platform for Electrochemical Oxygen Reduction",
+  "authors": [
+   "Kai Cui, Zhao Zhang, Tianyue Zhang, Pengbo Lyu, Zhong Chen, Xiaoliang Tang, Yuxi Xu, Yu Tang"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-17",
+  "year": 2026,
+  "doi": "10.1002/anie.5047569",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5047569?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-19",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "05c8facb85e54c03",
+  "title": "Temperature‐Dependent Dynamics of Superoxide and Peroxide Anions in Hydrocarbon Catalytic Oxidation Over Single‐Atom Pt Catalysts",
+  "authors": [
+   "Baojian Zhang, Jiale Wang, Liangwei Li, Rui Liu, Biluan Zhang, Tong Chen, Haitao Shi, Zhu Luo, Ji Yang, Yanbing Guo"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-17",
+  "year": 2026,
+  "doi": "10.1002/anie.2276045",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2276045?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "ROS",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-19",
+  "issn": "1521-3773"
+ },
+ {
   "id": "f33bda665eb119e0",
   "title": "Dual Modulation of Interfacial Water Structure and Metal‐Support Interaction via Single‐Atom Sites for Industrial Hydrogen Evolution",
   "authors": [

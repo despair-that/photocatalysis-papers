@@ -651,6 +651,43 @@
   "issn": ""
  },
  {
+  "id": "a109cdd86f7fc6b6",
+  "title": "Co-dopant engineering of copper-doped carbon dots: mechanistic control of ROS catalysis",
+  "authors": [
+   "Lida Naji Farhan Rawashdeh",
+   "Maha Mohammed Tawfiq",
+   "R. Roopashree",
+   "Subhashree Ray",
+   "Rahul Saxena",
+   "Saadon Abdullah Auda",
+   "Navin Kumar",
+   "Harvinder Singh Sohal",
+   "Nima Afshar"
+  ],
+  "journal": "Chemical Engineering Journal Advances",
+  "publisher": "Elsevier",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ceja.2026.101518",
+  "url": "https://doi.org/10.1016/j.ceja.2026.101518",
+  "source": "doaj",
+  "categories": [
+   "g-C3N4 & Carbon Materials",
+   "Mechanism & Charge Dynamics",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Carbon Dots",
+   "Doping",
+   "Photocatalysis",
+   "ROS"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-10-19",
+  "issn": ""
+ },
+ {
   "id": "95a4a044400503ba",
   "title": "Dimensional reduction and edge-state engineering unlock superior photocatalytic hydrogen evolution in lead-free (C6H5–C2H4–NH3)4AgBiBr8 layered double perovskite",
   "authors": [
@@ -1176,6 +1213,35 @@
   "relevance_score": 100,
   "affiliations": [],
   "added": "2026-10-02",
+  "issn": ""
+ },
+ {
+  "id": "30d7d2669b4c729d",
+  "title": "Facile preparation, characterization and photocatalytic activity of magnesium-substituted zinc aluminate",
+  "authors": [
+   "Youssef El Jabbar",
+   "Hind Lakhlifi",
+   "Said Ait Talhajt",
+   "Rachida El Ouatib"
+  ],
+  "journal": "Results in Chemistry",
+  "publisher": "Elsevier",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.rechem.2026.103980",
+  "url": "https://doi.org/10.1016/j.rechem.2026.103980",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Antibiotic Degradation",
+   "Photocatalysis",
+   "Pollutants"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-10-19",
   "issn": ""
  },
  {
