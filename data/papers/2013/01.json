@@ -60608,6 +60608,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3a41d85b211c8aac",
+  "title": "Enhanced Photoelectrochemical Response from Copper Antimony Zinc Sulfide Thin Films on Transparent Conducting Electrode",
+  "authors": [
+   "Prashant K. Sarswat",
+   "Michael L. Free"
+  ],
+  "journal": "International Journal of Photoenergy",
+  "publisher": "Wiley",
+  "published": "2013-01-01",
+  "year": 2013,
+  "doi": "10.1155/2013/154694",
+  "url": "https://doi.org/10.1155/2013/154694",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photoelectrochemistry",
+   "ZnS"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-10-20",
+  "issn": ""
+ },
+ {
   "id": "3a3f06097c59d168",
   "title": "Synthesis and Evaluation of Photocatalytic Properties of BiOBr for Wastewater Treatment Applications",
   "authors": [

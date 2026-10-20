@@ -7362,6 +7362,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ae6daf676e6b4b57",
+  "title": "Study of Factors Affecting UV-Induced Photo-Degradation in Different Types of Polyethylene Sheets",
+  "authors": [
+   "Bochu Du",
+   "Chenghao Lee",
+   "Ying Ji"
+  ],
+  "journal": "Polymers",
+  "publisher": "MDPI AG",
+  "published": "2024-09-25",
+  "year": 2024,
+  "doi": "10.3390/polym16192709",
+  "url": "https://doi.org/10.3390/polym16192709",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photodegradation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-20",
+  "issn": ""
+ },
+ {
   "id": "9b9d8609f2f4dc95",
   "title": "Engineering nitrogen vacancies and cyano groups into C3N4 nanosheets for highly efficient photocatalytic H2O2 production",
   "authors": [
