@@ -39899,6 +39899,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "cebc90f0bc2d6f72",
+  "title": "Nanoconstructing ZnWO4/sulfur-doped polyimide Z-scheme heterojunction with improved charges transfer for enhanced solar photocatalysis",
+  "authors": [
+   "Xuelian Li",
+   "Long Zhang",
+   "Weihao Jia",
+   "Chenghai Ma",
+   "Xinying Jia",
+   "Baotong Liu",
+   "Ying Chen",
+   "Xinyu Wang"
+  ],
+  "journal": "Solar Energy",
+  "publisher": "Elsevier BV",
+  "published": "2025-11-01",
+  "year": 2025,
+  "doi": "10.1016/j.solener.2025.113981",
+  "url": "https://doi.org/10.1016/j.solener.2025.113981",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photocatalysis",
+   "Z-Scheme"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-10-21",
+  "issn": ""
+ },
+ {
   "id": "ce7ceff5a0f0616f",
   "title": "Synthesis of mesoporous TiO2 photocatalytically active under visible light or UV radiation",
   "authors": [
