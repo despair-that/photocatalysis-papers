@@ -1,5 +1,91 @@
 [
  {
+  "id": "e3fe9cc3282d727b",
+  "title": "Carbon-rich boron carbon nitride monolayers (BNCx): tuning graphene with localized borazine units",
+  "authors": [
+   "Han D",
+   "Lee J",
+   "Min S."
+  ],
+  "journal": "RSC advances",
+  "publisher": "",
+  "published": "2026-10-21",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13681185",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Graphene",
+   "Related"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-10-22",
+  "issn": ""
+ },
+ {
+  "id": "7ff5b23f44083c6a",
+  "title": "Atomic‐Level Regulating Layer‐by‐Layer Zinc Deposition by High‐Entropy Single‐Atoms Electrolyte Additive",
+  "authors": [
+   "Xiude Liu, Jinlong Zhang, Fusheng Luo, Zeyu Yan, Junkai Zhu, Yifei Zhang, Kai Yuan, Jun Huang"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-21",
+  "year": 2026,
+  "doi": "10.1002/adma.75467",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75467?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-22",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "3b66334eac8b2ac9",
+  "title": "Inverse Redox Induction of Cobalt(II) Iron(II) Redox Couple: An Evaluation of N,N‐ Bidentate Ligand‐Modulated Redox Potentials for Redoximetric Expansion",
+  "authors": [
+   "Tabee Jan",
+   "Mohd Mustafa",
+   "Saba Niaz",
+   "Junaid Afzal",
+   "Masood Ahmad Rizvi"
+  ],
+  "journal": "European Journal of Inorganic Chemistry",
+  "publisher": "Wiley",
+  "published": "2026-10-20",
+  "year": 2026,
+  "doi": "10.1002/ejic.70350",
+  "url": "https://doi.org/10.1002/ejic.70350",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "EIS",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "University of Kashmir",
+   "Government Medical College",
+   "Department of Higher Education"
+  ],
+  "added": "2026-10-22",
+  "issn": "1099-0682"
+ },
+ {
   "id": "ffcd9f82ad60aedb",
   "title": "Asymmetric Single‐Atom Catalysts Govern Diffusible and Non‐Diffusible Non‐Radical Pathways for Selective Degradation of Antibiotic Resistance Genes",
   "authors": [
@@ -26,6 +112,45 @@
   "issn": "2198-3844"
  },
  {
+  "id": "e0ded9609d26727b",
+  "title": "From inertness to efficiency: immobilizing Au-Bi heterostructures on a graphite substrate to drive the hydrogen evolution reaction.",
+  "authors": [
+   "Rashid KH",
+   "Siddique NA",
+   "Akter R",
+   "Ahmed J",
+   "Faisal M",
+   "Algethami JS",
+   "Harraz FA",
+   "Uddin J",
+   "Rahman MM",
+   "Singha NR",
+   "Hasnat MA."
+  ],
+  "journal": "RSC advances",
+  "publisher": "",
+  "published": "2026-10-19",
+  "year": 2026,
+  "doi": "10.1039/d6ra08299h",
+  "url": "https://doi.org/10.1039/d6ra08299h",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Related",
+   "Tafel",
+   "Water Splitting"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-10-22",
+  "issn": ""
+ },
+ {
   "id": "6b9dc43770b0b6c2",
   "title": "Single‐Atom‐Enhanced Fully Inkjet‐Printed Electrochemical Sensor for Dopamine Detection",
   "authors": [
@@ -49,6 +174,40 @@
   "affiliations": [],
   "added": "2026-10-21",
   "issn": "2198-3844"
+ },
+ {
+  "id": "230e913957907243",
+  "title": "Entropy-Enhanced Catalysis Accelerates Low-Temperature CO2 Methanation via Intermediate Delocalization at Under-Coordinated Ru2+− V O Sites",
+  "authors": [
+   "Hao-Yang Jiang",
+   "Hiroaki Kaneko",
+   "Ren-Jie Zhou",
+   "Yue-Ren Liu",
+   "Chen-Xi Guo",
+   "Masahiro Miyauchi",
+   "Miao Zhong"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "",
+  "published": "2026-10-19",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c06063",
+  "url": "https://doi.org/10.1021/acscatal.6c06063",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Molecular Dynamics",
+   "Oxygen Vacancies",
+   "Plasmonics",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-22",
+  "issn": ""
  },
  {
   "id": "161e06daaa95c478",

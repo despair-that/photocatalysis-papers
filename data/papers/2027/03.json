@@ -71,5 +71,33 @@
   "relevance_score": 82,
   "affiliations": [],
   "added": "2026-09-10"
+ },
+ {
+  "id": "819f3fd271235eeb",
+  "title": "PW9V3 confined in MIL-101(Cr) via V–O–Cr interfacial linkages for enhanced photocatalytic nitrogen reduction",
+  "authors": [
+   "Xiaoxiao Zhao",
+   "Xinjie Zhang",
+   "Yang Yang",
+   "Min Luo",
+   "Xiaoman Li"
+  ],
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "published": "2027-03-01",
+  "year": 2027,
+  "doi": "10.1016/j.fuel.2026.141845",
+  "url": "https://doi.org/10.1016/j.fuel.2026.141845",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-10-22",
+  "issn": ""
  }
 ]
