@@ -448,6 +448,41 @@
   "added": "2026-09-11"
  },
  {
+  "id": "c7921c61c522b468",
+  "title": "Constructing a Z-scheme GeC/PtSSe heterojunction to achieve high-efficiency and stable photocatalytic performance",
+  "authors": [
+   "Yanghui Ba",
+   "Qingquan Xiao",
+   "Jianfeng Ye",
+   "Fuqiang Ai",
+   "Songguo Yu",
+   "Lingxiu Zhang",
+   "Wuyang Hu",
+   "Quan Xie",
+   "Jiang Yan",
+   "Xiaoping Wu"
+  ],
+  "journal": "Physics Letters A",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.physleta.2026.132296",
+  "url": "https://doi.org/10.1016/j.physleta.2026.132296",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photocatalysis",
+   "Z-Scheme"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-10-23",
+  "issn": ""
+ },
+ {
   "id": "c6ceb2f881f1096a",
   "title": "Degradation rates and pathways of ciprofloxacin with a composite of β-Ga2O3 nanoparticles and nanocellulose hydrolyzed from Azanza garckeana fruit fibers",
   "authors": [
@@ -1857,6 +1892,42 @@
   "relevance_score": 86,
   "affiliations": [],
   "added": "2026-08-14"
+ },
+ {
+  "id": "2e72739c6a6c866f",
+  "title": "A DFT study of photocatalytic water splitting and hydrogen evolution in Zr-based 2D materials through Janus asymmetry and van der Waals stacking",
+  "authors": [
+   "Mostafa Torkashvand",
+   "Saeedeh Sarabadani Tafreshi"
+  ],
+  "journal": "Materials Today Sustainability",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtsust.2026.101464",
+  "url": "https://doi.org/10.1016/j.mtsust.2026.101464",
+  "source": "doaj",
+  "categories": [
+   "Water Splitting",
+   "Hydrogen Evolution",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Band Gap",
+   "DFT",
+   "First-Principles",
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Water Splitting"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-10-23",
+  "issn": ""
  },
  {
   "id": "2bee49e5493bf777",

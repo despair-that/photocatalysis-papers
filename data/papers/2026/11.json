@@ -1023,6 +1023,40 @@
   "added": "2026-09-08"
  },
  {
+  "id": "541e6e1136df9c7d",
+  "title": "Constructing S-scheme Bi2MoO6/C-In2O3 heterojunction for enhanced peroxymonosulfate activation and visible-light photocatalytic degradation of ofloxacin: Performance, mechanism and toxicity assessment",
+  "authors": [
+   "Shan Xu",
+   "Yan Yu",
+   "Wei Ma",
+   "Liangliang Chang",
+   "Meilan Li",
+   "Wei Gong",
+   "Baoyue Cao",
+   "Haijiao Xie"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.jallcom.2026.191837",
+  "url": "https://doi.org/10.1016/j.jallcom.2026.191837",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photocatalysis",
+   "S-Scheme",
+   "Visible Light"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-10-23",
+  "issn": ""
+ },
+ {
   "id": "52dc4b067132a754",
   "title": "Binder-enabled green ZnO/TiO2 bilayer coatings on FTO for structural, optical, and photocatalytic applications",
   "authors": [

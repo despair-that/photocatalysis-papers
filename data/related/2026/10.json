@@ -1,5 +1,71 @@
 [
  {
+  "id": "f455e18522e8ee0d",
+  "title": "Unveiling Surface‐Vacancy‐Mediated Negative Photoconductivity in γ‐Ga 2 O 3 Quantum Dots for Solar‐Blind Inhibitory Optoelectronic Synapses and In‐Sensor Computing",
+  "authors": [
+   "Bowen Lv",
+   "Jiaqi Han",
+   "Hongbin Wang",
+   "Hui Li",
+   "王聖裕",
+   "Peng Li",
+   "Siqi Li",
+   "Chong Wu",
+   "Jiangang Ma",
+   "Haiyang Xu",
+   "Yichun Liu"
+  ],
+  "journal": "Laser & Photonics Review",
+  "publisher": "Wiley",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1002/lpor.72112",
+  "url": "https://doi.org/10.1002/lpor.72112",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Graphene",
+   "Heterojunctions",
+   "Oxygen Vacancies",
+   "Quantum Dots",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Northeast Normal University",
+   "Inner Mongolia University"
+  ],
+  "added": "2026-10-23",
+  "issn": "1863-8880"
+ },
+ {
+  "id": "37e7b0ecad50947c",
+  "title": "Design of Bridging‐Oxygen‐Modulated Fe–Ni Dual‐Atom Sites With Multifaceted Stabilization for Durable Cathode Catalysis in Rechargeable Zinc–Air Batteries",
+  "authors": [
+   "Wenbo Shi, Qian Zhang, Kai Zhu, Chenhong Liu, Tiefeng Liu, Rui Gao, Jialiang Pan, Yang Yuan, Qing Zhang, Lijun Zheng, Jun Lu, Zhengyu Bai"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1002/adma.75470",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75470?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dual-Atom Catalysts",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-23",
+  "issn": "1521-4095"
+ },
+ {
   "id": "e3fe9cc3282d727b",
   "title": "Carbon-rich boron carbon nitride monolayers (BNCx): tuning graphene with localized borazine units",
   "authors": [
@@ -26,6 +92,31 @@
   "affiliations": [],
   "added": "2026-10-22",
   "issn": ""
+ },
+ {
+  "id": "909dbd74e83ccbd7",
+  "title": "Outside Back Cover: Polypyridyl Coordination Motifs as Precursors for Ordered Carbonaceous Frameworks Toward High‐Density Ru Single‐Atom Catalysts",
+  "authors": [
+   "Koki Chida, Tan-Hao Shi, Takeharu Yoshii, Yuichiro Hayasaka, Yu Gao, Hao Zhang, Nikolay Kosinov, Shigehisa Akine, Kazuhide Kamiya, Kaining Li, Yoshifumi Kondo, Yasutaka Kuwahara, Tomoki Ogoshi, Hirotomo Nishihara"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-21",
+  "year": 2026,
+  "doi": "10.1002/anie.2026-m1910013700",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2026-m1910013700?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-23",
+  "issn": "1521-3773"
  },
  {
   "id": "7ff5b23f44083c6a",
