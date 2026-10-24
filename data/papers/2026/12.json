@@ -509,6 +509,38 @@
   "added": "2026-08-20"
  },
  {
+  "id": "c55aa90b74033b27",
+  "title": "Effect of clay mineral morphology on the photocatalytic performance of g-C",
+  "authors": [
+   "Qihang Zhao",
+   "Tianci Chen",
+   "Jinlong Jiang"
+  ],
+  "journal": "Results in Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rineng.2026.113565",
+  "url": "https://doi.org/10.1016/j.rineng.2026.113565",
+  "source": "doaj",
+  "categories": [
+   "g-C3N4 & Carbon Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Photocatalysis",
+   "Pollutants",
+   "Visible Light",
+   "Wastewater",
+   "g-C3N4"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": ""
+ },
+ {
   "id": "c21131ea2d17c855",
   "title": "Photocatalytic activity of biosynthesized ZnS quantum dots toward efficient photodegradation of 3-Nitrophenol",
   "authors": [
@@ -1162,6 +1194,34 @@
   "added": "2026-09-12"
  },
  {
+  "id": "7dc4b8b6b6365e79",
+  "title": "Advanced review on MoO",
+  "authors": [
+   "Nihal",
+   "Jyoti R․",
+   "Himanshi",
+   "Prashant",
+   "Rohit Kumar Singh Gautam"
+  ],
+  "journal": "Nano Trends",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nwnano.2026.100252",
+  "url": "https://doi.org/10.1016/j.nwnano.2026.100252",
+  "source": "doaj",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": ""
+ },
+ {
   "id": "7d1ff9f0444bbd1d",
   "title": "MIL-125(Ti)-derived carbon-encapsulated FeS2@TiO2 heterojunctions: Synergistic visible-light photocatalysis and peroxymonosulfate activation for accelerated tetracycline degradation",
   "authors": [
@@ -1269,6 +1329,40 @@
   "relevance_score": 78,
   "affiliations": [],
   "added": "2026-09-05"
+ },
+ {
+  "id": "7927a2214e806707",
+  "title": "Photocatalytic detoxification of azo dyes and electrochemical detection of Pb²⁺ and Li⁺ using green-synthesized calcium-activated Ag nanocatalysts",
+  "authors": [
+   "B. Chaithra",
+   "M.S. Shivakumar",
+   "C.R. Ravikumar",
+   "G. Srinivas Reddy",
+   "Puneeth Kumar N",
+   "Sharanakumar TM"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jpap.2026.100324",
+  "url": "https://doi.org/10.1016/j.jpap.2026.100324",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Electron-Hole Pairs",
+   "Photocatalysis",
+   "Photodegradation",
+   "ROS"
+  ],
+  "relevance_score": 86,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": ""
  },
  {
   "id": "77ecc3c680beb01d",
@@ -1515,6 +1609,41 @@
   "added": "2026-08-02"
  },
  {
+  "id": "5b3786a7088e3ff1",
+  "title": "Pd–N coordination on nitrogen-deficient g-C",
+  "authors": [
+   "Liuqing Yang",
+   "Caijuan Xia",
+   "Tianfang Li",
+   "Haowen Zou",
+   "Wingkei Ho",
+   "Dingze Lu"
+  ],
+  "journal": "Materials Today Catalysis",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtcata.2026.100169",
+  "url": "https://doi.org/10.1016/j.mtcata.2026.100169",
+  "source": "doaj",
+  "categories": [
+   "g-C3N4 & Carbon Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "ROS",
+   "Visible Light",
+   "g-C3N4"
+  ],
+  "relevance_score": 94,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": ""
+ },
+ {
   "id": "4bc38324fc4fbdae",
   "title": "Graphene-Based Materials for Solar-Driven Interfacial Evaporation: Materials Design, Salt Management, and Practical Challenges",
   "authors": [
@@ -1683,6 +1812,49 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-10-09",
+  "issn": ""
+ },
+ {
+  "id": "3c4bbba89c62102b",
+  "title": "The role of activated carbon in photocatalysis",
+  "authors": [
+   "Juan Martín-Gómez",
+   "Juan Carlos Escamilla",
+   "Jesús Hidalgo-Carrillo",
+   "M. Carmen Herrera-Beurnio",
+   "Alejandro Ariza-Pérez",
+   "Francisco J. López-Tenllado",
+   "Alberto Marinas",
+   "Francisco J. Urbano"
+  ],
+  "journal": "Materials Today Catalysis",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtcata.2026.100167",
+  "url": "https://doi.org/10.1016/j.mtcata.2026.100167",
+  "source": "doaj",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Z-Scheme & Heterojunctions",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Charge Transfer",
+   "Co-catalysts",
+   "Heterojunctions",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Pollutants",
+   "Semiconductors"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-24",
   "issn": ""
  },
  {
@@ -2350,5 +2522,39 @@
   "relevance_score": 67,
   "affiliations": [],
   "added": "2026-09-28"
+ },
+ {
+  "id": "0304827a8067c1d5",
+  "title": "Polysaccharide-conjugated nanocomposites: Synthesis, characterization, and environmental-biomedical applications",
+  "authors": [
+   "Manali Vaidya",
+   "Popat Kumbhar",
+   "Srinivasan Prabhu",
+   "Muniappan Ayyanar",
+   "Ritesh Bhole",
+   "Irina Pustolaikina",
+   "Yerkeblan Tazhbayev",
+   "Dinesh Hase",
+   "Vaishali Murade",
+   "Shailendra Gurav"
+  ],
+  "journal": "Next Nanotechnology",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nxnano.2026.100861",
+  "url": "https://doi.org/10.1016/j.nxnano.2026.100861",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": ""
  }
 ]

@@ -1,5 +1,30 @@
 [
  {
+  "id": "cd2753d7eed27145",
+  "title": "Primary tumor–derived lactate primes prostate cancer cells for a dormant fate",
+  "authors": [
+   "Luigi Ippolito, Erica Pranzini, Giulia Gangarossa, Marta Iozzo, Giuseppina Comito, Giacomo Venditti, Sara Roccabianca, Elisa Pardella, Matteo Lulli, Alice Santi, Gabriella Nesi, Elisa Giannoni, Paola Chiarugi"
+  ],
+  "journal": "Science Advances",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.1126/sciadv.aeb8595",
+  "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8595?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Related"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": "2375-2548"
+ },
+ {
   "id": "f455e18522e8ee0d",
   "title": "Unveiling Surface‐Vacancy‐Mediated Negative Photoconductivity in γ‐Ga 2 O 3 Quantum Dots for Solar‐Blind Inhibitory Optoelectronic Synapses and In‐Sensor Computing",
   "authors": [
@@ -39,6 +64,31 @@
   ],
   "added": "2026-10-23",
   "issn": "1863-8880"
+ },
+ {
+  "id": "c89c74ef34d01ee7",
+  "title": "Dynamic Reconstruction of Vanadium Oxide Species Modified Ruthenium‐Cerium Catalysts: Electron Bridge and Hydrogen‐Bond Network Disruption for Efficient Acidic Hydrogen Evolution",
+  "authors": [
+   "Jiawei Li, Ziyang Zhu, Zirui Wang, Jiaxin Li, Fanfan Meng, Bin Liu, Zenghe Li"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.1002/anie.8226147",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.8226147?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": "1521-3773"
  },
  {
   "id": "37e7b0ecad50947c",

@@ -33,5 +33,41 @@
   ],
   "added": "2026-10-02",
   "issn": "2095-9273"
+ },
+ {
+  "id": "7686e770d10bfd8d",
+  "title": "Orbital-coupled dual-atom Ni-Sn in conductive metal-organic framework enables integrated two-electron ORR and WOR for efficient H2O2 electrosynthesis",
+  "authors": [
+   "Jinyan Wang",
+   "Shaoda Huang",
+   "Yifan Xu",
+   "Hongyin Hu",
+   "Okkyun Seo",
+   "Huagui Nie",
+   "Zhi Yang",
+   "Baochun Guo",
+   "Mingliang Du",
+   "Dongshuang Wu",
+   "Shuanglong Lu"
+  ],
+  "journal": "Applied Catalysis B: Environment and Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-05-01",
+  "year": 2026,
+  "doi": "10.1016/j.apcatb.2025.126177",
+  "url": "https://doi.org/10.1016/j.apcatb.2025.126177",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dual-Atom Catalysts",
+   "MOFs",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": ""
  }
 ]

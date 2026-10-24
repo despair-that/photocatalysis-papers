@@ -33,5 +33,37 @@
   "affiliations": [],
   "added": "2026-10-09",
   "issn": ""
+ },
+ {
+  "id": "908aa31ae64994a3",
+  "title": "Synergistic regulation of oxygen vacancy and Lewis acid sites by Ru loading in LaMnOx catalysts for boosting 2-butanol production from levulinic acid and levulinates",
+  "authors": [
+   "Lingling Gao",
+   "Yiwei Long",
+   "Zhiguo Xiao",
+   "Lungang Chen",
+   "Guozhang Chang",
+   "Wenguang Zhou",
+   "Chenguang Wang",
+   "Yong Liu"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2025-10-01",
+  "year": 2025,
+  "doi": "10.1016/j.jcat.2025.116302",
+  "url": "https://doi.org/10.1016/j.jcat.2025.116302",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": ""
  }
 ]

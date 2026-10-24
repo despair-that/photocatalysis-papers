@@ -1210,6 +1210,37 @@
   "issn": ""
  },
  {
+  "id": "39f67fce1b466639",
+  "title": "Comparative analysis of ZnO, MgO and CuO nanoparticles (NPs) in the photocatalytic degradation of methyl red: An experimental and COMSOL-based study",
+  "authors": [
+   "Aqsa Waqar",
+   "Shamaila Fiaz",
+   "Tahir Iqbal",
+   "Mariam Seemab",
+   "Atif Hussain"
+  ],
+  "journal": "Results in Chemistry",
+  "publisher": "Elsevier",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.rechem.2026.104012",
+  "url": "https://doi.org/10.1016/j.rechem.2026.104012",
+  "source": "doaj",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Electron-Hole Pairs",
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": ""
+ },
+ {
   "id": "332777658415e837",
   "title": "Highly efficient visible-light photocatalytic degradation of PBS dye using biowaste–derived CQDs/cu₂O nanocomposite",
   "authors": [

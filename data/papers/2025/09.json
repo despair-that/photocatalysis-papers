@@ -100,6 +100,49 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e5405e327e92fd51",
+  "title": "Enhanced visible-light-driven degradation of tetracycline via photocatalysis and photo-Fenton processes using B-TiO 2 /Fe 3 O 4 composites",
+  "authors": [
+   "Raúl Avilés-Monreal",
+   "Hugo Alejandro Borbón-Nuñez",
+   "Keren Fonseca-Flores",
+   "Mario H Farías",
+   "Felipe Castillón-Barraza"
+  ],
+  "journal": "Nano Express",
+  "publisher": "IOP Publishing",
+  "published": "2025-09-30",
+  "year": 2025,
+  "doi": "10.1088/2632-959x/ae0750",
+  "url": "https://doi.org/10.1088/2632-959x/ae0750",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Antibiotic Degradation",
+   "Charge Separation",
+   "Charge Transfer",
+   "Heterojunctions",
+   "Heterostructures",
+   "Hydroxyl Radicals",
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Pollutants",
+   "Radical Chemistry",
+   "Sunlight-Driven",
+   "Visible Light"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": ""
+ },
+ {
   "id": "e39563fdfa909243",
   "title": "Synthesis of Brookite Titanium Dioxide Nanorods using Salt-Assisted Ultrasonic Spray Pyrolysis Process and their Photocatalytic Activities",
   "authors": [

@@ -50205,6 +50205,37 @@
   "added": "2026-07-26"
  },
  {
+  "id": "5744dce4f5583cd2",
+  "title": "Boosting photothermal catalytic non-oxidative methane coupling by high-density frustrated Lewis pairs in Ag/InOxHy",
+  "authors": [
+   "Ziyuan Yan",
+   "Xiaoning Li",
+   "Xinwei Guan",
+   "Zhaoliang Wang",
+   "Jinni Shen",
+   "Tingjiang Yan",
+   "Tianyi Ma",
+   "Zizhong Zhang"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2025-07-01",
+  "year": 2025,
+  "doi": "10.1016/j.jcat.2025.116117",
+  "url": "https://doi.org/10.1016/j.jcat.2025.116117",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photothermal Catalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-10-24",
+  "issn": ""
+ },
+ {
   "id": "5491cb552166a4c2",
   "title": "Atomic-level engineering of amide-bonded ohmic-junctions for synergistic photocatalytic CO2-to-CO conversion and H2O2 production via barrier-free charge transfer in pure H2O",
   "authors": [
