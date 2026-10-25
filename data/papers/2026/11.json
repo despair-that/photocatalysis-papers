@@ -1406,6 +1406,44 @@
   "issn": ""
  },
  {
+  "id": "1cd1b48df6fb12dc",
+  "title": "Photocatalytic CO",
+  "authors": [
+   "Rosaura Peña",
+   "Rubi Romero",
+   "L. Gerardo Cornejo-Cornejo",
+   "Sandra Luz Martínez-Vargas",
+   "Oscar Olea-Mejía",
+   "Reyna Natividad"
+  ],
+  "journal": "Chemical Engineering Journal Advances",
+  "publisher": "Elsevier",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ceja.2026.101488",
+  "url": "https://doi.org/10.1016/j.ceja.2026.101488",
+  "source": "doaj",
+  "categories": [
+   "CO2 Reduction",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Hydroxyl Radicals",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photoreduction",
+   "ROS",
+   "Radical Chemistry",
+   "Visible Light"
+  ],
+  "relevance_score": 98,
+  "affiliations": [],
+  "added": "2026-10-25",
+  "issn": ""
+ },
+ {
   "id": "172ffa72d31529bf",
   "title": "Engineering Fe-doped NH₂-UiO-67(Zr)/BiOI heterojunctions with a proposed direct Z-scheme pathway for efficient visible-light-driven emerging pollutant degradation",
   "authors": [

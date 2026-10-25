@@ -1,5 +1,58 @@
 [
  {
+  "id": "598422bffa600838",
+  "title": "Electrochemical Impedance Spectroscopy of (Photo)electrochemical Systems: A Practical Guide",
+  "authors": [
+   "Moehl T",
+   "Service E",
+   "Yang W",
+   "Tilley S."
+  ],
+  "journal": "ACS measurement science au",
+  "publisher": "",
+  "published": "2026-10-24",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13693279",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "EIS",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-25",
+  "issn": ""
+ },
+ {
+  "id": "403777fb85917ea9",
+  "title": "Pd Embedded in 1T‐Rich MoS2 With Island‐Sea Confinement for C2‐Selective Ethanol Electrooxidation",
+  "authors": [
+   "Xiaowen Gu, Yu Liang, Pengcheng Zhao, Xinye Zhang, Wei Liu, Chenyu Cui, Zihao Xing, Shangqian Zhu, Jinfa Chang"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-24",
+  "year": 2026,
+  "doi": "10.1002/anie.7983393",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7983393?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-25",
+  "issn": "1521-3773"
+ },
+ {
   "id": "cd2753d7eed27145",
   "title": "Primary tumor–derived lactate primes prostate cancer cells for a dormant fate",
   "authors": [
@@ -23,6 +76,31 @@
   "affiliations": [],
   "added": "2026-10-24",
   "issn": "2375-2548"
+ },
+ {
+  "id": "07e4c0b64603f466",
+  "title": "Interfacial Hydrogen Spillover in Partially Alloyed PdNi Electrocatalysts for Hydrogen Evolution",
+  "authors": [
+   "Di Wang, Jun Mei, Qianqian Yao, Jing Shang, Yahui Wang, Shixue Dou"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.1002/anie.4353715",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4353715?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-25",
+  "issn": "1521-3773"
  },
  {
   "id": "f455e18522e8ee0d",

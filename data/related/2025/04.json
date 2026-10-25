@@ -1,5 +1,43 @@
 [
  {
+  "id": "2ca3b68d00fa2cbf",
+  "title": "High-entropy alloy enables multi-path electron synergism and lattice oxygen activation for enhanced oxygen evolution activity",
+  "authors": [
+   "Tao Zhang",
+   "Hui-Feng Zhao",
+   "Zheng-Jie Chen",
+   "Qun Yang",
+   "Niu Gao",
+   "Li Li",
+   "Na Luo",
+   "Jian Zheng",
+   "Shi-Da Bao",
+   "Jing Peng",
+   "Xu Peng",
+   "Xin-Wang Liu",
+   "Hai-Bin Yu"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2025-04-08",
+  "year": 2025,
+  "doi": "10.1038/s41467-025-58648-y",
+  "url": "https://doi.org/10.1038/s41467-025-58648-y",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Pioneer",
+   "Related"
+  ],
+  "relevance_score": 32,
+  "affiliations": [],
+  "added": "2026-10-25",
+  "issn": ""
+ },
+ {
   "id": "440f6c07f9cf164a",
   "title": "α-Ag2WO4/g-C3N4: Investigation of the synthesis medium on composite properties and H2 evolution under simulated sunlight",
   "authors": [
