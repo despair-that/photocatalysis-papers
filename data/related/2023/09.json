@@ -1,5 +1,37 @@
 [
  {
+  "id": "9951eb714ad2140d",
+  "title": "Boosting Electrochemical Kinetics of NiCo 2 via MoO 2 Modification for Biomass Upgrading Assisted Hydrogen Evolution",
+  "authors": [
+   "Jia Wu",
+   "Jinli Chen",
+   "Tianqi Yu",
+   "Zhixiang Zhai",
+   "Yumei Zhu",
+   "Xizi Wu",
+   "Shibin Yin"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2023-09-29",
+  "year": 2023,
+  "doi": "10.1021/acscatal.3c03094",
+  "url": "https://doi.org/10.1021/acscatal.3c03094",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-10-26",
+  "issn": ""
+ },
+ {
   "id": "4e4e2a21520a6593",
   "title": "Synthesis of High Entropy and Entropy-Stabilized Metal Sulfides and Their Evaluation as Hydrogen Evolution Electrocatalysts",
   "authors": [

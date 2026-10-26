@@ -78,6 +78,31 @@
   "issn": "2375-2548"
  },
  {
+  "id": "66eef15d13124146",
+  "title": "Single–Atom Iron Sites Enable Enhanced Arsenic Removal From Water Through Synergistic Adsorption–Oxidation",
+  "authors": [
+   "Tao Sun, Chao Wang, Shihang Wu, Xiaojia Zhou, Penggang Pei, Huijuan Yu, Yun Zhang, Qingqing Huang, Yuebing Sun"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.1002/advs.76858",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76858?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-26",
+  "issn": "2198-3844"
+ },
+ {
   "id": "07e4c0b64603f466",
   "title": "Interfacial Hydrogen Spillover in Partially Alloyed PdNi Electrocatalysts for Hydrogen Evolution",
   "authors": [
@@ -761,6 +786,35 @@
   "issn": "2375-2548"
  },
  {
+  "id": "c0e76c1fbafa5228",
+  "title": "Pt-Modified CoFe Alloy Electrode Enables Ampere-Level Coproduction of Acetate and Hydrogen",
+  "authors": [
+   "Cheng Lai",
+   "Khalfan Abrahman Khamis",
+   "Pengzuo Chen"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-10-15",
+  "year": 2026,
+  "doi": "10.1021/acssuschemeng.6c08560",
+  "url": "https://doi.org/10.1021/acssuschemeng.6c08560",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-26",
+  "issn": ""
+ },
+ {
   "id": "b3dc51c916b14bae",
   "title": "Activity-Stability Balance Enabled by Orbital Splitting Energy in Ruthenium-Based Oxide Catalysts",
   "authors": [
@@ -890,6 +944,46 @@
   "affiliations": [],
   "added": "2026-10-16",
   "issn": "1521-4095"
+ },
+ {
+  "id": "97902e10222cee82",
+  "title": "Engineered Antiperovsksite Nitride for Boosting Electrocatalytic Green Hydrogen Production",
+  "authors": [
+   "Yufeng Qian",
+   "Lanli Chen",
+   "Jinglei Wang",
+   "Muhammad Humayun",
+   "Lu Zhang",
+   "Huaming Zhang",
+   "Yuxiao Liu",
+   "Junhong Duan",
+   "Quanshui Zhu",
+   "Mohamed Bououdina",
+   "Mohammad Reza Naimi Jamal",
+   "Yanwei Wang",
+   "Chundong Wang"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.1021/acssuschemeng.6c05997",
+  "url": "https://doi.org/10.1021/acssuschemeng.6c05997",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Oxygen Evolution",
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 28,
+  "affiliations": [],
+  "added": "2026-10-26",
+  "issn": ""
  },
  {
   "id": "5705b14b86de555a",
@@ -1861,6 +1955,35 @@
   "relevance_score": 23,
   "affiliations": [],
   "added": "2026-10-07",
+  "issn": ""
+ },
+ {
+  "id": "27551748d8128a19",
+  "title": "Ion-Migrated Mechanistic Insights into Electrocatalytic Nitrogen Reduction at Electrified Cu(111)/Water Interface",
+  "authors": [
+   "Deewan S. Teja",
+   "Bhabani S. Mallik"
+  ],
+  "journal": "ACS Applied Energy Materials",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-10-06",
+  "year": 2026,
+  "doi": "10.1021/acsaem.6c02542",
+  "url": "https://doi.org/10.1021/acsaem.6c02542",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Ammonia Synthesis",
+   "Hydrogen Evolution",
+   "Molecular Dynamics",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-26",
   "issn": ""
  },
  {

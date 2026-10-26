@@ -33724,6 +33724,35 @@
   "added": "2026-08-09"
  },
  {
+  "id": "74d5b6a24c16a5a5",
+  "title": "Electrochemical Impedance Spectroscopy of (Photo)electrochemical Systems: A Practical Guide.",
+  "authors": [
+   "Thomas Moehl",
+   "Erin Service",
+   "Wooseok Yang",
+   "S David Tilley"
+  ],
+  "journal": "ACS measurement science au",
+  "publisher": "",
+  "published": "2026-08-07",
+  "year": 2026,
+  "doi": "10.1021/acsmeasuresciau.6c00109",
+  "url": "https://doi.org/10.1021/acsmeasuresciau.6c00109",
+  "source": "pubmed",
+  "categories": [
+   "Photoelectrochemistry",
+   "Electrochemical Characterization"
+  ],
+  "tags": [
+   "EIS",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-10-26",
+  "issn": ""
+ },
+ {
   "id": "5daf87d19a3c6396",
   "title": "Hybrid photocatalysis with halide perovskite materials",
   "authors": [
