@@ -34,5 +34,33 @@
   "affiliations": [],
   "added": "2026-10-10",
   "issn": ""
+ },
+ {
+  "id": "4ddfca7be94280d4",
+  "title": "Electrifying Energy and Chemical Transformations with Single-Atom Alloy Nanoparticle Catalysts",
+  "authors": [
+   "Qiang Gao",
+   "Xue Han",
+   "Yuanqi Liu",
+   "Huiyuan Zhu"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2024-04-08",
+  "year": 2024,
+  "doi": "10.1021/acscatal.4c00365",
+  "url": "https://doi.org/10.1021/acscatal.4c00365",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
  }
 ]

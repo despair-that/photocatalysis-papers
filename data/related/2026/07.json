@@ -1,5 +1,38 @@
 [
  {
+  "id": "faf0ba35d7b060a6",
+  "title": "Highly Selective Electrochemical Nitrate Conversion to Ammonia on Ru-doped Cu Single-Atom Alloy Catalyst",
+  "authors": [
+   "Adyasa Priyadarsini",
+   "Zhen Meng",
+   "Shikuan Shao",
+   "Gengnan Li",
+   "Yuzi Liu",
+   "Shyam Kattel",
+   "Xiaofeng Feng"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-07-29",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c02332",
+  "url": "https://doi.org/10.1021/acscatal.6c02332",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "DFT",
+   "Related",
+   "Single-Atom Catalysts",
+   "Wastewater"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
+ },
+ {
   "id": "2c79c58196bec5d9",
   "title": "Modulating Interfacial Molecular Vibration for Enhanced CO Electrolysis via Coated-Carbon Layers",
   "authors": [

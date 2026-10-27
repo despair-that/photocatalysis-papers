@@ -1,5 +1,34 @@
 [
  {
+  "id": "194bcd52a4a63a03",
+  "title": "Electrocatalytic nitrate reduction to ammonia on defective Au1Cu (111) single-atom alloys",
+  "authors": [
+   "Yuanzheng Zhang",
+   "Xiang Chen",
+   "Weilai Wang",
+   "Lifeng Yin",
+   "John C. Crittenden"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2022-08-01",
+  "year": 2022,
+  "doi": "10.1016/j.apcatb.2022.121346",
+  "url": "https://doi.org/10.1016/j.apcatb.2022.121346",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
+ },
+ {
   "id": "11f60160b2e6d7d9",
   "title": "Photo-enhanced dry reforming of methane over Pt-Au/P25 composite catalyst by coupling plasmonic effect",
   "authors": [

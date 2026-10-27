@@ -38,6 +38,39 @@
   "issn": "2366-9608"
  },
  {
+  "id": "eaa4ad6d2e5a1f9d",
+  "title": "CuNi Nanoalloys with Tunable Composition and Oxygen Defects for the Enhancement of the Oxygen Evolution Reaction**",
+  "authors": [
+   "Esteban Gioria",
+   "Shuang Li",
+   "Aliaksei Mazheika",
+   "Raoul Naumann d'Alnoncourt",
+   "Arne Thomas",
+   "Frank Rosowski"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2023-05-17",
+  "year": 2023,
+  "doi": "10.1002/anie.202217888",
+  "url": "https://doi.org/10.1002/anie.202217888",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Oxygen Vacancies",
+   "Pioneer",
+   "Related",
+   "Tafel"
+  ],
+  "relevance_score": 47,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
+ },
+ {
   "id": "0714969721ad83e8",
   "title": "Single‐Atom Catalysis in Organic Synthesis",
   "authors": [

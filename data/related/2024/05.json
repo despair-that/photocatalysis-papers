@@ -30,5 +30,35 @@
   "affiliations": [],
   "added": "2026-10-12",
   "issn": ""
+ },
+ {
+  "id": "a68c40f8ccb9a7f3",
+  "title": "Ammonia electrosynthesis on carbon-supported metal single-atom catalysts",
+  "authors": [
+   "Mu-Lin Li",
+   "Yi-Meng Xie",
+   "Jingting Song",
+   "Ji Yang",
+   "Jin-Chao Dong",
+   "Jian-Feng Li"
+  ],
+  "journal": "Chinese Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2024-05-01",
+  "year": 2024,
+  "doi": "10.1016/s1872-2067(24)60032-x",
+  "url": "https://doi.org/10.1016/s1872-2067(24)60032-x",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
  }
 ]

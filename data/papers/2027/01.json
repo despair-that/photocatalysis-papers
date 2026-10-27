@@ -358,6 +358,38 @@
   "added": "2026-09-27"
  },
  {
+  "id": "314390cd23bf9fd3",
+  "title": "Interpretable machine learning reveals a solubility-governed performance ceiling and design rules for photocatalytic membranes",
+  "authors": [
+   "Xiao Liu",
+   "Yanzhong Li",
+   "Lawrence Ssendiwala",
+   "Jing Ren",
+   "Yatao Zhang",
+   "Paitoon Tontiwachwuthikul",
+   "Zhiwu Liang",
+   "Dongyang Li"
+  ],
+  "journal": "Journal of Membrane Science",
+  "publisher": "Elsevier BV",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.memsci.2026.126295",
+  "url": "https://doi.org/10.1016/j.memsci.2026.126295",
+  "source": "crossref",
+  "categories": [
+   "Machine Learning for Photocatalysis"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Photocatalysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
+ },
+ {
   "id": "30ffec8a7ef03028",
   "title": "Exploring the multifunctional properties of RbCdX",
   "authors": [

@@ -1,5 +1,56 @@
 [
  {
+  "id": "1d20eb373b3ac359",
+  "title": "Anti‐Poisoning Tin Single‐Atom Unlocks High‐Activity Ruthenium Catalysts for Alkaline Hydrogen Evolution Reaction",
+  "authors": [
+   "Yiqing Sun, Fangkun Fan, Liang Wu, Yapeng Li, Tao Gan, Lingyou Zeng, Chunhui Xiao, Dingsheng Wang, Shujiang Ding, Shenghua Chen"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-10-25",
+  "year": 2026,
+  "doi": "10.1002/adma.75495",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75495?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 28,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "1896c10d60b06bcb",
+  "title": "The Potential of Zero Charge: An Interfacial Descriptor Governing Hydrogen Evolution Reaction on Bulk Metal Electrodes",
+  "authors": [
+   "Yuefei Zhang, Yufei Xue, Yang Zhang, Xuefei Liu, Aijun Du, Lin-wang Wang, Guoping Gao"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2026-10-25",
+  "year": 2026,
+  "doi": "10.1002/advs.78449",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78449?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": "2198-3844"
+ },
+ {
   "id": "598422bffa600838",
   "title": "Electrochemical Impedance Spectroscopy of (Photo)electrochemical Systems: A Practical Guide",
   "authors": [

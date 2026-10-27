@@ -1,5 +1,36 @@
 [
  {
+  "id": "facd297a26c183ca",
+  "title": "Engineering PVA-based CuO/NiO nanocomposite film for enhanced optical, antimicrobial, and anticorrosive performance",
+  "authors": [
+   "Pallavi Pallavi",
+   "Harish Kumar",
+   "Mohit Kumar",
+   "Hemlata Kumari",
+   "Antresh Kumar"
+  ],
+  "journal": "Nano Trends",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nwnano.2026.100256",
+  "url": "https://doi.org/10.1016/j.nwnano.2026.100256",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Dye Degradation",
+   "Photocatalysis"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
+ },
+ {
   "id": "f906d309051c0929",
   "title": "Dendritic hierarchical heterojunction of violet phosphorus (VP) nanosheets and rhenium disulfide (ReS2) quantum dots on nickel cobaltite (NiCo2O4) for dual-vacancy synergistic photocatalysis",
   "authors": [
@@ -33,6 +64,36 @@
   "relevance_score": 67,
   "affiliations": [],
   "added": "2026-08-07"
+ },
+ {
+  "id": "f56afce211e1f09e",
+  "title": "In situ fabrication of Ti2SnC/g-C3N4 heterostructure for multifunctional photocatalysis",
+  "authors": [
+   "Xiaoyan Qiu",
+   "Zeeshan Asghar",
+   "Liping Wang",
+   "Jianhua Hou"
+  ],
+  "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.colsurfa.2026.141593",
+  "url": "https://doi.org/10.1016/j.colsurfa.2026.141593",
+  "source": "crossref",
+  "categories": [
+   "g-C3N4 & Carbon Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Photocatalysis",
+   "g-C3N4"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
  },
  {
   "id": "ed703d49df85f9eb",
@@ -1794,6 +1855,37 @@
   "issn": ""
  },
  {
+  "id": "3fbb5b8c30d28604",
+  "title": "Molecular design, precise synthesis and photocatalytic antibacterial performance study of functionalized thiophene-based conjugated polymers based on density functional theory",
+  "authors": [
+   "Caihong Zhang",
+   "Yu Wang",
+   "Jingwen Sun",
+   "Lina Wu",
+   "Juan Du",
+   "Haiyong Guo",
+   "Qi Zhao"
+  ],
+  "journal": "Journal of Environmental Chemical Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jece.2026.125603",
+  "url": "https://doi.org/10.1016/j.jece.2026.125603",
+  "source": "crossref",
+  "categories": [
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
+ },
+ {
   "id": "3f670416c5a221bd",
   "title": "Interfacial engineering of Z-scheme heterojunction to boost photocatalytic hydrogen evolution over Mn0.5Co0.5P decorated CoMo2S4 yolk-shell nanospheres",
   "authors": [
@@ -2469,6 +2561,41 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-08-28"
+ },
+ {
+  "id": "0d0312d1ae78a9f4",
+  "title": "Interfacial engineering of hierarchical ZnO Tetrapod/Co3O4/Ag heterostructures for room-temperature VOC sensing and photocatalytic dye degradation",
+  "authors": [
+   "Aya Ben Slimen",
+   "Hend Najjar",
+   "Marco Antonio Gonzalez-Angulo",
+   "Adel Megriche",
+   "Yogendra Kumar Mishra",
+   "Roana de Oliveira Hansen",
+   "Lawrence Nsubuga"
+  ],
+  "journal": "Applied Surface Science Advances",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.apsadv.2026.101089",
+  "url": "https://doi.org/10.1016/j.apsadv.2026.101089",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Heterostructures",
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 79,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
  },
  {
   "id": "0496ad8817305684",

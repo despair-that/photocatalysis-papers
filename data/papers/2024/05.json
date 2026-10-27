@@ -27358,6 +27358,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d0d1b1a09d3cf86a",
+  "title": "Rapid and scalable photocatalytic C(sp2)–C(sp3) Suzuki−Miyaura cross-coupling of aryl bromides with alkyl boranes",
+  "authors": [
+   "Ting Wan",
+   "Luca Capaldo",
+   "Jonas Djossou",
+   "Angela Staffa",
+   "Felix J. de Zwart",
+   "Bas de Bruin",
+   "Timothy Noël"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2024-05-13",
+  "year": 2024,
+  "doi": "10.1038/s41467-024-48212-5",
+  "url": "https://doi.org/10.1038/s41467-024-48212-5",
+  "source": "crossref",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Photocatalysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
+ },
+ {
   "id": "cc8e50586101a78e",
   "title": "Ag-Incorporated Cr-Doped BaTiO3 Aerogel toward Enhanced Photocatalytic Degradation of Methyl Orange",
   "authors": [

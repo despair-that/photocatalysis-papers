@@ -36431,6 +36431,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f37243cf272b2f61",
+  "title": "Aqueous Photocatalytic Glycerol Oxidation to Formic Acid Coupled to H 2 O 2 Production with an Anthraquinone Dye",
+  "authors": [
+   "Elena Tacchi",
+   "Greta Rossi",
+   "Mirco Natali",
+   "Luka Ðorđević",
+   "Andrea Sartorel"
+  ],
+  "journal": "Advanced Sustainable Systems",
+  "publisher": "Wiley",
+  "published": "2024-10-03",
+  "year": 2024,
+  "doi": "10.1002/adsu.202400538",
+  "url": "https://doi.org/10.1002/adsu.202400538",
+  "source": "crossref",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "DFT",
+   "Excited States",
+   "Photocatalysis",
+   "Quantum Yield",
+   "Radical Chemistry",
+   "Transient Absorption"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
+ },
+ {
   "id": "f277df15cc5d7ec3",
   "title": "Bismuth Vacancies Induced Lattice Strain in BiVO 4 Photoanodes Boosting Charge Separation For Water Oxidation",
   "authors": [

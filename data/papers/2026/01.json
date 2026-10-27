@@ -82785,6 +82785,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "909c0e0397a893b4",
+  "title": "The Conceptual Design of TiO2/SiO2 Photonic Crystal Heterostructures: Principles for Improved Optical and Photocatalytic Performance",
+  "authors": [
+   "Zichang Chen"
+  ],
+  "journal": "International Journal of Engineering and Technology",
+  "publisher": "IACSIT Press",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.7763/ijet.2026.v18.1369",
+  "url": "https://doi.org/10.7763/ijet.2026.v18.1369",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
+ },
+ {
   "id": "905f74b76d076cb7",
   "title": "Visible-Light-Driven Methylene Blue Degradation Using 3D Flocculent Fe/Bi2O2CO3 Nanocomposites",
   "authors": [

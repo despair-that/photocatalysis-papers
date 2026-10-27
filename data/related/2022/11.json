@@ -36,5 +36,36 @@
   ],
   "added": "2026-10-02",
   "issn": "2096-5745"
+ },
+ {
+  "id": "d70195cf93c6a392",
+  "title": "Electrocatalytic nitrate-to-ammonia conversion with ~100% Faradaic efficiency via single-atom alloying",
+  "authors": [
+   "Jinmeng Cai",
+   "Yingying Wei",
+   "Ang Cao",
+   "Jingjing Huang",
+   "Zheng Jiang",
+   "Siyu Lu",
+   "Shuang-Quan Zang"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2022-11-01",
+  "year": 2022,
+  "doi": "10.1016/j.apcatb.2022.121683",
+  "url": "https://doi.org/10.1016/j.apcatb.2022.121683",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-27",
+  "issn": ""
  }
 ]
