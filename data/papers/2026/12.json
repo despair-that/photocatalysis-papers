@@ -914,6 +914,41 @@
   "added": "2026-09-24"
  },
  {
+  "id": "9936ea346e175fa6",
+  "title": "Design of Ag/NH",
+  "authors": [
+   "Atefeh Darvishi",
+   "Masoumeh Jadidi Nejad",
+   "Akbar Heydari"
+  ],
+  "journal": "Results in Chemistry",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rechem.2026.103969",
+  "url": "https://doi.org/10.1016/j.rechem.2026.103969",
+  "source": "doaj",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "MOFs & COFs",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Hydrogen Production",
+   "Light Irradiation",
+   "MOFs",
+   "Photocatalysis",
+   "Recyclability",
+   "Visible Light"
+  ],
+  "relevance_score": 94,
+  "affiliations": [],
+  "added": "2026-10-28",
+  "issn": ""
+ },
+ {
   "id": "98a3677833a86337",
   "title": "Synthesis, characterization, process optimization, and techno-economic study on the production of Co-Al layered double hydroxide nanoparticles",
   "authors": [
@@ -2101,6 +2136,41 @@
   "issn": ""
  },
  {
+  "id": "399d49562ca2bb3a",
+  "title": "Upcycling of waste polyethylene terephthalate for the photocatalytic degradation of ibuprofen: Insights into mechanism and ecotoxicity",
+  "authors": [
+   "Lalruatkima Ralte",
+   "Gersan An",
+   "Gunay Karimova",
+   "Melody Lalhruaitluangi",
+   "Jinho Jung",
+   "Diwakar Tiwari"
+  ],
+  "journal": "Results in Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rineng.2026.113708",
+  "url": "https://doi.org/10.1016/j.rineng.2026.113708",
+  "source": "doaj",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry",
+   "Visible Light",
+   "Wastewater",
+   "ZnO"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-10-28",
+  "issn": ""
+ },
+ {
   "id": "36a6242020c9a440",
   "title": "Structure engineering of TiO2-based photocatalysts: From charge regulation to energy and environmental applications",
   "authors": [
@@ -2427,6 +2497,44 @@
   "relevance_score": 73,
   "affiliations": [],
   "added": "2026-09-29"
+ },
+ {
+  "id": "146c84146f7d8da2",
+  "title": "Superior dual applications - dye photocatalytic efficiency and antibacterial performance of eco-friendly synthesized magnesium oxide nanoparticles",
+  "authors": [
+   "S. Sivakami",
+   "M. Jothika",
+   "R. Sundaram",
+   "J. Johnson Paul",
+   "V. Thangapushbam",
+   "P. Rama",
+   "P. Monikadevi",
+   "Karuppiah Muthu",
+   "Monali Priyadarshini",
+   "Natarajan Arumugam",
+   "Jayachandran Jayakumar",
+   "Mohammad Ahmad Wadaan",
+   "Sandhanasamy Devanesan"
+  ],
+  "journal": "Results in Chemistry",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rechem.2026.104018",
+  "url": "https://doi.org/10.1016/j.rechem.2026.104018",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Photocatalysis",
+   "Wastewater"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-10-28",
+  "issn": ""
  },
  {
   "id": "145e90aed08ba74e",

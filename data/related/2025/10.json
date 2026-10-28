@@ -1,5 +1,36 @@
 [
  {
+  "id": "d8a5a35d58177856",
+  "title": "Empowering Chemistry Experts with Large Language Models for Literature Interpretation in Single‐Atom Catalysis Toward Advanced Oxidation",
+  "authors": [
+   "Jing-Hang Wu",
+   "Ran Shi",
+   "Xiao Zhou",
+   "Liang Zhang",
+   "Kong Chen",
+   "Han-Qing Yu",
+   "Yuen Wu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2025-10-23",
+  "year": 2025,
+  "doi": "10.1002/anie.202520525",
+  "url": "https://doi.org/10.1002/anie.202520525",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-28",
+  "issn": ""
+ },
+ {
   "id": "c04e9d576a251baf",
   "title": "Local charge density regulation of NiP2 nanosheets via Ru doping for electrocatalytic urea oxidation",
   "authors": [
