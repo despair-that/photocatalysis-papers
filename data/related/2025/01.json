@@ -1,5 +1,36 @@
 [
  {
+  "id": "d51e56af72210344",
+  "title": "Combined effects of electrode morphology and electrolyte composition on single H 2 gas bubble detachment during hydrogen evolution reaction",
+  "authors": [
+   "Sunghak Park",
+   "Aleksandr Bashkatov",
+   "Jordy J. J. Eggebeen",
+   "Siyoung Lee",
+   "Detlef Lohse",
+   "Dominik Krug",
+   "Marc T. M. Koper"
+  ],
+  "journal": "Nanoscale",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5nr00234f",
+  "url": "https://doi.org/10.1039/d5nr00234f",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-30",
+  "issn": ""
+ },
+ {
   "id": "717fc83b3d05e440",
   "title": "In situ growth of layered 1T-MoS 2 onto carbon nanofibers as a strategy towards advanced hybrid materials for electrochemical energy storage and catalysis",
   "authors": [

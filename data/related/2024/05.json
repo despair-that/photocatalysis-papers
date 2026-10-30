@@ -32,6 +32,34 @@
   "issn": ""
  },
  {
+  "id": "adf87298d608988a",
+  "title": "Electrolyte design for the manipulation of gas bubble detachment during hydrogen evolution reaction",
+  "authors": [
+   "Sunghak Park",
+   "Detlef Lohse",
+   "Dominik Krug",
+   "Marc T.M. Koper"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "2024-05-01",
+  "year": 2024,
+  "doi": "10.1016/j.electacta.2024.144084",
+  "url": "https://doi.org/10.1016/j.electacta.2024.144084",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-30",
+  "issn": ""
+ },
+ {
   "id": "a68c40f8ccb9a7f3",
   "title": "Ammonia electrosynthesis on carbon-supported metal single-atom catalysts",
   "authors": [

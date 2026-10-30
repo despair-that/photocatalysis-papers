@@ -1,5 +1,69 @@
 [
  {
+  "id": "336fdadfbc9d2a01",
+  "title": "A case study in conflicts of interest | Science",
+  "authors": [],
+  "journal": "Science",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2026-10-29",
+  "year": 2026,
+  "doi": "10.1126/science.aem6465",
+  "url": "https://www.science.org/doi/10.1126/science.aem6465",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-30",
+  "issn": "0036-8075"
+ },
+ {
+  "id": "d2e6769f2c11cb8a",
+  "title": "Au-Pd alloy nanoparticles deposited on CdS nanorods to enhance efficient hydrogen production under visible light",
+  "authors": [
+   "Longhui Yi",
+   "Jun Qiu",
+   "Zhong Xie",
+   "Changlin Yu",
+   "Ruobin Guo",
+   "Yong Chen",
+   "Yu Xie",
+   "Yuxiu Wang",
+   "Y. Zhang"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.158190",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.158190",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Production",
+   "Related",
+   "Visible Light"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Nanchang Normal University",
+   "Yuzhang Normal University",
+   "Nanchang Hangkong University",
+   "Yonker Environmental Protection (China)",
+   "Shanghai University"
+  ],
+  "added": "2026-10-30",
+  "issn": "0360-3199"
+ },
+ {
   "id": "cbd3aada9fcb0ea6",
   "title": "Lactate takes a shortcut into mitochondria to power the heart",
   "authors": [

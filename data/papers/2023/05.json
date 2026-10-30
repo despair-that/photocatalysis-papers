@@ -39770,6 +39770,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "042cabb83397cc09",
+  "title": "Construction of Single Ni Atom-Immobilized ZIF-8 with Ordered Hierarchical Pore Structures for Selective CO 2 Photoreduction",
+  "authors": [
+   "Zhiguo Liu",
+   "Ziyu Chen",
+   "Mingyang Li",
+   "Jiaying Li",
+   "Weijie Zhuang",
+   "Xiao Yang",
+   "Shiqun Wu",
+   "Jinlong Zhang"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2023-05-01",
+  "year": 2023,
+  "doi": "10.1021/acscatal.3c01118",
+  "url": "https://doi.org/10.1021/acscatal.3c01118",
+  "source": "crossref",
+  "categories": [
+   "CO2 Reduction",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Immobilization",
+   "Photoreduction"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-10-30",
+  "issn": ""
+ },
+ {
   "id": "024eb722ded32cbe",
   "title": "Au–Pd Tandem Photocatalysis for Nonoxidative Coupling of Methane toward Ethylene",
   "authors": [

@@ -8088,6 +8088,35 @@
   "added": "2026-07-26"
  },
  {
+  "id": "802e85d067efa51d",
+  "title": "Spontaneous Electric Field Directionality in One-Dimensional Semiconductors: Key to Efficient Charge Migration, Minimizing Recombination, and Enhancing Photocatalytic Performance",
+  "authors": [
+   "Zhi Yang",
+   "Guangxiang Lu",
+   "Pengfei Jiang",
+   "Rihong Cong",
+   "Tao Yang"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2025-06-24",
+  "year": 2025,
+  "doi": "10.1021/acs.chemmater.5c00771",
+  "url": "https://doi.org/10.1021/acs.chemmater.5c00771",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-10-30",
+  "issn": ""
+ },
+ {
   "id": "75cb3c347a002a61",
   "title": "Unprecedented Flux-Mediated Synthesis of Crystalline Polyimide Covalent Organic Frameworks Using the 4-Dimethylaminopyridine (DMAP)-Type Nucleophilic Catalyst for Use in Efficient Photosynthesis of H 2 O 2",
   "authors": [
@@ -41355,6 +41384,35 @@
    "Government of Tamil Nadu"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "0f93e42c74737bfc",
+  "title": "Understanding the Photocatalytic Water Reduction Capability of Na M (WO 4 ) 2 (M = Ga, Sc) by the Electronic Structure and Bond Characteristic Analysis",
+  "authors": [
+   "Congying Huang",
+   "Guangxiang Lu",
+   "Zien Cheng",
+   "Pengfei Jiang",
+   "Rihong Cong",
+   "Tao Yang"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2025-06-02",
+  "year": 2025,
+  "doi": "10.1021/acs.inorgchem.5c00556",
+  "url": "https://doi.org/10.1021/acs.inorgchem.5c00556",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-30",
+  "issn": ""
  },
  {
   "id": "0dc5945a0c4b3ce6",

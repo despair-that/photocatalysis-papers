@@ -21517,6 +21517,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "bde9053036fe5681",
+  "title": "Exploring the Photocatalytic Mechanism of BiTi 4 GaO 11 : Insights from the Electronic Structure and Chemical Bonding",
+  "authors": [
+   "Guangxiang Lu",
+   "Zien Cheng",
+   "Maxim Avdeev",
+   "Pengfei Jiang",
+   "Rihong Cong",
+   "Tao Yang"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2025-04-16",
+  "year": 2025,
+  "doi": "10.1021/acs.inorgchem.5c00784",
+  "url": "https://doi.org/10.1021/acs.inorgchem.5c00784",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-10-30",
+  "issn": ""
+ },
+ {
   "id": "b869e81825213025",
   "title": "Exploring the Charge Dynamics in a Synergistically Modified BiVO 4 Photoanode with La Doping and Cobalt-Based Phytate Compound Cocatalyst for Photoelectrochemical Water Oxidation",
   "authors": [

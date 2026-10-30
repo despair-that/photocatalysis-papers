@@ -40,5 +40,33 @@
   ],
   "added": "2026-10-02",
   "issn": "2667-1093"
+ },
+ {
+  "id": "92b168400f15de34",
+  "title": "Superaerophobic TiN Nanowires Boost Bubble Removal and Performance of Pt Catalysts for Highly Efficient Hydrogen Evolution",
+  "authors": [
+   "Jia Zhao",
+   "Rong Chen",
+   "Nan Liao",
+   "Jingshan Luo"
+  ],
+  "journal": "Nano Letters",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-02-03",
+  "year": 2026,
+  "doi": "10.1021/acs.nanolett.5c06024",
+  "url": "https://doi.org/10.1021/acs.nanolett.5c06024",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-30",
+  "issn": ""
  }
 ]

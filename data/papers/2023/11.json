@@ -2263,6 +2263,34 @@
   "issn": "0169-4332"
  },
  {
+  "id": "764e03b218b2d0a2",
+  "title": "Combined Analyses on Electronic Structure and Molecular Orbitals of d 10 Bimetal Oxide In 2 Ge 2 O 7 and Photocatalytic Performances for Overall Water Splitting and CO 2 Reduction",
+  "authors": [
+   "Guangxiang Lu",
+   "Chengbo Zhan",
+   "Rihong Cong",
+   "Tao Yang"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2023-11-29",
+  "year": 2023,
+  "doi": "10.1021/acs.inorgchem.3c02854",
+  "url": "https://doi.org/10.1021/acs.inorgchem.3c02854",
+  "source": "crossref",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Water Splitting"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-10-30",
+  "issn": ""
+ },
+ {
   "id": "6ceb8719fce97724",
   "title": "Preparation of nanofiber Co–BiVO4/Bi2O3 p-n heterojunction for high efficiency photocatalytic degradation of organic pollutants",
   "authors": [

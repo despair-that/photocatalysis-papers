@@ -27,6 +27,34 @@
   "issn": ""
  },
  {
+  "id": "4063153d3f856f99",
+  "title": "Single atom cobalt catalyst derived from co-pyrolysis of vitamin B12 and graphitic carbon nitride for PMS activation to degrade emerging pollutants",
+  "authors": [
+   "Shizong Wang",
+   "Jianlong Wang"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2023-02-01",
+  "year": 2023,
+  "doi": "10.1016/j.apcatb.2022.122051",
+  "url": "https://doi.org/10.1016/j.apcatb.2022.122051",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Pollutants",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-10-30",
+  "issn": ""
+ },
+ {
   "id": "209a8de732c607f0",
   "title": "Metal-organic framework-based single-atom catalysts for efficient electrocatalytic CO2 reduction reactions",
   "authors": [
