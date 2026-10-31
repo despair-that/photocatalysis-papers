@@ -1,5 +1,115 @@
 [
  {
+  "id": "63af737a8e18f6de",
+  "title": "Elucidating the Action Mechanism of the Carbon Substrate in Pt/C-Catalyzed Alkaline Hydrogen Evolution Reaction",
+  "authors": [
+   "Shuai C",
+   "Han Y",
+   "Hou L",
+   "Li Y",
+   "Kong C."
+  ],
+  "journal": "ACS omega",
+  "publisher": "",
+  "published": "2026-10-30",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13717770",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-31",
+  "issn": ""
+ },
+ {
+  "id": "1c9884b056ad700f",
+  "title": "Photoenzymatic stereodivergent hydrophosphinylation enabled by nicotinamide-dependent imine reductases",
+  "authors": [
+   "Kaihao Mou",
+   "Zehua Tian",
+   "Weihua Xu",
+   "Xiuwen Kang",
+   "Yuyang Ma",
+   "Peixuan Zhuang",
+   "Zhenyu Lu",
+   "Jingxin Zhang",
+   "Yue Guo",
+   "Leyan Xu",
+   "Chunyang Cao",
+   "Zhiguo Wang",
+   "Bei Ding",
+   "Qi Wu"
+  ],
+  "journal": "Nature Catalysis",
+  "publisher": "Springer Nature",
+  "published": "2026-10-30",
+  "year": 2026,
+  "doi": "10.1038/s41929-026-01624-6",
+  "url": "https://www.nature.com/articles/s41929-026-01624-6",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-31",
+  "issn": "2520-1158"
+ },
+ {
+  "id": "9b7f7608faa69631",
+  "title": "Free-standing two-dimensional metal oxides at the single-atomic-layer limit",
+  "authors": [
+   "Meng Gao",
+   "Deping Guo",
+   "Ang Li",
+   "Renhong Wang",
+   "Zhitong Jin",
+   "Chun Huang",
+   "Yixiang Lu",
+   "Yuhao Pan",
+   "Jiuxiang Dai",
+   "Panqi Huang",
+   "Kangjie Liu",
+   "Cong Wang",
+   "Lihong Bao",
+   "Lin Zhou",
+   "Jingsi Qiao",
+   "Wei Ji",
+   "Stephen J. Pennycook",
+   "Hong-Jun Gao",
+   "Wu Zhou"
+  ],
+  "journal": "Nature Materials",
+  "publisher": "Springer Nature",
+  "published": "2026-10-29",
+  "year": 2026,
+  "doi": "10.1038/s41563-026-02793-2",
+  "url": "https://www.nature.com/articles/s41563-026-02793-2",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-10-31",
+  "issn": "1476-1122"
+ },
+ {
   "id": "336fdadfbc9d2a01",
   "title": "A case study in conflicts of interest | Science",
   "authors": [],
@@ -21,6 +131,39 @@
   "affiliations": [],
   "added": "2026-10-30",
   "issn": "0036-8075"
+ },
+ {
+  "id": "d3b4f77eb2940ea7",
+  "title": "Interface-Confined Cavitation at an MXene/TiO 2 Schottky Heterointerface for Non-Thermal Juice Preservation.",
+  "authors": [
+   "Wu X",
+   "Zhu Y",
+   "Qin N",
+   "Zhang Z",
+   "Zhang Q",
+   "Tao Y."
+  ],
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "publisher": "",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.1002/advs.78536",
+  "url": "https://doi.org/10.1002/advs.78536",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Charge Separation",
+   "Molecular Dynamics",
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-31",
+  "issn": ""
  },
  {
   "id": "d2e6769f2c11cb8a",

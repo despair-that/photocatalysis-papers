@@ -68,5 +68,39 @@
   "affiliations": [],
   "added": "2026-10-30",
   "issn": ""
+ },
+ {
+  "id": "23dd185a5f8bd0a7",
+  "title": "Breaking the activity-selectivity trade-off through engineered scalable production of sulfur vacancy-rich pyrite for zero-oxidant targeted enrofloxacin removal",
+  "authors": [
+   "Ting Zhou",
+   "Jie Deng",
+   "Yuchen Chu",
+   "Xiaoming Peng",
+   "Yang Yang",
+   "Ziwei Wang",
+   "Yuxi Zeng",
+   "Biao Song",
+   "Min Cheng",
+   "Chengyun Zhou"
+  ],
+  "journal": "Applied Catalysis B: Environment and Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-02-01",
+  "year": 2026,
+  "doi": "10.1016/j.apcatb.2025.125892",
+  "url": "https://doi.org/10.1016/j.apcatb.2025.125892",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Sulfur Vacancies"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-31",
+  "issn": ""
  }
 ]

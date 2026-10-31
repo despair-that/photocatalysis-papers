@@ -359,6 +359,52 @@
   "issn": ""
  },
  {
+  "id": "d3a432f6e4b0166f",
+  "title": "A graphdiyne-enabled TiO",
+  "authors": [
+   "Chongqing Yu",
+   "Zujiang Liu",
+   "Jin Ye",
+   "Ruixin Zhang",
+   "Min Ren",
+   "Fulin Deng",
+   "Anning Zhao",
+   "Ali Abou-Hassan",
+   "Yichun Wang",
+   "Yao Zhang",
+   "Valentim A.R. Barão",
+   "Liqun Xu",
+   "Jie Xu",
+   "Xi Rao"
+  ],
+  "journal": "Materials Today Bio",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtbio.2026.103765",
+  "url": "https://doi.org/10.1016/j.mtbio.2026.103765",
+  "source": "doaj",
+  "categories": [
+   "Photoelectrochemistry",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Heterojunctions",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "ROS",
+   "S-Scheme",
+   "Visible Light"
+  ],
+  "relevance_score": 90,
+  "affiliations": [],
+  "added": "2026-10-31",
+  "issn": ""
+ },
+ {
   "id": "d341cdfccf33355d",
   "title": "Integrated dual photocatalysts for simultaneous solar hydrogen production and CO",
   "authors": [
@@ -912,6 +958,46 @@
   "relevance_score": 69,
   "affiliations": [],
   "added": "2026-09-24"
+ },
+ {
+  "id": "9eb6089af96f4a82",
+  "title": "Crystallite-size-engineered g-C₃N₄/Fe₃O₄ heterojunction as a magnetically recoverable photocatalyst for pH-dependent visible-light-driven rhodamine B degradation",
+  "authors": [
+   "Hourieh Mirzaei",
+   "Mohammad Hossein Ehsani",
+   "Alireza Shakeri",
+   "Ali Ramazani"
+  ],
+  "journal": "Results in Chemistry",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rechem.2026.103993",
+  "url": "https://doi.org/10.1016/j.rechem.2026.103993",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "2D Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Heterojunctions",
+   "Hydroxyl Radicals",
+   "Nanosheets",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "ROS",
+   "Radical Chemistry",
+   "Visible Light",
+   "Wastewater"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-10-31",
+  "issn": ""
  },
  {
   "id": "9936ea346e175fa6",
@@ -2213,6 +2299,45 @@
   "relevance_score": 64,
   "affiliations": [],
   "added": "2026-10-28",
+  "issn": ""
+ },
+ {
+  "id": "38e5e5a656afcb46",
+  "title": "Photocatalyst-modified metakaolin geopolymer membranes for dye removal: Synergistic filtration and photocatalysis under UV irradiation",
+  "authors": [
+   "Laila Rezty Hertiwi",
+   "Taufik Qodar Romadiansyah",
+   "Nur Lailiyah",
+   "Zeni Rahmawati",
+   "Mohd Mustafa Al Bakri Abdullah",
+   "Rosnita Mohamed",
+   "Subaer Subaer",
+   "Petrică Vizureanu",
+   "Karna Wijaya",
+   "Tribidasari A. Ivandini",
+   "Sri Mulijani",
+   "Hamzah Fansuri"
+  ],
+  "journal": "Case Studies in Chemical and Environmental Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.cscee.2026.101515",
+  "url": "https://doi.org/10.1016/j.cscee.2026.101515",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Photocatalysis",
+   "Wastewater",
+   "ZnO"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-10-31",
   "issn": ""
  },
  {

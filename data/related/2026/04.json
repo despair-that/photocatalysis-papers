@@ -63,5 +63,37 @@
   "affiliations": [],
   "added": "2026-10-24",
   "issn": ""
+ },
+ {
+  "id": "a438522aa7b0d7dc",
+  "title": "Dual-metal synergy and interfacial electric field engineering in CNNS/Ni-Ag heterostructure for sacrificial agent-free in-situ H2O2-enabled self-photo-driven Fenton degradation",
+  "authors": [
+   "Lu Xiong",
+   "Rujin Li",
+   "Kaikai Ba",
+   "Long Chen",
+   "Yan Shi",
+   "Yanling Yu",
+   "Min Yang"
+  ],
+  "journal": "Applied Catalysis B: Environment and Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-04-01",
+  "year": 2026,
+  "doi": "10.1016/j.apcatb.2025.126032",
+  "url": "https://doi.org/10.1016/j.apcatb.2025.126032",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Related",
+   "Sacrificial Reagents"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-10-31",
+  "issn": ""
  }
 ]
