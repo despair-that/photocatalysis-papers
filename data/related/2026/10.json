@@ -1,5 +1,71 @@
 [
  {
+  "id": "a717f8bc744ee628",
+  "title": "CeO2-Cu Interfacial Synergy for Highly Efficient and Selective Conversion of Glycerol to Lactic Acid",
+  "authors": [
+   "Jili Zhang",
+   "Hongju Ren",
+   "Shuangming Li",
+   "Yiwen Wang",
+   "Feng Chen",
+   "Shuang Ren",
+   "Sansan Yu"
+  ],
+  "journal": "Catalysis Letters",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.1007/s10562-026-05563-6",
+  "url": "https://doi.org/10.1007/s10562-026-05563-6",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-01",
+  "issn": ""
+ },
+ {
+  "id": "9091ec287b5a8ee2",
+  "title": "Support Information of the Article Electrochemical and Surface Science Data for Stabilized Pt-Pd-Co Methanol Oxidation Catalysts",
+  "authors": [
+   "Dalia Nayeli Vázquez-Castillo",
+   "Silvia Beatriz Brachetti-Sibaja",
+   "Aidé Minerva Torres-Huerta",
+   "Adela Eugenia Rodríguez-Salazar",
+   "Aida Medina-González",
+   "Esther Ramirez-Meneses",
+   "Miguel Antonio Domínguez-Crespo"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-10-30",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23601573",
+  "url": "https://doi.org/10.5281/zenodo.23601573",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "EIS",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Tecnológico Nacional de México",
+   "Instituto Politécnico Nacional",
+   "Universidad Iberoamericana"
+  ],
+  "added": "2026-11-01",
+  "issn": ""
+ },
+ {
   "id": "63af737a8e18f6de",
   "title": "Elucidating the Action Mechanism of the Carbon Substrate in Pt/C-Catalyzed Alkaline Hydrogen Evolution Reaction",
   "authors": [
@@ -27,6 +93,31 @@
   "affiliations": [],
   "added": "2026-10-31",
   "issn": ""
+ },
+ {
+  "id": "4c1f53d34a24c43a",
+  "title": "Bismuth–Sulfur Engineered Zero‐Valent Iron Prioritizes Chloramphenicol‐Class Antibiotics Dechlorination Over Hydrogen Evolution and Nitro Reduction",
+  "authors": [
+   "Yinshun Dai, Litao Zhou, Yucheng Feng, Zhongkai Duan, Taowei Xiong, Yuyang Ma, Fei Sun, Shu-Guang Wang, Maoxia He, Shan Zhao"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-30",
+  "year": 2026,
+  "doi": "10.1002/anie.9298177",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9298177?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-01",
+  "issn": "1521-3773"
  },
  {
   "id": "1c9884b056ad700f",
@@ -65,6 +156,31 @@
   "affiliations": [],
   "added": "2026-10-31",
   "issn": "2520-1158"
+ },
+ {
+  "id": "ba780e07b598dfbe",
+  "title": "Microscopic Origins of Metal‐Dependent pH Effects in Hydrogen Evolution: Metal–Water Interactions Dictate Proton Transfer Pathways",
+  "authors": [
+   "Wanyi Wang, Zhuoyang Xie, Renqin Yu, Jin Liu, Xiufang Zheng, Liancong Xu, Yunchuan Tu, Zidong Wei, Li Li"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-10-29",
+  "year": 2026,
+  "doi": "10.1002/anie.5814125",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5814125?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-01",
+  "issn": "1521-3773"
  },
  {
   "id": "9b7f7608faa69631",
@@ -108,6 +224,31 @@
   "affiliations": [],
   "added": "2026-10-31",
   "issn": "1476-1122"
+ },
+ {
+  "id": "66e057646b45ccae",
+  "title": "Lactate Drives Pathological Browning of White Adipose Tissue to Aggravate Sepsis‐Associated Metabolic Disorders in a GPR81‐Dependent Manner",
+  "authors": [
+   "Chunliang Zheng, Xiaohua Li, Shuo Li, Chungen Xing, Chun Cao"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2026-10-29",
+  "year": 2026,
+  "doi": "10.1002/advs.78487",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78487?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Related"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-11-01",
+  "issn": "2198-3844"
  },
  {
   "id": "336fdadfbc9d2a01",

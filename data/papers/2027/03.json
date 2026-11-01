@@ -140,5 +140,37 @@
   "affiliations": [],
   "added": "2026-10-22",
   "issn": ""
+ },
+ {
+  "id": "1188934f237f2566",
+  "title": "Facet-defined CoNiO2 homointerfaces promote interfacial charge redistribution for photocatalytic CO2-to-fuel conversion",
+  "authors": [
+   "Ping Zhang",
+   "Erhan Qin",
+   "Xiaoyan Liu",
+   "Lili Yang",
+   "Maobin Wei",
+   "Xin Li",
+   "Pengwei Huo",
+   "Binrong Li",
+   "Jinghai Yang"
+  ],
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "published": "2027-03-01",
+  "year": 2027,
+  "doi": "10.1016/j.fuel.2026.141857",
+  "url": "https://doi.org/10.1016/j.fuel.2026.141857",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-01",
+  "issn": ""
  }
 ]

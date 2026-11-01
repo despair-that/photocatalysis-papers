@@ -157,6 +157,36 @@
   "issn": ""
  },
  {
+  "id": "edb7893bf0572c2c",
+  "title": "Electrode Architectures in Biophotoelectrochemical Systems for Sustainable Energy and Environmental Applications.",
+  "authors": [
+   "Budiarso IJ",
+   "Umetsu M",
+   "Nakayasu Y",
+   "Kamitakahara M."
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1002/cssc.71162",
+  "url": "https://doi.org/10.1002/cssc.71162",
+  "source": "europepmc",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "Semiconductors"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-11-01",
+  "issn": ""
+ },
+ {
   "id": "e4c3620fdf2ff4f9",
   "title": "Structural integrity, elastic response, electronic character, and photocatalytic hydrogen-production potential of Rb2NaX (X = S, Se, Te) Janus monolayers: A comprehensive density-functional investigation",
   "authors": [

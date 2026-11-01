@@ -33,5 +33,36 @@
   ],
   "added": "2026-10-02",
   "issn": "1614-6832"
+ },
+ {
+  "id": "571d6233e5f3ef5f",
+  "title": "Synthesis, characterization and utilization of oxygen vacancy contained metal oxide semiconductors for energy and environmental catalysis",
+  "authors": [
+   "Hongjie Liu",
+   "Hao Fu",
+   "Yuchang Liu",
+   "Xiyong Chen",
+   "Kefu Yu",
+   "Liwei Wang"
+  ],
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "published": "2021-06-01",
+  "year": 2021,
+  "doi": "10.1016/j.chemosphere.2021.129534",
+  "url": "https://doi.org/10.1016/j.chemosphere.2021.129534",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Related",
+   "Semiconductors"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-01",
+  "issn": ""
  }
 ]

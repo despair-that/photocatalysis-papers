@@ -29061,6 +29061,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "07c98128d3a5c0a0",
+  "title": "The Role of Defects in the Photocatalytic Conversion of Alcohols on Rutile TiO 2 (110)",
+  "authors": [
+   "Philip Petzoldt",
+   "Lucia Mengel",
+   "Sonia Mackewicz",
+   "Constantin A. Walenta",
+   "Martin Tschurl",
+   "Ueli Heiz"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2025-07-15",
+  "year": 2025,
+  "doi": "10.1021/acscatal.5c03149",
+  "url": "https://doi.org/10.1021/acscatal.5c03149",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-11-01",
+  "issn": ""
+ },
+ {
   "id": "06eb50590f33aeaf",
   "title": "Enhanced CO2 photoreduction activity by co-assembly of blue emissive quantum dots with porous organic semiconductors",
   "authors": [

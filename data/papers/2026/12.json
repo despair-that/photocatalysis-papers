@@ -237,6 +237,38 @@
   "added": "2026-09-18"
  },
  {
+  "id": "e28119555514df64",
+  "title": "Uptake and solar photocatalytic degradation of microplastics using bismuth vanadate supported on silica-modified biochar",
+  "authors": [
+   "Rubaiyana Taskin",
+   "Remya Neelancherry",
+   "Brigitte Helmreich",
+   "Martins O. Omorogie"
+  ],
+  "journal": "Results in Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rineng.2026.113688",
+  "url": "https://doi.org/10.1016/j.rineng.2026.113688",
+  "source": "doaj",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "BiVO4",
+   "Photocatalysis",
+   "ROS",
+   "Wastewater"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-11-01",
+  "issn": ""
+ },
+ {
   "id": "e0d782487844a2b0",
   "title": "Comparative assessment of carbamazepine degradation and residual developmental toxicity after UV-C/H₂O₂ and UV-C/TiO₂ treatment",
   "authors": [
