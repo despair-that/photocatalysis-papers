@@ -1372,6 +1372,43 @@
   "issn": "2147-3129"
  },
  {
+  "id": "6d3a27c90aae6c33",
+  "title": "An rGO-decorated TiO2-Fe2O3 Ternary Composite for Photocatalysis of Tetracycline Under Visible Light Irradiation",
+  "authors": [
+   "Anthoni Batahan Aritonang",
+   "Hafsoh Tri Mustika Rahimi",
+   "Muhamad Agus Wibowo",
+   "Warsidah Warsidah"
+  ],
+  "journal": "ALCHEMY Jurnal Penelitian Kimia",
+  "publisher": "Universitas Sebelas Maret",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.20961/alchemy.22.2.123560.452-462",
+  "url": "https://doi.org/10.20961/alchemy.22.2.123560.452-462",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Antibiotic Degradation",
+   "Band Gap",
+   "Charge Transfer",
+   "Heterojunctions",
+   "Light Irradiation",
+   "Photocatalysis",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": ""
+ },
+ {
   "id": "6c04e9b041519a09",
   "title": "Four-component reaction strategy for β-alkylimide synthesis via organophotoredox catalysis.",
   "authors": [
@@ -11533,6 +11570,44 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-09-24"
+ },
+ {
+  "id": "f1ffc8345abdc396",
+  "title": "Photoredox‐Catalyzed 1,2,2‐Trifunctionalization of Alkenes with 1,7‐Enynes and α‐Bromocarbonyls",
+  "authors": [
+   "Chengyi Jiang",
+   "Shangyu Mao",
+   "Yifei Luo",
+   "Wenli Xia",
+   "Mengli Yang",
+   "Xinyu Yu",
+   "Jianrui Zhou",
+   "Yao Jian",
+   "Siping Wei",
+   "Zi Yang",
+   "Wei Wei",
+   "Shiqi Zhang",
+   "Dong Yi"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.1002/cjoc.70769",
+  "url": "https://doi.org/10.1002/cjoc.70769",
+  "source": "crossref",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox",
+   "Radical Chemistry",
+   "Visible Light"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": ""
  },
  {
   "id": "e05770e8ee78d026",

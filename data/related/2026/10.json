@@ -1,5 +1,82 @@
 [
  {
+  "id": "f46c48760d6a36da",
+  "title": "Unveiling Graphitic Carbon Nitride in Hexagonal Boron Nitride Epitaxy on Sapphire",
+  "authors": [
+   "Jakub Iwański, Wiktoria Zajkowska-Pietrzak, Aleksandra K. Dąbrowska, Mateusz Tokarczyk, Marta Bilska, Marcin Strawski, Magdalena Skompska, Krzysztof P. Korona, Sławomir Kret, Johannes Binder, Andrzej Wysmołek"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.1002/smll.76576",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76576?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": "1613-6810"
+ },
+ {
+  "id": "d3dd09ffc6eceaa7",
+  "title": "An Activity‐Reinforced P‐Modified Single‐Atom Cu Nanozyme Potentiates IDO Blockade‐Induced Tumor Radiotherapy",
+  "authors": [
+   "Wei Zhao, Songliu Hu, Zhanggui Wang, Liqun Wang, Liming Zhang, Qi Li, Hua Tang, Yang Zhong, Zhongxian Zhang, Kelong Fan, Shipeng Ning, Xiyun Yan"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.1002/advs.202524253",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202524253?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": "2198-3844"
+ },
+ {
+  "id": "c237369c6e708bb9",
+  "title": "Unveiling Dynamic Active‐Site Switching of NiFe Dual‐Atom Electrocatalysts With Axial Halogen Coordination for Enhanced Oxygen Evolution",
+  "authors": [
+   "Shibo Zhai, Zhisheng Cao, Xuliang Yu, Wenxuan Mi, Zhiying He, Song Xue, Linjie Zhi"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.1002/smll.76065",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76065?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dual-Atom Catalysts",
+   "Oxygen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": "1613-6810"
+ },
+ {
   "id": "a717f8bc744ee628",
   "title": "CeO2-Cu Interfacial Synergy for Highly Efficient and Selective Conversion of Glycerol to Lactic Acid",
   "authors": [
@@ -29,6 +106,81 @@
   "affiliations": [],
   "added": "2026-11-01",
   "issn": ""
+ },
+ {
+  "id": "87557ed81255fed1",
+  "title": "Single Atoms Induced Pt Nanoclusters Promoting Hydrogen Evolution Reaction Under Ampere‐Level Current Density",
+  "authors": [
+   "Manxue Zhang, Yuanqing Sun, Muchun Liu, Peilin Liu, Guohao Jia, Manman Gao, Yagang Li, Zhongjun Chen, Weiyu Song, Zhenxing Li, Jian Liu"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.1002/smll.76551",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76551?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": "1613-6810"
+ },
+ {
+  "id": "5a04cf34dee84c65",
+  "title": "Anti‐Dissolution Tungsten Alloying Stabilizes Highly Active Platinum for Industrial‐Grade Hydrogen Evolution",
+  "authors": [
+   "Chuhan Dai, Yongtao Li, Wenhao Xie, Guoliang Dai, Ruirui Wang, Zhenhui Kang, Ziliang Chen"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.1002/smll.76511",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76511?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": "1613-6810"
+ },
+ {
+  "id": "d3d9d4b888e328a4",
+  "title": "Modulating Electronic Structure and Morphology in Nb‐NiCoS for PET Plastic Upcycling",
+  "authors": [
+   "C. K. Sumesh, Pratiksha Panchal, Aishwarya Kollamvalappil Narayanan, Sanjay A. Bhakhar, Sachin Patel, Bishal Kumar Keshari, Manish N. Nandpal, Samir G. Patel, Chakkooth Vijayakumar, Shelaka Gupta, Pratik M. Pataniya"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-10-30",
+  "year": 2026,
+  "doi": "10.1002/smll.76562",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76562?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": "1613-6810"
  },
  {
   "id": "9091ec287b5a8ee2",
@@ -64,6 +216,31 @@
   ],
   "added": "2026-11-01",
   "issn": ""
+ },
+ {
+  "id": "788f0ca424181ffd",
+  "title": "Overcoming Contamination‐Induced Barriers: Ohmic Vertical Transport in Atomically Clean MoS2/Au Junctions",
+  "authors": [
+   "Rafał Dunal, Maxime Le Ster, Iaroslav Lutsyk, Michał Piskorski, Przemysław Przybysz, Paweł Dąbrowski, Paweł Krukowski, Witold Kozłowski, Aleksandra Nadolska, Wojciech Ryś, Paweł J. Kowalczyk, Maciej Rogala"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-10-30",
+  "year": 2026,
+  "doi": "10.1002/smll.76518",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76518?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": "1613-6810"
  },
  {
   "id": "63af737a8e18f6de",

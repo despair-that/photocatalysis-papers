@@ -315,6 +315,39 @@
   "issn": ""
  },
  {
+  "id": "72d2677165522048",
+  "title": "Hierarchical Mo-doped NiCoP/MXene heterostructures with tunable composition for enhanced bifunctional electrocatalysis for water and seawater electrolysis",
+  "authors": [
+   "Nurul Atiqah Izzati Md Ishak",
+   "Nur Qurratul Ainni Muhammad Esham",
+   "Suhaila Mohd Sauid",
+   "Noor Fitrah Abu Bakar",
+   "Saidur Rahman",
+   "Azran Mohd Zainoodin",
+   "Siti Kartom Kamarudin",
+   "Dong-Hyun Peck"
+  ],
+  "journal": "FlatChem",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.flatc.2026.101138",
+  "url": "https://doi.org/10.1016/j.flatc.2026.101138",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterostructures",
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": ""
+ },
+ {
   "id": "63dba7f922086435",
   "title": "Urea-doped orange-waste-derived biochar supporting Ni nanoparticles for efficient hydrogen evolution from tetrahydroxydiboron",
   "authors": [
@@ -476,6 +509,69 @@
   "relevance_score": 24,
   "affiliations": [],
   "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "184f8e9fefd62673",
+  "title": "Architecting Robust Oxygen-Deficient Hollow Sphere Double Perovskite Nd2CoMnO6 as a Unified Trifunctional (Oxygen Reduction Reaction/Oxygen Evolution Reaction/Hydrogen Evolution Reaction) Electrocatalytic Material",
+  "authors": [
+   "Soumyajit Patra",
+   "Amulya Panda",
+   "Rakesh Ranjan Das",
+   "Nibedita Das"
+  ],
+  "journal": "ACS Applied Energy Materials",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1021/acsaem.6c02519",
+  "url": "https://doi.org/10.1021/acsaem.6c02519",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Band Gap",
+   "Hydrogen Evolution",
+   "Oxygen Evolution",
+   "Perovskites",
+   "Related",
+   "Tafel"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": ""
+ },
+ {
+  "id": "17f06b7e08b2d997",
+  "title": "Engineering uniformly dispersed FeCo alloy sites on layered double hydroxide-derived catalysts for stable methane decomposition",
+  "authors": [
+   "Lu Liu",
+   "Shenyong Ren",
+   "Chengshu Yao",
+   "Fubin Peng",
+   "Xin Tao",
+   "Baojian Shen",
+   "Chunming Xu"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.158440",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.158440",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-02",
   "issn": ""
  },
  {

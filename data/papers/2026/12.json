@@ -513,6 +513,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "cc0f45d4f9405e2f",
+  "title": "Harnessing edge-protonation and π-π stacking in all-organic g-C3N4/polythiophene heterostructures for superior photocatalytic charge dynamics",
+  "authors": [
+   "Haowen Zou",
+   "Liuqing Yang",
+   "Tian Tian",
+   "Huanyu Pei",
+   "Hongjuan Hao",
+   "Wingkei Ho",
+   "Dingze Lu"
+  ],
+  "journal": "Materials Today Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtener.2026.102449",
+  "url": "https://doi.org/10.1016/j.mtener.2026.102449",
+  "source": "crossref",
+  "categories": [
+   "g-C3N4 & Carbon Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Photocatalysis",
+   "g-C3N4"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": ""
+ },
+ {
   "id": "cbfe47f3daf88ad2",
   "title": "Defect-associated optical engineering of oxygen-rich MgO nanoparticles via photon-induced synthesis for solar photocatalysis",
   "authors": [
@@ -743,6 +776,49 @@
   "relevance_score": 57,
   "affiliations": [],
   "added": "2026-09-05"
+ },
+ {
+  "id": "c1b32867e3b274a5",
+  "title": "Covalent organic frameworks in photo-Fenton catalysis: Structural design, interfacial mechanisms, and emerging photocatalytic applications",
+  "authors": [
+   "Tarannum Chaudhary",
+   "Rubeena Chauhan",
+   "Pardeep Singh",
+   "Tansir Ahamad",
+   "Van-Huy Nguyen",
+   "Chaudhery Mustansar Hussain",
+   "My Uyen Dao",
+   "Duy Ha Le Phuong",
+   "Soo Young Kim",
+   "Quyet Van Le",
+   "Pankaj Raizada"
+  ],
+  "journal": "Materials Today Sustainability",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtsust.2026.101475",
+  "url": "https://doi.org/10.1016/j.mtsust.2026.101475",
+  "source": "doaj",
+  "categories": [
+   "MOFs & COFs",
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "COFs",
+   "Charge Separation",
+   "Dye Degradation",
+   "Heterojunctions",
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-02",
+  "issn": ""
  },
  {
   "id": "bc8757b70ee8cfb9",
