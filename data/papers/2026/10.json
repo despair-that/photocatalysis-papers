@@ -1,5 +1,39 @@
 [
  {
+  "id": "ff91eca79c30e69d",
+  "title": "Synthesis of hybrid nanoparticle for photocatahlyst, antibacterial, and anticancer applications: A review",
+  "authors": [
+   "Lulu Hayati",
+   "Rahmi Dewi",
+   "Herna Herna",
+   "Ranti Monika"
+  ],
+  "journal": "Science, Technology, and Communication Journal.",
+  "publisher": "",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.59190/stc.v7i1.323",
+  "url": "https://doi.org/10.59190/stc.v7i1.323",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "TiO2",
+   "Wastewater",
+   "ZnO"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Riau University"
+  ],
+  "added": "2026-11-03",
+  "issn": "2774-8782"
+ },
+ {
   "id": "fa63706c659904c1",
   "title": "Strain enhanced photocatalytic water splitting in SnSe/InS 2D van der Waals heterostructure: A first-principles study",
   "authors": [
@@ -886,6 +920,39 @@
   "affiliations": [],
   "added": "2026-11-02",
   "issn": ""
+ },
+ {
+  "id": "2a582dd0264a64fe",
+  "title": "CeCo PBA-derived CeCoS/Graphdiyne p-n heterojunction for promoting highly efficient photocatalytic hydrogen evolution",
+  "authors": [
+   "Chang Xu",
+   "Yaoyao Chen",
+   "Kai Wang",
+   "Zhiliang Jin"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.1016/j.seppur.2026.140776",
+  "url": "https://doi.org/10.1016/j.seppur.2026.140776",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "State Ethnic Affairs Commission",
+   "North Minzu University"
+  ],
+  "added": "2026-11-03",
+  "issn": "1383-5866"
  },
  {
   "id": "226c543a3e07e84e",

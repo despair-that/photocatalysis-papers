@@ -1,5 +1,31 @@
 [
  {
+  "id": "fe6a20b1484e0d48",
+  "title": "Chemically bonded interfaces in S-scheme heterojunctions: Atomic-level charge channels for enhanced photocatalysis",
+  "authors": [
+   "Haitao Ren"
+  ],
+  "journal": "Sustainable Materials and Technologies",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.susmat.2026.e02320",
+  "url": "https://doi.org/10.1016/j.susmat.2026.e02320",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photocatalysis",
+   "S-Scheme"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-03",
+  "issn": ""
+ },
+ {
   "id": "facd297a26c183ca",
   "title": "Engineering PVA-based CuO/NiO nanocomposite film for enhanced optical, antimicrobial, and anticorrosive performance",
   "authors": [
@@ -361,6 +387,36 @@
   "issn": ""
  },
  {
+  "id": "db7ac48a2adfb8ad",
+  "title": "The possibility of implementing lights-out manufacturing: machine learning in the RK-X photocatalytic cycle process",
+  "authors": [
+   "Zoltán Köntös",
+   "Dániel Somogyi",
+   "Márton László Masason"
+  ],
+  "journal": "Digital Chemical Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.dche.2026.100352",
+  "url": "https://doi.org/10.1016/j.dche.2026.100352",
+  "source": "doaj",
+  "categories": [
+   "Machine Learning for Photocatalysis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Data-Driven",
+   "Machine Learning",
+   "Photocatalysis",
+   "Quantum Yield"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-11-03",
+  "issn": ""
+ },
+ {
   "id": "d8474a2da5163de8",
   "title": "Photoelectrocatalytic bromolactonization with NaBr as the bromine source coupled with hydrogen evolution",
   "authors": [
@@ -388,6 +444,43 @@
   "relevance_score": 61,
   "affiliations": [],
   "added": "2026-10-13",
+  "issn": ""
+ },
+ {
+  "id": "d69ac881d2c4811f",
+  "title": "Sustainable calcium-based heterostructure MOFs derived from waste for photocatalytic and electrocatalytic hydrogen production",
+  "authors": [
+   "Mmapule M. Phasha",
+   "Kwena D. Modibane",
+   "Kabelo E. Ramohlola",
+   "Reineck Mhlaba"
+  ],
+  "journal": "Energy Reports",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.egyr.2026.109894",
+  "url": "https://doi.org/10.1016/j.egyr.2026.109894",
+  "source": "doaj",
+  "categories": [
+   "Hydrogen Evolution",
+   "MOFs & COFs",
+   "Z-Scheme & Heterojunctions",
+   "Electrochemical Characterization",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "EIS",
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "MOFs",
+   "Photocatalysis"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-03",
   "issn": ""
  },
  {
@@ -434,6 +527,40 @@
   "relevance_score": 90,
   "affiliations": [],
   "added": "2026-10-31",
+  "issn": ""
+ },
+ {
+  "id": "d36eac0d1a1aa780",
+  "title": "Structural characterization of erbium oxide nanoparticles anchored on reduced graphene oxide nanocomposite photocatalyst with enhanced antibacterial activity",
+  "authors": [
+   "B. Thavamani",
+   "S. Darlin Quine",
+   "M.V. Arularasu"
+  ],
+  "journal": "Chemical Physics Impact",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.chphi.2026.101204",
+  "url": "https://doi.org/10.1016/j.chphi.2026.101204",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "g-C3N4 & Carbon Materials",
+   "Electrochemical Characterization"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Dye Degradation",
+   "EIS",
+   "Electron-Hole Pairs",
+   "Graphene",
+   "Photocatalysis"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-03",
   "issn": ""
  },
  {
@@ -2126,6 +2253,38 @@
   "relevance_score": 82,
   "affiliations": [],
   "added": "2026-10-03",
+  "issn": ""
+ },
+ {
+  "id": "443d9d9aee29eaba",
+  "title": "Sustainable dual cobalt/photoredox catalysis for the selective synthesis of highly functionalized isoquinolones",
+  "authors": [
+   "Diego G. Matesanz",
+   "Andrea Mínguez",
+   "Anna Sonebi",
+   "Sara Cembellín"
+  ],
+  "journal": "Green Chemistry Letters and Reviews",
+  "publisher": "Taylor & Francis Group",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1080/17518253.2026.2751258",
+  "url": "https://doi.org/10.1080/17518253.2026.2751258",
+  "source": "doaj",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Light Irradiation",
+   "Photoredox",
+   "Radical Chemistry",
+   "Scale-up"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-03",
   "issn": ""
  },
  {

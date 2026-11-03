@@ -1,5 +1,138 @@
 [
  {
+  "id": "f3586d957d04d4c9",
+  "title": "Resolving competitive adsorption through d -orbital tuning in plasmonic layered double hydroxides for multiplexed SERS",
+  "authors": [
+   "Ling Li",
+   "Jaslyn Ru Ting Chen",
+   "Emily Xi Tan",
+   "Longcheng Zhang",
+   "In Yee Phang",
+   "Li Wu",
+   "Xing Yi Ling"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Springer Nature",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1038/s41467-026-79205-1",
+  "url": "https://www.nature.com/articles/s41467-026-79205-1",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Plasmonics",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-03",
+  "issn": "2041-1723"
+ },
+ {
+  "id": "bf0a2dfa5caa6702",
+  "title": "Oxygen as a Dual‐Function Regulator in MoS2 CVD Synthesis: Enhancing Precursor Evaporation While Modulating Reaction Kinetics",
+  "authors": [
+   "Keerthana S Kumar, Abhijit Gogoi, Madhavan D.K. Nampoothiri, Bhavesh Kumar Acharya, Manvi Verma, Ananth Govind Rajan, Akshay Singh"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1002/smll.75483",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75483?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-03",
+  "issn": "1613-6810"
+ },
+ {
+  "id": "a39d00bfad220dd9",
+  "title": "Molybdenum Sulfo‐Selenide Nanoarrays Anchored on Reduced Graphene Oxide for Efficient Hydrogen Evolution and Supercapacitor Applications",
+  "authors": [
+   "Dhanasekaran Vikraman, Sajjad Hussain, K. Karuppasamy, Muhammad Ali, Zulfqar Ali Sheikh, Anandhavelu Sanmugam, Jongwan Jung, Akram Alfantazi, Hyun-Seok Kim"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1002/smll.75439",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75439?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Graphene",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-03",
+  "issn": "1613-6810"
+ },
+ {
+  "id": "96322130477ff6bc",
+  "title": "Integration of Refractive Microlenses on BP/MoS2 Photodiodes for Enhanced Infrared Photodetection",
+  "authors": [
+   "Varsha Ashwin Vedaraj, Daniel Fan, Jinyuan Chen, Seyed Saleh Mousavi Khaleghi, Luke Philpott, Yuchen Sun, Shifan Wang, Shi Tang, Robert Delaney, Alexander Corletto, Kenneth B. Crozier, James Bullock"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1002/smll.75405",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75405?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-03",
+  "issn": "1613-6810"
+ },
+ {
+  "id": "5ae7cef879319a48",
+  "title": "Recent Progress of Single‐Atom Catalysts for High‐Performance Metal‐Sulfur Batteries",
+  "authors": [
+   "Yuchen Wang, Siyuan Chen, Muye Zhou, Zishun Lin, Jie Zhou, Xianbao Wang, Guoxiu Wang, Yi Chen"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1002/smll.75895",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75895?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-03",
+  "issn": "1613-6810"
+ },
+ {
   "id": "f6cf9de56695f97c",
   "title": "Synergistic polysulfide trapping and catalysis in free-standing NiCo2S4@porous carbon fiber for ultra-stable lithium-sulfur batteries",
   "authors": [
@@ -484,6 +617,31 @@
   "affiliations": [],
   "added": "2026-10-05",
   "issn": ""
+ },
+ {
+  "id": "40db18fa56d8012c",
+  "title": "Realizing Reversible Photo‐Charging via Stacked 1T/2H MoS2 Bifunctional Cathodes for Photo‐Rechargeable Batteries",
+  "authors": [
+   "Jinghao Li, Youwei Jiang, Jie Huang, Yuhang Dai, Wenwei Zhang, Fujun Deng, Chao Cheng, Yuzhe Zhang, Bowei Li, Zhuo Chen, Minghao Xia, Yehan Xiong, Lei Zhang, Qinyou An, Yaoguang Rong, Liqiang Mai"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1002/adma.75600",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75600?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-03",
+  "issn": "1521-4095"
  },
  {
   "id": "1fbb049587251f4a",

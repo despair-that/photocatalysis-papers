@@ -100,6 +100,44 @@
   "issn": ""
  },
  {
+  "id": "a6c236a3ab321a37",
+  "title": "Engineering Zn-single-atom electron bridge at enzyme-covalent organic frameworks interface for efficient photoenzymatic CO2 reduction",
+  "authors": [
+   "Jiali Chen",
+   "Huan Liu",
+   "Shuzhi Liu",
+   "Chao Wu",
+   "Chengyi Liu",
+   "Jiafu Qu",
+   "Qiang Zhang",
+   "Yahui Cai",
+   "Xiaogang Yang",
+   "Hong Bin Yang",
+   "Jundie Hu",
+   "Jianmei Lu"
+  ],
+  "journal": "Applied Catalysis B: Environment and Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.apcatb.2026.127157",
+  "url": "https://doi.org/10.1016/j.apcatb.2026.127157",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "COFs",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-03",
+  "issn": ""
+ },
+ {
   "id": "a2cb87bf0781c01a",
   "title": "Oxygen-deficient Fe3O4-x/Fe hybrid nanoparticles anchored on defect-rich carbon nanotubes for high-performance supercapacitors and alkaline hydrogen evolution reaction",
   "authors": [

@@ -109556,6 +109556,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2649d94b92d8a916",
+  "title": "Dimensionality-encoded electric fields programming platinum photoassembly for sacrificial-agent-free poly(lactic acid) photoreforming",
+  "authors": [
+   "Yu Yao",
+   "Wenhao Zhao",
+   "Jinqiang Zhang",
+   "Shiying Ren",
+   "Bernt Johannessen",
+   "Shaobin Wang",
+   "Xiaoguang Duan"
+  ],
+  "journal": "Journal of Materials Chemistry A",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d6ta07127a",
+  "url": "https://doi.org/10.1039/d6ta07127a",
+  "source": "crossref",
+  "categories": [
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Sacrificial Reagents",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Lactic Acid",
+   "Photocatalysis",
+   "Photoreforming",
+   "Semiconductors"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-11-03",
+  "issn": ""
+ },
+ {
   "id": "263aa876293f7b71",
   "title": "Photocatalytic redox pathway over Na-doped carbon nitride for green recovery of chloride-coordinated precious metals from wastewater",
   "authors": [

@@ -37034,6 +37034,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "bee25c45da4bd416",
+  "title": "TiN anchored mesoporous single-crystalline LaTiO2N with ohmic contact to expedite photocarrier separation for efficient photocatalytic water splitting",
+  "authors": [
+   "Lina Wang",
+   "Jinxing Yu",
+   "Zhuo Li",
+   "Xiaoxiang Xu"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2023-11-01",
+  "year": 2023,
+  "doi": "10.1016/j.apcatb.2023.122960",
+  "url": "https://doi.org/10.1016/j.apcatb.2023.122960",
+  "source": "crossref",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Water Splitting"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-11-03",
+  "issn": ""
+ },
+ {
   "id": "be30f5a558d7f4b1",
   "title": "Rapid Charge Transfer Endowed by Interfacial Ni‐O Bonding in S‐scheme Heterojunction for Efficient Photocatalytic H 2 and Imine Production",
   "authors": [
