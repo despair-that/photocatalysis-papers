@@ -98,6 +98,38 @@
   "issn": ""
  },
  {
+  "id": "3330189edc09ef09",
+  "title": "Activation engineering on metallic 1T-MoS2 by constructing In-plane heterostructure for efficient hydrogen generation",
+  "authors": [
+   "Zhipeng Liu",
+   "Kaiwen Wang",
+   "Yanjuan Li",
+   "Shisheng Yuan",
+   "Guoqing Huang",
+   "Xiaotian Li",
+   "Nan Li"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1016/j.apcatb.2021.120696",
+  "url": "https://doi.org/10.1016/j.apcatb.2021.120696",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterostructures",
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": ""
+ },
+ {
   "id": "15d5c605197b966e",
   "title": "Achieving Full-Spectrum-Driven Simultaneous Hydrogen Evolution and Organic Pollutants Degradation Through the Sensitization of Ag3po4 by Double Perovskite Quantum Dots",
   "authors": [

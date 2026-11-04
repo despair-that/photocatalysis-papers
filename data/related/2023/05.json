@@ -128,5 +128,33 @@
   "affiliations": [],
   "added": "2026-10-14",
   "issn": ""
+ },
+ {
+  "id": "034fe4f84f454eab",
+  "title": "Theoretical study of the mechanism of the hydrogen evolution reaction on the V2C MXene: Thermodynamic and kinetic aspects",
+  "authors": [
+   "Martí López",
+   "Kai S. Exner",
+   "Francesc Viñes",
+   "Francesc Illas"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2023-05-01",
+  "year": 2023,
+  "doi": "10.1016/j.jcat.2023.03.027",
+  "url": "https://doi.org/10.1016/j.jcat.2023.03.027",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": ""
  }
 ]

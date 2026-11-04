@@ -32,6 +32,62 @@
   "issn": "2041-1723"
  },
  {
+  "id": "97380e0bec028cb5",
+  "title": "Graphitic carbon nitride nanomaterials integrating optical absorption and membrane performance for solar distillation",
+  "authors": [
+   "Ebraheem B",
+   "Lebda H",
+   "El-Nahass M",
+   "Farag A",
+   "Shawky H",
+   "Ali M."
+  ],
+  "journal": "RSC advances",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13726137",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": ""
+ },
+ {
+  "id": "ddf9b3484a7d420f",
+  "title": "Axial Boron Coordination Reconstructs Stereostructure of Cu Single‐Atom Nanozymes for Efficient Water‐Phase Chemical Sensing",
+  "authors": [
+   "Qijun Sun, Hongyu Shi, Si Liu, Ziping Li, Yu Yang, Fengwang Li, Wenli Wu, Qiongzheng Hu, Kang Liang"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1002/anie.8789610",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.8789610?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": "1521-3773"
+ },
+ {
   "id": "bf0a2dfa5caa6702",
   "title": "Oxygen as a Dual‐Function Regulator in MoS2 CVD Synthesis: Enhancing Precursor Evaporation While Modulating Reaction Kinetics",
   "authors": [
@@ -55,6 +111,31 @@
   "affiliations": [],
   "added": "2026-11-03",
   "issn": "1613-6810"
+ },
+ {
+  "id": "ac10c94325544ef5",
+  "title": "Proximal Symmetry‐Enhanced Single‐Atom Ni and In Situ Evolved Co Nanoparticle in MOFs for Synergistically Boosted Electrocatalytic Urea Synthesis",
+  "authors": [
+   "Ruichao Xu, Zhenyang Dai, Weizhi Gu, Weiqi Lu, Fengtang Zhao, Lingshan Qu, Jinglin Yuan, Yajuan Feng, Long Jiao, Hai-Long Jiang, Zhihu Sun"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1002/anie.4551056",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4551056?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": "1521-3773"
  },
  {
   "id": "a39d00bfad220dd9",
@@ -108,6 +189,81 @@
   "issn": "1613-6810"
  },
  {
+  "id": "69efcb8cf1f73281",
+  "title": "Ru Single‐Atom Anchored Zeolite for Selective Upcycling of Polyolefins Into Butanes",
+  "authors": [
+   "Minhao Tang, Ji Shen, Yiding Wang, Shuyan Guan, Guoxuan Li, Wenxuan Zhao, Lili Yang, Yanfei Zhao, Wei Zeng, Rongxiang Li, Yusi Wang, Hui Zhang, Daping He, Dingsheng Wang, Buxing Han, Zhimin Liu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1002/anie.1866514",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1866514?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "6327f32c827737a6",
+  "title": "Asymmetrically Coordinated p‐Block Aluminum Single‐Atom Sites for Stable Na─S Batteries",
+  "authors": [
+   "Fangcai Zheng, Fangsheng Chen, Jiayao Yu, Sheng Yao, Chen Shen, Zhicheng Huang, Zhiqiang Li, Changlai Wang, Hui Wang"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1002/anie.9140872",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9140872?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "5cc321368e0232ea",
+  "title": "Highly Efficient Au1Pd Single‐Atom Alloy Catalyzing Reversible Formate/Bicarbonate Interconversion: Proof‐of‐Concept for Formate‐Salt Cavern Hydrogen Storage",
+  "authors": [
+   "Xiuqin Ci, Yuwei Pan, Changjiang Yang, Jiachen Xie, Chenghu Wei, Ning Sun, Tie Yu, Guoqing Ren, Weiqiao Deng"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1002/anie.3611480",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3611480?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": "1521-3773"
+ },
+ {
   "id": "5ae7cef879319a48",
   "title": "Recent Progress of Single‐Atom Catalysts for High‐Performance Metal‐Sulfur Batteries",
   "authors": [
@@ -131,6 +287,31 @@
   "affiliations": [],
   "added": "2026-11-03",
   "issn": "1613-6810"
+ },
+ {
+  "id": "060f7b221115b795",
+  "title": "Breaking Charge Symmetry in Co–Zn Dual‑Atom Catalyst With Axial Sulfur Coordination for Efficient Oxygen Reduction Reaction",
+  "authors": [
+   "Jixiang Zou, Lixiao Shen, Zhishuai Yuan, Mei Yan, Lei Zhao, Chongshen Guo, Zhenbo Wang"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1002/anie.2911991",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2911991?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dual-Atom Catalysts",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": "1521-3773"
  },
  {
   "id": "f6cf9de56695f97c",
@@ -164,6 +345,39 @@
   "affiliations": [],
   "added": "2026-10-02",
   "issn": ""
+ },
+ {
+  "id": "ebec1041701a44ad",
+  "title": "Non-covalent aggregation as a general strategy to activate dipole-forbidden transitions for visible-to-red-light H2 evolution",
+  "authors": [
+   "Xiwen Gao",
+   "Qi Zhang",
+   "Jie Wang",
+   "Hongxia Zhang",
+   "Jianghong Zhao",
+   "Hu Shi",
+   "Pengju Yang"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.jcat.2026.117264",
+  "url": "https://doi.org/10.1016/j.jcat.2026.117264",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Shanxi University"
+  ],
+  "added": "2026-11-04",
+  "issn": "0021-9517"
  },
  {
   "id": "e5ffdbe0962bac25",

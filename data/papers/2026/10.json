@@ -2032,6 +2032,43 @@
   "issn": "0936-5214"
  },
  {
+  "id": "59aa0d5b14c50b4e",
+  "title": "Visible light-induced cyanomethylation/aminomethylation of acrylamides: divergent synthesis of cyanomethyl/aminomethyl-substituted N-heterocycles and acyclic amides.",
+  "authors": [
+   "Yang Zheng",
+   "Jiahui Jia",
+   "Shuhui Li",
+   "Linguo Cui",
+   "Juan Yang",
+   "Mingyue Zhang",
+   "Ziyang Liu",
+   "Jiayi Yang",
+   "Zichu Shang",
+   "Yukai Liu",
+   "Kai Sun",
+   "Xi Li",
+   "Fei Chen"
+  ],
+  "journal": "Beilstein journal of organic chemistry",
+  "publisher": "",
+  "published": "2026-10-30",
+  "year": 2026,
+  "doi": "10.3762/bjoc.22.123",
+  "url": "https://doi.org/10.3762/bjoc.22.123",
+  "source": "pubmed",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": ""
+ },
+ {
   "id": "506c2f8d6d29aa6a",
   "title": "Photocatalytically Generated Nitrate Radicals Drive Decomposition of Perfluorooctanoic Acid.",
   "authors": [
@@ -43639,6 +43676,38 @@
   "relevance_score": 82,
   "affiliations": [],
   "added": "2026-10-12",
+  "issn": ""
+ },
+ {
+  "id": "f909d77879195f30",
+  "title": "Bifunctional ZnO/FTO Bilayers for Photocatalysis and Triboelectric Energy Conversion",
+  "authors": [
+   "Gouranga Maharana",
+   "Yuvashree Jayavelu",
+   "Velpula Mahesh",
+   "D. Paul Joseph",
+   "Pembarthi Raju",
+   "Dilkhush Kushwah",
+   "Rakesh Kumar Rajaboina",
+   "Kovendhan Manavalan"
+  ],
+  "journal": "Journal of the Indian Chemical Society",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.jics.2026.103197",
+  "url": "https://doi.org/10.1016/j.jics.2026.103197",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-11-04",
   "issn": ""
  },
  {

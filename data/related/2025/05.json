@@ -133,5 +133,36 @@
   "affiliations": [],
   "added": "2026-10-11",
   "issn": ""
+ },
+ {
+  "id": "0070ab3f9f0c9e1d",
+  "title": "Design principles of single-atom catalysts anchored over porous materials for green catalysis and conversion",
+  "authors": [
+   "Shunwu Wang",
+   "Ligang Wang",
+   "Xiaodong Zhou",
+   "Jinjie Fang",
+   "Chen Deng",
+   "Dingsheng Wang"
+  ],
+  "journal": "Nano Research",
+  "publisher": "Tsinghua University Press",
+  "published": "2025-05-01",
+  "year": 2025,
+  "doi": "10.26599/nr.2025.94907137",
+  "url": "https://doi.org/10.26599/nr.2025.94907137",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Pioneer",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 32,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": ""
  }
 ]

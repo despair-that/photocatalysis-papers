@@ -53,5 +53,39 @@
   "affiliations": [],
   "added": "2026-10-02",
   "issn": ""
+ },
+ {
+  "id": "42d6d19317b4e2a4",
+  "title": "Dual-shell hollow nanospheres NiCo2S4@CoS2/MoS2: Enhancing catalytic activity for oxygen evolution reaction and achieving water splitting via the unique synergistic effects of mechanisms of adsorption-desorption and lattice oxygen oxidation",
+  "authors": [
+   "Yang Chen",
+   "Yu Tang",
+   "Leiyun Han",
+   "Jiayan Liu",
+   "Yingjie Hua",
+   "Xudong Zhao",
+   "Xiaoyang Liu"
+  ],
+  "journal": "Chinese Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2025-07-01",
+  "year": 2025,
+  "doi": "10.1016/s1872-2067(25)64727-9",
+  "url": "https://doi.org/10.1016/s1872-2067(25)64727-9",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "NiCo",
+   "Oxygen Evolution",
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 26,
+  "affiliations": [],
+  "added": "2026-11-04",
+  "issn": ""
  }
 ]
