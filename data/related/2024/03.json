@@ -29,5 +29,37 @@
   "affiliations": [],
   "added": "2026-10-30",
   "issn": ""
+ },
+ {
+  "id": "e87ca31545ffd7ee",
+  "title": "Two-dimensional bimetallic selenium-containing metal-organic frameworks and their calcinated derivatives as electrocatalysts for overall water splitting",
+  "authors": [
+   "Zhao-ting Shang",
+   "Tang-ming Li",
+   "Bing-qian Hu",
+   "Min Liu",
+   "Wang-ting Lu",
+   "Fan Yu",
+   "Yun Zheng"
+  ],
+  "journal": "Frontiers in Energy",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2024-03-10",
+  "year": 2024,
+  "doi": "10.1007/s11708-024-0924-x",
+  "url": "https://doi.org/10.1007/s11708-024-0924-x",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MOFs",
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-05",
+  "issn": ""
  }
 ]

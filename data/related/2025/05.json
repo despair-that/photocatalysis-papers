@@ -135,6 +135,35 @@
   "issn": ""
  },
  {
+  "id": "d5f94dd3080c4007",
+  "title": "Degradation of Solid Oxide Electrolysis Cells Operating Galvanostatically at Different Temperatures: Emphasis on the 900 °C Regime",
+  "authors": [
+   "Vasileios Bilalis",
+   "Bowen Li",
+   "Albert López de Moragas",
+   "Henrik Lund Frandsen",
+   "Ming Chen"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "The Electrochemical Society",
+  "published": "2025-05-01",
+  "year": 2025,
+  "doi": "10.1149/1945-7111/add298",
+  "url": "https://doi.org/10.1149/1945-7111/add298",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "EIS",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-05",
+  "issn": ""
+ },
+ {
   "id": "0070ab3f9f0c9e1d",
   "title": "Design principles of single-atom catalysts anchored over porous materials for green catalysis and conversion",
   "authors": [

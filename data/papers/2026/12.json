@@ -2906,6 +2906,38 @@
   "issn": ""
  },
  {
+  "id": "1f0f81c95702f668",
+  "title": "MoS",
+  "authors": [
+   "Deba Raj Basumatary",
+   "Fungbili Basumatary",
+   "Bipul Das",
+   "Sanjay Basumatary"
+  ],
+  "journal": "Chemical Engineering Journal. Green and Sustainable",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.cejgas.2026.100150",
+  "url": "https://doi.org/10.1016/j.cejgas.2026.100150",
+  "source": "doaj",
+  "categories": [
+   "Machine Learning for Photocatalysis",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Heterojunctions",
+   "Machine Learning",
+   "Photocatalysis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-11-05",
+  "issn": ""
+ },
+ {
   "id": "1b18bd2dc14cf9fe",
   "title": "Influence of surface characteristics on the biomedical and photocatalytic behavior of plant-mediated CuO–NiO nanocomposite: Experimental and in silico insights",
   "authors": [

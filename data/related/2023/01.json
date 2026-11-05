@@ -1,5 +1,39 @@
 [
  {
+  "id": "96a7fbda5377ea59",
+  "title": "Boron-doping on the surface mediated low-valence Co centers in cobalt phosphide for improved electrocatalytic hydrogen evolution",
+  "authors": [
+   "Yingying Gao",
+   "Sheng Qian",
+   "Haijiao Wang",
+   "Wenzhi Yuan",
+   "Yu Fan",
+   "Ningyan Cheng",
+   "Huaiguo Xue",
+   "Tengfei Jiang",
+   "Jingqi Tian"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2023-01-01",
+  "year": 2023,
+  "doi": "10.1016/j.apcatb.2022.122014",
+  "url": "https://doi.org/10.1016/j.apcatb.2022.122014",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-05",
+  "issn": ""
+ },
+ {
   "id": "800bc6632e5cf868",
   "title": "Highly dispersed Rh single atoms over graphitic carbon nitride as a robust catalyst for the hydroformylation reaction",
   "authors": [

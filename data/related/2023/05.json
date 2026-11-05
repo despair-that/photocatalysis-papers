@@ -100,6 +100,35 @@
   "issn": ""
  },
  {
+  "id": "c6817e383a71233d",
+  "title": "Single-atom copper embedded in two-dimensional MXene toward peroxymonosulfate activation to generate singlet oxygen with nearly 100% selectivity for enhanced Fenton-like reactions",
+  "authors": [
+   "Peizhen Yang",
+   "Yuhan Long",
+   "Wenli Huang",
+   "Dongfang Liu"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2023-05-01",
+  "year": 2023,
+  "doi": "10.1016/j.apcatb.2022.122245",
+  "url": "https://doi.org/10.1016/j.apcatb.2022.122245",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts",
+   "Singlet Oxygen"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-05",
+  "issn": ""
+ },
+ {
   "id": "4fbda274439a086d",
   "title": "Atomically Fe-doped MoS2−x with Fe-Mo dual sites for efficient electrocatalytic NO reduction to NH3",
   "authors": [

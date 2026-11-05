@@ -42,6 +42,39 @@
   "issn": "2667-1093"
  },
  {
+  "id": "992cd06869f006e1",
+  "title": "Mono- and Bimetallic Nickel–Cobalt Metal–Organic Framework Electrocatalysts for Overall Water Splitting",
+  "authors": [
+   "Çağdaş Yavuz",
+   "Henrik Haspel",
+   "Ákos Szamosvölgyi",
+   "Robert Vajtai",
+   "Zoltán Kónya"
+  ],
+  "journal": "ACS Omega",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-02-17",
+  "year": 2026,
+  "doi": "10.1021/acsomega.5c10265",
+  "url": "https://doi.org/10.1021/acsomega.5c10265",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "EIS",
+   "Hydrogen Evolution",
+   "MOFs",
+   "Oxygen Evolution",
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 31,
+  "affiliations": [],
+  "added": "2026-11-05",
+  "issn": ""
+ },
+ {
   "id": "92b168400f15de34",
   "title": "Superaerophobic TiN Nanowires Boost Bubble Removal and Performance of Pt Catalysts for Highly Efficient Hydrogen Evolution",
   "authors": [
