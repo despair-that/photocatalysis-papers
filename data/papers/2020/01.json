@@ -71062,6 +71062,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4d1baae2d30b4f1d",
+  "title": "Boosting visible-light-driven catalytic hydrogen evolution via surface Ti 3+ and bulk oxygen vacancies in urchin-like hollow black TiO 2 decorated with RuO 2 and Pt dual cocatalysts",
+  "authors": [
+   "Bowen Li",
+   "Qiuye Li",
+   "Bhavana Gupta",
+   "Chunqing He",
+   "Jianjun Yang"
+  ],
+  "journal": "Catalysis Science & Technology",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1039/d0cy01706j",
+  "url": "https://doi.org/10.1039/d0cy01706j",
+  "source": "crossref",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Hydrogen Evolution",
+   "Light-Driven Catalysis",
+   "Oxygen Vacancies",
+   "Visible Light"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-11-06",
+  "issn": ""
+ },
+ {
   "id": "4ccd5711ceb430a1",
   "title": "Double defective group modified nitrogen-deficient carbon nitride with bimetallic PtSn as a cocatalyst for efficient photocatalytic hydrogen evolution up to 765 nm",
   "authors": [

@@ -96,5 +96,35 @@
   "affiliations": [],
   "added": "2026-10-24",
   "issn": ""
+ },
+ {
+  "id": "253fb55fb3f17828",
+  "title": "Enhanced phosphate removal and recovery by Mg/Al-layered double hydroxide modified D201 resin for water treatment",
+  "authors": [
+   "Jirui Zou",
+   "Anlei Wei",
+   "Yaqi Zhu",
+   "Kangrong Tang",
+   "Zixuan Wang",
+   "Hanxiao Shi"
+  ],
+  "journal": "Journal of Water Process Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2025-10-01",
+  "year": 2025,
+  "doi": "10.1016/j.jwpe.2025.108767",
+  "url": "https://doi.org/10.1016/j.jwpe.2025.108767",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-06",
+  "issn": ""
  }
 ]

@@ -35,5 +35,39 @@
   ],
   "added": "2026-10-02",
   "issn": "0926-3373"
+ },
+ {
+  "id": "3868a7fbf03650e7",
+  "title": "Facilitation of the visible light-induced Fenton-like excitation of H2O2 via heterojunction of g-C3N4/NH2-Iron terephthalate metal-organic framework for MB degradation",
+  "authors": [
+   "Xiyi Li",
+   "Yunhong Pi",
+   "Liqiong Wu",
+   "Qibin Xia",
+   "Junliang Wu",
+   "Zhong Li",
+   "Jing Xiao"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2017-03-01",
+  "year": 2017,
+  "doi": "10.1016/j.apcatb.2016.09.073",
+  "url": "https://doi.org/10.1016/j.apcatb.2016.09.073",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "MOFs",
+   "Related",
+   "Visible Light",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-06",
+  "issn": ""
  }
 ]

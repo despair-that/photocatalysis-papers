@@ -95,6 +95,48 @@
   "issn": ""
  },
  {
+  "id": "d4bb31f896eac4c0",
+  "title": "Novel hybrid Cu",
+  "authors": [
+   "Sodiq T. Yussuf",
+   "Segun A. Ogundare",
+   "Nurudeen O. Sanyaolu",
+   "Adeola A. Ibikunle",
+   "Basirat O. Bello",
+   "Timilehin E. Ogundele",
+   "Segun D. Oladipo",
+   "Sizwe J. Zamisa",
+   "Adesola A. Adeleke",
+   "Odunayo C. Atewolara-Odule",
+   "Moriliat A. Hashimi",
+   "Olatunde S. Oladeji",
+   "Abisola O. Egbedina"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.nxmate.2026.103966",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.103966",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Dye Degradation",
+   "Photocatalysis",
+   "Wastewater",
+   "ZnO"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-06",
+  "issn": ""
+ },
+ {
   "id": "d44d686176b8c832",
   "title": "UiO-67-bridged CdS/CuWO4 heterostructure for enhanced visible-light-driven hydrogen evolution through interfacial charge regulation",
   "authors": [
@@ -153,6 +195,39 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-09-30",
+  "issn": ""
+ },
+ {
+  "id": "91d520d3a1239d86",
+  "title": "Phosphoric acid activation of Ouixane iron ore tailing assisted with volumetric irradiation in the synthesis of high performance geopolymers: Microstructural and mechanical properties",
+  "authors": [
+   "Y. Ballout",
+   "Y. El Miz",
+   "H. El Harouachi",
+   "A. El Azizi",
+   "D. Ahoudi",
+   "M. Elgettafi",
+   "M. Mansori",
+   "R. Hakkou",
+   "M. Loutou"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.nxmate.2026.103931",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.103931",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Wastewater"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-11-06",
   "issn": ""
  },
  {
@@ -323,6 +398,41 @@
   "relevance_score": 82,
   "affiliations": [],
   "added": "2026-08-20"
+ },
+ {
+  "id": "523545cf4c0a6412",
+  "title": "Synergistic piezo-enhanced photocatalytic effect of bimetallic (Ba/Bi)-codoped TiO",
+  "authors": [
+   "Widyan N. Khudair",
+   "Saad H. Ammar"
+  ],
+  "journal": "South African Journal of Chemical Engineering",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.sajce.2026.101038",
+  "url": "https://doi.org/10.1016/j.sajce.2026.101038",
+  "source": "doaj",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Co-catalysts & Surface",
+   "Photoredox & Organic Synthesis",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Doping",
+   "Electron-Hole Pairs",
+   "Heterostructures",
+   "Photocatalysis",
+   "Pollutants",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-06",
+  "issn": ""
  },
  {
   "id": "3d253a75ab6a535e",

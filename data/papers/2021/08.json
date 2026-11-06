@@ -825,6 +825,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7e15522d72b29e97",
+  "title": "Light‐Induced Migration of Spin Defects in TiO 2 Nanosystems and their Contribution to the H 2 Evolution Catalysis from Water",
+  "authors": [
+   "Zdeněk Bad'ura",
+   "Alberto Naldoni",
+   "Shanshan Qin",
+   "Aristides Bakandritsos",
+   "Štěpán Kment",
+   "Patrik Schmuki",
+   "Giorgio Zoppellaro"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2021-08-31",
+  "year": 2021,
+  "doi": "10.1002/cssc.202101218",
+  "url": "https://doi.org/10.1002/cssc.202101218",
+  "source": "crossref",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Photoexcitation",
+   "Photogenerated Carriers",
+   "TiO2"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-11-06",
+  "issn": ""
+ },
+ {
   "id": "7752e20ecd82cf62",
   "title": "Facilitated interfacial charge separation using triphenylamine-zinc porphyrin dyad-sensitized TiO2 nanoparticles for photocatalysis",
   "authors": [
@@ -4319,6 +4355,37 @@
    "Northwest Normal University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "368bcd4ecd8089f8",
+  "title": "Sulfur-Doped BiOCl with Enhanced Light Absorption and Photocatalytic Water Oxidation Activity",
+  "authors": [
+   "Ruilian Qi",
+   "Jian Liu",
+   "Huanxiang Yuan",
+   "Yu Yu"
+  ],
+  "journal": "Nanomaterials",
+  "publisher": "MDPI AG",
+  "published": "2021-08-28",
+  "year": 2021,
+  "doi": "10.3390/nano11092221",
+  "url": "https://doi.org/10.3390/nano11092221",
+  "source": "crossref",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Structure",
+   "Co-catalysts",
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 80,
+  "affiliations": [],
+  "added": "2026-11-06",
+  "issn": ""
  },
  {
   "id": "16ab58c61027f795",

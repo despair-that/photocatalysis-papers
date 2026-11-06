@@ -39,5 +39,35 @@
   ],
   "added": "2026-10-02",
   "issn": "2050-7488"
+ },
+ {
+  "id": "32640d0a1168f0db",
+  "title": "Zn-Al layered double hydroxide nanoparticles for efficient removal of food dyes from wastewater",
+  "authors": [
+   "Rasheed M.A.Q. Jamhour",
+   "Ashraf M. Al-Msiedeen",
+   "Renad Z. Al-Sharaydeh",
+   "Mohannad R. Jamhour",
+   "Abdelmnim M. Altweiq"
+  ],
+  "journal": "Desalination and Water Treatment",
+  "publisher": "Elsevier BV",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1016/j.dwt.2024.100036",
+  "url": "https://doi.org/10.1016/j.dwt.2024.100036",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Related",
+   "Wastewater"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-06",
+  "issn": ""
  }
 ]

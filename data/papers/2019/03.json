@@ -16379,6 +16379,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "29184673c4bb1553",
+  "title": "Bi2WO6 and FeWO4 Nanocatalysts for the Electrochemical Water Oxidation Process",
+  "authors": [
+   "Balasubramanian Jansi Rani",
+   "Ganesan Ravi",
+   "Rathinam Yuvakkumar",
+   "M. Praveenkumar",
+   "Subbiah Ravichandran",
+   "Paulpandian Muthu Mareeswaran",
+   "Sun Ig Hong"
+  ],
+  "journal": "ACS Omega",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2019-03-13",
+  "year": 2019,
+  "doi": "10.1021/acsomega.8b03003",
+  "url": "https://doi.org/10.1021/acsomega.8b03003",
+  "source": "crossref",
+  "categories": [
+   "Water Splitting",
+   "Electrochemical Characterization",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Photocatalysis",
+   "Tafel",
+   "Water Splitting"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-11-06",
+  "issn": ""
+ },
+ {
   "id": "1a524a471cf05cb1",
   "title": "Coupling of heterogeneous advanced oxidation processes and photocatalysis in efficient degradation of tetracycline hydrochloride by Fe-based MOFs: Synergistic effect and degradation pathway",
   "authors": [
