@@ -1,5 +1,32 @@
 [
  {
+  "id": "a8e1365360d44d45",
+  "title": "Proton conduction facilitates the hydrogen evolution reaction in heptamolybdate-protected SnO 2 nanocore",
+  "authors": [
+   "Laxmikanta Mallick",
+   "Hirak Kumar Basak",
+   "Biswarup Chakraborty"
+  ],
+  "journal": "Polyoxometalates",
+  "publisher": "Tsinghua University Press",
+  "published": "2026-11-06",
+  "year": 2026,
+  "doi": "10.26599/pom.2026.9140175",
+  "url": "https://doi.org/10.26599/pom.2026.9140175",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-07",
+  "issn": "2957-9503"
+ },
+ {
   "id": "d7871f204ad305ec",
   "title": "N6-methyladenosine–dependent ARv7 translation couples lactate metabolism with enzalutamide resistance in prostate cancer",
   "authors": [

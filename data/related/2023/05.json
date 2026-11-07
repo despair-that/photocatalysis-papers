@@ -159,6 +159,38 @@
   "issn": ""
  },
  {
+  "id": "45c87e9316d467c2",
+  "title": "CeO2 as an “electron pump” to boost the performance of Co4N in electrocatalytic hydrogen evolution, oxygen evolution and biomass oxidation valorization",
+  "authors": [
+   "Peiyun Zhou",
+   "Guangtong Hai",
+   "Gongchi Zhao",
+   "Rushuo Li",
+   "Xiubing Huang",
+   "Yunfeng Lu",
+   "Ge Wang"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2023-05-01",
+  "year": 2023,
+  "doi": "10.1016/j.apcatb.2023.122364",
+  "url": "https://doi.org/10.1016/j.apcatb.2023.122364",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Oxygen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-07",
+  "issn": ""
+ },
+ {
   "id": "034fe4f84f454eab",
   "title": "Theoretical study of the mechanism of the hydrogen evolution reaction on the V2C MXene: Thermodynamic and kinetic aspects",
   "authors": [

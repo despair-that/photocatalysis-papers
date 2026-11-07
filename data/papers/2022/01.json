@@ -36710,6 +36710,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "fd3b71f5bb73ff0d",
+  "title": "Heteroatom-induced domain electrostatic potential difference in ZnIn 2 S 4 nanosheets for efficient charge separation and boosted photocatalytic overall water splitting",
+  "authors": [
+   "Bojing Sun",
+   "Dingge Fan",
+   "Xiaoyu Chen",
+   "Zhenzi Li",
+   "Wei Zhou",
+   "Yuncehn Du"
+  ],
+  "journal": "Materials Chemistry Frontiers",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2022-01-01",
+  "year": 2022,
+  "doi": "10.1039/d2qm00314g",
+  "url": "https://doi.org/10.1039/d2qm00314g",
+  "source": "crossref",
+  "categories": [
+   "Water Splitting",
+   "Mechanism & Charge Dynamics",
+   "2D Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Charge Separation",
+   "Doping",
+   "Nanosheets",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Water Splitting"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-07",
+  "issn": ""
+ },
+ {
   "id": "fd30101d436abce0",
   "title": "0d/1d Cu2-Xs/Tio2 S-Scheme Heterojunction with Enhanced Photocatalytic Co2 Reduction Performance Via Surface Plasmon Resonance Induced Photothermal Effects",
   "authors": [

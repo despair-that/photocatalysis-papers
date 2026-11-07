@@ -5645,6 +5645,38 @@
   "added": "2026-07-26"
  },
  {
+  "id": "ec388978994edbee",
+  "title": "Sustainable Synthesis of Zirconium Dioxide (ZrO2) Nanoparticles Utilizing Asphodelus fistulosus Extract for Congo Red Degradation",
+  "authors": [
+   "Rand A. N. Alkhalifa",
+   "Abuzar E. A. E. Albadri",
+   "Reham Ali",
+   "Abdullah H. Alluhayb",
+   "Alaa M. Younis",
+   "Sayed M. Saleh"
+  ],
+  "journal": "Catalysts",
+  "publisher": "MDPI AG",
+  "published": "2025-01-27",
+  "year": 2025,
+  "doi": "10.3390/catal15020123",
+  "url": "https://doi.org/10.3390/catal15020123",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation",
+   "Photogenerated Carriers"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-11-07",
+  "issn": ""
+ },
+ {
   "id": "ea74b2690b5ceea6",
   "title": "Photoelectrocatalytic degradation of ofloxacin by ZnO-rGO:N composite material: kinetics, mechanism, and degradation pathways",
   "authors": [

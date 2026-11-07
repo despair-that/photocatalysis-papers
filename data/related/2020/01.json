@@ -34,5 +34,36 @@
   "affiliations": [],
   "added": "2026-11-05",
   "issn": ""
+ },
+ {
+  "id": "26b18e357c53eaed",
+  "title": "Boosting hydrogen evolution performance by using a plasma-sputtered porous monolithic W 2 C@WC 1−x /Mo film electrocatalyst",
+  "authors": [
+   "Shusheng Xu",
+   "Liuquan Yang",
+   "Yu-Zhen Liu",
+   "Yong Hua",
+   "Xiaoming Gao",
+   "Anne Neville"
+  ],
+  "journal": "Journal of Materials Chemistry A",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1039/d0ta05251e",
+  "url": "https://doi.org/10.1039/d0ta05251e",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related",
+   "Tafel"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-11-07",
+  "issn": ""
  }
 ]

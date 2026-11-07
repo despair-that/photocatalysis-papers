@@ -30,6 +30,44 @@
   "issn": ""
  },
  {
+  "id": "f138a1b37fd8aeab",
+  "title": "Interface-engineered Bi2S3/BiOIO3 S-scheme heterojunction enabled by built-in electric field-regulated charge migration and multi-radical synergistic photocatalysis",
+  "authors": [
+   "Jing-Hua Hao",
+   "Yong-Min Ying",
+   "Hao Liu",
+   "Xi Luo",
+   "Jiang Wu",
+   "Lei Chen",
+   "Hua-Nan Wang",
+   "Ji-Li Wen",
+   "Yu Guan",
+   "Jia Lin",
+   "Meng-Yuan Hu"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.seppur.2026.140701",
+  "url": "https://doi.org/10.1016/j.seppur.2026.140701",
+  "source": "semanticscholar",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "S-Scheme"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-11-07",
+  "issn": ""
+ },
+ {
   "id": "e8ac2c40806aa7bc",
   "title": "Sequential construction of HOF-on-HOF architectures via stepwise hemin immobilization toward enhanced photocatalytic hydrogen evolution",
   "authors": [
@@ -259,6 +297,42 @@
   "relevance_score": 49,
   "affiliations": [],
   "added": "2026-10-12",
+  "issn": ""
+ },
+ {
+  "id": "7c6e458e7fe93e1e",
+  "title": "Green synthesis of ferrimagnetic Fe",
+  "authors": [
+   "Lakshmi Madhuri Peddada",
+   "Phyu Phyu Cho",
+   "Saarthak Dulgaj",
+   "Ratnamala Annapragada",
+   "Phani Raja Kanuparthy",
+   "Biplab Tamili",
+   "C. Subrahmanyam"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.nxmate.2026.103963",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.103963",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Band Gap",
+   "Heterostructures",
+   "Photocatalysis",
+   "Photodegradation",
+   "Visible Light"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-07",
   "issn": ""
  },
  {
