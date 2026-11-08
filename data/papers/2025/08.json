@@ -42379,6 +42379,33 @@
   "added": "2026-07-26"
  },
  {
+  "id": "67f286b5c400d786",
+  "title": "Ag-Decorated TiO₂ in a fluidized bed photoreactor: A high-efficiency system for the direct photocatalytic epoxidation of propylene to propylene oxide",
+  "authors": [
+   "Nicola Morante",
+   "Diana Sannino",
+   "Vincenzo Vaiano"
+  ],
+  "journal": "Molecular Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2025-08-01",
+  "year": 2025,
+  "doi": "10.1016/j.mcat.2025.115259",
+  "url": "https://doi.org/10.1016/j.mcat.2025.115259",
+  "source": "crossref",
+  "categories": [
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreactors"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-11-08",
+  "issn": ""
+ },
+ {
   "id": "6295e46120fba56e",
   "title": "Exploiting metal chalcogenides/strontium hexaferrite (SrFe12O19) nanocomposites as effective heterojunction photocatalysts in hydrogen production process",
   "authors": [

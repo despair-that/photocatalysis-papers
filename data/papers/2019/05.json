@@ -32793,6 +32793,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "263dbecc05daebb5",
+  "title": "Modelling of adsorption/photodegradation phenomena on AC-TiO2 composite catalysts for water treatment detoxification",
+  "authors": [
+   "C. Telegang Chekem",
+   "V. Goetz",
+   "Y. Richardson",
+   "G. Plantard",
+   "J. Blin"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2019-05-01",
+  "year": 2019,
+  "doi": "10.1016/j.cattod.2018.12.038",
+  "url": "https://doi.org/10.1016/j.cattod.2018.12.038",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photodegradation",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-08",
+  "issn": ""
+ },
+ {
   "id": "2472e401f21b9edb",
   "title": "Developing and Understanding BiFeO 3 Photoelectrodes for Solar Water Splitting",
   "authors": [

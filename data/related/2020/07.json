@@ -25,5 +25,33 @@
   "affiliations": [],
   "added": "2026-10-18",
   "issn": ""
+ },
+ {
+  "id": "db1ad11a338597b2",
+  "title": "Introduce oxygen vacancies into CeO2 catalyst for enhanced coke resistance during photothermocatalytic oxidation of typical VOCs",
+  "authors": [
+   "Jiejing Kong",
+   "Ziwei Xiang",
+   "Guiying Li",
+   "Taicheng An"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2020-07-01",
+  "year": 2020,
+  "doi": "10.1016/j.apcatb.2020.118755",
+  "url": "https://doi.org/10.1016/j.apcatb.2020.118755",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-08",
+  "issn": ""
  }
 ]

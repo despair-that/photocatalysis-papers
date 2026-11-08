@@ -969,6 +969,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0ab165ae8da322b0",
+  "title": "Coaxial Fe 2 O 3 /TiO 2 nanotubes for enhanced photo‐Fenton degradation of electron‐deficient organic contaminant",
+  "authors": [
+   "Yue Li",
+   "Dan-Dan Cheng",
+   "Yan Luo",
+   "Li-Xia Yang"
+  ],
+  "journal": "Rare Metals",
+  "publisher": "Wiley",
+  "published": "2021-03-31",
+  "year": 2021,
+  "doi": "10.1007/s12598-021-01717-0",
+  "url": "https://doi.org/10.1007/s12598-021-01717-0",
+  "source": "crossref",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Heterojunctions",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Semiconductors"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-11-08",
+  "issn": ""
+ },
+ {
   "id": "f712c951f4099fbe",
   "title": "An effective CdS/Ti-Fe2O3 heterojunction photoanode: Analyzing Z-scheme charge-transfer mechanism for enhanced photoelectrochemical water-oxidation activity",
   "authors": [

@@ -28,6 +28,40 @@
   "issn": ""
  },
  {
+  "id": "d0e785bf071ced46",
+  "title": "Cascade catalysis on dual-atom iridium-tungsten catalysts for enhanced ammonia selective oxidation",
+  "authors": [
+   "Tingxu Chen",
+   "Diru Liu",
+   "Mengyuan Zhang",
+   "Yueqing He",
+   "Lin Zhao",
+   "Yiying Wang",
+   "Qiang Wang",
+   "Guangyan Xu",
+   "Hong He"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2025-12-17",
+  "year": 2025,
+  "doi": "10.1038/s41467-025-66144-6",
+  "url": "https://doi.org/10.1038/s41467-025-66144-6",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dual-Atom Catalysts",
+   "Related",
+   "Selective Oxidation"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-08",
+  "issn": ""
+ },
+ {
   "id": "63176e0af2d245d9",
   "title": "Facet‐Engineered Anatase TiO 2 Nanoflowers with Anchored Single‐Atom Pd for Ultrafast Hydrogen Storage Kinetics",
   "authors": [
@@ -62,6 +96,47 @@
   "relevance_score": 24,
   "affiliations": [],
   "added": "2026-11-04",
+  "issn": ""
+ },
+ {
+  "id": "e67e96574cd60b19",
+  "title": "Spatial engineering and d-orbital coupling in axial dual-atom sites for bifunctional oxygen catalysis",
+  "authors": [
+   "Xinru Yan",
+   "Xiaoliang Yuan",
+   "Ning Liu",
+   "Bin Liao",
+   "Zhanhao Liang",
+   "Wencai Liu",
+   "Yihui Huang",
+   "Longwen Yan",
+   "Qing Zheng",
+   "Shufen Chen",
+   "Xi Xie",
+   "Xuchun Gui",
+   "Hong Bin Yang",
+   "Jiling Li",
+   "Dingshan Yu",
+   "Zhiping Zeng",
+   "Guowei Yang"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2025-12-16",
+  "year": 2025,
+  "doi": "10.1038/s41467-025-66362-y",
+  "url": "https://doi.org/10.1038/s41467-025-66362-y",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dual-Atom Catalysts",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-08",
   "issn": ""
  },
  {

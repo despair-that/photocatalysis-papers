@@ -40091,6 +40091,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "65bd4d99a5d6acf2",
+  "title": "Thermal and photocatalytic cascade one-pot synthesis of secondary amine using multifunctional Pd decorated MOF-derived CeO2",
+  "authors": [
+   "Ganesh Sunil More",
+   "Nidhi Kushwaha",
+   "Rajaram Bal",
+   "Rajendra Srivastava"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2022-08-01",
+  "year": 2022,
+  "doi": "10.1016/j.jcis.2022.03.093",
+  "url": "https://doi.org/10.1016/j.jcis.2022.03.093",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-08",
+  "issn": ""
+ },
+ {
   "id": "65459b06e38da626",
   "title": "Review—Combining Experimental and Engineering Aspects of Catalyst Design for Photoelectrochemical Water Splitting",
   "authors": [

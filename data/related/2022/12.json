@@ -41,5 +41,36 @@
   ],
   "added": "2026-10-02",
   "issn": "1616-301X"
+ },
+ {
+  "id": "9db25d6ece884d2f",
+  "title": "Enhanced degradation of quinoline in three-dimensional electro-Fenton system using catalytic Fe-Co-Ni-P/g-C3N4 particles",
+  "authors": [
+   "Jun Chen",
+   "Boding Zhang",
+   "Bingxing Wang",
+   "Chengxing Cui",
+   "Songlin Wang",
+   "Jichao Wang",
+   "Wenlong Zhang"
+  ],
+  "journal": "International Journal of Electrochemical Science",
+  "publisher": "Elsevier BV",
+  "published": "2022-12-01",
+  "year": 2022,
+  "doi": "10.20964/2022.12.109",
+  "url": "https://doi.org/10.20964/2022.12.109",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-08",
+  "issn": ""
  }
 ]
