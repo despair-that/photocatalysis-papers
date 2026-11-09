@@ -14326,6 +14326,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3819e51532750d82",
+  "title": "Microdroplets Boosted Photocatalytic H 2 O 2 Production Over Covalent Organic Frameworks via Tri‐Phase Interface Catalysis",
+  "authors": [
+   "Yuchun Xu",
+   "Wanying Xie",
+   "Ning Sun",
+   "Xiuqin Ci",
+   "Yunjie Lang",
+   "Changjiang Yang",
+   "Tianyi Liu",
+   "Li Yang",
+   "Wei-Qiao Deng",
+   "Zhen Li"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-06-22",
+  "year": 2026,
+  "doi": "10.1002/anie.4703483",
+  "url": "https://doi.org/10.1002/anie.4703483",
+  "source": "crossref",
+  "categories": [
+   "MOFs & COFs",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "COFs",
+   "DFT",
+   "Photocatalysis"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-11-09",
+  "issn": ""
+ },
+ {
   "id": "37cea243566d98c4",
   "title": "Oxygen-Tolerant Ab Initio Emulsion ATRP Driven by Red or Near-Infrared Light.",
   "authors": [

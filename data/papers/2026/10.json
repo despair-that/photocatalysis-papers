@@ -845,6 +845,47 @@
   "issn": "1614-6832"
  },
  {
+  "id": "365c9f4cd7b9f333",
+  "title": "The sequence effect: Unlocking high-performance CO 2 reduction photocatalysis over Ti 3 C 2 /CuO x /TiO 2 heterostructures",
+  "authors": [
+   "Roman Alekseev",
+   "Danila Vasilchenko",
+   "Angelina Zhurenok",
+   "Egor Aydakov",
+   "Denis Mishchenko",
+   "Anna Kurenkova",
+   "Evgeny Gerasimov",
+   "Ekaterina Kozlova"
+  ],
+  "journal": "Chimica Techno Acta",
+  "publisher": "Ural Federal University",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.15826/chimtech.10432",
+  "url": "https://doi.org/10.15826/chimtech.10432",
+  "source": "crossref",
+  "categories": [
+   "CO2 Reduction",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Charge Transfer",
+   "Heterostructures",
+   "Photocatalysis",
+   "Photoexcitation",
+   "Photoreduction",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-11-09",
+  "issn": ""
+ },
+ {
   "id": "2e1eafbb446c2325",
   "title": "Ultrafast charge dynamics in two-dimensional Janus MoSSe/B4C3 heterojunction for efficient photocatalytic water splitting",
   "authors": [
@@ -12825,6 +12866,37 @@
   "relevance_score": 74,
   "affiliations": [],
   "added": "2026-10-28",
+  "issn": ""
+ },
+ {
+  "id": "35844c2892fccf6d",
+  "title": "The Effect of Sintering Temperature on the Structural Characteristics, Particle Size, and Photocatalytic Properties of BaTiO3 and Ba0.97Sr0.03TiO3 Nanomaterials",
+  "authors": [
+   "Elvinda Bendra Agustina",
+   "Abdul Hakim Prima Yuniarto",
+   "Alif Tiana Dewi",
+   "Yofentina Iriani",
+   "Trya Andini"
+  ],
+  "journal": "Bulletin of Chemical Reaction Engineering & Catalysis",
+  "publisher": "BCREC Publishing Group",
+  "published": "2026-10-23",
+  "year": 2026,
+  "doi": "10.9767/bcrec.20841",
+  "url": "https://doi.org/10.9767/bcrec.20841",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Perovskites"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Perovskites",
+   "Photocatalysis"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-11-09",
   "issn": ""
  },
  {

@@ -9880,6 +9880,34 @@
   "added": "2026-07-26"
  },
  {
+  "id": "188d141d125d9a7f",
+  "title": "Wax treatment of wood slows photodegradation",
+  "authors": [
+   "Boštjan Lesar",
+   "Matjaž Pavlič",
+   "Marko Petrič",
+   "Andrijana Sever Škapin",
+   "Miha Humar"
+  ],
+  "journal": "Polymer Degradation and Stability",
+  "publisher": "Elsevier BV",
+  "published": "2011-07-01",
+  "year": 2011,
+  "doi": "10.1016/j.polymdegradstab.2011.04.006",
+  "url": "https://doi.org/10.1016/j.polymdegradstab.2011.04.006",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photodegradation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-09",
+  "issn": ""
+ },
+ {
   "id": "1876fcedadd0b4e6",
   "title": "Photocatalytic removal of nitrogen oxides from air on TiO2 modified with bases and platinum",
   "authors": [

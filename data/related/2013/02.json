@@ -70,6 +70,37 @@
   "issn": "0926-3373"
  },
  {
+  "id": "c9d2b690e22a8f18",
+  "title": "Biocatalytic Asymmetric Alkene Reduction: Crystal Structure and Characterization of a Double Bond Reductase from Nicotiana tabacum",
+  "authors": [
+   "David J. Mansell",
+   "Helen S. Toogood",
+   "John Waller",
+   "John M. X. Hughes",
+   "Colin W. Levy",
+   "John M. Gardiner",
+   "Nigel S. Scrutton"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2013-02-05",
+  "year": 2013,
+  "doi": "10.1021/cs300709m",
+  "url": "https://doi.org/10.1021/cs300709m",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-09",
+  "issn": ""
+ },
+ {
   "id": "1d714342fecbec96",
   "title": "Anodic Electrogenerated Chemiluminescence Behavior of Graphite-Like Carbon Nitride and Its Sensing for Rutin",
   "authors": [

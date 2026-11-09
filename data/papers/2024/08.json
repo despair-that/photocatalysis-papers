@@ -23725,6 +23725,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ca799976ad450a8f",
+  "title": "Photocatalytic properties of BiFeO3 (BFO) synthesized by microwave-assisted hydrothermal method",
+  "authors": [
+   "Flávio A. Knuth",
+   "Rogério D. Knuth",
+   "Cátia L. Ücker",
+   "Fábio C. Riemke",
+   "Cristiane W. Raubach",
+   "Mario L. Moreira",
+   "Mateus M. Ferrer",
+   "Pedro L. G. Jardim",
+   "Renato G. Cantoneiro",
+   "Valmor R. Mastelaro",
+   "Sérgio S. Cava"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2024-08-14",
+  "year": 2024,
+  "doi": "10.1007/s10008-024-06040-z",
+  "url": "https://doi.org/10.1007/s10008-024-06040-z",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-09",
+  "issn": ""
+ },
+ {
   "id": "c02135cc68e37a25",
   "title": "Composition-Regulated Photocatalytic Activity of ZnIn2S4@CdS Hybrids for Efficient Dye Degradation and H2O2 Evolution",
   "authors": [
