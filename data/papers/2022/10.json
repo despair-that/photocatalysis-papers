@@ -39893,6 +39893,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4e957a5f564fd3f7",
+  "title": "Artificial light-harvesting systems and their applications in photocatalysis and cell labeling",
+  "authors": [
+   "Ying Wang",
+   "Ning Han",
+   "Xinglong Li",
+   "Shengsheng Yu",
+   "Lingbao Xing"
+  ],
+  "journal": "ChemPhysMater",
+  "publisher": "Elsevier BV",
+  "published": "2022-10-01",
+  "year": 2022,
+  "doi": "10.1016/j.chphma.2022.05.002",
+  "url": "https://doi.org/10.1016/j.chphma.2022.05.002",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-10",
+  "issn": ""
+ },
+ {
   "id": "41e7e464e9e9db88",
   "title": "Laser Synthesis of Bismuth Titanate Bi12TiO20 for Use in Photocatalysis",
   "authors": [

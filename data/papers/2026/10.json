@@ -16856,6 +16856,36 @@
   "issn": "0027-8424"
  },
  {
+  "id": "0c5de31acde9252d",
+  "title": "Exploiting temporal information in higher-order fluorescence data for enhanced pattern recognition: Application to saffron geographical authentication.",
+  "authors": [
+   "Elena Gago Prieto",
+   "Héctor C Goicoechea",
+   "Arsenio Muñoz de la Peña",
+   "Isabel Durán Merás",
+   "Mirta R Alcaraz"
+  ],
+  "journal": "Analytica chimica acta",
+  "publisher": "",
+  "published": "2026-10-21",
+  "year": 2026,
+  "doi": "10.1016/j.aca.2026.346422",
+  "url": "https://doi.org/10.1016/j.aca.2026.346422",
+  "source": "pubmed",
+  "categories": [
+   "Pollutant Degradation",
+   "Machine Learning for Photocatalysis"
+  ],
+  "tags": [
+   "Neural Network",
+   "Photodegradation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-10",
+  "issn": ""
+ },
+ {
   "id": "03855de4e625a8e5",
   "title": "Adsorption and photocatalytic degradation of tetracycline using carbon quantum dot-CuBTC nanocomposites: isotherm, kinetics, and mechanistic studies",
   "authors": [
@@ -17057,6 +17087,37 @@
   "relevance_score": 72,
   "affiliations": [],
   "added": "2026-10-21",
+  "issn": ""
+ },
+ {
+  "id": "ec0621e264106e30",
+  "title": "An integrated dual signal amplification photoelectrochemical aptasensor based on self-powered dual-photoelectrode and exonuclease I mediated target recycling.",
+  "authors": [
+   "Lin Zheng",
+   "Wenhui Li",
+   "Gaiping Li",
+   "Lina Zou"
+  ],
+  "journal": "Analytica chimica acta",
+  "publisher": "",
+  "published": "2026-10-20",
+  "year": 2026,
+  "doi": "10.1016/j.aca.2026.346419",
+  "url": "https://doi.org/10.1016/j.aca.2026.346419",
+  "source": "pubmed",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Photoanodes",
+   "Photocathodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-11-10",
   "issn": ""
  },
  {
@@ -46970,6 +47031,35 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-10-03",
+  "issn": ""
+ },
+ {
+  "id": "6471b2143fad66c9",
+  "title": "Retraction notice to \"Synthesis and characterization of silver-indium and antimony selenide: role in photocatalytic degradation of dyes\" [Heliyon 8 (2022) e11088]",
+  "authors": [
+   "N. Yasmin",
+   "A. Liaqat",
+   "G. Ali",
+   "A. Kalsoom",
+   "M. Safdar",
+   "M. Mirza"
+  ],
+  "journal": "Heliyon",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.heliyon.2026.e45480",
+  "url": "https://doi.org/10.1016/j.heliyon.2026.e45480",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-10",
   "issn": ""
  },
  {

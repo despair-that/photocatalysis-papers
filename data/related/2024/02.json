@@ -28,6 +28,39 @@
   "issn": ""
  },
  {
+  "id": "c1db39f46276407b",
+  "title": "A Hydrogen Evolution Catalyst [Co 2 O 2 ] Metallacycle Enables Regioselective Allene C(sp 2 )‐H Functionalization",
+  "authors": [
+   "Yating Liang",
+   "Jiayi Feng",
+   "Huilong Li",
+   "Xiaoli Wang",
+   "Ying Zhang",
+   "Weigang Fan",
+   "Sheng Zhang",
+   "Man-Bo Li"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2024-02-26",
+  "year": 2024,
+  "doi": "10.1002/anie.202400938",
+  "url": "https://doi.org/10.1002/anie.202400938",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "DFT",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-10",
+  "issn": ""
+ },
+ {
   "id": "3576053df1a7f1eb",
   "title": "Photo-thermal coupled single-atom catalysis boosting dry reforming of methane beyond thermodynamic limits over high equivalent flow",
   "authors": [

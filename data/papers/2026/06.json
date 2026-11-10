@@ -30377,6 +30377,47 @@
   "added": "2026-07-24"
  },
  {
+  "id": "fff99bb2ec1bedd4",
+  "title": "Neutral photogenerated N-centred radicals as a general, catalytic direct hydrogen atom transfer platform for aliphatic C–H functionalization",
+  "authors": [
+   "Boya Feng",
+   "Mattia Lepori",
+   "Michał Domański",
+   "Soňa Boháčová",
+   "Daniel Bím",
+   "Lucie Ludvíková",
+   "Tomáš Slanina",
+   "Prakash C. Tiwari",
+   "Guodong Zhang",
+   "Luigi Dolcini",
+   "Timothy Noël",
+   "Joshua P. Barham"
+  ],
+  "journal": "Nature Catalysis",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2026-06-09",
+  "year": 2026,
+  "doi": "10.1038/s41929-026-01539-2",
+  "url": "https://doi.org/10.1038/s41929-026-01539-2",
+  "source": "crossref",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "C-H Functionalization",
+   "Excited States",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-10",
+  "issn": ""
+ },
+ {
   "id": "fc826cc18624dbea",
   "title": "Synthesis of Y-doped ZnBi2O4 spinel oxide and its application for the photocatalytic degradation of aqueous levofloxacin under sunlight",
   "authors": [

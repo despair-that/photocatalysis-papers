@@ -1,5 +1,121 @@
 [
  {
+  "id": "ce7095f23424de53",
+  "title": "Koutecký-Levich analysis of the hydrogen evolution reaction on commercial Ni 201 and Ni-based alloy in alkaline media",
+  "authors": [
+   "Henrique Chien Hua Nascimento",
+   "Adalberto Teógenes Tavares Junior",
+   "Jorge Luiz Oliveira Gomes",
+   "Daniel Augusto Cantane",
+   "José Ricardo Cezar Salgado"
+  ],
+  "journal": "Journal of Solid State Electrochemistry",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.1007/s10008-026-06759-x",
+  "url": "https://doi.org/10.1007/s10008-026-06759-x",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-10",
+  "issn": ""
+ },
+ {
+  "id": "c151999b2e5c8577",
+  "title": "Bismuth‐Mediated Zinc Extraction‐Induced Carbon Defects Boost Fe Single‐Atom Catalysis for Efficient Oxygen Reduction",
+  "authors": [
+   "Junmou Chen, Yangfan Shao, Fanchao Zhang, Yu Lu, Lei Li, Xin Xiao, Qiang Xu"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-11-09",
+  "year": 2026,
+  "doi": "10.1002/adma.75626",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75626?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-10",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "a33534313e59b826",
+  "title": "Ru‐Doped ZrO 2 as Efficient Electrocatalyst for Hydrogen Evolution Reaction in Acid Electrolyte",
+  "authors": [
+   "Hang Jiang",
+   "Tianxing Wu",
+   "Xiufang Zhu",
+   "Wei Xiong",
+   "Hao Li"
+  ],
+  "journal": "Advanced Synthesis & Catalysis",
+  "publisher": "Wiley",
+  "published": "2026-11-09",
+  "year": 2026,
+  "doi": "10.1002/adsc.70876",
+  "url": "https://doi.org/10.1002/adsc.70876",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "EIS",
+   "Hydrogen Evolution",
+   "Related",
+   "Tafel"
+  ],
+  "relevance_score": 30,
+  "affiliations": [],
+  "added": "2026-11-10",
+  "issn": ""
+ },
+ {
+  "id": "654657091837d17d",
+  "title": "Coordination-defined charge polarization in S-block single-atom electrocatalysis",
+  "authors": [
+   "Xingxin Hu",
+   "Minghui Jiang",
+   "Jiechao Wang"
+  ],
+  "journal": "Coordination Chemistry Reviews",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-07",
+  "year": 2026,
+  "doi": "10.1016/j.ccr.2026.218753",
+  "url": "https://doi.org/10.1016/j.ccr.2026.218753",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Yangtze University",
+   "Beijing University of Technology"
+  ],
+  "added": "2026-11-10",
+  "issn": "0010-8545"
+ },
+ {
   "id": "a8e1365360d44d45",
   "title": "Proton conduction facilitates the hydrogen evolution reaction in heptamolybdate-protected SnO 2 nanocore",
   "authors": [
