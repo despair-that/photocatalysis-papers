@@ -45234,6 +45234,51 @@
   "issn": ""
  },
  {
+  "id": "a4e4b7d1e245ff55",
+  "title": "Sulfur Vacancy Modulation‐Induced Electronic Rearrangement in S‐Scheme BaTiO 3 @ZnIn 2 S 4 Heterojunctions: Toward Synergistic Piezo‐Photocatalytic H 2 O 2 Evolution",
+  "authors": [
+   "Sheng Liu",
+   "Yuan Xue",
+   "Hanyi Chen",
+   "Zushun Xu",
+   "Jun Du",
+   "Quantao Li",
+   "Zhengrong Wei",
+   "Qing Li"
+  ],
+  "journal": "Rare Metals",
+  "publisher": "Wiley",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1002/rar2.70702",
+  "url": "https://doi.org/10.1002/rar2.70702",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Sacrificial Reagents"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Charge Transfer",
+   "Heterojunctions",
+   "Heterostructures",
+   "Photocatalysis",
+   "Pollutants",
+   "S-Scheme",
+   "Sacrificial Reagents",
+   "Sulfur Vacancies",
+   "Visible Light",
+   "Wastewater"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
+ },
+ {
   "id": "a3ca3db57f26f659",
   "title": "Enantioconvergent Deoxygenative Amination via Xanthate Esters by a Decarboxylative Relay",
   "authors": [
@@ -45590,6 +45635,46 @@
   "relevance_score": 60,
   "affiliations": [],
   "added": "2026-10-09",
+  "issn": ""
+ },
+ {
+  "id": "8f98e19a308f9362",
+  "title": "Bias‐Gated Functional Switching on Ti 3 C 2 /Cu 2 O/Au@Ag Heterostructure‐Based Photoelectrochemical Platform: OFF–ON Signal Transduction Detection and Efficient Degradation of Ciprofloxacin",
+  "authors": [
+   "Yuhan Zhang",
+   "Yuying Fu",
+   "Wenqi Zhang",
+   "Naveen Reddy Kadasala",
+   "Xiaoyu Zhao",
+   "Ming Lu",
+   "Jianming Pan",
+   "Wenshi Zhao",
+   "Yang Liu"
+  ],
+  "journal": "Rare Metals",
+  "publisher": "Wiley",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1002/rar2.70631",
+  "url": "https://doi.org/10.1002/rar2.70631",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Heterojunctions",
+   "Heterostructures",
+   "Photoelectrochemistry",
+   "Photogenerated Carriers",
+   "Plasmonics"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-11",
   "issn": ""
  },
  {
@@ -47383,6 +47468,34 @@
   ],
   "added": "2026-10-03",
   "issn": "1615-4150"
+ },
+ {
+  "id": "53a8c0478cac04f4",
+  "title": "Regulation of Exciton Dynamics in Photocatalysis",
+  "authors": [
+   "Xiaoqin Peng",
+   "Jianping Sheng",
+   "Ye He",
+   "Yanjuan Sun",
+   "Fan Dong"
+  ],
+  "journal": "SCIENTIA SINICA Chimica",
+  "publisher": "Science China Press., Co. Ltd.",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1360/ssc-2026-0179",
+  "url": "https://doi.org/10.1360/ssc-2026-0179",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
  },
  {
   "id": "52096a415468ad15",
@@ -49672,6 +49785,38 @@
   "relevance_score": 87,
   "affiliations": [],
   "added": "2026-08-28"
+ },
+ {
+  "id": "020f61ef3a6fbb7b",
+  "title": "Balancing d‐π/d‐π* Interactions: Valence‐Engineered Pd/TiO 2 for Photocatalytic Acetylene Semi‐Hydrogenation",
+  "authors": [
+   "Zhidan Wang",
+   "Rui Li",
+   "Yawen Wang",
+   "Yunfang Wang",
+   "Caimei Fan",
+   "Jianxin Liu",
+   "Shan Gao",
+   "Jiancheng Wang"
+  ],
+  "journal": "Rare Metals",
+  "publisher": "Wiley",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1002/rar2.70671",
+  "url": "https://doi.org/10.1002/rar2.70671",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
  },
  {
   "id": "016700f88507c0af",

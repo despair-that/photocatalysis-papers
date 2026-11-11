@@ -114,5 +114,38 @@
   ],
   "added": "2026-10-02",
   "issn": "0253-9837"
+ },
+ {
+  "id": "37753ae8cf0582d6",
+  "title": "Ball milling-induced strain engineering in nanoporous catalysts for tailoring hydrogen evolution reaction",
+  "authors": [
+   "Qite Li",
+   "Wence Xu",
+   "Zhonghui Gao",
+   "Yanqin Liang",
+   "Hui Jiang",
+   "Zhaoyang Li",
+   "Zhenduo Cui",
+   "Heng Liu",
+   "Shengli Zhu"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2025-04-01",
+  "year": 2025,
+  "doi": "10.1016/j.cej.2025.161491",
+  "url": "https://doi.org/10.1016/j.cej.2025.161491",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
  }
 ]

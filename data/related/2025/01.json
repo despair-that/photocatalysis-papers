@@ -1,5 +1,39 @@
 [
  {
+  "id": "d899fd5be0b472d4",
+  "title": "Strengthened d–p orbital hybridization and hydrogen diffusion in a hollow N-doped porous carbon/Ru cluster catalyst system for hydrogen evolution reactions",
+  "authors": [
+   "Ruidong Li",
+   "Hongyu Zhao",
+   "Lin Wang",
+   "Qingqu Zhou",
+   "Xiong Yang",
+   "Linbo Jiang",
+   "Xu Luo",
+   "Jun Yu",
+   "Jingwen Wei",
+   "Shichun Mu"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d4sc08498e",
+  "url": "https://doi.org/10.1039/d4sc08498e",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
+ },
+ {
   "id": "d51e56af72210344",
   "title": "Combined effects of electrode morphology and electrolyte composition on single H 2 gas bubble detachment during hydrogen evolution reaction",
   "authors": [
@@ -28,6 +62,43 @@
   "relevance_score": 24,
   "affiliations": [],
   "added": "2026-10-30",
+  "issn": ""
+ },
+ {
+  "id": "95b63e65044589bc",
+  "title": "An activity–selectivity–stability-balanced bifunctional high-entropy phosphide for overall seawater splitting at industrial-level current density",
+  "authors": [
+   "Changrui Feng",
+   "Yifan Zhou",
+   "Shuying Li",
+   "Yuxia Jin",
+   "Meng Chen",
+   "Rui Yang",
+   "Wenjia Zhou",
+   "Zhengkun Xie",
+   "Xiumin Li",
+   "Xiangyu Chen",
+   "Wenhao Lian",
+   "Abuliti Abudula",
+   "Guoqing Guan"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5gc03723a",
+  "url": "https://doi.org/10.1039/d5gc03723a",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-11",
   "issn": ""
  },
  {

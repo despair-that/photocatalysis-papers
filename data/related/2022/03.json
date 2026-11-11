@@ -34,5 +34,38 @@
   ],
   "added": "2026-10-02",
   "issn": "0196-8904"
+ },
+ {
+  "id": "dab39cc3ebfe8553",
+  "title": "Structure-design and synthesis of nickel-cobalt oxide/sulfide/phosphide composite nanowire arrays for efficient overall water splitting",
+  "authors": [
+   "Faxin Yan",
+   "Liqing Yan",
+   "Xiaochun Wei",
+   "Yu Han",
+   "Haifu Huang",
+   "Shuaikai Xu",
+   "Xianqing Liang",
+   "Wenzheng Zhou",
+   "Jin Guo"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2022-03-01",
+  "year": 2022,
+  "doi": "10.1016/j.ijhydene.2022.01.108",
+  "url": "https://doi.org/10.1016/j.ijhydene.2022.01.108",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
  }
 ]

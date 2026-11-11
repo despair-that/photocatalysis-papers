@@ -96,6 +96,44 @@
   "issn": ""
  },
  {
+  "id": "708798701f212078",
+  "title": "Regulating the Degradation and Cytocompatibility Behavior of Additively Manufactured Pure Zinc Through Post‐Processing Surface Treatments",
+  "authors": [
+   "Yixuan Shi",
+   "Jingtao Dai",
+   "Zihao Chen",
+   "Chengcong Huang",
+   "Xuan Li",
+   "Shangyan Zhao",
+   "Zhao Yang",
+   "Yifan Song",
+   "Yuzhi Wu",
+   "Qinzhi Huang",
+   "Jing Yao",
+   "Yageng Li",
+   "Ping Li",
+   "Luning Wang"
+  ],
+  "journal": "Rare Metals",
+  "publisher": "Wiley",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.1002/rar2.70599",
+  "url": "https://doi.org/10.1002/rar2.70599",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Related"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
+ },
+ {
   "id": "3c2799213c6ea2ea",
   "title": "Multimodal Synergy via Interfacial Charge Regulation Boosts Solar-Driven Photothermal CO2 Splitting in Perovskite-Ceria Composites",
   "authors": [
@@ -303,6 +341,41 @@
   "relevance_score": 23,
   "affiliations": [],
   "added": "2026-10-08",
+  "issn": ""
+ },
+ {
+  "id": "ad86962207cb75a9",
+  "title": "Interfacial coupling and defect-rich FeNi LDH/SnS2 hierarchical heterostructures for robust overall water splitting",
+  "authors": [
+   "Yue Wang",
+   "Weimin Liu",
+   "Han Qin",
+   "Baoning Wang",
+   "Xiangming Wang",
+   "Yang Zhao",
+   "Feng Yan",
+   "Bo Geng",
+   "Yujin Chen",
+   "Xianbo Yu"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.157264",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.157264",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-11",
   "issn": ""
  },
  {

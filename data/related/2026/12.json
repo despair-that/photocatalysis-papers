@@ -40,6 +40,42 @@
   "issn": ""
  },
  {
+  "id": "ce9437a7bc2eab4e",
+  "title": "Mechanistic insights into alkaline hydrogen evolution over CoP/iron-phosphide heterojunctions",
+  "authors": [
+   "Xiaofei Cao",
+   "Yue Zu",
+   "Jiarui Cheng",
+   "Jingzhuo Tian",
+   "Zilong Zeng",
+   "Yali Liu",
+   "Xin Luo",
+   "Zhong Chen",
+   "Peili Zhang",
+   "Jun Hu",
+   "Yuekun Lai"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.cej.2026.183639",
+  "url": "https://doi.org/10.1016/j.cej.2026.183639",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
+ },
+ {
   "id": "b9c5bab525b84dde",
   "title": "Multi-element doped ZnIn-based metal sulfide microspheres: Synergistic atomic scale interaction for accelerating oxygen and hydrogen evolution",
   "authors": [
@@ -220,6 +256,35 @@
   "relevance_score": 24,
   "affiliations": [],
   "added": "2026-10-15",
+  "issn": ""
+ },
+ {
+  "id": "81616e7761e874b5",
+  "title": "Hydrogen evolution catalysis over metal carbides with Pt-like electronic structure",
+  "authors": [
+   "Jiajia Lu",
+   "Fang Liang",
+   "Peng-Jun Deng",
+   "Baocheng Yang",
+   "Panagiotis Tsiakaras"
+  ],
+  "journal": "Renewable and Sustainable Energy Reviews",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rser.2026.117308",
+  "url": "https://doi.org/10.1016/j.rser.2026.117308",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-11",
   "issn": ""
  },
  {

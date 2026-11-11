@@ -2498,6 +2498,38 @@
   "issn": ""
  },
  {
+  "id": "250866f836523af5",
+  "title": "High‐Density‐Cluster Ru Catalyst Substitute for Pt/C Benchmark Improves Membrane Water Electrolysis",
+  "authors": [
+   "Zhen Yuan",
+   "Jia Xu",
+   "Zhongchen Gao",
+   "Linyan A",
+   "Shiying Guo",
+   "Jingguo Hu",
+   "Zhengshan Tian",
+   "Xiaoyong Xu"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2026-10-11",
+  "year": 2026,
+  "doi": "10.1002/advs.78247",
+  "url": "https://doi.org/10.1002/advs.78247",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
+ },
+ {
   "id": "110c5a5b9bbf2ac6",
   "title": "Stability-oriented evaluation of a TiO2@g-C3N4 heterojunction for visible-light driven peroxymonosulfate activation and removal of structurally diverse pharmaceuticals",
   "authors": [
@@ -3429,6 +3461,40 @@
   "relevance_score": 23,
   "affiliations": [],
   "added": "2026-10-02",
+  "issn": ""
+ },
+ {
+  "id": "c73a60121b03da1a",
+  "title": "CoFe–N6 dual-atom sites enables the efficient generation of surface-bound ·OH for Fenton-like H2O2 activation",
+  "authors": [
+   "Weidong Shang",
+   "Dongle Cheng",
+   "Longlong Zhang",
+   "Xiaoqiang Cao",
+   "Chongyang Ren",
+   "Huaqing Liu",
+   "Jie Li",
+   "Yanlong Wang",
+   "Zhijie Chen",
+   "Jian Zhang"
+  ],
+  "journal": "Applied Catalysis B: Environment and Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.apcatb.2026.126837",
+  "url": "https://doi.org/10.1016/j.apcatb.2026.126837",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dual-Atom Catalysts",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-11",
   "issn": ""
  },
  {

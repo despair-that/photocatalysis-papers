@@ -68,5 +68,36 @@
   "affiliations": [],
   "added": "2026-10-15",
   "issn": ""
+ },
+ {
+  "id": "606a3d8af788279c",
+  "title": "Modulation of the interfacial charge density on Fe2P–CoP by coupling CeO2 for accelerating alkaline electrocatalytic hydrogen evolution reaction and overall water splitting",
+  "authors": [
+   "Xueda Ding",
+   "Jie Yu",
+   "Weiqiao Huang",
+   "Dongyang Chen",
+   "Wei Lin",
+   "Zailai Xie"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2023-01-01",
+  "year": 2023,
+  "doi": "10.1016/j.cej.2022.138550",
+  "url": "https://doi.org/10.1016/j.cej.2022.138550",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 28,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
  }
 ]

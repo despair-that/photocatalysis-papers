@@ -1,5 +1,79 @@
 [
  {
+  "id": "f9d01e4d1f3854c3",
+  "title": "Afterglow-Mediated UV-to-Visible Temporal Preprocessing with Hybrid Optoelectronic Synaptic Transistor Readout for Neuromorphic Recognition",
+  "authors": [
+   "Chunyan Shi",
+   "Wenjie Lu",
+   "Qian Yang",
+   "Huipeng Chen"
+  ],
+  "journal": "ACS Photonics",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.1021/acsphotonics.6c01714",
+  "url": "https://doi.org/10.1021/acsphotonics.6c01714",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Neural Network",
+   "Quantum Dots",
+   "Related",
+   "ZnS"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Fuzhou University",
+   "Fuzhou University Zhicheng College",
+   "Fujian Science and Technology Innovation Laboratory for Optoelectronic Information of China"
+  ],
+  "added": "2026-11-11",
+  "issn": "2330-4022"
+ },
+ {
+  "id": "de31e888e1df661c",
+  "title": "A lactate-fatty acid loop drives prostate cancer bone colonization by mediating metabolic interplay between tumor cells and osteoblasts",
+  "authors": [
+   "Renuka Dahiya",
+   "Chihyean Ong",
+   "Gigani Dharshan",
+   "Megan M. Barry",
+   "Cheyenne A. Ernst",
+   "Minhyung Kim",
+   "Jin Wu",
+   "Vasanta Putluri",
+   "Spencer R. Rosario",
+   "Wiam Bshara",
+   "Jianmin Zhang",
+   "Nagireddy Putluri",
+   "Zbigniew Gugala",
+   "Subhamoy Dasgupta",
+   "Hai Wang"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Springer Nature",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.1038/s41467-026-79651-x",
+  "url": "https://www.nature.com/articles/s41467-026-79651-x",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Related"
+  ],
+  "relevance_score": 22,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": "2041-1723"
+ },
+ {
   "id": "ce7095f23424de53",
   "title": "Koutecký-Levich analysis of the hydrogen evolution reaction on commercial Ni 201 and Ni-based alloy in alkaline media",
   "authors": [
@@ -27,6 +101,57 @@
   "affiliations": [],
   "added": "2026-11-10",
   "issn": ""
+ },
+ {
+  "id": "e9912e529ed08b72",
+  "title": "Oxygen‐Mediated Fe‐N3O Single‐Atom Sites Enabled by Lignin‐Derived Hierarchical Carbon for Efficient Oxygen Reduction",
+  "authors": [
+   "Xuhong Zheng, Yukun Luo, Mengxuan Zhang, Xuebin Lv, Tianguang Wang, Jing Gu, Kang Xiao, Zhaoqing Liu, Haoran Yuan, Gaixiu Yang"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2026-11-09",
+  "year": 2026,
+  "doi": "10.1002/advs.78503",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78503?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": "2198-3844"
+ },
+ {
+  "id": "d043d66af68a8c03",
+  "title": "Ru‐Doping‐Engineered Oxygen Vacancies in MoO3‐x Nanostructured Films With Ultrahigh Capacitance for Flexible Asymmetric Supercapacitors",
+  "authors": [
+   "Xiaoqing Bin, Minhao Sheng, Norman C.-R. Chen, Xiangyang Liu, Yingji Zhao, Yingyi Liao, Wenxiu Que, Yusuke Asakura, Yusuke Yamauchi"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2026-11-09",
+  "year": 2026,
+  "doi": "10.1002/advs.77131",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77131?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": "2198-3844"
  },
  {
   "id": "c151999b2e5c8577",
@@ -84,6 +209,57 @@
   "affiliations": [],
   "added": "2026-11-10",
   "issn": ""
+ },
+ {
+  "id": "5ebf76eb932239eb",
+  "title": "Pd Single‐Atom Engineered Janus BiOCl/MXene Heterostructure for Printed Self‐Decoupled Temperature‐Humidity Dual‐Mode Sensors",
+  "authors": [
+   "Hao-Wen Zhang, Yan Chen, Xiang Xu, Lin-Xue Zhang, Wei Liu, Cheng-Rong Liao, Lin-Ze Wu, Zhe-Sheng Feng, Zong-Kai Yan, Yan Wang"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-11-09",
+  "year": 2026,
+  "doi": "10.1002/adma.75664",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75664?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "3df5f28a87094349",
+  "title": "Coordination Number‐Tuned FeNx Single‐Atom Nanozymes for Sustained Peroxidase‐Like Catalysis in Tumor Therapy",
+  "authors": [
+   "Xinyi Shi, Xinyu Liu, Xiangfu Meng, Jiaping Zhao, Chengyang Fang, Lijie Shao, Hui Wang, Junchao Qian, Kelong Fan"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-09",
+  "year": 2026,
+  "doi": "10.1002/anie.1462947",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1462947?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": "1521-3773"
  },
  {
   "id": "654657091837d17d",

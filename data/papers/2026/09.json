@@ -1,5 +1,43 @@
 [
  {
+  "id": "f2f508cb2e9a8380",
+  "title": "Electron–Hole Dual Cocatalyst Promoted ZnIn 2 S 4 for Photocatalytic H 2 Evolution Coupled With Benzyl Alcohol Oxidation",
+  "authors": [
+   "Xue Men",
+   "Haiou Liang",
+   "Man Zhang",
+   "Jie Bai"
+  ],
+  "journal": "Rare Metals",
+  "publisher": "Wiley",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.1002/rar2.70611",
+  "url": "https://doi.org/10.1002/rar2.70611",
+  "source": "crossref",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Co-catalysts",
+   "DFT",
+   "Electron-Hole Pairs",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Selective Oxidation",
+   "Transient Absorption",
+   "Visible Light"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
+ },
+ {
   "id": "eaf7b204e11f3bab",
   "title": "Composition-structure-activity relationships in Cu x Co1-x Fe2O4 spinel ferrites for visible-light photo-Fenton degradation of rhodamine B.",
   "authors": [
@@ -2387,6 +2425,51 @@
   "issn": ""
  },
  {
+  "id": "24c7121f3b57a557",
+  "title": "Lignin‐Derived Carbon Quantum Dots as Hole‐Trapping Promoters in LCDs/Bi‐MOF/ZIS With S‐Scheme Heterojunction for Efficient Photocatalytic Hydrogen Peroxide Production in Pure Water",
+  "authors": [
+   "Wanpeng Sun",
+   "Saibiao Yan",
+   "Saiyu Song",
+   "Binpeng Zhang",
+   "Yuntao Xia",
+   "Tianyu Zhang",
+   "Yongwei Zhang",
+   "Kaihang Sun",
+   "Jiajun Wang"
+  ],
+  "journal": "Rare Metals",
+  "publisher": "Wiley",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.1002/rar2.70601",
+  "url": "https://doi.org/10.1002/rar2.70601",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Solar Fuels",
+   "MOFs & COFs",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "H2O2 Production",
+   "Heterojunctions",
+   "Light Irradiation",
+   "MOFs",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Quantum Dots",
+   "S-Scheme"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
+ },
+ {
   "id": "2206ccfa3376dc28",
   "title": "Interface engineering and charge transfer mechanisms in MoS2-based heterojunctions for phenolic photocatalysis: A state-of-the-art review",
   "authors": [
@@ -3783,6 +3866,43 @@
   ],
   "added": "2026-10-01",
   "issn": "1110-1903"
+ },
+ {
+  "id": "770bd15c4350d75a",
+  "title": "Engaging native carboxylic acids via solvent-gated proton relay for photo(electro)chemical decarboxylative functionalizations.",
+  "authors": [
+   "Luigi Dolcini",
+   "Lucie Ludvíková",
+   "Jakub Krištof",
+   "Michał Domański",
+   "Mattia Lepori",
+   "Soňa Boháčová",
+   "Daniel Bím",
+   "Tomáš Slanina",
+   "Joshua P Barham"
+  ],
+  "journal": "Chemical science",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.1039/d6sc05552d",
+  "url": "https://doi.org/10.1039/d6sc05552d",
+  "source": "pubmed",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Excited States",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "Transient Absorption"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
  },
  {
   "id": "71e030633b5c9d47",
@@ -12441,6 +12561,41 @@
    "University of Electronic Science and Technology of China"
   ],
   "added": "2026-09-25"
+ },
+ {
+  "id": "5a1884441a60fd33",
+  "title": "From Tetracycline to Sulfamethoxazole: Photocatalytic Degradation and Mechanistic Insights in Aquatic Environments",
+  "authors": [
+   "Yihang Yang",
+   "Yiyi Zhang",
+   "Fang Yang",
+   "Xiaobing Wang",
+   "Yang Guo",
+   "Lin Sun",
+   "Shijie Li"
+  ],
+  "journal": "Rare Metals",
+  "publisher": "Wiley",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.1002/rar2.70625",
+  "url": "https://doi.org/10.1002/rar2.70625",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Antibiotic Degradation",
+   "Photocatalysis",
+   "Photodegradation",
+   "Pollutants",
+   "ROS"
+  ],
+  "relevance_score": 86,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
  },
  {
   "id": "59c869bbef7c9446",

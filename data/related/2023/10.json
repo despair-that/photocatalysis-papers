@@ -27,5 +27,39 @@
   ],
   "added": "2026-10-02",
   "issn": "0009-921X"
+ },
+ {
+  "id": "095bf64bb1d74feb",
+  "title": "Ruthenium‐Induced Activation of Molybdenum‐Cobalt Phosphide for High‐Efficiency Water Splitting",
+  "authors": [
+   "Min Bi",
+   "Ying Zhang",
+   "Xiaohong Jiang",
+   "Jingwen Sun",
+   "Xin Wang",
+   "Junwu Zhu",
+   "Yongsheng Fu"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2023-10-02",
+  "year": 2023,
+  "doi": "10.1002/adfm.202309330",
+  "url": "https://doi.org/10.1002/adfm.202309330",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Oxygen Evolution",
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 28,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
  }
 ]

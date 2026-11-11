@@ -209,6 +209,37 @@
   "issn": ""
  },
  {
+  "id": "c96a462d5d3f707b",
+  "title": "A magnetic NiFe",
+  "authors": [
+   "Tabassum Sunjida Banhi",
+   "Md. Tarikul Islam",
+   "Md. Shahinoor Islam"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.nxmate.2026.103999",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.103999",
+  "source": "doaj",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis",
+   "TiO2",
+   "Wastewater"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-11-11",
+  "issn": ""
+ },
+ {
   "id": "c14269e81eecbbc7",
   "title": "Green and sustainable metal–organic framework catalysts for biodiesel production: Progress and energy circularity perspectives",
   "authors": [
