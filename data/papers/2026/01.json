@@ -4862,6 +4862,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a7024be0d0eb6b94",
+  "title": "Enhancing peroxymonosulfate activation based on defect engineering constructed high-density oxygen-vacancy CoxAly-LDHs by visible-light regulation for emerging contaminants degradation: Efficacy, mechanisms and eco-safety.",
+  "authors": [
+   "Ye Tian",
+   "Tao Wu",
+   "Xiaoyue Duan",
+   "Siyi Yuan",
+   "Xuesong Zhao",
+   "Xin Ren"
+  ],
+  "journal": "Journal of environmental sciences (China)",
+  "publisher": "",
+  "published": "2026-01-29",
+  "year": 2026,
+  "doi": "10.1016/j.jes.2026.01.071",
+  "url": "https://doi.org/10.1016/j.jes.2026.01.071",
+  "source": "pubmed",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Z-Scheme & Heterojunctions",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "Defect Engineering",
+   "Heterojunctions",
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-12",
+  "issn": ""
+ },
+ {
   "id": "a6b044b7b9dbfd14",
   "title": "Mechanism insight into facet-dependent photocatalytic activation of peroxymonosulfates over BiVO₄ with bismuth-rich surface",
   "authors": [

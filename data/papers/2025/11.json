@@ -38727,6 +38727,44 @@
   "added": "2026-07-26"
  },
  {
+  "id": "3e6c1aee15e3cafc",
+  "title": "Accelerating Heterojunctions Interfacial Charge‐Transfer via Single‐Atom Bridges for Enhancing Photocatalytic CO 2 ‐to‐CH 4 Conversion",
+  "authors": [
+   "Zhi-Ang Zhao",
+   "Chenyi Zhang",
+   "Jinni Shen",
+   "Chunhui Gao",
+   "Qing Cai",
+   "Jianing Jiang",
+   "Chen Fu",
+   "Xiaochao Xu",
+   "Wenxin Dai",
+   "Zizhong Zhang"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2025-11-03",
+  "year": 2025,
+  "doi": "10.1002/adfm.202522529",
+  "url": "https://doi.org/10.1002/adfm.202522529",
+  "source": "crossref",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Heterojunctions",
+   "Photocatalysis",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-12",
+  "issn": ""
+ },
+ {
   "id": "2f519fcfddd4b777",
   "title": "syn -Selective carboacylation of terminal alkynes via organic photoredox and nickel catalysis",
   "authors": [

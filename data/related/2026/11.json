@@ -1,5 +1,73 @@
 [
  {
+  "id": "4e5dff2c94dc924b",
+  "title": "Deciphering Charge Delocalization across Mercaptobenzonitrile Ligand Terminals and Inner Hydrides in Atomically Precise Cu14H10 Nanoclusters for Electrocatalytic CO2 Reduction",
+  "authors": [
+   "Anik Sarkar",
+   "Sarah Elhajj",
+   "Zhicheng Yang",
+   "Manju P. Maman",
+   "Zhenming Du",
+   "Ryan T. VanderLinden",
+   "Guoxiang Hu",
+   "Tianquan T. Lian",
+   "Samer Gozem",
+   "Gangli Wang"
+  ],
+  "journal": "ACS Nano",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-11",
+  "year": 2026,
+  "doi": "10.1021/acsnano.6c14267",
+  "url": "https://doi.org/10.1021/acsnano.6c14267",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Charge Transfer",
+   "DFT",
+   "Excited States",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Georgia State University",
+   "University of Pennsylvania",
+   "University of Utah",
+   "Georgia Institute of Technology"
+  ],
+  "added": "2026-11-12",
+  "issn": "1936-0851"
+ },
+ {
+  "id": "049abc96ae27c2f0",
+  "title": "Reprogramming electron transfer at single-atom Pt sites to break the interference barrier in uric acid detection",
+  "authors": [
+   "Yifei Chen, Mengxue Zhu, Yinjun Tang, Zhengyi Chen, Jingxin Chang, Ruimin Li, Haifei Wan, Qie Fang, Wenhong Yang, Wenxuan Jiang, Canglong Wang, Liuyong Hu, Wenling Gu, Ming Zhou, Chengzhou Zhu"
+  ],
+  "journal": "Science Advances",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2026-11-11",
+  "year": 2026,
+  "doi": "10.1126/sciadv.aef1075",
+  "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef1075?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-12",
+  "issn": "2375-2548"
+ },
+ {
   "id": "f9d01e4d1f3854c3",
   "title": "Afterglow-Mediated UV-to-Visible Temporal Preprocessing with Hybrid Optoelectronic Synaptic Transistor Readout for Neuromorphic Recognition",
   "authors": [
@@ -101,6 +169,91 @@
   "affiliations": [],
   "added": "2026-11-10",
   "issn": ""
+ },
+ {
+  "id": "cbcc651f660e1b60",
+  "title": "Edge‐Vacancy Synergy in Cracked Janus WSeS Monolayers for Efficient Hydrogen Evolution",
+  "authors": [
+   "Yi Zhou, Xinyan Wu, You Peng, Biao Yuan, Zhongpu Wang, Lingjun Qi, Hanzhi Huang, Hongzhi Shen, Jinkun Liu, Tong Zhou, Zhao Zhang, Yu Han, Yanfeng Zhang, Qingqing Ji, Yunfan Guo"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.1002/anie.2242006",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2242006?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-12",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "af4fb4a73f801c98",
+  "title": "Interfacial Dipole Engineering of Single‐Atom Co–N–C and Ru Nanoparticles for Enhanced Hydrogenation of Levulinic Acid to γ‐Valerolactone",
+  "authors": [
+   "Shanshan Lv, Yan Zhou, Changjin Qian, Tiantian Jiang, Qiuxuan Guo, Xiangwen Liu, Zheng Chen, Yadong Li"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.1002/anie.8734241",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.8734241?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-12",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "4c2ac4b49ff1d373",
+  "title": "Surface boronation mediates oxygen vacancy generation on BiOCl for efficient O2 activation and imidacloprid degradation",
+  "authors": [
+   "Rutong Song",
+   "Zhiping Yang",
+   "Mengqi Hao",
+   "Zihe Xu",
+   "Xiaolan Chen",
+   "Junhao Huang",
+   "Zhongbin Ye",
+   "Fengjiao Quan"
+  ],
+  "journal": "International Journal of Minerals Metallurgy and Materials",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.1007/s12613-026-3520-8",
+  "url": "https://doi.org/10.1007/s12613-026-3520-8",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Chengdu Technological University",
+   "Wuhan Polytechnic University"
+  ],
+  "added": "2026-11-12",
+  "issn": "1005-8850"
  },
  {
   "id": "e9912e529ed08b72",

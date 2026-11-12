@@ -14160,6 +14160,50 @@
   "added": "2026-07-24"
  },
  {
+  "id": "bf676455ab06ad34",
+  "title": "A Universal Single‐Atom Coating Strategy Based on Tannic Acid Chemistry for Multifunctional Heterogeneous Catalysis",
+  "authors": [
+   "Haifeng Wang",
+   "Xiaopeng Li",
+   "Ying Jiang",
+   "Minhan Li",
+   "Qi Xiao",
+   "Tao Zhao",
+   "Shuai Yang",
+   "Chunhong Qi",
+   "Pengpeng Qiu",
+   "Jianping Yang",
+   "Zheng Jiang",
+   "Wei Luo"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2022-02-15",
+  "year": 2022,
+  "doi": "10.1002/anie.202200465",
+  "url": "https://doi.org/10.1002/anie.202200465",
+  "source": "crossref",
+  "categories": [
+   "Co-catalysts & Surface",
+   "MOFs & COFs",
+   "Z-Scheme & Heterojunctions",
+   "Reactor Engineering & Scale-up",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Graphene",
+   "Heterojunctions",
+   "Immobilization",
+   "MOFs",
+   "Photocatalysis",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-12",
+  "issn": ""
+ },
+ {
   "id": "be4e2841d194f0f9",
   "title": "Au/MoS2 tips as auxiliary rate aligners for the photocatalytic generation of syngas with a tunable composition",
   "authors": [
