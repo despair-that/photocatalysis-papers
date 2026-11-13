@@ -27,5 +27,36 @@
   "affiliations": [],
   "added": "2026-10-27",
   "issn": ""
+ },
+ {
+  "id": "fa8ccf8769f5d167",
+  "title": "Role of Interfacial Water in Improving the Activity and Stability of Lattice‐Oxygen‐Mediated Acidic Oxygen Evolution on RuO 2",
+  "authors": [
+   "Liqing Wu",
+   "Wenxia Huang",
+   "Dongyang Li",
+   "Bingbing Zhao",
+   "Haiqing Zhou",
+   "Wei Luo"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2025-03-25",
+  "year": 2025,
+  "doi": "10.1002/anie.202420848",
+  "url": "https://doi.org/10.1002/anie.202420848",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-13",
+  "issn": ""
  }
 ]

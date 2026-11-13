@@ -1246,6 +1246,39 @@
   "issn": ""
  },
  {
+  "id": "b3a3ce57ab071c49",
+  "title": "Research progress in novel non-Haber-Bosch ammonia synthesis technologies",
+  "authors": [
+   "Hui Wang",
+   "Jiashuo Cui",
+   "Xiangyu Wang",
+   "Ning Wang",
+   "Xiang Liu",
+   "Shuai Wang",
+   "Wenbin Zhang"
+  ],
+  "journal": "Green Energy and Resources",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.gerr.2026.100219",
+  "url": "https://doi.org/10.1016/j.gerr.2026.100219",
+  "source": "doaj",
+  "categories": [
+   "Hydrogen Evolution",
+   "Nitrogen Fixation"
+  ],
+  "tags": [
+   "Ammonia Synthesis",
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-11-13",
+  "issn": ""
+ },
+ {
   "id": "b252ddb4b78da7cf",
   "title": "Recent advances in nitrogen transformations in aqueous media: Reaction pathways, material design, and energy-coupled recovery processes",
   "authors": [
@@ -1312,6 +1345,39 @@
   "relevance_score": 76,
   "affiliations": [],
   "added": "2026-11-10",
+  "issn": ""
+ },
+ {
+  "id": "ad8af52a4e87f54f",
+  "title": "Engineering organic-inorganic tetra (4-carboxyphenyl) porphyrin/Bi4O5Br2 S-scheme interfaces for efficient photoinduced carrier separation and antibiotic degradation",
+  "authors": [
+   "Fenglan Liang",
+   "Yanping Liu",
+   "Xiaobing Wang",
+   "Xin Yu",
+   "Fang Yang",
+   "Yang Guo",
+   "Deyun Ma",
+   "Shijie Li"
+  ],
+  "journal": "Acta Physico-Chimica Sinica",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.actphy.2026.100383",
+  "url": "https://doi.org/10.1016/j.actphy.2026.100383",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Antibiotic Degradation",
+   "S-Scheme"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-11-13",
   "issn": ""
  },
  {
@@ -1490,6 +1556,39 @@
   "relevance_score": 69,
   "affiliations": [],
   "added": "2026-09-24"
+ },
+ {
+  "id": "a0a9683a086cb5fc",
+  "title": "Photocatalysis for textile wastewater treatment: Is hollow-structured CdS photocatalyst universally permitting better activity?",
+  "authors": [
+   "Thanchanok Haruehansawasin",
+   "Putu Yesya Tiana Putri",
+   "Kim Hoong Ng"
+  ],
+  "journal": "Water Resources and Industry",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.wri.2026.100410",
+  "url": "https://doi.org/10.1016/j.wri.2026.100410",
+  "source": "doaj",
+  "categories": [
+   "Semiconductor Materials",
+   "Pollutant Degradation",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "CdS",
+   "Dye Degradation",
+   "Immobilization",
+   "Photocatalysis",
+   "Scale-up",
+   "Wastewater"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-13",
+  "issn": ""
  },
  {
   "id": "9eb6089af96f4a82",
@@ -2377,6 +2476,41 @@
   "relevance_score": 98,
   "affiliations": [],
   "added": "2026-10-18",
+  "issn": ""
+ },
+ {
+  "id": "615534c3eb550bb6",
+  "title": "MOF-derived heterojunction for energy-efficient degradation of Rhodamine B; LED and solar irradiation, mechanism, and toxicity insights",
+  "authors": [
+   "BiBi Fatemeh Nabavi",
+   "Hosein Alidadi",
+   "Nisreen Kh. Abdalameer",
+   "Mahmoud Shams",
+   "Anahita Barghi"
+  ],
+  "journal": "Results in Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rineng.2026.113972",
+  "url": "https://doi.org/10.1016/j.rineng.2026.113972",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Heterojunctions",
+   "Photocatalysis",
+   "ROS",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-13",
   "issn": ""
  },
  {
@@ -3296,6 +3430,46 @@
   "relevance_score": 45,
   "affiliations": [],
   "added": "2026-10-07",
+  "issn": ""
+ },
+ {
+  "id": "20693d41351ca7ee",
+  "title": "Advances in chromium-based photocatalysts for organic pollutant degradation: Design, mechanisms, and perspectives",
+  "authors": [
+   "Hao Sun",
+   "Muhammad Kashif",
+   "Marwa Tariq",
+   "Syed Irfan",
+   "Sheraz Muhammad",
+   "Khadija Bibi",
+   "Sana Zahoor",
+   "Hayat Khan",
+   "Momin Khan",
+   "Nolubabalo Matinise"
+  ],
+  "journal": "Materials Today Sustainability",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtsust.2026.101485",
+  "url": "https://doi.org/10.1016/j.mtsust.2026.101485",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Perovskites",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Perovskites",
+   "Photocatalysis",
+   "Pollutants",
+   "Semiconductors"
+  ],
+  "relevance_score": 79,
+  "affiliations": [],
+  "added": "2026-11-13",
   "issn": ""
  },
  {

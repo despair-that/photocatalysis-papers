@@ -1,5 +1,41 @@
 [
  {
+  "id": "bd7d3990fa4ca0c3",
+  "title": "Electronic Structure Engineering of Single‐Atom Ru Sites via Co–N4 Sites for Bifunctional pH‐Universal Water Splitting",
+  "authors": [
+   "Chengli Rong",
+   "Xiangjian Shen",
+   "Yuan Wang",
+   "Lars Thomsen",
+   "Tingwen Zhao",
+   "Yibing Li",
+   "Xunyu Lu",
+   "Rose Amal",
+   "Chuan Zhao"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2022-04-24",
+  "year": 2022,
+  "doi": "10.1002/adma.202110103",
+  "url": "https://doi.org/10.1002/adma.202110103",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Oxygen Evolution",
+   "Related",
+   "Single-Atom Catalysts",
+   "Water Splitting"
+  ],
+  "relevance_score": 28,
+  "affiliations": [],
+  "added": "2026-11-13",
+  "issn": ""
+ },
+ {
   "id": "a9b6e0614d2af9c7",
   "title": "Activating MoS2 via electronic structure modulation and phase engineering for hydrogen evolution reaction",
   "authors": [

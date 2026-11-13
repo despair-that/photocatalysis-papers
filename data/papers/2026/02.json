@@ -13892,6 +13892,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f23711bee43e004a",
+  "title": "Facet-Dependent Photocatalytic Reduction of CO 2 to CO on Anatase TiO 2",
+  "authors": [
+   "Xiaocong Liang",
+   "Zhen Wan",
+   "Yanan Zhao",
+   "Zhiyang Yu",
+   "Guigang Zhang",
+   "Wandong Xing"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-02-20",
+  "year": 2026,
+  "doi": "10.1021/acs.jpcc.5c08698",
+  "url": "https://doi.org/10.1021/acs.jpcc.5c08698",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-13",
+  "issn": ""
+ },
+ {
   "id": "f1e1a86f0abb991f",
   "title": "Enhanced electrocatalytic and photocatalytic activity of ZnO-Cu2O synthesized by modified Benedict's method",
   "authors": [

@@ -98918,6 +98918,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "377f90ecd2e32539",
+  "title": "Metal single-atom catalysts for photocatalytic H 2 O 2 synthesis",
+  "authors": [
+   "Qingkai Guo",
+   "Yangyang Wang",
+   "Jun Pang",
+   "Jin Liu",
+   "Xiaoshu Wang",
+   "Yang Yang",
+   "Bolin Li",
+   "Lei Wang"
+  ],
+  "journal": "Green Chemistry",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5gc03174e",
+  "url": "https://doi.org/10.1039/d5gc03174e",
+  "source": "crossref",
+  "categories": [
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-13",
+  "issn": ""
+ },
+ {
   "id": "3776225d471d2463",
   "title": "Graphene Quantum Dots Induce The Formation Of Hexagonal Prisms CDS And Interparticle Z-Scheme Heterojunctions for Efficient Hg0 Removal Under Visible Light",
   "authors": [

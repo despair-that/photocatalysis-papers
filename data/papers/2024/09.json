@@ -23776,6 +23776,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2094bdefcf451683",
+  "title": "Synergy of Ag and Interfacial Oxygen Vacancies on TiO 2 for Highly Efficient Photocatalytic Production of H 2 O 2",
+  "authors": [
+   "Yachao Wang",
+   "Lingfang Liu",
+   "Yaxiong Wei",
+   "Xinsheng Xu",
+   "Guofeng Zhao",
+   "Rui Zhong",
+   "Cong Fu"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2024-09-13",
+  "year": 2024,
+  "doi": "10.1021/acsami.4c11426",
+  "url": "https://doi.org/10.1021/acsami.4c11426",
+  "source": "crossref",
+  "categories": [
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-13",
+  "issn": ""
+ },
+ {
   "id": "1aa22338ba6083a8",
   "title": "Effective Corrosion‐Resistant Single‐Atom Alloy Catalyst on HfO 2 ‐Passivated BiVO 4 Photoanode for Durable (≈800 h) Solar Water Oxidation",
   "authors": [

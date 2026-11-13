@@ -1,5 +1,35 @@
 [
  {
+  "id": "e456cd3609e1c87a",
+  "title": "Reaction environment impacts charge transfer but not chemical reaction steps in hydrogen evolution catalysis",
+  "authors": [
+   "Bryan Y. Tang",
+   "Ryan P. Bisbey",
+   "Kunal M. Lodaya",
+   "Wei Lun Toh",
+   "Yogesh Surendranath"
+  ],
+  "journal": "Nature Catalysis",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2023-04-26",
+  "year": 2023,
+  "doi": "10.1038/s41929-023-00943-2",
+  "url": "https://doi.org/10.1038/s41929-023-00943-2",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-13",
+  "issn": ""
+ },
+ {
   "id": "f5c6be6c020b810d",
   "title": "Confinement of Cu2O by in-situ derived NH2-MIL-125@TiO2 for synergetic photothermal-driven hydrogen evolution from aqueous-phase methanol reforming",
   "authors": [

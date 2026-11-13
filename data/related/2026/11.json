@@ -1,5 +1,105 @@
 [
  {
+  "id": "ce016a67a8b4ac00",
+  "title": "Thermodynamic-guided tailoring of single-atom coordination environments via oxygen chemical potential for efficient C-N coupling",
+  "authors": [
+   "Qingna Gong",
+   "Haihui Lan",
+   "Han Zhao",
+   "Wen-Da Zhang",
+   "Xinrui Li",
+   "Ming Chen",
+   "Tianhong Huang",
+   "Jingjing Si",
+   "Haochong Huang",
+   "Heng Zhao",
+   "Yao Hu",
+   "Xiaoping Yang",
+   "Jing Wang",
+   "Xiaodong Yan",
+   "Zhangxing Chen"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Springer Nature",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1038/s41467-026-79091-7",
+  "url": "https://www.nature.com/articles/s41467-026-79091-7",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-13",
+  "issn": "2041-1723"
+ },
+ {
+  "id": "99d051cb10479e55",
+  "title": "Preparation of Poly(lactic acid)/Modified Cerium Oxide Composite Fibrous Membranes and Application in the Removal of Volatile Organic Compounds from Coal Chemical Processes",
+  "authors": [
+   "Tengfei Shao",
+   "Zhengfang Chu",
+   "Jun Zhang",
+   "甄卫军",
+   "Yufeng Guo"
+  ],
+  "journal": "Journal of Polymers and the Environment",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-11-11",
+  "year": 2026,
+  "doi": "10.1007/s10924-026-04019-7",
+  "url": "https://doi.org/10.1007/s10924-026-04019-7",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Lactic Acid",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Xinjiang University"
+  ],
+  "added": "2026-11-13",
+  "issn": "1064-7546"
+ },
+ {
+  "id": "73443116c1d4cc1f",
+  "title": "Metal-Dependent Electronic Modulation and CO2 Conversion to Methane by Group 10 Single-Atom Functionalized Pyridine-Based COF-1N",
+  "authors": [
+   "Muhammad U. Halliru",
+   "Sajjad Hussain",
+   "Abdulaziz A. Al-Saadi"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-11",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.158620",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.158620",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "King Fahd University of Petroleum and Minerals"
+  ],
+  "added": "2026-11-13",
+  "issn": "0360-3199"
+ },
+ {
   "id": "4e5dff2c94dc924b",
   "title": "Deciphering Charge Delocalization across Mercaptobenzonitrile Ligand Terminals and Inner Hydrides in Atomically Precise Cu14H10 Nanoclusters for Electrocatalytic CO2 Reduction",
   "authors": [
@@ -254,6 +354,39 @@
   ],
   "added": "2026-11-12",
   "issn": "1005-8850"
+ },
+ {
+  "id": "041ee20c4407972b",
+  "title": "Defect engineered Li₂O-ZrO₂-NiO multi-metal oxide nanocomposite exhibiting enhanced structural properties optical behavior and cytotoxic activity.",
+  "authors": [
+   "Banu AM",
+   "Farzana BA",
+   "Mashood Ahamed FM",
+   "Revathi P",
+   "Alharbi HM",
+   "Amin M",
+   "Hilawea KT",
+   "Zaki MEA."
+  ],
+  "journal": "Discover nano",
+  "publisher": "",
+  "published": "2026-11-10",
+  "year": 2026,
+  "doi": "10.1186/s11671-026-04902-1",
+  "url": "https://doi.org/10.1186/s11671-026-04902-1",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "ROS",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-13",
+  "issn": ""
  },
  {
   "id": "e9912e529ed08b72",
