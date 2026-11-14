@@ -1,5 +1,49 @@
 [
  {
+  "id": "648c3376cfffab87",
+  "title": "Synergistic multi-metal and defect engineering for high-efficiency hydrogen evolution reaction",
+  "authors": [
+   "Chenxu Zhang",
+   "Ziyan Li",
+   "Linfei Zhao",
+   "Yajun Li",
+   "Qing Yin",
+   "Danyang Zhao",
+   "Yongzhi Li",
+   "Bin Xiao",
+   "Qingkun Meng",
+   "Yaojian Ren",
+   "Xiaolan Xue",
+   "Fuxiang Wei",
+   "Yanwei Sui",
+   "Xiangfeng Wu",
+   "Jiqiu Qi",
+   "Johnny C. Ho"
+  ],
+  "journal": "Science China Materials",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2026-08-26",
+  "year": 2026,
+  "doi": "10.1007/s40843-026-4192-y",
+  "url": "https://doi.org/10.1007/s40843-026-4192-y",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "Defect Engineering",
+   "Hydrogen Evolution",
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-14",
+  "issn": ""
+ },
+ {
   "id": "ccff4a7de0e01368",
   "title": "Defective indium oxide as plasmonic catalyst for efficient photo-driven methanol steam reforming",
   "authors": [

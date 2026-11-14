@@ -23927,6 +23927,37 @@
   "issn": ""
  },
  {
+  "id": "6bbc6d6272bfdff5",
+  "title": "Electronic structure tailoring of COFs photocatalysts via triazine moieties for efficient H2O2 generation and water decontamination",
+  "authors": [
+   "Yan Lin",
+   "Ziyan Du",
+   "Xin Wu",
+   "Ziyi Chen",
+   "Yanxia Yang",
+   "Xin Peng",
+   "Chunping Yang",
+   "Shenglian Luo"
+  ],
+  "journal": "Science China Materials",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2026-09-15",
+  "year": 2026,
+  "doi": "10.1007/s40843-026-4165-1",
+  "url": "https://doi.org/10.1007/s40843-026-4165-1",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-14",
+  "issn": ""
+ },
+ {
   "id": "6944e47a32cc658e",
   "title": "Schiff-Base-Bridged Cyclodextrin-Modified Carbon Nitride for Efficient Sacrificial-Agent-Free Photocatalytic H2O2 Production.",
   "authors": [

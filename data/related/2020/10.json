@@ -1,5 +1,41 @@
 [
  {
+  "id": "f19bacfa5fe2412f",
+  "title": "Dopants fixation of Ruthenium for boosting acidic oxygen evolution stability and activity",
+  "authors": [
+   "Shaoyun Hao",
+   "Min Liu",
+   "Junjie Pan",
+   "Xiangnan Liu",
+   "Xiaoli Tan",
+   "Nan Xu",
+   "Yi He",
+   "Lecheng Lei",
+   "Xingwang Zhang"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2020-10-23",
+  "year": 2020,
+  "doi": "10.1038/s41467-020-19212-y",
+  "url": "https://doi.org/10.1038/s41467-020-19212-y",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "DFT",
+   "Doping",
+   "Oxygen Evolution",
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-14",
+  "issn": ""
+ },
+ {
   "id": "3c82cd9ad03db5ab",
   "title": "Significantly enhanced cocatalyst-free H2 evolution from defect-engineered Brown TiO2",
   "authors": [

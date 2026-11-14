@@ -630,6 +630,51 @@
   "issn": ""
  },
  {
+  "id": "d3e268522ab420f1",
+  "title": "MIL-101(Fe)-based S-scheme heterostructures for photocatalytic pollutant degradation and CO",
+  "authors": [
+   "Garima Verma",
+   "Vatika Soni",
+   "Pardeep Singh",
+   "Aftab Aslam Parwaz Khan",
+   "Van-Huy Nguyen",
+   "Thi Hong Chuong Nguyen",
+   "Chechia Hu",
+   "Chaudhery Mustansar Hussain",
+   "Soo Young Kim",
+   "Quyet Van Le",
+   "Pankaj Raizada"
+  ],
+  "journal": "Materials Today Sustainability",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtsust.2026.101483",
+  "url": "https://doi.org/10.1016/j.mtsust.2026.101483",
+  "source": "doaj",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Pollutant Degradation",
+   "MOFs & COFs",
+   "Machine Learning for Photocatalysis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Heterostructures",
+   "MOFs",
+   "Machine Learning",
+   "Photocatalysis",
+   "Pollutants",
+   "S-Scheme",
+   "Visible Light"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-11-14",
+  "issn": ""
+ },
+ {
   "id": "d3a432f6e4b0166f",
   "title": "A graphdiyne-enabled TiO",
   "authors": [
