@@ -73,6 +73,32 @@
   "added": "2026-09-10"
  },
  {
+  "id": "dbb6887eb8c63575",
+  "title": "Phase evolution and natural dye sensitization of CaTiO3 for photocatalytic hydrogen production",
+  "authors": [
+   "Luis F. Garay-Rodríguez",
+   "Leticia M. Torres-Martínez"
+  ],
+  "journal": "Dyes and Pigments",
+  "publisher": "Elsevier BV",
+  "published": "2027-03-01",
+  "year": 2027,
+  "doi": "10.1016/j.dyepig.2026.114334",
+  "url": "https://doi.org/10.1016/j.dyepig.2026.114334",
+  "source": "crossref",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
+ },
+ {
   "id": "909446354b5a73d2",
   "title": "Innovative approaches to navigate the challenges in photocatalytic oxidation desulfurization of fuel: a systematic review",
   "authors": [
@@ -139,6 +165,37 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-10-22",
+  "issn": ""
+ },
+ {
+  "id": "7f2b78efc346b39f",
+  "title": "Fabrication of Cu2O/CoFe1.95Dy0.05O4 direct Z-scheme heterojunction for photo-Fenton degradation of methylene blue dye",
+  "authors": [
+   "Xiangping Pan",
+   "Tao Meng",
+   "Yaoqiang Shao",
+   "Yichen Rui",
+   "Huijuan Wang"
+  ],
+  "journal": "Dyes and Pigments",
+  "publisher": "Elsevier BV",
+  "published": "2027-03-01",
+  "year": 2027,
+  "doi": "10.1016/j.dyepig.2026.114335",
+  "url": "https://doi.org/10.1016/j.dyepig.2026.114335",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Heterojunctions",
+   "Z-Scheme"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-11-15",
   "issn": ""
  },
  {

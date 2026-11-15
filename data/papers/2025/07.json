@@ -4691,6 +4691,50 @@
   "added": "2026-07-24"
  },
  {
+  "id": "737eaa91c3713cb0",
+  "title": "Designing Light‐Sensitive Organic Semiconductors with Azobenzenes for Photoelectrochemical Transistors as Neuromorphic Platforms",
+  "authors": [
+   "Isabela Berndt Paro",
+   "Martina Gini",
+   "Francesca D’ Elia",
+   "Arianna Massaro",
+   "Federica Corrado",
+   "Daniela Rana",
+   "Ana Varela",
+   "Giulia Elli",
+   "Matthias Baumann",
+   "GiovanniMaria Piccini",
+   "Luisa Petti",
+   "Daniele Leonori",
+   "Ana Belen Muñoz-García",
+   "Michele Pavone",
+   "Andreas Offenhäusser",
+   "Valeria Criscuolo",
+   "Francesca Santoro"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2025-07-29",
+  "year": 2025,
+  "doi": "10.1002/advs.202509125",
+  "url": "https://doi.org/10.1002/advs.202509125",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
+ },
+ {
   "id": "69b8aaa15e73888f",
   "title": "Optimized TiO 2 Coatings on AISI 316 Steel for Advanced Photocatalytic Wastewater Treatment: Mechanism and Performance",
   "authors": [

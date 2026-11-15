@@ -111,6 +111,39 @@
   "issn": "1793-2920"
  },
  {
+  "id": "f367264b4a45283a",
+  "title": "Efficient p-n Heterojunction Construction in Co3O4/Zn0.4Cd0.6S Composite for Boosted Visible-Light Photocatalytic H2 Production.",
+  "authors": [
+   "Yanzhu Ye",
+   "Zhongshui Li",
+   "Alian Wang",
+   "Shen Lin"
+  ],
+  "journal": "Nanomaterials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.3390/nano16211397",
+  "url": "https://doi.org/10.3390/nano16211397",
+  "source": "pubmed",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Heterojunctions",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Quantum Efficiency",
+   "Visible Light"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
+ },
+ {
   "id": "e6edaef9977f4a02",
   "title": "MB degradation in wastewater by Solvothermally prepared Ag/CZTS/Mo photocatalytic powder",
   "authors": [
@@ -667,6 +700,33 @@
   ],
   "added": "2026-11-02",
   "issn": "0366-6352"
+ },
+ {
+  "id": "7ad58d5fafb2acbe",
+  "title": "Recent Progress in MXene-Based Composites for CO2 Conversion: A Mini Review.",
+  "authors": [
+   "Quoc Hai Nguyen",
+   "Shalini Sahani",
+   "Phan Khanh Thinh Nguyen"
+  ],
+  "journal": "Nanomaterials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.3390/nano16211400",
+  "url": "https://doi.org/10.3390/nano16211400",
+  "source": "pubmed",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Photocatalysis"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
  },
  {
   "id": "712770696cf0f82f",
@@ -2143,6 +2203,48 @@
   "relevance_score": 73,
   "affiliations": [],
   "added": "2026-10-31",
+  "issn": ""
+ },
+ {
+  "id": "4c16bd9296f3d217",
+  "title": "Construction of S-Scheme Heterojunction MoS2/TiO2 and Investigation of the Photocatalytic Inhibition Performance.",
+  "authors": [
+   "Qiqin Lu",
+   "Guijun Yang",
+   "Ting Han",
+   "Hui Nan"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-10-30",
+  "year": 2026,
+  "doi": "10.3390/ijms27219763",
+  "url": "https://doi.org/10.3390/ijms27219763",
+  "source": "pubmed",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "2D Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Heterojunctions",
+   "Hydroxyl Radicals",
+   "MoS2",
+   "Nanosheets",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "ROS",
+   "Radical Chemistry",
+   "S-Scheme",
+   "TiO2"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-11-15",
   "issn": ""
  },
  {
@@ -3815,6 +3917,40 @@
   ],
   "added": "2026-10-31",
   "issn": "2366-7486"
+ },
+ {
+  "id": "974932203cc3869a",
+  "title": "Synthesis of Nanoscale Ag@ZnO Materials and Evaluation of Methylene Blue Degradation Ability under Ultraviolet and Visible Light",
+  "authors": [
+   "Hoa Lai Tien",
+   "Mai Nguyen Thi Tuyet",
+   "Dung Ta Ngoc",
+   "Chinh Huynh Dang",
+   "Anh Luu Thi Lan"
+  ],
+  "journal": "Engineering and Technology For Sustainable Development",
+  "publisher": "Hanoi University of Science and Technology",
+  "published": "2026-10-29",
+  "year": 2026,
+  "doi": "10.51316/jst.195.etsd.2026.36.5.6",
+  "url": "https://doi.org/10.51316/jst.195.etsd.2026.36.5.6",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Visible Light",
+   "Wastewater",
+   "ZnO"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
  },
  {
   "id": "93c5e2c62946fbfa",
@@ -9712,6 +9848,40 @@
   "issn": ""
  },
  {
+  "id": "b355ecaf365683c8",
+  "title": "Facet-dependent photochemical reactivity of hematite toward venlafaxine: Key role of surface hydroxyl speciation and citric acid coordination.",
+  "authors": [
+   "Ziyan Zhou",
+   "Boming Fu",
+   "Feng Sheng",
+   "Xinhao Wang",
+   "Xin Jin",
+   "Jinlin Jiang",
+   "Cheng Gu"
+  ],
+  "journal": "Eco-Environment & Health",
+  "publisher": "",
+  "published": "2026-10-26",
+  "year": 2026,
+  "doi": "10.1016/j.eehl.2026.100292",
+  "url": "https://doi.org/10.1016/j.eehl.2026.100292",
+  "source": "pubmed",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Photodegradation",
+   "ROS"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
+ },
+ {
   "id": "b069b6e64eecab2a",
   "title": "Magnetically recoverable Mn and Ni co-doped magnesium ferrite improved visible-light photocatalytic activity toward paracetamol degradation",
   "authors": [
@@ -11079,6 +11249,35 @@
   ],
   "added": "2026-10-26",
   "issn": "0360-3199"
+ },
+ {
+  "id": "ac24e3b716758af8",
+  "title": "Photophysical Properties of Thionine and Methylene Blue Photosensitizers: A TD-DFT Study of Monomers, Salts, Hydrates, and Dimers.",
+  "authors": [
+   "Christina Eleftheria Tzeliou",
+   "Eleni Dimou",
+   "Demeter Tzeli"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-10-24",
+  "year": 2026,
+  "doi": "10.3390/molecules31213842",
+  "url": "https://doi.org/10.3390/molecules31213842",
+  "source": "pubmed",
+  "categories": [
+   "Pollutant Degradation",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Dye Degradation",
+   "Photocatalysis"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
  },
  {
   "id": "96a4d1419ca3adba",
@@ -13554,6 +13753,44 @@
   "issn": ""
  },
  {
+  "id": "ca7697d48bd7720b",
+  "title": "Structure-Property Relationships in Hydrothermally Synthesized Monoclinic Scheelite BiVO4: Role of Preferential Crystallographic Orientation in Photocatalytic Activity.",
+  "authors": [
+   "Freider Duran",
+   "Carlos Diaz-Uribe",
+   "William Vallejo",
+   "Ximena Vargas-Ramírez",
+   "Mario A Millán-Franco",
+   "Edgar Mosquera-Vargas"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.3390/molecules31213804",
+  "url": "https://doi.org/10.3390/molecules31213804",
+  "source": "pubmed",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Band Gap",
+   "BiVO4",
+   "Dye Degradation",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Photogenerated Carriers",
+   "Visible Light"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
+ },
+ {
   "id": "c80256eb1156cadd",
   "title": "Photogenerated Carrier Availability Regulates Redox Selectivity in an S-Scheme CdS/CeO2 Heterojunction",
   "authors": [
@@ -14842,6 +15079,42 @@
   "issn": ""
  },
  {
+  "id": "32a2429fe3212161",
+  "title": "Progress and Future Perspectives in Hydrogen Energy and Fuel Cell Technologies for Clean Energy Applications.",
+  "authors": [
+   "Muhammad Waqar",
+   "Sumyya Shah",
+   "Abid Ullah",
+   "Muhammad Humayun"
+  ],
+  "journal": "Materials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.3390/ma19214441",
+  "url": "https://doi.org/10.3390/ma19214441",
+  "source": "pubmed",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution",
+   "Co-catalysts & Surface",
+   "Water Splitting",
+   "Perovskites"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Oxygen Evolution",
+   "Perovskites",
+   "Photoelectrochemistry",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
+ },
+ {
   "id": "321a503e44e70b9a",
   "title": "Photocatalytic Formal [4 + 2] Radical Annulation of α-Bromoacetylindoles with Alkenes: Broad Scope and Synthesis of (±)-Goniomitine",
   "authors": [
@@ -14964,6 +15237,40 @@
   "relevance_score": 95,
   "affiliations": [],
   "added": "2026-10-23",
+  "issn": ""
+ },
+ {
+  "id": "169f9da4b65a3dd4",
+  "title": "Valorization of Coal Fly Ash via a Novel SiFA/Chitosan/MnFe2O4 Composite Photocatalyst for Selective Oxidation of 5-Hydroxymethylfurfural to 2,5-Diformylfuran.",
+  "authors": [
+   "Pedro Ângelo Miranda",
+   "Marta Monteiro",
+   "Claudia Santos",
+   "Alexandra Guedes",
+   "Bruno Valentim",
+   "Andreia F Peixoto",
+   "Clara Rodrigues Pereira",
+   "Cristina Freire",
+   "Waldemar Maniukiewicz",
+   "Iwona Kuźniarska-Biernacka"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-10-22",
+  "year": 2026,
+  "doi": "10.3390/molecules31213798",
+  "url": "https://doi.org/10.3390/molecules31213798",
+  "source": "pubmed",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Selective Oxidation"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-11-15",
   "issn": ""
  },
  {

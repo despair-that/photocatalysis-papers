@@ -58,5 +58,39 @@
   "affiliations": [],
   "added": "2026-11-13",
   "issn": ""
+ },
+ {
+  "id": "31cf0597b088129d",
+  "title": "Oxygen vacancy-mediated high-entropy oxide electrocatalysts for efficient oxygen evolution reaction",
+  "authors": [
+   "Ruonan Liu",
+   "Yaotian Yan",
+   "Liang Dun",
+   "Taili Yang",
+   "Bin Qin",
+   "Peijia Wang",
+   "Wei Cai",
+   "Shude Liu",
+   "Xiaohang Zheng"
+  ],
+  "journal": "Materials Today Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2025-03-01",
+  "year": 2025,
+  "doi": "10.1016/j.mtcata.2024.100086",
+  "url": "https://doi.org/10.1016/j.mtcata.2024.100086",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
  }
 ]

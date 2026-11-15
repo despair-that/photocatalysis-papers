@@ -24485,6 +24485,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "06148f4749972c2d",
+  "title": "Inhibiting Photo‐Oxidation and Enhancing Visible‐Light‐Driven Photocatalytic Water Oxidation over Covalent Organic Frameworks Through the Coordination of Cobalt with Bipyridine",
+  "authors": [
+   "Xinyu Li",
+   "Qing Yang",
+   "Yiqi Yuan",
+   "Yongguo Shama",
+   "Hongjian Yan"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2024-04-15",
+  "year": 2024,
+  "doi": "10.1002/smll.202401168",
+  "url": "https://doi.org/10.1002/smll.202401168",
+  "source": "crossref",
+  "categories": [
+   "Water Splitting",
+   "MOFs & COFs",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "COFs",
+   "Light Irradiation",
+   "Oxygen Evolution",
+   "Photocatalysis",
+   "Semiconductors",
+   "Visible Light",
+   "Water Splitting"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
+ },
+ {
   "id": "04a1e5fd7a2ca948",
   "title": "Site-Selective Bimetallic Heterogeneous Nanostructures for Plasmon-Enhanced Photocatalysis of Nitrobenzene Hydrogenation",
   "authors": [

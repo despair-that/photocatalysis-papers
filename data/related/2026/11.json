@@ -70,6 +70,129 @@
   "issn": ""
  },
  {
+  "id": "55403c1357b57a99",
+  "title": "Spin‐Selective Orbital Reconfiguration Enables Concurrent Fast Kinetics and Structural Stability in Layered Oxides",
+  "authors": [
+   "Shuyun Yao",
+   "Jingyu Wu",
+   "Weisheng Feng",
+   "Zhiyu Yang",
+   "Shibo Xi",
+   "Xiaojiang Yu",
+   "Yi-Ming Yan",
+   "Zhiqun Lin"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1002/adfm.79599",
+  "url": "https://doi.org/10.1002/adfm.79599",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Related",
+   "TEOA"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Tianjin University of Technology",
+   "State Key Laboratory of Organic-Inorganic Composite Materials",
+   "Beijing University of Chemical Technology",
+   "National University of Singapore",
+   "Agency for Science, Technology and Research",
+   "Singapore Synchrotron Light Source"
+  ],
+  "added": "2026-11-15",
+  "issn": "1616-301X"
+ },
+ {
+  "id": "403192d4e8ca8459",
+  "title": "Advancements in plasmonic heterojunctions for the hydrogen evolution reaction",
+  "authors": [
+   "Swadhin Kumar Jena",
+   "Million Mulugeta Habtegebrel",
+   "Neha Luhakhra",
+   "Prem Felix Siril"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1016/b978-0-443-41505-0.00013-4",
+  "url": "https://doi.org/10.1016/b978-0-443-41505-0.00013-4",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Plasmonics",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "Indian Institute of Technology Mandi"
+  ],
+  "added": "2026-11-15",
+  "issn": ""
+ },
+ {
+  "id": "2d7e77f789e4bf96",
+  "title": "Magnetic‐Field Modulation of Oxygen Evolution at Structurally Constrained Single‐Atom Sites With a Secondary Photoresponse",
+  "authors": [
+   "Jin-Hua Liu, Yu-Ze Sun, Zheng Wei, Wen-Hua Yang, Zhen Zhang, Shu-Meng Li, Yong Wang, Hong-Di Zhang, Wen-Peng Han, Yun-Ze Long"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1002/anie.1202075",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1202075?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "337dc8c2ce25e1e0",
+  "title": "Printable Piezoresistive Hybrid Hydrogels Based on 2D MoS2 for Flexible Pulse Sensing",
+  "authors": [
+   "Jenny Flores, Arianna Bertero, Luca Ceseracciu, Daniel Jiménez-Boland, Sara Domenici, Mattia Bramini, Paola Sánchez-Moreno, Erica Scarcelli, Domenico Galdiero, Pavel Fedorov, Daniil Karnaushenko, Rossella Sesia, Ignazio Roppolo, Micaela Pozzati, Mattia Spedicati, Nicolò Petrini, Marco Sangermano, Bartolomeo Coppola, Teresa Gatti"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2026-11-12",
+  "year": 2026,
+  "doi": "10.1002/advs.77092",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.77092?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": "2198-3844"
+ },
+ {
   "id": "99d051cb10479e55",
   "title": "Preparation of Poly(lactic acid)/Modified Cerium Oxide Composite Fibrous Membranes and Application in the Removal of Volatile Organic Compounds from Coal Chemical Processes",
   "authors": [

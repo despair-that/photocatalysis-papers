@@ -246,6 +246,33 @@
   "issn": ""
  },
  {
+  "id": "ceba0bd0d87a9cd1",
+  "title": "Green synthesis of aluminium-based nanostructures using",
+  "authors": [
+   "B. Gomathi",
+   "F. Mary Anjalin"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.nxmate.2026.104035",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.104035",
+  "source": "doaj",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Light Irradiation",
+   "Photocatalysis"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
+ },
+ {
   "id": "c96a462d5d3f707b",
   "title": "A magnetic NiFe",
   "authors": [
@@ -705,6 +732,41 @@
   "relevance_score": 69,
   "affiliations": [],
   "added": "2026-10-10",
+  "issn": ""
+ },
+ {
+  "id": "1a86ef3b80e13f8f",
+  "title": "Asymmetric metal-coordination engineered covalent organic frameworks with pronounced electronic polarization for efficient photocatalytic CO2 reduction and biomass valorization",
+  "authors": [
+   "Kun Xiong",
+   "Xiaoke Jia",
+   "Yujie Wang",
+   "Maocheng Zuo",
+   "Xianglin Luo",
+   "Xiaohui Xu",
+   "Yuangang Wu",
+   "Chong Cheng",
+   "Shuang Li"
+  ],
+  "journal": "Materials Science and Engineering: R: Reports",
+  "publisher": "Elsevier BV",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.mser.2026.101334",
+  "url": "https://doi.org/10.1016/j.mser.2026.101334",
+  "source": "crossref",
+  "categories": [
+   "CO2 Reduction",
+   "MOFs & COFs"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "COFs",
+   "Photocatalysis"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-11-15",
   "issn": ""
  }
 ]

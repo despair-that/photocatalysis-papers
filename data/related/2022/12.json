@@ -43,6 +43,35 @@
   "issn": "1616-301X"
  },
  {
+  "id": "b92b1e8bffe4290f",
+  "title": "Tuning Surface Acidity of Mixed Conducting Electrodes: Recovery of Si‐Induced Degradation of Oxygen Exchange Rate and Area Specific Resistance",
+  "authors": [
+   "Han Gil Seo",
+   "Anna Staerz",
+   "Dennis S. Kim",
+   "James M. LeBeau",
+   "Harry L. Tuller"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2022-12-18",
+  "year": 2022,
+  "doi": "10.1002/adma.202208182",
+  "url": "https://doi.org/10.1002/adma.202208182",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "EIS",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
+ },
+ {
   "id": "9db25d6ece884d2f",
   "title": "Enhanced degradation of quinoline in three-dimensional electro-Fenton system using catalytic Fe-Co-Ni-P/g-C3N4 particles",
   "authors": [

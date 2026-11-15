@@ -17006,6 +17006,50 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ee57f14b9882c212",
+  "title": "Engineering of Phenylpyridine- and Bipyridine-Based Covalent Organic Frameworks for Photocatalytic Tandem Aerobic Oxidation/Povarov Cyclization",
+  "authors": [
+   "Maarten Debruyne",
+   "Sander Borgmans",
+   "Sambhu Radhakrishnan",
+   "Eric Breynaert",
+   "Henk Vrielinck",
+   "Karen Leus",
+   "Andreas Laemont",
+   "Juul De Vos",
+   "Kuber Singh Rawat",
+   "Siebe Vanlommel",
+   "Hannes Rijckaert",
+   "Hadi Salemi",
+   "Jonas Everaert",
+   "Flore Vanden Bussche",
+   "Dirk Poelman",
+   "Rino Morent",
+   "Nathalie De Geyter",
+   "Pascal Van Der Voort",
+   "Veronique Van Speybroeck",
+   "Christian V. Stevens"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2023-07-18",
+  "year": 2023,
+  "doi": "10.1021/acsami.3c07036",
+  "url": "https://doi.org/10.1021/acsami.3c07036",
+  "source": "crossref",
+  "categories": [
+   "MOFs & COFs"
+  ],
+  "tags": [
+   "COFs",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-15",
+  "issn": ""
+ },
+ {
   "id": "dbd19ab6543de667",
   "title": "Nitrogen-doped carbon dots (NCDs)-decorated hematite@MIL-101(Cr) photocatalyst for the removal of carbamazepine",
   "authors": [
