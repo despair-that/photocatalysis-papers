@@ -1,5 +1,37 @@
 [
  {
+  "id": "80e4a242876ec0e9",
+  "title": "Single-Atomic Cu with Multiple Oxygen Vacancies on Ceria for Electrocatalytic CO 2 Reduction to CH 4",
+  "authors": [
+   "Yifei Wang",
+   "Zheng Chen",
+   "Peng Han",
+   "Yonghua Du",
+   "Zhengxiang Gu",
+   "Xin Xu",
+   "Gengfeng Zheng"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2018-06-22",
+  "year": 2018,
+  "doi": "10.1021/acscatal.8b01014",
+  "url": "https://doi.org/10.1021/acscatal.8b01014",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": ""
+ },
+ {
   "id": "b7326e40cd8a7616",
   "title": "Self-assembled synthesis of defect-engineered graphitic carbon nitride nanotubes for efficient conversion of solar energy",
   "authors": [

@@ -63,6 +63,43 @@
   "issn": ""
  },
  {
+  "id": "78d68048035e8987",
+  "title": "Interface Local‐Alkalinity Engineering for Enhanced Dehydrogenation Catalysis in Neutral Media",
+  "authors": [
+   "Kun Wang",
+   "Xiaolei Zhang",
+   "Zhang-Hui Lu",
+   "Jinyang Zhang",
+   "Qilu Yao",
+   "Weihong Liu",
+   "Jianjun Long",
+   "Wentao Wang",
+   "Lei Wang",
+   "Zhujun Zhang",
+   "Qiang Xu"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "Wiley",
+  "published": "2026-07-17",
+  "year": 2026,
+  "doi": "10.1002/ange.7897749",
+  "url": "https://doi.org/10.1002/ange.7897749",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "DFT",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": ""
+ },
+ {
   "id": "2c79c58196bec5d9",
   "title": "Modulating Interfacial Molecular Vibration for Enhanced CO Electrolysis via Coated-Carbon Layers",
   "authors": [

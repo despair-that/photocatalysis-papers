@@ -1,5 +1,115 @@
 [
  {
+  "id": "15bf1f2ed5c1764b",
+  "title": "Heteronuclear Ru–Fe Dual Single-Atom Sites Anchored on Lanthanum Metal–Organic Framework Catalyzing the Base-Free Selective Oxidation of 5-Hydroxymethylfurfural",
+  "authors": [
+   "Rui Li",
+   "Hao Zhang",
+   "Rong Shang",
+   "Qian Wang",
+   "Shipeng Wu",
+   "Qinghu Tang",
+   "Futing Xia",
+   "Qiu-E Cao",
+   "Wenhao Fang"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-11-16",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c06246",
+  "url": "https://doi.org/10.1021/acscatal.6c06246",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MOFs",
+   "Related",
+   "Selective Oxidation",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": ""
+ },
+ {
+  "id": "aa9e28f357b96aa8",
+  "title": "Ordered Atomic Channels Enable Ultrafast Hydrogen Spillover for Hydrogen Evolution at Industrial Current Densities",
+  "authors": [
+   "Xingming Xie, Pengcheng Liu, Shengjie Wei, Chunhao Sun, Chengjie Wang, Huawei Han, Xinyan Zhao, Yongde Long, Yuxiang Hu, Zhigang Zou"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-14",
+  "year": 2026,
+  "doi": "10.1002/anie.2900055",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2900055?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "56a9bd8e880e5d4d",
+  "title": "Layered Bi‐Pt3Ni Dilute Nanoalloy Boosting Hydrogen Evolution Electrocatalysis in Anion Exchange Membrane Water Electrolyzer",
+  "authors": [
+   "Yong Li, Wen Chen, Shuiping Luo, Zhuofeng Hu, Peiling Hu, Lei Xie, Junhao Qiu, Yutian Ding, Weiwei Wang, Renfei Feng, Xian-Zhu Fu, Jing-Li Luo"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-11-14",
+  "year": 2026,
+  "doi": "10.1002/adma.75742",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75742?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "e05618070645be2e",
+  "title": "Cu Single‐Atom/Nanoparticle Composite Nanozymes Enable Selective ROS Modulation for NIR‐Augmented Antibacterial Therapy of Infected Wounds",
+  "authors": [
+   "Bo Zhou, Zhuang Cai, Guiyuan Zhou, Wenjing Li, Jinrui Dong, Lu Liu, Huajie Liu"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1002/smll.76746",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76746?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": "1613-6810"
+ },
+ {
   "id": "ce016a67a8b4ac00",
   "title": "Thermodynamic-guided tailoring of single-atom coordination environments via oxygen chemical potential for efficient C-N coupling",
   "authors": [
@@ -37,6 +147,82 @@
   "affiliations": [],
   "added": "2026-11-13",
   "issn": "2041-1723"
+ },
+ {
+  "id": "939b30dc9829dfbb",
+  "title": "Multifunctional Design of 2D MoS2‐xSex/Carbon Heterostructures Enabling High‐Performance Lithium‐based Batteries",
+  "authors": [
+   "Yeong A. Lee, Jinhong Lee, Hyun-Seop Shin, Yewon Son, Youngeun Kim, Tae-In Jeong, Kyu-Nam Jung, Myung Hyun Ryu, Kanghoon Yim, Dong-Joo Yoo, Jihyun Jang, Seungchul Kim, Kyung Song, Hana Yoon"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1002/smll.76612",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76612?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterostructures",
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": "1613-6810"
+ },
+ {
+  "id": "87f4519c4fc03c98",
+  "title": "A Rapid Low Temperature Route to High‐Entropy Thiospinels for Efficient Electrocatalytic Hydrogen Evolution",
+  "authors": [
+   "Md Ariful Islam, Joseph Parker, Mark A. Turner, Matthew Lindley, Mark A. Buckingham, Ben F. Spencer, Zhen Xu, Atta Ul Haq, Mark Isaacs, Michael L. Baker, Sarah J. Haigh, David J. Lewis"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1002/smll.76540",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76540?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": "1613-6810"
+ },
+ {
+  "id": "83944f10fc716075",
+  "title": "One‐Pot CVD Growth of WS2/MoS2 Vertical Heterobilayers With Twist‐Angle‐Dependent Optoelectronic Characteristics",
+  "authors": [
+   "Sheng Fei, Fei Chen, Xumin Chen, Qingliang Feng, Haibo Shu, Hongwei Lu, Weitao Su"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1002/smll.76728",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76728?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": "1613-6810"
  },
  {
   "id": "67470560b8cb5030",
@@ -166,6 +352,32 @@
   "affiliations": [],
   "added": "2026-11-15",
   "issn": "1521-3773"
+ },
+ {
+  "id": "225974f94d6c7b03",
+  "title": "Dual‐Mode MoS2/PdSe2/WS2 Van Der Waals Heterostructure for Self‐Powered Polarization Sensing and Neuromorphic Processing",
+  "authors": [
+   "Chen Li, Zhiyuan Guo, Yilong Lu, Yuchen Liu, Ye Zhang, Xiao-Yang Zhang, Tong Zhang"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-11-13",
+  "year": 2026,
+  "doi": "10.1002/smll.76710",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76710?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterostructures",
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": "1613-6810"
  },
  {
   "id": "337dc8c2ce25e1e0",

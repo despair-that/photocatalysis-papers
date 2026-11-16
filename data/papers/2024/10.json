@@ -9978,6 +9978,46 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3f807cf34b1475b0",
+  "title": "Metal‐Based Oxygen Reduction Electrocatalysts for Efficient Hydrogen Peroxide Production",
+  "authors": [
+   "Yunfei Bu",
+   "Rong Ma",
+   "Yaobin Wang",
+   "Yunxia Zhao",
+   "Feng Li",
+   "Gao-Feng Han",
+   "Jong-Beom Baek"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2024-10-24",
+  "year": 2024,
+  "doi": "10.1002/adma.202412670",
+  "url": "https://doi.org/10.1002/adma.202412670",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Plasmonic Photocatalysis",
+   "Perovskites",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "H2O2 Production",
+   "LSPR",
+   "Perovskites",
+   "Photoelectrochemistry",
+   "Single-Atom Catalysts",
+   "Wastewater"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": ""
+ },
+ {
   "id": "3f44b5ed3995c4d0",
   "title": "Precisely Tuning Band Gaps of Hexabenzocoronene‐Based MOFs Toward Enhanced Photocatalysis",
   "authors": [

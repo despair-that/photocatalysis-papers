@@ -23,5 +23,39 @@
   "affiliations": [],
   "added": "2026-10-02",
   "issn": "0033-2704"
+ },
+ {
+  "id": "7056e98abe646cd0",
+  "title": "Lattice‐Strain Engineering for Heterogenous Electrocatalytic Oxygen Evolution Reaction",
+  "authors": [
+   "Zhiqian Hou",
+   "Chenghao Cui",
+   "Yanni Li",
+   "Yingjie Gao",
+   "Deming Zhu",
+   "Yuanfan Gu",
+   "Guoyu Pan",
+   "Yaqiong Zhu",
+   "Tao Zhang"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2023-07-23",
+  "year": 2023,
+  "doi": "10.1002/adma.202209876",
+  "url": "https://doi.org/10.1002/adma.202209876",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Pioneer",
+   "Related"
+  ],
+  "relevance_score": 32,
+  "affiliations": [],
+  "added": "2026-11-16",
+  "issn": ""
  }
 ]
