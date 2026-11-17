@@ -60133,6 +60133,44 @@
   "added": "2026-07-26"
  },
  {
+  "id": "e29d790e81f50338",
+  "title": "CoPi Cocatalyst-Decorated TiO2/NiO Nanotube Heterojunction Photoanode for Enhanced Photoelectrochemical Performance",
+  "authors": [
+   "Zhang Shouyun",
+   "Chang Hongjin",
+   "Mei Dongyu",
+   "Liu Xu",
+   "Lv Fujian",
+   "Wang Zhao",
+   "Kang Qinrong",
+   "Wu Ling"
+  ],
+  "journal": "Photocatalysis: Research and Potential",
+  "publisher": "SCIE Publishing Limited",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.70322/prp.2026.10007",
+  "url": "https://doi.org/10.70322/prp.2026.10007",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Heterojunctions",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-11-17",
+  "issn": ""
+ },
+ {
   "id": "e2446ca081546337",
   "title": "Synergistic precise construction of all-solid-state Z-scheme heterojunctions by electrospinning and photo-deposition for photocatalytic hydrogen evolution",
   "authors": [

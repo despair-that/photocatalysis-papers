@@ -1,5 +1,38 @@
 [
  {
+  "id": "58177ca9ba7825d1",
+  "title": "Correction: Manganese-iron layered double hydroxide: a theranostic nanoplatform with pH-responsive MRI contrast enhancement and drug release.",
+  "authors": [
+   "Huang G",
+   "Zhang KL",
+   "Chen S",
+   "Li SH",
+   "Wang LL",
+   "Wang LP",
+   "Liu R",
+   "Gao J",
+   "Yang HH."
+  ],
+  "journal": "Journal of materials chemistry. B",
+  "publisher": "",
+  "published": "2026-11-16",
+  "year": 2026,
+  "doi": "10.1039/d6tb90167k",
+  "url": "https://doi.org/10.1039/d6tb90167k",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-17",
+  "issn": ""
+ },
+ {
   "id": "15bf1f2ed5c1764b",
   "title": "Heteronuclear Ru–Fe Dual Single-Atom Sites Anchored on Lanthanum Metal–Organic Framework Catalyzing the Base-Free Selective Oxidation of 5-Hydroxymethylfurfural",
   "authors": [
@@ -33,6 +66,56 @@
   "affiliations": [],
   "added": "2026-11-16",
   "issn": ""
+ },
+ {
+  "id": "6b1aa7b149663a27",
+  "title": "Synergizing Multiple Stress Induction and Mitophagy Blockade via a Single‐Atom Piezocatalyst for Enhanced Sono‐Immunotherapy",
+  "authors": [
+   "Siyuan Ma, Zhenlin Zhang, Jinyan Hu, Hongjing Dou, Dengyu Pan, Bijiang Geng, Longxiang Shen"
+  ],
+  "journal": "Advanced Science",
+  "publisher": "Wiley",
+  "published": "2026-11-15",
+  "year": 2026,
+  "doi": "10.1002/advs.78771",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78771?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-17",
+  "issn": "2198-3844"
+ },
+ {
+  "id": "45d87d24b6e328de",
+  "title": "Designing Single‐Atom Nanozymes With High Chemical Stability and Peroxidase‐Like Activity for Enhanced MRSA‐Infected Diabetic Wound Healing",
+  "authors": [
+   "Jie Wang, Bin Hong, Qinyang Zhong, Gongxi Qiao, Qun Ma, Ming Yang, Haibing Huang, Zhaoyang Ke, Rui Gong, Daji Wang"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2026-11-15",
+  "year": 2026,
+  "doi": "10.1002/smll.76768",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76768?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-17",
+  "issn": "1613-6810"
  },
  {
   "id": "aa9e28f357b96aa8",

@@ -29,5 +29,33 @@
   "affiliations": [],
   "added": "2026-10-31",
   "issn": ""
+ },
+ {
+  "id": "444e3cde6a479470",
+  "title": "FeOOH-rGO/NiCo2O4 composite for enhancing electrocatalytic performances and overall water splitting application",
+  "authors": [
+   "Aize Hao",
+   "Zhiwei Liu",
+   "Xueer Ning"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2024-10-01",
+  "year": 2024,
+  "doi": "10.1016/j.jallcom.2024.175523",
+  "url": "https://doi.org/10.1016/j.jallcom.2024.175523",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "NiCo",
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-11-17",
+  "issn": ""
  }
 ]

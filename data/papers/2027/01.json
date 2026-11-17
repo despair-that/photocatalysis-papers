@@ -135,6 +135,37 @@
   "issn": ""
  },
  {
+  "id": "e5fa75282efdf335",
+  "title": "Enhanced UV-photocatalytic removal of low concentration malachite green oxalate utilizing zinc oxide/ clinoptilolite zeolite nanocomposite in acidic solution: mechanism and kinetic study",
+  "authors": [
+   "Marwa F. Abdul Jabbar",
+   "Najwa Saber Majeed",
+   "Watheq Kareem Salih"
+  ],
+  "journal": "South African Journal of Chemical Engineering",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.sajce.2026.100934",
+  "url": "https://doi.org/10.1016/j.sajce.2026.100934",
+  "source": "doaj",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoluminescence",
+   "Wastewater",
+   "ZnO"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-11-17",
+  "issn": ""
+ },
+ {
   "id": "dd239ec63b1dd9fa",
   "title": "Electronic structural modulation, thermodynamic stability and photocatalytic response of novel lead-free Rb2AgScX6 (X= Cl, Br) double perovskites: First principle investigation",
   "authors": [
@@ -632,6 +663,38 @@
   "issn": ""
  },
  {
+  "id": "50684200318680a8",
+  "title": "Eco-friendly ZnO nanoparticles via Sesbania aculeata for environmental remediation and sustainable agricultural applications",
+  "authors": [
+   "Anusha Rachapudi",
+   "Budati Bala Venkata Sailaja",
+   "Athota Chandra Leela",
+   "Saritha Kavuri",
+   "Jayasree Komara",
+   "Winnie Teja Dokka"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.nxmate.2026.103994",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.103994",
+  "source": "doaj",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-11-17",
+  "issn": ""
+ },
+ {
   "id": "3d253a75ab6a535e",
   "title": "Photocatalytic CO",
   "authors": [
@@ -732,6 +795,35 @@
   "relevance_score": 69,
   "affiliations": [],
   "added": "2026-10-10",
+  "issn": ""
+ },
+ {
+  "id": "2e15b596e40be928",
+  "title": "An interpretable CatBoost–Grey Wolf Optimizer framework for cross-study modeling of COF/MOF photocatalytic pesticide degradation",
+  "authors": [
+   "Mostafa Khajeh",
+   "Mansour Ghaffari-Moghaddam"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.nxmate.2026.104070",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.104070",
+  "source": "doaj",
+  "categories": [
+   "MOFs & COFs",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "COFs",
+   "MOFs",
+   "Photocatalysis",
+   "Pollutants"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-11-17",
   "issn": ""
  },
  {

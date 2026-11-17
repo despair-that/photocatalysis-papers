@@ -14623,6 +14623,37 @@
   "added": "2026-07-26"
  },
  {
+  "id": "e2a414dc9faee538",
+  "title": "Construction of ZnO/C 3 N 4 Composite for Photocatalytic Activity through Charge Transfer",
+  "authors": [
+   "Wei-Long Xu",
+   "Erwei Du",
+   "Sisi Pang",
+   "Yuebin Lian",
+   "Min Zheng"
+  ],
+  "journal": "ACS Applied Nano Materials",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2024-09-19",
+  "year": 2024,
+  "doi": "10.1021/acsanm.4c04416",
+  "url": "https://doi.org/10.1021/acsanm.4c04416",
+  "source": "crossref",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-11-17",
+  "issn": ""
+ },
+ {
   "id": "df07749d68b12f8b",
   "title": "Oxidative Cleavage of Alkoxyamines for Nucleophilic Substitution Reactions",
   "authors": [

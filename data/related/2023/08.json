@@ -79,6 +79,35 @@
   "issn": "2155-5435"
  },
  {
+  "id": "4c1d27e45dd4d4d9",
+  "title": "Construction of P,N-codoped carbon shell coated CoP nanoneedle array with enhanced OER performance for overall water splitting",
+  "authors": [
+   "Na Li",
+   "Shijie Qu",
+   "Fangfang Qin",
+   "Huiyu Li",
+   "Wenzhong Shen"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2023-08-01",
+  "year": 2023,
+  "doi": "10.1016/j.ijhydene.2023.03.426",
+  "url": "https://doi.org/10.1016/j.ijhydene.2023.03.426",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-17",
+  "issn": ""
+ },
+ {
   "id": "36d05ae41c413f7a",
   "title": "Defect-tailored MoS2 for superior Fenton-like catalysis: The synergistic reactive sites of 1T phase and sulfur vacancy in electron transfer and radical generation",
   "authors": [
