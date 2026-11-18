@@ -1,5 +1,69 @@
 [
  {
+  "id": "289ca2b759abe87d",
+  "title": "Upcycling of polyolefin and polyester mixtures via a single-atom alloy",
+  "authors": [
+   "Gengrui Zhang",
+   "Sixu Liu",
+   "Zitao Duan",
+   "Shuzhe Zheng",
+   "Taiyang Liu",
+   "Yaozhen Liang",
+   "Fan Yang",
+   "Shilong Li",
+   "Dongchen Qi",
+   "Kelvin H. L. Zhang",
+   "Yin Wang",
+   "Jie Li",
+   "Jinshu Tian",
+   "Haifeng Xiong"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Springer Nature",
+  "published": "2026-11-17",
+  "year": 2026,
+  "doi": "10.1038/s41467-026-79689-x",
+  "url": "https://www.nature.com/articles/s41467-026-79689-x",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-18",
+  "issn": "2041-1723"
+ },
+ {
+  "id": "a92ec28b502575dd",
+  "title": "Controlled Hydrogen Delivery by Single‐Atom Ru Accelerates Electrocatalytic Ammonia Synthesis",
+  "authors": [
+   "Zheng Liu, Xingchi Li, Zhenggang Xue, Jiayi Liu, Zhenlin Wang, Evangelina Pensa, Donglin Han, Jialing Song, Haiyan Duan, Chaoqi Zhang, Lupeng Han, Ming Xie, Yongjie Shen, Wenqiang Qu, Emiliano Cortes, Dengsong Zhang"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-16",
+  "year": 2026,
+  "doi": "10.1002/anie.3369650",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3369650?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Ammonia Synthesis",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-18",
+  "issn": "1521-3773"
+ },
+ {
   "id": "58177ca9ba7825d1",
   "title": "Correction: Manganese-iron layered double hydroxide: a theranostic nanoplatform with pH-responsive MRI contrast enhancement and drug release.",
   "authors": [
@@ -1179,6 +1243,43 @@
   "affiliations": [],
   "added": "2026-11-05",
   "issn": "2375-2548"
+ },
+ {
+  "id": "a5b04dcaf56046ad",
+  "title": "Synergistic Catalysis at the Ni3Te2–Ni3C Heterointerface: Accelerating Water Dissociation for Efficient and Robust Hydrogen Evolution in Alkaline Water and Seawater",
+  "authors": [
+   "Zejie Zhang",
+   "Hongtao Zhou",
+   "Zhihuan Zheng",
+   "Shaowu Yuan",
+   "Wenjing Chen",
+   "Jiarui Li",
+   "Yihui Wu",
+   "Jinlong Liu",
+   "Qianhao Zang",
+   "Tan Du",
+   "Jiaming Liu"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-11-04",
+  "year": 2026,
+  "doi": "10.1021/acsami.6c14471",
+  "url": "https://doi.org/10.1021/acsami.6c14471",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "DFT",
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-18",
+  "issn": ""
  },
  {
   "id": "f3586d957d04d4c9",

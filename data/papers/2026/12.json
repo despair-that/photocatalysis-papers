@@ -3331,6 +3331,38 @@
   "issn": ""
  },
  {
+  "id": "319bcfa4f55463f7",
+  "title": "Synthesis of ZnTiO",
+  "authors": [
+   "Ramasamy Sneha",
+   "Gunabalan Madhumitha"
+  ],
+  "journal": "Results in Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rineng.2026.113897",
+  "url": "https://doi.org/10.1016/j.rineng.2026.113897",
+  "source": "doaj",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Charge Carriers",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Radical Chemistry",
+   "ZnO"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-18",
+  "issn": ""
+ },
+ {
   "id": "2eb17fa30de56680",
   "title": "Photocatalytic degradation of paracetamol by green-synthesized TiO2 nanoparticles using red spinach (Amaranthus Tricolor L.)",
   "authors": [
@@ -4144,6 +4176,38 @@
   "relevance_score": 43,
   "affiliations": [],
   "added": "2026-10-24",
+  "issn": ""
+ },
+ {
+  "id": "000c96c509ea86d5",
+  "title": "Phanera variegata-mediated synthesis of ZnO and Ag-ZnO nanophotocatalysts: Enhanced photocatalytic degradation of methylene blue and comparative study of methylene blue dye degradation",
+  "authors": [
+   "Md. Solaman Mia",
+   "Md. Abdus Samad Azad",
+   "Omar Farook",
+   "Md. Tanvir Hossain",
+   "Shukanta Bhowmik",
+   "Md. Ashraful Alam"
+  ],
+  "journal": "Next Nanotechnology",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nxnano.2026.100942",
+  "url": "https://doi.org/10.1016/j.nxnano.2026.100942",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-11-18",
   "issn": ""
  }
 ]

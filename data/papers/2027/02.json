@@ -93,6 +93,43 @@
   "issn": ""
  },
  {
+  "id": "c1e9ec763a6447b1",
+  "title": "Machine-learning-guided design of a self-assembled FeS/SnS2 heterostructure for solar photocatalytic degradation of ciprofloxacin",
+  "authors": [
+   "Ahmad A. Ahmad",
+   "Hebah Q. Alshwater",
+   "Gaith Rjoub",
+   "A.B. Migdadi",
+   "Gabriela Toader",
+   "Raluca Elena Ginghina",
+   "Adriana Elena Bratu",
+   "Oana Brincoveanu",
+   "Alexandra Mocanu",
+   "Cristina Pachiu",
+   "Bogdan Stefan Vasile",
+   "Nikolay Djourelov",
+   "Qais M. Al-Bataineh"
+  ],
+  "journal": "Molecular Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2027-02-01",
+  "year": 2027,
+  "doi": "10.1016/j.mcat.2026.116485",
+  "url": "https://doi.org/10.1016/j.mcat.2026.116485",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-11-18",
+  "issn": ""
+ },
+ {
   "id": "9ba0edcc2862b915",
   "title": "Dual-functional composite of biobased interpenetrating network with pyridine-modified MIL-101(Fe) for synergistic adsorption-photocatalysis of phenolic compounds",
   "authors": [

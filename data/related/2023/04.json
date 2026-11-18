@@ -92,5 +92,39 @@
   "affiliations": [],
   "added": "2026-10-16",
   "issn": ""
+ },
+ {
+  "id": "3db516f09fec584f",
+  "title": "Ni-doping-induced oxygen vacancy in Pt-CeO2 catalyst for toluene oxidation: Enhanced catalytic activity, water-resistance, and SO2-tolerance",
+  "authors": [
+   "Menglan Xiao",
+   "Dawei Han",
+   "Xueqin Yang",
+   "Narcisse Tsona Tchinda",
+   "Lin Du",
+   "Yucong Guo",
+   "Yuechang Wei",
+   "Xiaolin Yu",
+   "Maofa Ge"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2023-04-01",
+  "year": 2023,
+  "doi": "10.1016/j.apcatb.2022.122173",
+  "url": "https://doi.org/10.1016/j.apcatb.2022.122173",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-18",
+  "issn": ""
  }
 ]
