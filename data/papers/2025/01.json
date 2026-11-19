@@ -69830,6 +69830,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a7a05f7c3276075e",
+  "title": "Photoelectrochemical iron–cobalt synergistic catalysis for C(sp 3 )–H alkenylation",
+  "authors": [
+   "Jia-Lin Tu",
+   "Ao-Men Hu",
+   "Chao Yang",
+   "Lin Guo",
+   "Wujiong Xia"
+  ],
+  "journal": "Organic Chemistry Frontiers",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5qo00017c",
+  "url": "https://doi.org/10.1039/d5qo00017c",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-19",
+  "issn": ""
+ },
+ {
   "id": "a7938dd8557fb235",
   "title": "Visible-light induced photocatalyst-free synthesis of β-enaminones",
   "authors": [
@@ -74635,6 +74663,43 @@
    "Sumitomo Metal Mining (Japan)"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "96673d2373843013",
+  "title": "Advances and challenges of metal organic frameworks (MOFs) and derivatives in photoelectrocatalytic water splitting",
+  "authors": [
+   "Xin-Jie Tian",
+   "Si-Jia Guo",
+   "Zheng-Yi Wu",
+   "Na Xu",
+   "Guanqun Han",
+   "Yong-Ming Chai",
+   "Bin Dong"
+  ],
+  "journal": "Materials Horizons",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5mh01457c",
+  "url": "https://doi.org/10.1039/d5mh01457c",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "MOFs & COFs",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "MOFs",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Water Splitting"
+  ],
+  "relevance_score": 98,
+  "affiliations": [],
+  "added": "2026-11-19",
+  "issn": ""
  },
  {
   "id": "966595bac2934265",

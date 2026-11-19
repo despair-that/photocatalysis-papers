@@ -831,6 +831,71 @@
   "added": "2026-07-24"
  },
  {
+  "id": "cf2c2d641d3dd69c",
+  "title": "Green synthesized ZnO from",
+  "authors": [
+   "Noa Eunice Escárcega Ochoa",
+   "Rubén César Villarreal Sánchez",
+   "Alfredo Rafael Vilchis Nestor",
+   "Priscy Alfredo Luque Morales"
+  ],
+  "journal": "Next Sustainability",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nxsust.2026.100594",
+  "url": "https://doi.org/10.1016/j.nxsust.2026.100594",
+  "source": "doaj",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Electron-Hole Pairs",
+   "Photocatalysis",
+   "Photoluminescence",
+   "ROS",
+   "Semiconductors",
+   "ZnO"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-19",
+  "issn": ""
+ },
+ {
+  "id": "ce3089a30f4a3d2b",
+  "title": "Biogenic synthesis of selenium nanoparticles using",
+  "authors": [
+   "Sajeda Samreen Sayyed Ibrahim",
+   "Yunus Nisar Ansari",
+   "Abhijeet Vishnu Puri",
+   "Asmita Sudam Rajole",
+   "Ghanashyam Ratan Jadhav",
+   "Sharad Shankar Gaikwad"
+  ],
+  "journal": "Results in Chemistry",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rechem.2026.104059",
+  "url": "https://doi.org/10.1016/j.rechem.2026.104059",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Photocatalysis"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-11-19",
+  "issn": ""
+ },
+ {
   "id": "cc0f45d4f9405e2f",
   "title": "Harnessing edge-protonation and π-π stacking in all-organic g-C3N4/polythiophene heterostructures for superior photocatalytic charge dynamics",
   "authors": [
@@ -1499,6 +1564,35 @@
   "relevance_score": 49,
   "affiliations": [],
   "added": "2026-09-06"
+ },
+ {
+  "id": "a8792bb4fe9b42c3",
+  "title": "Advanced mineralogical understanding and control of global antibiotic resistance",
+  "authors": [
+   "Xuran Liu",
+   "Tao Ye",
+   "Jinyang Guo",
+   "Yingbin Li",
+   "Weiping Xiong",
+   "Dongbo Wang"
+  ],
+  "journal": "Eco-Environment & Health",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.eehl.2026.100290",
+  "url": "https://doi.org/10.1016/j.eehl.2026.100290",
+  "source": "doaj",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-19",
+  "issn": ""
  },
  {
   "id": "a405744ff06103fc",

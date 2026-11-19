@@ -413,6 +413,33 @@
   "added": "2026-09-01"
  },
  {
+  "id": "cbad3eedf778521c",
+  "title": "Recent Advances in Photochemical and Photoelectrochemical Fluoroalkylation: Direct Use of Fluoroalkyl Carboxylic Acids",
+  "authors": [
+   "Lu Song",
+   "Niankai Fu"
+  ],
+  "journal": "European Journal of Organic Chemistry",
+  "publisher": "Wiley",
+  "published": "2026-08-31",
+  "year": 2026,
+  "doi": "10.1002/ejoc.70816",
+  "url": "https://doi.org/10.1002/ejoc.70816",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-11-19",
+  "issn": ""
+ },
+ {
   "id": "caf3af39f050b979",
   "title": "Acrylate‐Epoxy Interpenetrating Polymer Networks for High‐Resolution 3D Lithography by Two‐Photon Polymerization",
   "authors": [

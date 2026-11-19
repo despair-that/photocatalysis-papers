@@ -12490,6 +12490,31 @@
   "added": "2026-07-26"
  },
  {
+  "id": "2693211305142819",
+  "title": "Photoelectrochemical Iron-Catalyzed Fluoroalkylative Azidation of Alkenes with Fluoroalkyl Carboxylic Acids",
+  "authors": [
+   "Naifu Zhou",
+   "Niankai Fu"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-06-23",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c03262",
+  "url": "https://doi.org/10.1021/acscatal.6c03262",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-19",
+  "issn": ""
+ },
+ {
   "id": "24240af081df6dae",
   "title": "Construction of an Indirect Z-Scheme Heterojunction with BiVO₄/CQDs/pg-C₃N₄ for Efficient Photocatalytic Degradation of Rhodamine B and Photodynamic Bacterial Inactivation",
   "authors": [

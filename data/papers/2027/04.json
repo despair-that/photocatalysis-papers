@@ -34,5 +34,36 @@
   "affiliations": [],
   "added": "2026-11-14",
   "issn": ""
+ },
+ {
+  "id": "36373159bd77c3e2",
+  "title": "Plasmonic Cu modified TiO2/biochar composites: synergistic photocatalysis for efficient degradation of antibiotics and dyes",
+  "authors": [
+   "Hongxia Zhang",
+   "Junxin Huang",
+   "Ming Zhong",
+   "Bitao Su",
+   "Ziqiang Lei"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A: Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2027-04-01",
+  "year": 2027,
+  "doi": "10.1016/j.jphotochem.2026.117867",
+  "url": "https://doi.org/10.1016/j.jphotochem.2026.117867",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Plasmonics",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-11-19",
+  "issn": ""
  }
 ]

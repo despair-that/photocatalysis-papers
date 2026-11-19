@@ -362,6 +362,36 @@
   "issn": ""
  },
  {
+  "id": "a7b00baf0f7520f2",
+  "title": "Green synthesis of SnO",
+  "authors": [
+   "Suprio Shantanu Saha",
+   "Md. Shakhawat Hossain",
+   "Joy Sarkar"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.nxmate.2026.104026",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.104026",
+  "source": "doaj",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-11-19",
+  "issn": ""
+ },
+ {
   "id": "91d520d3a1239d86",
   "title": "Phosphoric acid activation of Ouixane iron ore tailing assisted with volumetric irradiation in the synthesis of high performance geopolymers: Microstructural and mechanical properties",
   "authors": [

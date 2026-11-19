@@ -40687,6 +40687,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "47bd213184b2ed96",
+  "title": "Advancements, challenges, and future directions of photocatalytic advanced oxidation processes in environmental pollution remediation and energy conversion applications",
+  "authors": [
+   "Lu Liu",
+   "Jialin Wang",
+   "Tingxuan Zhao",
+   "Xingwei Du",
+   "Jun Zhang",
+   "Zhengda Lin"
+  ],
+  "journal": "Surfaces and Interfaces",
+  "publisher": "Elsevier BV",
+  "published": "2025-10-01",
+  "year": 2025,
+  "doi": "10.1016/j.surfin.2025.107731",
+  "url": "https://doi.org/10.1016/j.surfin.2025.107731",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-19",
+  "issn": ""
+ },
+ {
   "id": "4715d76c4c9c269f",
   "title": "Engineering BiNbO4/BiVO4 heterostructures via spray drying for enhancing photocatalytic degradation and supercapacitor performance",
   "authors": [

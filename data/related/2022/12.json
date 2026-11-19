@@ -132,5 +132,37 @@
   "affiliations": [],
   "added": "2026-11-08",
   "issn": ""
+ },
+ {
+  "id": "30506ac6a08683b5",
+  "title": "Origin and Acceleration of Insoluble Li 2 S 2 −Li 2 S Reduction Catalysis in Ferromagnetic Atoms‐based Lithium‐Sulfur Battery Cathodes",
+  "authors": [
+   "Rui Yan",
+   "Zhenyang Zhao",
+   "Menghao Cheng",
+   "Zhao Yang",
+   "Chong Cheng",
+   "Xikui Liu",
+   "Bo Yin",
+   "Shuang Li"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "Wiley",
+  "published": "2022-12-01",
+  "year": 2022,
+  "doi": "10.1002/ange.202215414",
+  "url": "https://doi.org/10.1002/ange.202215414",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-19",
+  "issn": ""
  }
 ]
