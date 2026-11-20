@@ -136,6 +136,36 @@
   "issn": ""
  },
  {
+  "id": "adfbbf6e7a353bf9",
+  "title": "Bio-polymer-supported TiO2 NTs/g-C3N4/Chitosan heterojunction for enhanced visible-light dye degradation: RSM optimization",
+  "authors": [
+   "Parvin Gharbani",
+   "Ali Mehrizad",
+   "Sima Ghasemlou"
+  ],
+  "journal": "Results in Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rineng.2026.114009",
+  "url": "https://doi.org/10.1016/j.rineng.2026.114009",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Heterojunctions",
+   "Related",
+   "TiO2",
+   "g-C3N4"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-20",
+  "issn": ""
+ },
+ {
   "id": "a6c236a3ab321a37",
   "title": "Engineering Zn-single-atom electron bridge at enzyme-covalent organic frameworks interface for efficient photoenzymatic CO2 reduction",
   "authors": [

@@ -1,5 +1,36 @@
 [
  {
+  "id": "9da5146a7511cb0b",
+  "title": "Single-atom catalyst-anchored hydrogen-bonded organic frameworks in hydrogen generation: Progress, challenges, and prospects",
+  "authors": [
+   "Hepsiba Niruba Catherine",
+   "Deblina Roy",
+   "Jian Da Lim",
+   "Ruey-An Doong"
+  ],
+  "journal": "Materials Science and Engineering R Reports",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-18",
+  "year": 2026,
+  "doi": "10.1016/j.mser.2026.101335",
+  "url": "https://doi.org/10.1016/j.mser.2026.101335",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [
+   "National Tsing Hua University",
+   "Universiti Malaysia Perlis"
+  ],
+  "added": "2026-11-20",
+  "issn": "0927-796X"
+ },
+ {
   "id": "289ca2b759abe87d",
   "title": "Upcycling of polyolefin and polyester mixtures via a single-atom alloy",
   "authors": [

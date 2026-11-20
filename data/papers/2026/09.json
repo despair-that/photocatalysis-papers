@@ -46078,6 +46078,42 @@
   "added": "2026-09-03"
  },
  {
+  "id": "3bd00ea4414df95b",
+  "title": "High‐Entropy Alloys for Photocatalysis: From Cocatalyst Engineering to Multifunctional Active Platforms",
+  "authors": [
+   "Mengting Zhang",
+   "Guozhi Ma",
+   "Lin Wang",
+   "Yang Yang",
+   "Weiyou Yang",
+   "Huilin Hou"
+  ],
+  "journal": "Rare Metals",
+  "publisher": "Wiley",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1002/rar2.70523",
+  "url": "https://doi.org/10.1002/rar2.70523",
+  "source": "crossref",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Pollutants",
+   "Semiconductors"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-20",
+  "issn": ""
+ },
+ {
   "id": "3b075d8cc8047487",
   "title": "Photocatalytic innovations for pollutant degradation: A review of polymer-driven synthesis and pollution mitigation",
   "authors": [

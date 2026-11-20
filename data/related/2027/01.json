@@ -125,5 +125,32 @@
   "affiliations": [],
   "added": "2026-10-13",
   "issn": ""
+ },
+ {
+  "id": "2b46b9121eb54a6d",
+  "title": "Potential-Dependent Oxygen Evolution on Axially Water-Ligated Single-Atom Fe-N-C Electrocatalysts",
+  "authors": [
+   "Kalishankar Bhattacharyya",
+   "Partha Pratim Borah"
+  ],
+  "journal": "Materials Chemistry Frontiers",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1039/d6qm00907g",
+  "url": "https://doi.org/10.1039/d6qm00907g",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-20",
+  "issn": ""
  }
 ]
