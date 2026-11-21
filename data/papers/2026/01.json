@@ -113440,6 +113440,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "1956dc3f41230d9a",
+  "title": "Dual heterojunction engineering on TiO 2 for spatial active-site decoupling toward efficient photocatalytic methane coupling",
+  "authors": [
+   "Yurong Zhou",
+   "Yachao Wang",
+   "Yunrui Shi",
+   "Guofeng Zhao",
+   "Weixin Huang",
+   "Cong Fu"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5cc06414g",
+  "url": "https://doi.org/10.1039/d5cc06414g",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-21",
+  "issn": ""
+ },
+ {
   "id": "19385f8b637eb329",
   "title": "Data for \"The new role of BiOCl photocatalyst in piezophotocatalysis mimicking natural conditions: The role of crystal structure in the piezoelectric effect\"",
   "authors": [

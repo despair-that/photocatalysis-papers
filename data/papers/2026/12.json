@@ -1,5 +1,67 @@
 [
  {
+  "id": "c61659ab37ca4a57",
+  "title": "Carbon Quantum Dots: Synthesis, Applications and Future Directions",
+  "authors": [
+   "Inamuddin"
+  ],
+  "journal": "Materials research foundations",
+  "publisher": "",
+  "published": "2026-12-15",
+  "year": 2026,
+  "doi": "10.21741/9781644904435",
+  "url": "https://doi.org/10.21741/9781644904435",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "Quantum Dots"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-11-21",
+  "issn": "2471-8890"
+ },
+ {
+  "id": "a03d796078a43ecd",
+  "title": "Carbon Quantum Dots for Photocatalytic Degradation of Dyes, Pharmaceutical Compounds Pesticides and Herbicides",
+  "authors": [
+   "Sahil Kohli"
+  ],
+  "journal": "Materials research foundations",
+  "publisher": "",
+  "published": "2026-12-15",
+  "year": 2026,
+  "doi": "10.21741/9781644904435-11",
+  "url": "https://doi.org/10.21741/9781644904435-11",
+  "source": "openalex",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Dye Degradation",
+   "Heterostructures",
+   "Photocatalysis",
+   "Quantum Dots",
+   "ROS",
+   "Z-Scheme"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Manav Rachna International Institute of Research and Studies"
+  ],
+  "added": "2026-11-21",
+  "issn": "2471-8890"
+ },
+ {
   "id": "fe6a20b1484e0d48",
   "title": "Chemically bonded interfaces in S-scheme heterojunctions: Atomic-level charge channels for enhanced photocatalysis",
   "authors": [
@@ -1458,6 +1520,43 @@
   "issn": ""
  },
  {
+  "id": "adfbbf6e7a353bf9",
+  "title": "Bio-polymer-supported TiO",
+  "authors": [
+   "Parvin Gharbani",
+   "Ali Mehrizad",
+   "Sima Ghasemlou"
+  ],
+  "journal": "Results in Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rineng.2026.114009",
+  "url": "https://doi.org/10.1016/j.rineng.2026.114009",
+  "source": "doaj",
+  "categories": [
+   "g-C3N4 & Carbon Materials",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Charge Separation",
+   "Electron-Hole Pairs",
+   "Heterojunctions",
+   "Photocatalysis",
+   "Photoluminescence",
+   "TiO2",
+   "Visible Light",
+   "g-C3N4"
+  ],
+  "relevance_score": 88,
+  "affiliations": [],
+  "added": "2026-11-21",
+  "issn": ""
+ },
+ {
   "id": "ad8af52a4e87f54f",
   "title": "Engineering organic-inorganic tetra (4-carboxyphenyl) porphyrin/Bi4O5Br2 S-scheme interfaces for efficient photoinduced carrier separation and antibiotic degradation",
   "authors": [
@@ -2156,6 +2255,40 @@
   "relevance_score": 52,
   "affiliations": [],
   "added": "2026-11-10",
+  "issn": ""
+ },
+ {
+  "id": "84f30d06735b3de9",
+  "title": "Visible-light-driven photocatalytic NOₓ abatement and bacterial photoinactivation by TiO₂-coated red mud–cement mortar substrates through Fe₂O₃–TiO₂ interfacial interaction",
+  "authors": [
+   "Gurbir Kaur",
+   "Guillermo Martinez-de-Tejada",
+   "José María Fernández Álvarez",
+   "Iñigo Navarro Blasco",
+   "Sara Pavia",
+   "José Ignacio Álvarez"
+  ],
+  "journal": "Results in Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rineng.2026.113480",
+  "url": "https://doi.org/10.1016/j.rineng.2026.113480",
+  "source": "doaj",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Pollutants",
+   "Visible Light"
+  ],
+  "relevance_score": 84,
+  "affiliations": [],
+  "added": "2026-11-21",
   "issn": ""
  },
  {
@@ -2876,6 +3009,36 @@
   "relevance_score": 78,
   "affiliations": [],
   "added": "2026-09-22"
+ },
+ {
+  "id": "4908325a5569966e",
+  "title": "Smart, stimuli-responsive, and self-healing biopolymer–nanocomposites for selective adsorption and photodegradation of emerging pollutants in real wastewater systems",
+  "authors": [
+   "Abimbola E. Oluwalana-Sanusi",
+   "Sense Mametja",
+   "Isaac A. Sanusi",
+   "Jeremia Shale Sefadi"
+  ],
+  "journal": "Materials Today Sustainability",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtsust.2026.101490",
+  "url": "https://doi.org/10.1016/j.mtsust.2026.101490",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation",
+   "Pollutants",
+   "Wastewater"
+  ],
+  "relevance_score": 83,
+  "affiliations": [],
+  "added": "2026-11-21",
+  "issn": ""
  },
  {
   "id": "4835e365a7f9a706",

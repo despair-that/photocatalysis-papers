@@ -362,6 +362,37 @@
   "issn": ""
  },
  {
+  "id": "c0c52605203811b7",
+  "title": "A Cu-based coordination hybrid for efficient photocatalytic degradation of tetracycline",
+  "authors": [
+   "Zhan Hu",
+   "Yangben Chen",
+   "Yibo Zhang",
+   "Jiahui Lin",
+   "Xiaolu Xu",
+   "Min Liu",
+   "Hui Zheng"
+  ],
+  "journal": "Inorganic Chemistry Communications",
+  "publisher": "Elsevier BV",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.inoche.2026.117943",
+  "url": "https://doi.org/10.1016/j.inoche.2026.117943",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Antibiotic Degradation",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-21",
+  "issn": ""
+ },
+ {
   "id": "b44c4ccaf2fe3bb1",
   "title": "Photocatalytic degradation of hydroquinone in water using lanthanum nickel oxide combined with UV/H₂O₂",
   "authors": [
@@ -540,6 +571,40 @@
   "issn": "2976-8683"
  },
  {
+  "id": "8fa18891e2340b34",
+  "title": "Waste-derived nano-catalysts for catalytic waste-to-energy conversion: Mechanistic pathways, performance benchmarking, sustainability assessment, and scale-up barriers",
+  "authors": [
+   "Palanivendhan Murugadoss",
+   "Yogeesha Pai",
+   "Arunkumar Devalapura Thimmappa",
+   "Kaushal Kumar Kalidas Barot",
+   "Madhusudhan M",
+   "Pragyan Paramita Pattnaik",
+   "Mukesh Kumar",
+   "Aseel Smerat",
+   "Kamakshi Priya K"
+  ],
+  "journal": "Next Energy",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.nxener.2026.101208",
+  "url": "https://doi.org/10.1016/j.nxener.2026.101208",
+  "source": "doaj",
+  "categories": [
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Recyclability",
+   "Scale-up"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-11-21",
+  "issn": ""
+ },
+ {
   "id": "88985657dee03388",
   "title": "Self-driven photocatalytic fuel cell-powered electrolysis using waste-derived dual-function carbon cathodes for wastewater purification",
   "authors": [
@@ -605,6 +670,34 @@
   "affiliations": [],
   "added": "2026-11-07",
   "issn": ""
+ },
+ {
+  "id": "7ad15f224c72783b",
+  "title": "Visible-light-induced Difunctionalization of Styrenes with Alkyl Bromide, TBN and DABSO: Rapid and Convenient Synthesis of α-Alkyl sulfonyl Ethenone Oximes",
+  "authors": [
+   "Ping Jiang",
+   "Yahui Wang",
+   "Meifang Wang",
+   "Hemin Rong",
+   "Keyume Ablajan"
+  ],
+  "journal": "Organic Chemistry Frontiers",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1039/d6qo01489e",
+  "url": "https://doi.org/10.1039/d6qo01489e",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-21",
+  "issn": "2052-4110"
  },
  {
   "id": "791a0ca5d17dea34",
@@ -910,6 +1003,42 @@
   "added": "2026-09-27"
  },
  {
+  "id": "3c061e8dce01658d",
+  "title": "''Dual-functional SrO nanostructures for efficient photocatalytic degradation of methylene blue and dopamine detection''",
+  "authors": [
+   "B.R. Kallesh",
+   "Yogendra Kambalagere",
+   "N. Madhusudhana",
+   "M.S. Prasad"
+  ],
+  "journal": "Next Materials",
+  "publisher": "Elsevier",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.nxmate.2026.104040",
+  "url": "https://doi.org/10.1016/j.nxmate.2026.104040",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Band Gap",
+   "Dye Degradation",
+   "Hydroxyl Radicals",
+   "Light Irradiation",
+   "Photocatalysis",
+   "ROS",
+   "Radical Chemistry",
+   "Visible Light"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-21",
+  "issn": ""
+ },
+ {
   "id": "314390cd23bf9fd3",
   "title": "Interpretable machine learning reveals a solubility-governed performance ceiling and design rules for photocatalytic membranes",
   "authors": [
@@ -1007,6 +1136,47 @@
   "affiliations": [],
   "added": "2026-11-17",
   "issn": ""
+ },
+ {
+  "id": "1fc3672b1f454676",
+  "title": "An Overview of Renewable Hydrogen from Biomass Processes and Solar Energy Systems",
+  "authors": [
+   "Geetha Palani",
+   "Herri Trilaksana",
+   "Merlyn Sujatha Rajakumar",
+   "Karthik Kannan",
+   "Lithishkumar Kathiresan",
+   "Sengottaiyan Shanmugan",
+   "Venugopal Andal"
+  ],
+  "journal": "Energy Engineering",
+  "publisher": "Taylor & Francis",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.32604/ee.2026.085604",
+  "url": "https://doi.org/10.32604/ee.2026.085604",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoelectrochemistry",
+   "Water Splitting"
+  ],
+  "relevance_score": 53,
+  "affiliations": [
+   "Rajalakshmi Engineering College",
+   "Universitas Airlangga",
+   "St. Peter's Institute of Higher Education and Research",
+   "Karpagam Academy of Higher Education",
+   "Koneru Lakshmaiah Education Foundation",
+   "KCG College of Technology"
+  ],
+  "added": "2026-11-21",
+  "issn": "0199-8595"
  },
  {
   "id": "1a86ef3b80e13f8f",

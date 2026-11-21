@@ -65,5 +65,39 @@
   "affiliations": [],
   "added": "2026-11-19",
   "issn": ""
+ },
+ {
+  "id": "2847bfd558d2ab98",
+  "title": "Interface and defect synergy in nanoheterostructures enables magnetically boosted photocatalysis",
+  "authors": [
+   "Foyan Qin",
+   "Zenghui Yang",
+   "Jiali Yang",
+   "Xuemei Zhu",
+   "Minghui Bai",
+   "Jian Guo",
+   "Fei Yu",
+   "Chunlai Zhang",
+   "Ming Xu",
+   "Man Song",
+   "Qiuping Zhang"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2027-04-01",
+  "year": 2027,
+  "doi": "10.1016/j.jcis.2026.142032",
+  "url": "https://doi.org/10.1016/j.jcis.2026.142032",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-21",
+  "issn": ""
  }
 ]

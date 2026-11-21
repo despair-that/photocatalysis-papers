@@ -33810,6 +33810,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "542b61bd8f5b9726",
+  "title": "In Situ Generated Ti 3+ over Ag/TiO 2 Enables Highly Efficient Photocatalytic Oxidative Coupling of Methane in Flow Reactors",
+  "authors": [
+   "Shihua Zhu",
+   "Yachao Wang",
+   "Mengya Yang",
+   "Yu Wang",
+   "Yaxiong Wei",
+   "Guofeng Zhao",
+   "Cong Fu"
+  ],
+  "journal": "The Journal of Physical Chemistry Letters",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2025-04-09",
+  "year": 2025,
+  "doi": "10.1021/acs.jpclett.5c00505",
+  "url": "https://doi.org/10.1021/acs.jpclett.5c00505",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-21",
+  "issn": ""
+ },
+ {
   "id": "53621b8c90b0516d",
   "title": "Enhanced photoelectrochemical water splitting resulting from full-dimensional carrier behavior optimization of ZnIn2S4-based dimorphic homojunction",
   "authors": [

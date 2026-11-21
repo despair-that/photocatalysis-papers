@@ -502,5 +502,38 @@
   "affiliations": [],
   "added": "2026-10-05",
   "issn": ""
+ },
+ {
+  "id": "268113355957b279",
+  "title": "Composition-tailored MoS2/LDH heterostructures enable synergistic cathode-anode catalysis for alkaline water splitting",
+  "authors": [
+   "Yu-Qiang Ma",
+   "Xin Tang",
+   "Yu-Peng Zhong",
+   "Zi-Hang Zhao",
+   "Si-Qi Lu",
+   "Jia-Chen Li",
+   "Hai-Xia Ma"
+  ],
+  "journal": "Journal of Environmental Chemical Engineering",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jece.2026.125724",
+  "url": "https://doi.org/10.1016/j.jece.2026.125724",
+  "source": "semanticscholar",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Heterostructures",
+   "MoS2",
+   "Related",
+   "Water Splitting"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-21",
+  "issn": ""
  }
 ]
