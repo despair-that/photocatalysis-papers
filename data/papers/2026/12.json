@@ -1202,6 +1202,35 @@
   "issn": ""
  },
  {
+  "id": "c4390265e291af07",
+  "title": "A photocatalytic acylation of alkenes enabled by three-component oxidative difunctionalization and its applications in nature product synthesis",
+  "authors": [
+   "Tonggang Hao",
+   "Yin Wei",
+   "Min Shi"
+  ],
+  "journal": "Green Synthesis and Catalysis",
+  "publisher": "KeAi Communications Co. Ltd.",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.gresc.2025.03.010",
+  "url": "https://doi.org/10.1016/j.gresc.2025.03.010",
+  "source": "doaj",
+  "categories": [
+   "Computational & DFT",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "DFT",
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-22",
+  "issn": ""
+ },
+ {
   "id": "c21131ea2d17c855",
   "title": "Photocatalytic activity of biosynthesized ZnS quantum dots toward efficient photodegradation of 3-Nitrophenol",
   "authors": [
@@ -2453,6 +2482,52 @@
   "issn": ""
  },
  {
+  "id": "7d5ffe4cb8354252",
+  "title": "Bifunctional BiFeO",
+  "authors": [
+   "Sakshi Garg",
+   "Jyoti Rani",
+   "Malathi Hanumanthayya",
+   "Pankaj Tripathi",
+   "Sanjeev Kumar",
+   "Lovepreet Kaur",
+   "Ajay Khajuria",
+   "Sandeep Kaushal",
+   "Amandeep Sharma",
+   "Sandeep Kumar"
+  ],
+  "journal": "Results in Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rineng.2026.114230",
+  "url": "https://doi.org/10.1016/j.rineng.2026.114230",
+  "source": "doaj",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Z-Scheme & Heterojunctions",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Antibiotic Degradation",
+   "Band Gap",
+   "Charge Carriers",
+   "Heterojunctions",
+   "Heterostructures",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Pollutants",
+   "ROS",
+   "Semiconductors"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-22",
+  "issn": ""
+ },
+ {
   "id": "7d1ff9f0444bbd1d",
   "title": "MIL-125(Ti)-derived carbon-encapsulated FeS2@TiO2 heterojunctions: Synergistic visible-light photocatalysis and peroxymonosulfate activation for accelerated tetracycline degradation",
   "authors": [
@@ -2937,6 +3012,49 @@
   "relevance_score": 57,
   "affiliations": [],
   "added": "2026-11-10",
+  "issn": ""
+ },
+ {
+  "id": "4dee12ab273e687a",
+  "title": "Novel carbon-doped TiO",
+  "authors": [
+   "Nelson Kipchumba",
+   "Seteno Karabo Ntwampe",
+   "Innocentia G. Mkhize",
+   "Benton Otieno",
+   "Hilary L. Rutto"
+  ],
+  "journal": "Cleaner Chemical Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.clce.2026.100236",
+  "url": "https://doi.org/10.1016/j.clce.2026.100236",
+  "source": "doaj",
+  "categories": [
+   "Pollutant Degradation",
+   "Reactor Engineering & Scale-up",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Band Gap",
+   "Charge Transfer",
+   "Doping",
+   "Dye Degradation",
+   "Heterostructures",
+   "Photocatalysis",
+   "Photoluminescence",
+   "Scale-up",
+   "TiO2",
+   "Visible Light",
+   "Wastewater"
+  ],
+  "relevance_score": 94,
+  "affiliations": [],
+  "added": "2026-11-22",
   "issn": ""
  },
  {

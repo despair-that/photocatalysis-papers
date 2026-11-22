@@ -31,6 +31,97 @@
   "issn": ""
  },
  {
+  "id": "f9a2cbe84cb558e8",
+  "title": "Pulsed Oxidative–Reductive Electrolysis Over Dual Cu and Co Single‐Atom Sites for Urea Electrosynthesis",
+  "authors": [
+   "Putri Ramadhany, Peiqi Qiu, Thành Trần-Phú, Denny Gunawan, Bernt Johannessen, Rosalie K. Hocking, Yan Jiao, Rose Amal, Rahman Daiyan"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "Wiley",
+  "published": "2026-11-20",
+  "year": 2026,
+  "doi": "10.1002/adma.75357",
+  "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75357?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-22",
+  "issn": "1521-4095"
+ },
+ {
+  "id": "ade3daa0e328d873",
+  "title": "Metal-Dependent Oxygen Evolution at Interfaces Derived from Structure-Matched Iron and Nickel Self-Assembled Monolayers (SAMs)",
+  "authors": [
+   "Junyu Chu",
+   "Xinjiao Wang",
+   "Gustavo T. Feliciano",
+   "Petra Ebbinghaus",
+   "Riccardo Conti",
+   "Andreas Scheurer",
+   "Frank W. Heinemann",
+   "Martin Rabe",
+   "Alexander A. Auer",
+   "Karsten Meyer"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-20",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c04100",
+  "url": "https://doi.org/10.1021/acscatal.6c04100",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Related",
+   "Tafel"
+  ],
+  "relevance_score": 23,
+  "affiliations": [
+   "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+   "Northeastern University",
+   "Universidade Federal do Ceará",
+   "Max-Planck-Institut für Nachhaltige Materialien",
+   "Max-Planck-Institut für Kohlenforschung"
+  ],
+  "added": "2026-11-22",
+  "issn": "2155-5435"
+ },
+ {
+  "id": "516c23400b157b34",
+  "title": "Rare‐Earth‐Modulated Fe–Tb Dual‐Metal Single‐Atom Site Catalyst Enables Enhanced Activity and Durability for Acidic Oxygen Reduction",
+  "authors": [
+   "Wei Wei, Bo Liu, Zhiyuan Xu, Haojie Zhu, Xin Tan, Chou-Hung Hsueh, Jiaqi Zhang, Jiazhan Li, Rui Sui, Weng-Chon Cheong, Zhenbo Wang, Chen Chen"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-20",
+  "year": 2026,
+  "doi": "10.1002/anie.4270509",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4270509?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-22",
+  "issn": "1521-3773"
+ },
+ {
   "id": "4a430aebaa3020ef",
   "title": "Selective Oxidation of Toluene to Benzaldehyde Driven by Electroreduction of Oxygen to Hydrogen Peroxide Coupled With In Situ Electro‐Fenton Reaction",
   "authors": [

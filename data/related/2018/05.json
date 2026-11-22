@@ -26,5 +26,38 @@
   "affiliations": [],
   "added": "2026-10-17",
   "issn": ""
+ },
+ {
+  "id": "db23ce24779f4c22",
+  "title": "Enhancement of CO2 reduction activity under visible light irradiation over Zn-based metal sulfides by combination with Ru-complex catalysts",
+  "authors": [
+   "Tomiko M. Suzuki",
+   "Tomoaki Takayama",
+   "Shunsuke Sato",
+   "Akihide Iwase",
+   "Akihiko Kudo",
+   "Takeshi Morikawa"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2018-05-01",
+  "year": 2018,
+  "doi": "10.1016/j.apcatb.2017.10.053",
+  "url": "https://doi.org/10.1016/j.apcatb.2017.10.053",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Light Irradiation",
+   "Pioneer",
+   "Related",
+   "Visible Light"
+  ],
+  "relevance_score": 53,
+  "affiliations": [],
+  "added": "2026-11-22",
+  "issn": ""
  }
 ]
