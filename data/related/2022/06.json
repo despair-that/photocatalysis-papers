@@ -1,5 +1,34 @@
 [
  {
+  "id": "c0e6621b64bcae5e",
+  "title": "PEM water electrolysis for hydrogen production: fundamentals, advances, and prospects",
+  "authors": [
+   "Tongzhou Wang",
+   "Xuejie Cao",
+   "Lifang Jiao"
+  ],
+  "journal": "Carbon Neutrality",
+  "publisher": "Springer Science and Business Media LLC",
+  "published": "2022-06-02",
+  "year": 2022,
+  "doi": "10.1007/s43979-022-00022-8",
+  "url": "https://doi.org/10.1007/s43979-022-00022-8",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Oxygen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-23",
+  "issn": ""
+ },
+ {
   "id": "2bd54a4a18d3e851",
   "title": "Contribution of Hydrogen-Bond Nanoarchitectonics to Switchable Photothermal-Mechanical Properties of Bioinorganic Fibers",
   "authors": [

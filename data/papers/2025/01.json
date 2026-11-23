@@ -84910,6 +84910,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "729a676c8bc7e3a2",
+  "title": "Biocompatible Mn and Cu dual-doped ZnS nanosheets for enhanced the photocatalytic activity under sunlight irradiation for wastewater treatment and embedded with PVA polymer for reusability",
+  "authors": [
+   "S. Murugan",
+   "M. Ashokkumar"
+  ],
+  "journal": "Materials Science and Engineering: B",
+  "publisher": "Elsevier BV",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1016/j.mseb.2024.117837",
+  "url": "https://doi.org/10.1016/j.mseb.2024.117837",
+  "source": "crossref",
+  "categories": [
+   "2D Materials",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Nanosheets",
+   "Photocatalysis",
+   "Wastewater",
+   "ZnS"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-11-23",
+  "issn": ""
+ },
+ {
   "id": "727bd5acf1602ec6",
   "title": "Electrochemical characterization of Z-scheme charge transfer in biomass-derived ZnO/carbon dots for efficient tetracycline degradation",
   "authors": [

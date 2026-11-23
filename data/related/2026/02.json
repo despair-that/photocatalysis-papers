@@ -1,5 +1,34 @@
 [
  {
+  "id": "4f124e0cf17d6e5e",
+  "title": "Understanding Thermal Cycling Degradation Mechanism of Solid Oxide Electrolysis Stack",
+  "authors": [
+   "Jiawen Pan",
+   "Jiangtao Feng",
+   "Lu Zou",
+   "Bo Chi",
+   "Jian Pu"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "The Electrochemical Society",
+  "published": "2026-02-25",
+  "year": 2026,
+  "doi": "10.1149/1945-7111/ae45cf",
+  "url": "https://doi.org/10.1149/1945-7111/ae45cf",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "EIS",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-23",
+  "issn": ""
+ },
+ {
   "id": "2541a440d837a9a4",
   "title": "Unraveling photon-phonon coupling for light-driven dry reforming of methane on Ru supported ZnO catalysts",
   "authors": [

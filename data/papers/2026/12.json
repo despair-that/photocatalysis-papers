@@ -88,6 +88,34 @@
   "issn": ""
  },
  {
+  "id": "fcce335f7711f802",
+  "title": "Decoding diuron: a critical review of multidimensional treatment technologies, and strategic environmental management",
+  "authors": [
+   "Seyed Ebrahim Seyed Mousavi",
+   "Mehrdad Assadian Narenji",
+   "Gholamreza Parsaseresht",
+   "Hossein Abdipour"
+  ],
+  "journal": "Results in Engineering",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rineng.2026.114219",
+  "url": "https://doi.org/10.1016/j.rineng.2026.114219",
+  "source": "doaj",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-23",
+  "issn": ""
+ },
+ {
   "id": "fbc77cc7b598e39e",
   "title": "Morphological diversity of hierarchical nanocrystalline TiO",
   "authors": [
@@ -1444,6 +1472,42 @@
   "relevance_score": 91,
   "affiliations": [],
   "added": "2026-10-01",
+  "issn": ""
+ },
+ {
+  "id": "b4007960d7b33e48",
+  "title": "Facile synthesis of novel Cu₂O/SiC/g-C₃N₅ ternary nanocomposite: enhanced photocatalytic activity and RSM-optimized degradation",
+  "authors": [
+   "Nikoo Faraji Sarir",
+   "Sajjad Sedaghat",
+   "Parvin Gharbani",
+   "Mohammad A. Behnajady",
+   "Sahar Baniyaghoob",
+   "Ali Mehrizad"
+  ],
+  "journal": "Results in Chemistry",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rechem.2026.104081",
+  "url": "https://doi.org/10.1016/j.rechem.2026.104081",
+  "source": "doaj",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Light Irradiation",
+   "Photocatalysis",
+   "ROS",
+   "Radical Chemistry",
+   "Visible Light"
+  ],
+  "relevance_score": 79,
+  "affiliations": [],
+  "added": "2026-11-23",
   "issn": ""
  },
  {
@@ -3950,6 +4014,36 @@
   "relevance_score": 45,
   "affiliations": [],
   "added": "2026-10-07",
+  "issn": ""
+ },
+ {
+  "id": "20d5ed484dd305fe",
+  "title": "Two dual Z-scheme CuO/Ag/Ag3PO4/AgI/AgBr multinary catalyst with Cuδ+-Agδ’+ synergistic sonocatalytic sites: Novel anion roles and catalysis mechanisms",
+  "authors": [
+   "Yang-Lin Li",
+   "Xiang Hu",
+   "Zheng-Fan Li",
+   "Yan-Hao Xu",
+   "Zhao Liu",
+   "Jian-Tao Liu",
+   "Ting-Zhi Liu"
+  ],
+  "journal": "Journal of Environmental Chemical Engineering",
+  "publisher": "",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jece.2026.125688",
+  "url": "https://doi.org/10.1016/j.jece.2026.125688",
+  "source": "semanticscholar",
+  "categories": [
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Z-Scheme"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-23",
   "issn": ""
  },
  {
