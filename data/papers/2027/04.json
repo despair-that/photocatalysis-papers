@@ -36,6 +36,45 @@
   "issn": ""
  },
  {
+  "id": "5f0fcde2be7925de",
+  "title": "Boosting photocatalytic hydrogen evolution via interfacial photothermal evaporation on a CdS/CoFe",
+  "authors": [
+   "Shidong Zhao",
+   "Shujian Wang",
+   "Biao Wang",
+   "Kejian Lu",
+   "Jie Huang",
+   "Yitao Si",
+   "Maochang Liu"
+  ],
+  "journal": "Green Chemical Engineering",
+  "publisher": "KeAi Communications Co. Ltd.",
+  "published": "2027-04-01",
+  "year": 2027,
+  "doi": "10.1016/j.gce.2025.07.006",
+  "url": "https://doi.org/10.1016/j.gce.2025.07.006",
+  "source": "doaj",
+  "categories": [
+   "Water Splitting",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "CdS",
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Water Splitting"
+  ],
+  "relevance_score": 98,
+  "affiliations": [],
+  "added": "2026-11-24",
+  "issn": ""
+ },
+ {
   "id": "36373159bd77c3e2",
   "title": "Plasmonic Cu modified TiO2/biochar composites: synergistic photocatalysis for efficient degradation of antibiotics and dyes",
   "authors": [

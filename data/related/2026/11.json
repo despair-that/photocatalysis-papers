@@ -58,6 +58,37 @@
   "issn": ""
  },
  {
+  "id": "2dc6ea83eac6a705",
+  "title": "Metal-dependent ligand effects in 2,2′-bipyridine-coordinated single-atom catalysts on g-C3N4 for electrocatalytic nitrogen reduction",
+  "authors": [
+   "Luxuan Huang",
+   "Jing-yao Liu",
+   "Zhongmin Su"
+  ],
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-21",
+  "year": 2026,
+  "doi": "10.1016/j.ces.2026.125678",
+  "url": "https://doi.org/10.1016/j.ces.2026.125678",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts",
+   "g-C3N4"
+  ],
+  "relevance_score": 27,
+  "affiliations": [
+   "Changchun University of Science and Technology",
+   "Jilin University"
+  ],
+  "added": "2026-11-24",
+  "issn": "0009-2509"
+ },
+ {
   "id": "f9a2cbe84cb558e8",
   "title": "Pulsed Oxidative–Reductive Electrolysis Over Dual Cu and Co Single‐Atom Sites for Urea Electrosynthesis",
   "authors": [

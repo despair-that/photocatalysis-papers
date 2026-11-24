@@ -3770,6 +3770,35 @@
   "issn": ""
  },
  {
+  "id": "33c6081db59f30a8",
+  "title": "Photocatalytic Degradation of Organic Dyes in Textile Wastewater Using Synthesized TiO₂/Clay Nanocomposites under Solar Irradiation",
+  "authors": [
+   "Epere Aworabhi",
+   "Daniel Oji NDEM"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.5281/zenodo.24438119",
+  "url": "https://doi.org/10.5281/zenodo.24438119",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Photocatalysis",
+   "TiO2",
+   "Wastewater"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-11-24",
+  "issn": ""
+ },
+ {
   "id": "319bcfa4f55463f7",
   "title": "Synthesis of ZnTiO",
   "authors": [

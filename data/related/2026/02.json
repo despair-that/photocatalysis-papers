@@ -132,6 +132,37 @@
   "issn": ""
  },
  {
+  "id": "8d1294850d59667c",
+  "title": "How N-Doping Promotes Hydrogen Dissociation at Graphene-Based Single-Atom Catalysts",
+  "authors": [
+   "Safouan Ziat",
+   "Florian Brix",
+   "Arshak Tsaturyan",
+   "Bertrand Kierren",
+   "Émilie Gaudry"
+  ],
+  "journal": "The Journal of Physical Chemistry Letters",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-02-02",
+  "year": 2026,
+  "doi": "10.1021/acs.jpclett.5c03805",
+  "url": "https://doi.org/10.1021/acs.jpclett.5c03805",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "Graphene",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-24",
+  "issn": ""
+ },
+ {
   "id": "39883aa2e8a372d8",
   "title": "Direct and scalable dual-laser writing of 3D graphene–MoS2 architectures for high-efficiency pH-universal hydrogen electrocatalysis",
   "authors": [

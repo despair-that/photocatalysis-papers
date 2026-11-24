@@ -1,5 +1,41 @@
 [
  {
+  "id": "acfe1776214d23f3",
+  "title": "Single-atoms Ru/NiFe layered double hydroxide electrocatalyst: Efficient for oxidation of selective oxidation of 5-hydroxymethylfurfural and oxygen evolution reaction",
+  "authors": [
+   "Haocheng Xu",
+   "Guorong Xin",
+   "Wenxuan Hu",
+   "Zhengxiong Zhang",
+   "Chuanling Si",
+   "Jingguang Chen",
+   "Lefu Lu",
+   "Yutao Peng",
+   "Xiaoyun Li"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2023-12-01",
+  "year": 2023,
+  "doi": "10.1016/j.apcatb.2023.123157",
+  "url": "https://doi.org/10.1016/j.apcatb.2023.123157",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "LDH",
+   "Oxygen Evolution",
+   "Related",
+   "Selective Oxidation",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 28,
+  "affiliations": [],
+  "added": "2026-11-24",
+  "issn": ""
+ },
+ {
   "id": "682be6ddfe876673",
   "title": "Effect of brine fermentation on nitrogen metabolism and microbial community of Allium chinense bulbs and identification of lactic acid bacteria with nitrite degradation function",
   "authors": [

@@ -35,6 +35,39 @@
   "issn": "0360-3199"
  },
  {
+  "id": "2853a3d23f9efe97",
+  "title": "Metal Single-Atom and Nanoparticle Double-Active-Site Relay Catalysts: Design, Preparation, and Application to the Oxidation of 5-Hydroxymethylfurfural",
+  "authors": [
+   "Shaowei Yang",
+   "Chen Wu",
+   "Jinhui Wang",
+   "Haidong Shen",
+   "Kai Zhu",
+   "Xi Zhang",
+   "Yueling Cao",
+   "Qiuyu Zhang",
+   "Hepeng Zhang"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2022-01-03",
+  "year": 2022,
+  "doi": "10.1021/acscatal.1c05236",
+  "url": "https://doi.org/10.1021/acscatal.1c05236",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-24",
+  "issn": ""
+ },
+ {
   "id": "76e4e38c6ca7df9c",
   "title": "Sulfur vacancy engineering of MoS2 via phosphorus incorporation for improved electrocatalytic N2 reduction to NH3",
   "authors": [

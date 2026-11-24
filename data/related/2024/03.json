@@ -31,6 +31,36 @@
   "issn": ""
  },
  {
+  "id": "757df0c8e849a12f",
+  "title": "Single-Atom Metal Catalysts for Catalytic Chemical Conversion of Biomass to Chemicals and Fuels",
+  "authors": [
+   "Jia-Yue Chen",
+   "Yao Xiao",
+   "Feng-Shuo Guo",
+   "Ke-Ming Li",
+   "Yao-Bing Huang",
+   "Qiang Lu"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2024-03-21",
+  "year": 2024,
+  "doi": "10.1021/acscatal.4c00208",
+  "url": "https://doi.org/10.1021/acscatal.4c00208",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-24",
+  "issn": ""
+ },
+ {
   "id": "e87ca31545ffd7ee",
   "title": "Two-dimensional bimetallic selenium-containing metal-organic frameworks and their calcinated derivatives as electrocatalysts for overall water splitting",
   "authors": [

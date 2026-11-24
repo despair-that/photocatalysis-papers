@@ -41585,6 +41585,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "50a86983dea6a8f4",
+  "title": "A portable photocatalysis-based, smartphone-assisted colorimetric device for on-site Cr(VI) detection",
+  "authors": [
+   "Mei Cui",
+   "Yunqian Chi",
+   "Yangyang Lin",
+   "Yinglei Liu",
+   "Jingru Chen",
+   "Liangqia Guo"
+  ],
+  "journal": "Microchemical Journal",
+  "publisher": "Elsevier BV",
+  "published": "2025-12-01",
+  "year": 2025,
+  "doi": "10.1016/j.microc.2025.115927",
+  "url": "https://doi.org/10.1016/j.microc.2025.115927",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-24",
+  "issn": ""
+ },
+ {
   "id": "4f02788e33b529b3",
   "title": "Design of tertiary Z-scheme CuO–ZnO@MXene photocatalyst with superior visible-light activity for decomposition of nanoplastics",
   "authors": [

@@ -1,25 +1,25 @@
 {
- "generated": "2026-11-23 07:47 UTC",
- "total": 214651,
+ "generated": "2026-11-24 10:00 UTC",
+ "total": 214683,
  "years": [
   {
    "year": 2027,
-   "count": 56,
+   "count": 58,
    "file": "papers-2027.json"
   },
   {
    "year": 2026,
-   "count": 17407,
+   "count": 17432,
    "file": "papers-2026.json"
   },
   {
    "year": 2025,
-   "count": 17058,
+   "count": 17061,
    "file": "papers-2025.json"
   },
   {
    "year": 2024,
-   "count": 16443,
+   "count": 16445,
    "file": "papers-2024.json"
   },
   {

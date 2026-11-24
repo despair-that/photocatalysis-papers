@@ -71,5 +71,38 @@
   "affiliations": [],
   "added": "2026-10-17",
   "issn": ""
+ },
+ {
+  "id": "53e24cbf372bc7df",
+  "title": "Cascading Water Activation and Interfacial Lattice Oxygen over Nanocluster CuO x ‐Modified MnO 2 for Electrocatalytic Propylene Oxidation",
+  "authors": [
+   "Ming Cheng",
+   "Jintong Lan",
+   "Xiaoxian Sun",
+   "Fanyu Wang",
+   "Ailijiang Tuerdi",
+   "Falong Jia",
+   "Yanbing Guo",
+   "Xiao Liu"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2024-12-17",
+  "year": 2024,
+  "doi": "10.1002/anie.202420780",
+  "url": "https://doi.org/10.1002/anie.202420780",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "ROS",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-24",
+  "issn": ""
  }
 ]

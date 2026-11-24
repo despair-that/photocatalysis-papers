@@ -61573,6 +61573,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "c53cce2b62aa8513",
+  "title": "Photocatalytic valorization of lignin: radical-mediated scission of recalcitrant bonds to aromatics",
+  "authors": [
+   "Fang-Fang Tan"
+  ],
+  "journal": "RSC Advances",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2025-01-01",
+  "year": 2025,
+  "doi": "10.1039/d5ra04043d",
+  "url": "https://doi.org/10.1039/d5ra04043d",
+  "source": "crossref",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry",
+   "Visible Light"
+  ],
+  "relevance_score": 65,
+  "affiliations": [],
+  "added": "2026-11-24",
+  "issn": ""
+ },
+ {
   "id": "c4ec48fa37f0db2b",
   "title": "Visible-light Degradation of Tetracycline Using Porous g-C3N4 Coatings",
   "authors": [
