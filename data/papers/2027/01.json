@@ -1180,6 +1180,47 @@
   "issn": ""
  },
  {
+  "id": "2968a40e7bbb5c06",
+  "title": "Interfacial Oxygen Vacancies Promote ROS-Mediated Selective HMF Photooxidation over CdS/CoO Heterostructures",
+  "authors": [
+   "Jieun Yang",
+   "Sunyoung Hwang",
+   "Hyejin Yu",
+   "Jae Yoon Baik",
+   "Hyun Sung Kim",
+   "홍승우",
+   "Hangil Lee"
+  ],
+  "journal": "Inorganic Chemistry Frontiers",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1039/d6qi02310j",
+  "url": "https://doi.org/10.1039/d6qi02310j",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Photoredox & Organic Synthesis",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "CdS",
+   "Charge Transfer",
+   "Heterostructures",
+   "Oxygen Vacancies",
+   "Photooxidation",
+   "Selective Oxidation",
+   "Visible Light"
+  ],
+  "relevance_score": 94,
+  "affiliations": [],
+  "added": "2026-11-25",
+  "issn": "2052-1545"
+ },
+ {
   "id": "2771df6b7abdc43c",
   "title": "Diethylaniline-promoted photocatalytic decarboxylative radical addition/cyclization of carboxylic acids with acrylamides",
   "authors": [

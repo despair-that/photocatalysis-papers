@@ -75780,6 +75780,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3858d2bd834c0687",
+  "title": "The photocatalytic mechanism of organic dithienophosphole derivatives as highly efficient photo-redox catalysts",
+  "authors": [
+   "Ping-Ping Sun",
+   "Weijie Chi",
+   "Devesh R. Kripalani",
+   "Kun Zhou"
+  ],
+  "journal": "Physical Chemistry Chemical Physics",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1039/d0cp03332d",
+  "url": "https://doi.org/10.1039/d0cp03332d",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-25",
+  "issn": ""
+ },
+ {
   "id": "3824ec6c7c0031b8",
   "title": "Organocatalyzed atom transfer radical polymerization (ATRP) using triarylsulfonium hexafluorophosphate salt (THS) as a photocatalyst",
   "authors": [

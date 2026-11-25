@@ -35851,6 +35851,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "430388e214c0e9f4",
+  "title": "Insights into highly efficient photodegradation of poly/perfluoroalkyl substances by In-MOF/BiOF heterojunctions: Built-in electric field and strong surface adsorption",
+  "authors": [
+   "Jingzhen Wang",
+   "Chun-Shuai Cao",
+   "Jingwen Wang",
+   "Yinqing Zhang",
+   "Lingyan Zhu"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2022-05-01",
+  "year": 2022,
+  "doi": "10.1016/j.apcatb.2021.121013",
+  "url": "https://doi.org/10.1016/j.apcatb.2021.121013",
+  "source": "crossref",
+  "categories": [
+   "Pollutant Degradation",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photodegradation"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-25",
+  "issn": ""
+ },
+ {
   "id": "42ddd581b2a7121b",
   "title": "High-performance bulk heterojunction-based photocathode with facile architecture for photoelectrochemical water splitting",
   "authors": [

@@ -2735,6 +2735,57 @@
   "issn": ""
  },
  {
+  "id": "78af5ce2dba266a2",
+  "title": "Toward sustainable water-treatment advanced oxidation processes with zeolitic imidazolate framework-based catalysts: Rational design, mechanistic insights, and life-cycle sustainability",
+  "authors": [
+   "Rubeena Chauhan",
+   "Shabnam Sambyal",
+   "Vatika Soni",
+   "Tarannum Chaudhary",
+   "Pankaj Raizada",
+   "Tansir Ahamad",
+   "Aftab Aslam Parwaz Khan",
+   "Naveen Kumar",
+   "Quyet Van Le",
+   "Soo Young Kim",
+   "Van-Huy Nguyen",
+   "Pardeep Singh"
+  ],
+  "journal": "Materials Today Sustainability",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtsust.2026.101497",
+  "url": "https://doi.org/10.1016/j.mtsust.2026.101497",
+  "source": "doaj",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Co-catalysts & Surface",
+   "Computational & DFT",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Charge Transfer",
+   "DFT",
+   "Doping",
+   "Heterojunctions",
+   "Photocatalysis",
+   "Pollutants",
+   "ROS",
+   "Radical Chemistry",
+   "S-Scheme",
+   "Wastewater",
+   "Z-Scheme"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-11-25",
+  "issn": ""
+ },
+ {
   "id": "77ecc3c680beb01d",
   "title": "Doping-reinforced interfacial electric field engineering in Schottky junctions for oriented charge accumulation and boosted photocatalytic hydrogen evolution",
   "authors": [
@@ -3828,6 +3879,44 @@
   "relevance_score": 72,
   "affiliations": [],
   "added": "2026-11-18",
+  "issn": ""
+ },
+ {
+  "id": "2eef7cd259845631",
+  "title": "A mechanistic recirculating-flow photoreactor platform for benchmarking immobilized photocatalysts",
+  "authors": [
+   "Gregor Žerjav",
+   "Sadaqat Ali",
+   "Albin Pintar"
+  ],
+  "journal": "Applied Surface Science Advances",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.apsadv.2026.101111",
+  "url": "https://doi.org/10.1016/j.apsadv.2026.101111",
+  "source": "doaj",
+  "categories": [
+   "Reactor Engineering & Scale-up",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Immobilization",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photoluminescence",
+   "Photoreactors",
+   "Plasmonics",
+   "Radical Chemistry",
+   "Visible Light"
+  ],
+  "relevance_score": 98,
+  "affiliations": [],
+  "added": "2026-11-25",
   "issn": ""
  },
  {
