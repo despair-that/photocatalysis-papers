@@ -135,6 +135,40 @@
   "issn": ""
  },
  {
+  "id": "e7a41dada3722eb6",
+  "title": "Amidoxime groups as dual proton-electron relays on carbon nitride enable photocatalytic co-production of H2O2 and benzaldehyde",
+  "authors": [
+   "Xiaojuan Li",
+   "Bojing Sun",
+   "Siyue Li",
+   "Dongfang Hou",
+   "Xiu-Qing Qiao",
+   "Yachao Xu",
+   "Dong-Sheng Li"
+  ],
+  "journal": "Inorganic Chemistry Frontiers",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1039/d6qi02050j",
+  "url": "https://doi.org/10.1039/d6qi02050j",
+  "source": "openalex",
+  "categories": [
+   "g-C3N4 & Carbon Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Doping",
+   "Photocatalysis",
+   "g-C3N4"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": "2052-1545"
+ },
+ {
   "id": "e5fa75282efdf335",
   "title": "Enhanced UV-photocatalytic removal of low concentration malachite green oxalate utilizing zinc oxide/ clinoptilolite zeolite nanocomposite in acidic solution: mechanism and kinetic study",
   "authors": [
@@ -903,6 +937,85 @@
   "added": "2026-08-20"
  },
  {
+  "id": "586a9fae290e2f87",
+  "title": "Built-in electric field-driven charge separation in an MXene@TiO2/PdTCPP-HOF S-scheme heterojunction for photocatalytic hydrogen evolution",
+  "authors": [
+   "Bin Yao",
+   "R. Lan",
+   "Xuan-Xuan Tan",
+   "Jing-Mei Yuan",
+   "Qiu-Yan Duan",
+   "Min Fu",
+   "Ning Li",
+   "Xiao-Li Xiong",
+   "Xing-Yan Liu"
+  ],
+  "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+  "publisher": "",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.colsurfa.2026.142135",
+  "url": "https://doi.org/10.1016/j.colsurfa.2026.142135",
+  "source": "semanticscholar",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "S-Scheme",
+   "TiO2"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
+  "id": "5801defd52bb38b7",
+  "title": "Synergistic Ru/O co-doping and MoS2 cocatalyst modulation induce interfacial orbital hybridization for boosted photocatalytic hydrogen evolution of ZnIn2S4",
+  "authors": [
+   "Yan-Lin Wu",
+   "Shu-Yang Liu",
+   "Zi-Mu Wei",
+   "Ling-Feng Li",
+   "H. Liu",
+   "Lin-Kun Xie",
+   "Xing-Xiang Fan",
+   "Guan-Ben Du",
+   "Xi-Juan Chai"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.seppur.2026.140836",
+  "url": "https://doi.org/10.1016/j.seppur.2026.140836",
+  "source": "semanticscholar",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Doping",
+   "Hydrogen Evolution",
+   "MoS2",
+   "Photocatalysis",
+   "ZnIn2S4"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "523545cf4c0a6412",
   "title": "Synergistic piezo-enhanced photocatalytic effect of bimetallic (Ba/Bi)-codoped TiO",
   "authors": [
@@ -1009,6 +1122,43 @@
   "relevance_score": 57,
   "affiliations": [],
   "added": "2026-11-17",
+  "issn": ""
+ },
+ {
+  "id": "437224586b926b40",
+  "title": "Plasmonic Au-decorated ZnO/g-C3N4 sandwich heterostructure for enhanced photocatalytic hydrogen evolution",
+  "authors": [
+   "Jian Zeng",
+   "Yi-Shan Yuan",
+   "Jin-Ming Shi",
+   "Ji-Yong Deng",
+   "Hai Yang"
+  ],
+  "journal": "Inorganic Chemistry Communications",
+  "publisher": "",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.inoche.2026.117882",
+  "url": "https://doi.org/10.1016/j.inoche.2026.117882",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution",
+   "g-C3N4 & Carbon Materials",
+   "Plasmonic Photocatalysis",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Plasmonics",
+   "ZnO",
+   "g-C3N4"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-26",
   "issn": ""
  },
  {
@@ -1296,6 +1446,40 @@
   "issn": "0199-8595"
  },
  {
+  "id": "1bfbd459c2431afd",
+  "title": "Microwave-assisted synthesis of NiO–ZnO–In₂O₃ ternary nanocomposites for photocatalytic ciprofloxacin degradation: DFT-assisted degradation pathway analysis, kinetic and mechanistic insights, and biological evaluation",
+  "authors": [
+   "Imam Hussain",
+   "M. Kamran Khan",
+   "Ayesha Bibi",
+   "Alam Zair Khan",
+   "Muhammad Ilyas",
+   "Imad Khan Khalil",
+   "Zaozao Chen",
+   "Hongtao Xu"
+  ],
+  "journal": "Surfaces and Interfaces",
+  "publisher": "Elsevier BV",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.surfin.2026.111341",
+  "url": "https://doi.org/10.1016/j.surfin.2026.111341",
+  "source": "crossref",
+  "categories": [
+   "Computational & DFT",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "DFT",
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "1a86ef3b80e13f8f",
   "title": "Asymmetric metal-coordination engineered covalent organic frameworks with pronounced electronic polarization for efficient photocatalytic CO2 reduction and biomass valorization",
   "authors": [
@@ -1328,6 +1512,42 @@
   "relevance_score": 73,
   "affiliations": [],
   "added": "2026-11-15",
+  "issn": ""
+ },
+ {
+  "id": "0595960d70828eaf",
+  "title": "Dual internal electric field ZnIn2S4/WS2/WO3 heterojunction for highly efficient photocatalytic hydrogen evolution",
+  "authors": [
+   "Ning Liu",
+   "Chun-Fu Wu",
+   "Xue Yang",
+   "Yu-Ting Guan",
+   "Guang-Chi Xu",
+   "Shi-Jie Chen",
+   "Jin-Long Li"
+  ],
+  "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+  "publisher": "",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1016/j.colsurfa.2026.142154",
+  "url": "https://doi.org/10.1016/j.colsurfa.2026.142154",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "WO3",
+   "ZnIn2S4"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-26",
   "issn": ""
  }
 ]

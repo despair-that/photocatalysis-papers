@@ -24857,6 +24857,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8a5be886c32b0be0",
+  "title": "Bismuth vanadate/graphene quantum dot: A new nanocomposite for photoelectrochemical determination of dopamine",
+  "authors": [
+   "Thiago M. Prado",
+   "Amanda Carrico",
+   "Fernando H. Cincotto",
+   "Orlando Fatibello-Filho",
+   "Fernando C. Moraes"
+  ],
+  "journal": "Sensors and Actuators B: Chemical",
+  "publisher": "Elsevier BV",
+  "published": "2019-04-01",
+  "year": 2019,
+  "doi": "10.1016/j.snb.2019.01.059",
+  "url": "https://doi.org/10.1016/j.snb.2019.01.059",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "BiVO4",
+   "Graphene",
+   "Photoelectrochemistry",
+   "Quantum Dots"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "88cbf6997b523791",
   "title": "Synthesis and Enhanced Photocatalytic Activity of Visible-Light-Driven Co-Doped Bi2MoO6 Photocatalyst with Flower-Like Nanostructures",
   "authors": [

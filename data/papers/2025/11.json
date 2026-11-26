@@ -40108,6 +40108,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "c2beb40398f885ca",
+  "title": "Machine learning assisted photocurrent wavelength classification in a self-powered broadband photoelectrochemical photodetector based on Bi2Te0.6Se2.4/MoSe2 heterojunctions",
+  "authors": [
+   "Xiaobo Ma",
+   "Zeyu Yin",
+   "Zhen Cao",
+   "Baolong Shi",
+   "Xin Yan",
+   "Di Wu",
+   "Yueyue Wang",
+   "Chaoqing Dai",
+   "Min Hong"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2025-11-01",
+  "year": 2025,
+  "doi": "10.1016/j.cej.2025.169645",
+  "url": "https://doi.org/10.1016/j.cej.2025.169645",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Machine Learning for Photocatalysis",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Machine Learning",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 50,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "be66d5b77a5ca265",
   "title": "Catalytic potential of Sr-Co NPs engineered On ZnO NPs for low temperature H2 generation and photocatalytic dye degradation",
   "authors": [

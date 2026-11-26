@@ -1,5 +1,39 @@
 [
  {
+  "id": "5df0b430c00cdd21",
+  "title": "Spatially Decoupled Cu-ZnO Mitigates Water-Acetylene Competitive Adsorption for Selective Acetylene Semihydrogenation",
+  "authors": [
+   "Pingping Huang",
+   "Huiqi Chen",
+   "Huimin Xu",
+   "Meile Yue",
+   "Hualong Xu",
+   "Wei Shen",
+   "Zhen Huang",
+   "Yifeng Zhu",
+   "Xinhe Bao"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c08919",
+  "url": "https://doi.org/10.1021/acscatal.6c08919",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related",
+   "ZnO"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "ed368434e737741b",
   "title": "Coordination‐Driven Spiral Self‐Assembly of Helical Mesoporous Polymer Nanospheres and Derived MoS2/Carbon Colloidal Nanospheres for Fast Lithium Storage",
   "authors": [
@@ -2272,6 +2306,38 @@
   "issn": ""
  },
  {
+  "id": "9d8f9a7bc02a2eaa",
+  "title": "Synergistic CdS-MXene-TiO2 ternary nanocomposite with enhanced photomagnetocatalytic degradation under visible-light and its electrochemical properties",
+  "authors": [
+   "Latiful Kabir",
+   "Dohyun Kim",
+   "Minho Song",
+   "Jae Doc Na",
+   "Young Jun Joo",
+   "Kwang Youn Cho",
+   "Won-Chun Oh"
+  ],
+  "journal": "Materials Chemistry and Physics",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.matchemphys.2026.133060",
+  "url": "https://doi.org/10.1016/j.matchemphys.2026.133060",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Related",
+   "TiO2"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "92fdd3855934f001",
   "title": "Construction of Zn0.2Cd0.8S/TP-PCN semiconductor catalyst for enhanced hydrogen evolution coupled with PET degradation performance",
   "authors": [
@@ -2531,6 +2597,41 @@
   "affiliations": [],
   "added": "2026-11-03",
   "issn": "1521-4095"
+ },
+ {
+  "id": "2ba47f13a71a7461",
+  "title": "Sequential Interfacial Engineering of Monolithic SrTiO3/CdS/Glass Heterostructures for Integrated Solar Chemical Conversion and Plastic Waste Valorization",
+  "authors": [
+   "Yanming Zhou",
+   "Hanrui Li",
+   "Xingxiang An",
+   "Zheming You",
+   "Jinyu Tang",
+   "Yuezhu Lang",
+   "Shengjie Huang",
+   "Sibudjing Kawi",
+   "Wanliang Yang"
+  ],
+  "journal": "Materials Today Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtcata.2026.100172",
+  "url": "https://doi.org/10.1016/j.mtcata.2026.100172",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CdS",
+   "Heterostructures",
+   "Related",
+   "SrTiO3"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
  },
  {
   "id": "1fbb049587251f4a",

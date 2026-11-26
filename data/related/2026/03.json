@@ -1,5 +1,35 @@
 [
  {
+  "id": "3d7abf65315e6ddf",
+  "title": "Dual‐Doped CoFe Hydroxide Through Chromium and Sulfur Incorporation for Efficient Oxygen Evolution in Alkaline Seawater Electrolysis",
+  "authors": [
+   "Kanishka Prasad Deliwala Kuruppu Mudiyanselage",
+   "Rajathsing Kalusulingam",
+   "Jun Ho Shim"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2026-03-27",
+  "year": 2026,
+  "doi": "10.1002/cssc.70577",
+  "url": "https://doi.org/10.1002/cssc.70577",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Nanosheets",
+   "Oxygen Evolution",
+   "Related",
+   "Tafel"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "400c1ec534d8c476",
   "title": "Impedance Spectroscopy and Operating History Driven Solid Oxide Fuel Cell Degradation Prediction Using TD3 GraphMPC",
   "authors": [

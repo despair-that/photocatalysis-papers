@@ -39723,6 +39723,51 @@
   "added": "2026-07-24"
  },
  {
+  "id": "605a91583214446e",
+  "title": "Emerging Application of High‐Entropy MXene in Efficient Photoelectrochemical‐Type Photodetectors and Wideband Mode Lockers",
+  "authors": [
+   "Xiaomeng Gao",
+   "Shoukai Zhang",
+   "Jian Zhang",
+   "Songrui Wei",
+   "Yimiao Chen",
+   "Yule Zhang",
+   "Wenchen Zheng",
+   "Ziheng Huang",
+   "Bowen Du",
+   "Zhongjian Xie",
+   "Bing Wang",
+   "Jahon Lin",
+   "Jun Liu",
+   "Yanqi Ge"
+  ],
+  "journal": "Laser & Photonics Reviews",
+  "publisher": "Wiley",
+  "published": "2024-05-06",
+  "year": 2024,
+  "doi": "10.1002/lpor.202400082",
+  "url": "https://doi.org/10.1002/lpor.202400082",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "2D Materials",
+   "Computational & DFT",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "First-Principles",
+   "Nanosheets",
+   "Photoelectrochemistry",
+   "Semiconductors",
+   "Transient Absorption"
+  ],
+  "relevance_score": 53,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "53adc5e60676ea69",
   "title": "Visible-light-driven photocatalytic degradation of tetracycline using citric acid and lemon juice-derived carbon quantum dots incorporated TiO2 nanocomposites",
   "authors": [

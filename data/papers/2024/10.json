@@ -15410,6 +15410,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2810d3ebb0db0e17",
+  "title": "The Construction and Mechanism Study of High‐Speed Carrier Transport Channel in Gallium Arsenide Homojunction Toward High‐Performance Photoelectrochemical Photodetector",
+  "authors": [
+   "Hedong Chen",
+   "Lin Liu",
+   "Yuehao Gu",
+   "Zhiyuan Cai",
+   "Fan Xu",
+   "Wenhao Liang",
+   "Xianhua Hou",
+   "Fuming Chen"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2024-10-21",
+  "year": 2024,
+  "doi": "10.1002/smll.202403791",
+  "url": "https://doi.org/10.1002/smll.202403791",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Structure",
+   "Electron-Hole Pairs",
+   "Photoelectrochemistry",
+   "Photogenerated Carriers",
+   "Semiconductors"
+  ],
+  "relevance_score": 50,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "26163dd8e238d8c8",
   "title": "Superhydrophobic composite coatings for photocatalysis and oil–water separation: durable and eco-friendly solutions for industrial applications",
   "authors": [

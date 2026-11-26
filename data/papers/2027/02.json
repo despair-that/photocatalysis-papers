@@ -93,6 +93,44 @@
   "issn": ""
  },
  {
+  "id": "c2dd54c973211a0d",
+  "title": "Nitrogen–doping carbon nanorods with fast charge transport and high dye adsorption for enhancing dye–sensitized photocatalytic hydrogen evolution",
+  "authors": [
+   "Xu-Qiang Zhang",
+   "Teng-Wei Huang",
+   "Hong-Yan Bai",
+   "Yong Huang",
+   "Dan Luo",
+   "Qun Zheng",
+   "Xiao-Fei Dong",
+   "Jiang-Tao Chen",
+   "Jian Wang",
+   "Jian-Biao Chen",
+   "Yun-Teng Zhao",
+   "Yan Li"
+  ],
+  "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
+  "publisher": "",
+  "published": "2027-02-01",
+  "year": 2027,
+  "doi": "10.1016/j.colsurfa.2026.142330",
+  "url": "https://doi.org/10.1016/j.colsurfa.2026.142330",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "c1e9ec763a6447b1",
   "title": "Machine-learning-guided design of a self-assembled FeS/SnS2 heterostructure for solar photocatalytic degradation of ciprofloxacin",
   "authors": [
@@ -247,5 +285,42 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-08-03"
+ },
+ {
+  "id": "01cbb2f3f1a9191d",
+  "title": "0D/2D S-scheme Zn0.5Cd0.5S/Bi12O17Cl2 heterostructures: interfacial charge transfer for photocatalytic hydrogen evolution",
+  "authors": [
+   "Jia Jia",
+   "Lan-Ru Ma",
+   "Liang Dai",
+   "Jie Wang",
+   "Sheng-Lin Wu",
+   "Ke-Ke Li",
+   "Meng Chen",
+   "Ya-Ting Zhang"
+  ],
+  "journal": "Molecular Catalysis",
+  "publisher": "",
+  "published": "2027-02-01",
+  "year": 2027,
+  "doi": "10.1016/j.mcat.2026.116486",
+  "url": "https://doi.org/10.1016/j.mcat.2026.116486",
+  "source": "semanticscholar",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "S-Scheme"
+  ],
+  "relevance_score": 99,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
  }
 ]

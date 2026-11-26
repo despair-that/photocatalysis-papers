@@ -37402,6 +37402,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "bfb5562d3d7663ff",
+  "title": "Sensitive photoelectrochemical detection of azomycin on Bi2S3/Bi2WO6 heterojunction using ascorbic acid as a hole-trapping agent",
+  "authors": [
+   "Zhe Yu",
+   "Fudan Zhu",
+   "Tianxiao Chen",
+   "Jiayao Li",
+   "Qingliang Feng",
+   "Fengchun Yang",
+   "Xin Zhang"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A: Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2023-06-01",
+  "year": 2023,
+  "doi": "10.1016/j.jphotochem.2023.114637",
+  "url": "https://doi.org/10.1016/j.jphotochem.2023.114637",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "bcc5a9f2cef382bf",
   "title": "Facile green synthesis of ZnO/AC nanocomposites using Pontederia crassipes leaf extract and their photocatalytic properties based on visible light activation",
   "authors": [

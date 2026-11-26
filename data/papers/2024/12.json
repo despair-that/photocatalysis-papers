@@ -25186,6 +25186,49 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a273c784c692bbd0",
+  "title": "High‐Responsivity Self‐Powered Photoelectrochemical UV Photodetector Based on Integrated Self‐Supporting SiC/ZnS Heterojunction Nanowire Arrays",
+  "authors": [
+   "Bocong Zou",
+   "Yang Yang",
+   "Hulin Wang",
+   "Weijun Li",
+   "Lin Wang",
+   "Fengmei Gao",
+   "Dongdong Zhang",
+   "Marko Gloginjić",
+   "Marko Erić",
+   "Srdjan Petrović",
+   "Weiyou Yang",
+   "Huan He",
+   "Shanliang Chen"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2024-12-15",
+  "year": 2024,
+  "doi": "10.1002/smll.202406308",
+  "url": "https://doi.org/10.1002/smll.202406308",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Electron-Hole Pairs",
+   "Heterojunctions",
+   "Photoelectrochemistry",
+   "Photogenerated Carriers",
+   "ZnS"
+  ],
+  "relevance_score": 56,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "9310b35198bf5358",
   "title": "Construction of ZnMoO4/Cu2O with Z-type heterojunction and its photocatalytic degradation performance",
   "authors": [

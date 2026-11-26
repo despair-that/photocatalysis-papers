@@ -39356,6 +39356,40 @@
   "added": "2026-07-26"
  },
  {
+  "id": "ef002569117be221",
+  "title": "Ultra-stable and pH-universal photoelectrochemical photodetector achieved by CdSeTe/ZnS core-shell quantum dots",
+  "authors": [
+   "Jian Zhang",
+   "Yule Zhang",
+   "Songrui We",
+   "Han Zhang",
+   "Lingfeng Gao",
+   "Hao Wang",
+   "Chunxian Guo"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2025-12-01",
+  "year": 2025,
+  "doi": "10.1016/j.cej.2025.171126",
+  "url": "https://doi.org/10.1016/j.cej.2025.171126",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoelectrochemistry",
+   "Quantum Dots",
+   "ZnS"
+  ],
+  "relevance_score": 59,
+  "affiliations": [],
+  "added": "2026-11-26",
+  "issn": ""
+ },
+ {
   "id": "eee4c15e4282792a",
   "title": "Green synthesis of oxygen-vacancy-rich NiV-LDH photocatalysts for the enhancement of photocatalytic H 2 O 2 production and Cr( vi ) detoxification",
   "authors": [
