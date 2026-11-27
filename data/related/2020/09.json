@@ -31,5 +31,37 @@
   ],
   "added": "2026-10-02",
   "issn": "0022-4596"
+ },
+ {
+  "id": "f6bdc4bc7a9690ff",
+  "title": "Promoted catalytic transformation of polycyclic aromatic hydrocarbons by MnO2 polymorphs: Synergistic effects of Mn3+ and oxygen vacancies",
+  "authors": [
+   "Zhiqiang Wang",
+   "Hanzhong Jia",
+   "Tao Zheng",
+   "Yunchao Dai",
+   "Chi Zhang",
+   "Xuetao Guo",
+   "Tiecheng Wang",
+   "Lingyan Zhu"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2020-09-01",
+  "year": 2020,
+  "doi": "10.1016/j.apcatb.2020.119030",
+  "url": "https://doi.org/10.1016/j.apcatb.2020.119030",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "issn": ""
  }
 ]

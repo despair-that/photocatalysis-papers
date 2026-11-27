@@ -1278,6 +1278,41 @@
   "added": "2026-09-11"
  },
  {
+  "id": "c853c902facc6be3",
+  "title": "Construction of C₃N₅/PBA@CNF/CNT aerogels with S-scheme heterojunctions for enhanced peroxymonosulfate-assisted photocatalysis and solar-driven water purification",
+  "authors": [
+   "Xiaolin Xue",
+   "Kun Li",
+   "Yuefei Zou",
+   "Caizhe Sun",
+   "Xiaoxia Wang",
+   "Qi Wang",
+   "Wei Zhang",
+   "Canhui Lu"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.cej.2026.183844",
+  "url": "https://doi.org/10.1016/j.cej.2026.183844",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photocatalysis",
+   "S-Scheme",
+   "Water Purification"
+  ],
+  "relevance_score": 90,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "issn": ""
+ },
+ {
   "id": "c83945c5dcb04aad",
   "title": "Review of the principles, materials, and challenges of photocatalytic hydrogen production",
   "authors": [
@@ -1752,6 +1787,47 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-11-26",
+  "issn": ""
+ },
+ {
+  "id": "b44e966de6601106",
+  "title": "Surface charge transfer adjustment from designing thin-layer structure targeted O",
+  "authors": [
+   "Hongjing Liu",
+   "Shan Ren",
+   "Xiaodi Li",
+   "Liang Wang",
+   "Bofeng Bai",
+   "Shouning Chai",
+   "Peng Chen",
+   "Fan Dong"
+  ],
+  "journal": "Nano Materials Science",
+  "publisher": "KeAi Communications Co., Ltd.",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nanoms.2025.05.013",
+  "url": "https://doi.org/10.1016/j.nanoms.2025.05.013",
+  "source": "doaj",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "2D Materials",
+   "Computational & DFT",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "Electron-Hole Pairs",
+   "Nanosheets",
+   "Photocatalysis",
+   "ROS",
+   "Radical Chemistry",
+   "Singlet Oxygen"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-27",
   "issn": ""
  },
  {
@@ -2441,6 +2517,47 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-09-07"
+ },
+ {
+  "id": "96fdd7516f4a3fb8",
+  "title": "Bimetallic metal-organic frameworks in photocatalysis: Recent progress, mechanistic insights, and future perspectives for wastewater treatment and hydrogen production",
+  "authors": [
+   "Mapoo K. Ratseke",
+   "Daniel Masekela",
+   "Kabelo E. Ramohlola",
+   "Thabiso C. Maponya",
+   "Kwena D. Modibane"
+  ],
+  "journal": "Journal of Science: Advanced Materials and Devices",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jsamd.2026.101294",
+  "url": "https://doi.org/10.1016/j.jsamd.2026.101294",
+  "source": "doaj",
+  "categories": [
+   "Hydrogen Evolution",
+   "MOFs & COFs",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Defect Engineering",
+   "Doping",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "MOFs",
+   "Photocatalysis",
+   "Pollutants",
+   "ROS",
+   "Wastewater"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "issn": ""
  },
  {
   "id": "965a9a00472955f2",
@@ -3629,6 +3746,71 @@
   "relevance_score": 94,
   "affiliations": [],
   "added": "2026-10-24",
+  "issn": ""
+ },
+ {
+  "id": "572b6b51f1307d7d",
+  "title": "Defect engineering and facet regulation in 2D ZnIn2S4 photocatalysis: From DFT descriptors to working-state mechanisms",
+  "authors": [
+   "Hanyi Chen",
+   "Sheng Liu",
+   "Qing Li"
+  ],
+  "journal": "Nano Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.nanoen.2026.112424",
+  "url": "https://doi.org/10.1016/j.nanoen.2026.112424",
+  "source": "crossref",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Semiconductor Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Defect Engineering",
+   "Photocatalysis",
+   "ZnIn2S4"
+  ],
+  "relevance_score": 79,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "issn": ""
+ },
+ {
+  "id": "55083f62ac58d230",
+  "title": "Synthesis of graphene oxide (GO)@SrTiO",
+  "authors": [
+   "Jeoary Basumatary",
+   "Nituraj Mushahary",
+   "Fungbili Basumatary",
+   "Deba Raj Basumatary",
+   "Bipul Das",
+   "Sanjay Basumatary"
+  ],
+  "journal": "Chemical Engineering Journal. Green and Sustainable",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.cejgas.2026.100159",
+  "url": "https://doi.org/10.1016/j.cejgas.2026.100159",
+  "source": "doaj",
+  "categories": [
+   "g-C3N4 & Carbon Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Graphene",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Visible Light",
+   "Wastewater"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-11-27",
   "issn": ""
  },
  {

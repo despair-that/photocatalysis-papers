@@ -1,5 +1,73 @@
 [
  {
+  "id": "790a03b19bad3719",
+  "title": "Polarized Light Modulated Piezoelectric Hydrogen Generation Enhancement for Chiral α-Ni(OH)2 NWs Film.",
+  "authors": [
+   "Xinman Han",
+   "Siyu Wang",
+   "Feifan Ding",
+   "Wei Ma",
+   "Yuan Zhao"
+  ],
+  "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1002/smll.76889",
+  "url": "https://doi.org/10.1002/smll.76889",
+  "source": "pubmed",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Doping",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "issn": ""
+ },
+ {
+  "id": "7627456f96108e16",
+  "title": "Infrared-Thermal Co-driven CO2-Ethanol Coupling to Diethyl Carbonate Enabled by Electron-Rich Lattice Oxygen.",
+  "authors": [
+   "Shaohua Chen",
+   "Zhiwei Zhan",
+   "Xinyi Liu",
+   "Xiuting Wu",
+   "Ruixiang Liu",
+   "JingZhang Xu",
+   "Yanxue Wang",
+   "Ling Li",
+   "Chuanyun Yang",
+   "Jinhua Ye",
+   "Shangbo Ning"
+  ],
+  "journal": "ACS applied materials & interfaces",
+  "publisher": "",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1021/acsami.6c19058",
+  "url": "https://doi.org/10.1021/acsami.6c19058",
+  "source": "pubmed",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Charge Carriers",
+   "Pioneer",
+   "Related"
+  ],
+  "relevance_score": 38,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "issn": ""
+ },
+ {
   "id": "5df0b430c00cdd21",
   "title": "Spatially Decoupled Cu-ZnO Mitigates Water-Acetylene Competitive Adsorption for Selective Acetylene Semihydrogenation",
   "authors": [
@@ -31,6 +99,67 @@
   "relevance_score": 24,
   "affiliations": [],
   "added": "2026-11-26",
+  "issn": ""
+ },
+ {
+  "id": "dab2ed2fad462b28",
+  "title": "Boosting DMF Electrosynthesis Over Bifunctional NiCo Catalysts via Methanol‐Supplemented *CHO Supply",
+  "authors": [
+   "Xijing Zeng, Shuaiqiang Jia, Xiao Chen, Cheng Xue, Mengke Dong, Ting Deng, Zhanghui Xia, Chunjun Chen, Haihong Wu, Mingyuan He, Buxing Han"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2026-11-25",
+  "year": 2026,
+  "doi": "10.1002/anie.7148966",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7148966?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "NiCo",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "issn": "1521-3773"
+ },
+ {
+  "id": "d28929356839ba75",
+  "title": "Porphyrin Covalent Organic Frameworks as Interatomic Catalytic Messengers in Electrocatalysis: Recent Advances and Mechanistic Insights.",
+  "authors": [
+   "Fu L",
+   "Feng H",
+   "Li J",
+   "Shao S",
+   "Chen X",
+   "Che G",
+   "Zhao X",
+   "Liu C",
+   "Liu ZQ."
+  ],
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "publisher": "",
+  "published": "2026-11-25",
+  "year": 2026,
+  "doi": "10.1002/advs.78974",
+  "url": "https://doi.org/10.1002/advs.78974",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "COFs",
+   "Charge Transfer",
+   "Hydrogen Evolution",
+   "Oxygen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-27",
   "issn": ""
  },
  {
@@ -91,6 +220,33 @@
   "affiliations": [],
   "added": "2026-11-25",
   "issn": "1755-4330"
+ },
+ {
+  "id": "5de418256695ac9b",
+  "title": "Advances in photothermal nanozymes: from rational design to multifunctional theranostic platforms.",
+  "authors": [
+   "Zhang P",
+   "He Q."
+  ],
+  "journal": "Nanoscale advances",
+  "publisher": "",
+  "published": "2026-11-24",
+  "year": 2026,
+  "doi": "10.1039/d6na00792a",
+  "url": "https://doi.org/10.1039/d6na00792a",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MOFs",
+   "Related",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "issn": ""
  },
  {
   "id": "1eecdab655f436c8",

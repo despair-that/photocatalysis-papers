@@ -780,6 +780,39 @@
   "issn": ""
  },
  {
+  "id": "750a31b9fd38979f",
+  "title": "Capturing Ethylene, Extending Shelf Life: Metal-Organic Frameworks in Postharvest Fruit Packaging.",
+  "authors": [
+   "Mostafa Saeed",
+   "Basem E Keshta",
+   "Jianan He",
+   "Guangzu Xiong",
+   "Lingyao Wang",
+   "Zheng Ruan",
+   "Yuanbin Zhang"
+  ],
+  "journal": "Comprehensive reviews in food science and food safety",
+  "publisher": "",
+  "published": "2027-01-01",
+  "year": 2027,
+  "doi": "10.1111/1541-4337.70708",
+  "url": "https://doi.org/10.1111/1541-4337.70708",
+  "source": "pubmed",
+  "categories": [
+   "MOFs & COFs",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "MOFs",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "issn": ""
+ },
+ {
   "id": "743d7fcae6c05d24",
   "title": "Size-dependent photocatalytic activity of Au nanoparticles supported on Ti₃C₂ MXene",
   "authors": [

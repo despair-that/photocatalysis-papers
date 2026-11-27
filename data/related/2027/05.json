@@ -1,5 +1,39 @@
 [
  {
+  "id": "c75c07736665a9d3",
+  "title": "Atomic oxygen-anchored Ru catalyst boosts H2 evolution from NH3",
+  "authors": [
+   "Zhichao Chen",
+   "Zhiwei Chen",
+   "Dongrun Xu",
+   "Xue Fang",
+   "Yiwen Zou",
+   "Yiwei He",
+   "Yuheng Zhang",
+   "Zhen Ma",
+   "Xi Liu",
+   "Xingfu Tang"
+  ],
+  "journal": "Applied Catalysis B: Environment and Energy",
+  "publisher": "Elsevier BV",
+  "published": "2027-05-01",
+  "year": 2027,
+  "doi": "10.1016/j.apcatb.2026.127746",
+  "url": "https://doi.org/10.1016/j.apcatb.2026.127746",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "issn": ""
+ },
+ {
   "id": "a422a247339b08f3",
   "title": "Regulating Ni2+-O-Fe3+ motifs of Ni-Fe layered double hydroxides to boost electrochemical epoxidation",
   "authors": [

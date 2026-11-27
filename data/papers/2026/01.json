@@ -80928,6 +80928,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "9834e9f0c38c41fb",
+  "title": "Constructing an integrated photocatalytic-Fenton-like system for rapid sterilization by S-scheme SCN@CuS heterojunction with manipulated charge dynamics and activated H2O2",
+  "authors": [
+   "Mingzhu Yuan",
+   "Ran Qiu",
+   "Weile Xie",
+   "Yan Ke",
+   "Yangyang Li",
+   "Yuanxu Liu",
+   "Zibing Liu",
+   "Yupeng Yuan",
+   "Qinghua Liu",
+   "Xiangang Lin"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1016/j.cej.2025.171600",
+  "url": "https://doi.org/10.1016/j.cej.2025.171600",
+  "source": "crossref",
+  "categories": [
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photocatalysis",
+   "S-Scheme"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "issn": ""
+ },
+ {
   "id": "980c22c27275e219",
   "title": "Ultrasonication-induced Co-based metal–organic framework nanoparticles for red-light photocatalytic aerobic oxidation",
   "authors": [
