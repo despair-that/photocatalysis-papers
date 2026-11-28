@@ -40,6 +40,46 @@
   "issn": ""
  },
  {
+  "id": "e155ff9de49d641b",
+  "title": "Phosphate-intercalated NiFe layered double hydroxides on porous carbon nanofibers for efficient oxygen evolution in alkaline water electrolysis",
+  "authors": [
+   "Lan Long",
+   "Linlin Tai",
+   "Liuying Cao",
+   "Minmin Ding",
+   "Wei Zhou",
+   "Bin He",
+   "Gaigai Duan",
+   "Xiaoshuai Han",
+   "Chunmei Zhang",
+   "Shuijian He",
+   "Shaohua Jiang"
+  ],
+  "journal": "Fuel Processing Technology",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.fuproc.2026.108674",
+  "url": "https://doi.org/10.1016/j.fuproc.2026.108674",
+  "source": "doaj",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "LDH",
+   "Nanosheets",
+   "Oxygen Evolution",
+   "Related",
+   "Tafel"
+  ],
+  "relevance_score": 27,
+  "affiliations": [],
+  "added": "2026-11-28",
+  "issn": ""
+ },
+ {
   "id": "ce9437a7bc2eab4e",
   "title": "Mechanistic insights into alkaline hydrogen evolution over CoP/iron-phosphide heterojunctions",
   "authors": [

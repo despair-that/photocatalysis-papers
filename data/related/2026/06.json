@@ -36,6 +36,37 @@
   "issn": ""
  },
  {
+  "id": "66376cf97e29367a",
+  "title": "Adjusting oxygen adsorption configuration by oxygen vacancy engineering for efficient H2O2 electrosynthesis toward ethylene glycol upgrading",
+  "authors": [
+   "Suqin Wu",
+   "Daijie Deng",
+   "Li Xu",
+   "Wei Zhang",
+   "Jianchun Wu",
+   "Cheng Yan",
+   "Henan Li"
+  ],
+  "journal": "Applied Catalysis B: Environment and Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-06-01",
+  "year": 2026,
+  "doi": "10.1016/j.apcatb.2026.126407",
+  "url": "https://doi.org/10.1016/j.apcatb.2026.126407",
+  "source": "crossref",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-28",
+  "issn": ""
+ },
+ {
   "id": "4bcb3a5dfddfe153",
   "title": "Hierarchical heterophosphide interface catalysis: 3D self-supported hollow columnar FeP4-Ni5P2-NiMoP2 arrays for overall water splitting",
   "authors": [

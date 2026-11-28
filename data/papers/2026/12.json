@@ -105,6 +105,46 @@
   "issn": ""
  },
  {
+  "id": "091f95b030f6f731",
+  "title": "Cyano-Driven Radical Synergy in Carbon Nitride Nanocrystals for Photocatalytic H2O2 Production Coupled With Glycerol Valorization.",
+  "authors": [
+   "Ziwei Hang",
+   "Yuan Kong",
+   "Yinghao Zeng",
+   "Ivo F Teixeira",
+   "Yanmei Zheng",
+   "Zupeng Chen"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "",
+  "published": "2026-12-04",
+  "year": 2026,
+  "doi": "10.1002/cssc.71272",
+  "url": "https://doi.org/10.1002/cssc.71272",
+  "source": "pubmed",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Charge Carriers",
+   "H2O2 Production",
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "ROS",
+   "Radical Chemistry",
+   "Selective Oxidation"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-28",
+  "issn": ""
+ },
+ {
   "id": "fe6a20b1484e0d48",
   "title": "Chemically bonded interfaces in S-scheme heterojunctions: Atomic-level charge channels for enhanced photocatalysis",
   "authors": [
@@ -905,6 +945,38 @@
   "issn": ""
  },
  {
+  "id": "d4d650233c5e4b59",
+  "title": "Ecofriendly synthesis of ZnO and ZnO-MgO Nanomaterials: photocatalytic, antibacterial and anti-inflammatory study",
+  "authors": [
+   "Temesgen Achamo Orshiso",
+   "Dagne Bayih Adamu",
+   "Teketel Girma Gindose",
+   "Tsegu Kiros",
+   "Andarge Zelalam",
+   "Enyew Amare Zereffa"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jpap.2026.100312",
+  "url": "https://doi.org/10.1016/j.jpap.2026.100312",
+  "source": "doaj",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-11-28",
+  "issn": ""
+ },
+ {
   "id": "d3e268522ab420f1",
   "title": "MIL-101(Fe)-based S-scheme heterostructures for photocatalytic pollutant degradation and CO",
   "authors": [
@@ -947,6 +1019,36 @@
   "relevance_score": 100,
   "affiliations": [],
   "added": "2026-11-14",
+  "issn": ""
+ },
+ {
+  "id": "d3d5050fe64d6c81",
+  "title": "SiO2 nanofiber-reinforced Si-Al aerogel spheres with enhanced structural stability for efficient adsorption and photocatalysis",
+  "authors": [
+   "Jun Liu",
+   "Qiu-Yu Hu",
+   "Meng-Jie Chang",
+   "Shi-Shun Cao",
+   "Jia Li",
+   "Yan Yin",
+   "Xiao-Qian Lu"
+  ],
+  "journal": "Journal of Environmental Chemical Engineering",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.jece.2026.125866",
+  "url": "https://doi.org/10.1016/j.jece.2026.125866",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-28",
   "issn": ""
  },
  {
@@ -3465,6 +3567,36 @@
   "added": "2026-09-12"
  },
  {
+  "id": "6f0b5c800fac03bf",
+  "title": "Tuning the optical and surface properties of ZnO nanoparticles via controlled cobalt doping: A spectroscopic study",
+  "authors": [
+   "Mohammad Zibafar",
+   "Reza Eslami-Farsani"
+  ],
+  "journal": "Results in Chemistry",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.rechem.2026.104093",
+  "url": "https://doi.org/10.1016/j.rechem.2026.104093",
+  "source": "doaj",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Doping",
+   "Photocatalysis",
+   "Semiconductors",
+   "Visible Light",
+   "ZnO"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-28",
+  "issn": ""
+ },
+ {
   "id": "655d3dc091dab173",
   "title": "SnO2-x/TiO2 Photocatalysts for Dye Removal Under Visible Light: Effect of Sn2+:Sn4+ Ratio on Defect Formation",
   "authors": [
@@ -4346,6 +4478,33 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-10-05",
+  "issn": ""
+ },
+ {
+  "id": "3bcbcd82da381ecf",
+  "title": "Photocatalysis-enhanced oxidase-like activity of ZM/TMB for smartphone visual detection of glutathione",
+  "authors": [
+   "Fei Wang",
+   "Tianqi Wang",
+   "Li Jin",
+   "Jianpo Zhang"
+  ],
+  "journal": "Microchemical Journal",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.microc.2026.120326",
+  "url": "https://doi.org/10.1016/j.microc.2026.120326",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-11-28",
   "issn": ""
  },
  {

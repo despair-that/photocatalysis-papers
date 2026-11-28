@@ -34362,6 +34362,47 @@
   "added": "2026-08-08"
  },
  {
+  "id": "092304a027b03a9e",
+  "title": "Electron delocalization in a fullerene-dumbbell triad: synergistically optimizing carrier dynamics for boosting photocatalytic hydrogen evolution.",
+  "authors": [
+   "Chong Wang",
+   "Yupeng Song",
+   "Ying Jiang",
+   "Wei Wen",
+   "Tianyang Dong",
+   "Guangchao Han",
+   "Yang Li",
+   "Jianxin Tian",
+   "Tao Wang",
+   "Rui Wen",
+   "Bo Wu",
+   "Chunru Wang",
+   "Chunli Bai"
+  ],
+  "journal": "National science review",
+  "publisher": "",
+  "published": "2026-08-07",
+  "year": 2026,
+  "doi": "10.1093/nsr/nwag479",
+  "url": "https://doi.org/10.1093/nsr/nwag479",
+  "source": "pubmed",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Photogenerated Carriers"
+  ],
+  "relevance_score": 80,
+  "affiliations": [],
+  "added": "2026-11-28",
+  "issn": ""
+ },
+ {
   "id": "08119e323bcb2ecd",
   "title": "Cation-π anchoring enabled intimate interfacial coupling of 2D linear conjugated polymer/inorganic heterojunctions for efficient photocatalytic hydrogen evolution",
   "authors": [

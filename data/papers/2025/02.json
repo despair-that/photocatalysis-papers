@@ -42752,6 +42752,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7ba1b448932d1560",
+  "title": "Light-assisted microbial photoelectrochemical cell with a gas diffusion photocathode for effective CO2 reduction and simultaneous sewage treatment",
+  "authors": [
+   "Jing Wu",
+   "Gerong Zhao",
+   "Siqi Yin",
+   "Shuozhen Tian",
+   "Jingyao Qi",
+   "Shaohong Wang",
+   "Da Li",
+   "Yujie Feng"
+  ],
+  "journal": "Applied Catalysis B: Environment and Energy",
+  "publisher": "Elsevier BV",
+  "published": "2025-02-01",
+  "year": 2025,
+  "doi": "10.1016/j.apcatb.2024.124630",
+  "url": "https://doi.org/10.1016/j.apcatb.2024.124630",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Photocathodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-11-28",
+  "issn": ""
+ },
+ {
   "id": "7b8685bd83c5d127",
   "title": "Bio-mimetic ZnFe₂O₄ nanofibril photocatalysts for photoelectrochemical applications: role of electrolyte",
   "authors": [

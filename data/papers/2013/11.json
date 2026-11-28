@@ -1630,6 +1630,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "437b07de64e26085",
+  "title": "Using Graphene-Based Plasmonic Nanocomposites to Quench Energy from Quantum Dots for Signal-On Photoelectrochemical Aptasensing",
+  "authors": [
+   "Xianxiang Zeng",
+   "Shishi Ma",
+   "Jianchun Bao",
+   "Wenwen Tu",
+   "Zhihui Dai"
+  ],
+  "journal": "Analytical Chemistry",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2013-11-27",
+  "year": 2013,
+  "doi": "10.1021/ac403408y",
+  "url": "https://doi.org/10.1021/ac403408y",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Plasmonic Photocatalysis",
+   "Semiconductor Materials",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Graphene",
+   "Photoelectrochemistry",
+   "Plasmonics",
+   "Quantum Dots"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-11-28",
+  "issn": ""
+ },
+ {
   "id": "413b3b6d6c535c5a",
   "title": "Improvement of the photocatalytic activity of magnetite by Mn-incorporation",
   "authors": [

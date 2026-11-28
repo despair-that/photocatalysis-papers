@@ -1,5 +1,60 @@
 [
  {
+  "id": "e6bc74a771044beb",
+  "title": "Selective synthesis of 1T and 2H MoS2 via atomic spacing–tuned magnetic susceptibility",
+  "authors": [
+   "Yongchao Rao, Zhen Xiang, Chunhua Sun, Kai Yao, Yang Yang, Bin Yuan, Wei Lu"
+  ],
+  "journal": "Science Advances",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "10.1126/sciadv.aej4653",
+  "url": "https://www.science.org/doi/abs/10.1126/sciadv.aej4653?af=R",
+  "source": "journalrss",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "MoS2",
+   "Related"
+  ],
+  "relevance_score": 23,
+  "affiliations": [],
+  "added": "2026-11-28",
+  "issn": "2375-2548"
+ },
+ {
+  "id": "0d03b687c231c3bf",
+  "title": "Advanced single-and dual-atom nanomaterials for Hg(ii) sensing and removal: recognition mechanisms, analytical performance, and practical challenges",
+  "authors": [
+   "Ullah S",
+   "Ullah R",
+   "Mohamed R",
+   "Afridi H",
+   "Shah A",
+   "Tuzen M."
+  ],
+  "journal": "RSC advances",
+  "publisher": "",
+  "published": "2026-11-27",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13810519",
+  "source": "europepmc",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Dual-Atom Catalysts",
+   "Related"
+  ],
+  "relevance_score": 24,
+  "affiliations": [],
+  "added": "2026-11-28",
+  "issn": ""
+ },
+ {
   "id": "790a03b19bad3719",
   "title": "Polarized Light Modulated Piezoelectric Hydrogen Generation Enhancement for Chiral α-Ni(OH)2 NWs Film.",
   "authors": [
@@ -66,6 +121,40 @@
   "affiliations": [],
   "added": "2026-11-27",
   "issn": ""
+ },
+ {
+  "id": "6a6d78381eb509f2",
+  "title": "Oxygen-doped porous tubular carbon nitride as a robust platform for chemodivergent C−S bond functionalization",
+  "authors": [
+   "Wenjie Zhang",
+   "Canming Pan",
+   "Yanzhuo Wang",
+   "Menghan Xu",
+   "Haibin Guo",
+   "Li Zhu",
+   "Xiaoquan Yao"
+  ],
+  "journal": "Materials Today Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-26",
+  "year": 2026,
+  "doi": "10.1016/j.mtchem.2026.104206",
+  "url": "https://doi.org/10.1016/j.mtchem.2026.104206",
+  "source": "openalex",
+  "categories": [
+   "Related"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Related"
+  ],
+  "relevance_score": 22,
+  "affiliations": [
+   "Nanjing University of Aeronautics and Astronautics",
+   "Nanjing Medical University"
+  ],
+  "added": "2026-11-28",
+  "issn": "2468-5194"
  },
  {
   "id": "5df0b430c00cdd21",
